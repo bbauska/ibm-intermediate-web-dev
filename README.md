@@ -10,209 +10,8 @@ https://www.coursera.org/learn/intermediate-web-and-front-end-development/lectur
 
 # Table of Contents {#table-of-contents .TOC-Heading .unnumbered}
 
-[01. Introduction to Content Management System (CMS) 
-[3] (#introduction-to-content-management-system-cms)](#introduction-to-content-management-system-cms)
-
-[02. Features of Web CMS 
-[10](#features-of-web-cms)](#features-of-web-cms)
-
-[03. Popular CMS Platforms/Tools 
-[14](#popular-cms-platformstools)](#popular-cms-platformstools)
-
-[Web Development with CMS - Part 1 [20](#web-development-with-cms---part-1)](#web-development-with-cms---part-1)
-
-[Web Development with CMS - Part 2 [27](#web-development-with-cms---part-2)](#web-development-with-cms---part-2)
-
-[Getting Started with WordPress - Part 1
-[33](#getting-started-with-wordpress---part-1)](#getting-started-with-wordpress---part-1)
-
-[Getting Started with WordPress - Part 2
-[35](#getting-started-with-wordpress---part-2)](#getting-started-with-wordpress---part-2)
-
-[Adding E-commerce to Your Website
-[38](#adding-e-commerce-to-your-website)](#adding-e-commerce-to-your-website)
-
-[Practice Quiz: CMS & eCommerce
-[46](#practice-quiz-cms-ecommerce)](#practice-quiz-cms-ecommerce)
-
-[Module Summary: Content Management Systems (CMS)
-[46](#module-summary-content-management-systems-cms)](#module-summary-content-management-systems-cms)
-
-[Content Management Systems (CMSs)
-[46](#content-management-systems-cmss)](#content-management-systems-cmss)
-
-[Graded Quiz: CMS & eCommerce
-[47](#graded-quiz-cms-ecommerce)](#graded-quiz-cms-ecommerce)
-
-[Introduction to Search Engine Optimization (SEO)
-[47](#introduction-to-search-engine-optimization-seo)](#introduction-to-search-engine-optimization-seo)
-
-[Popular SEO Tools [53](#popular-seo-tools)](#popular-seo-tools)
-
-[SEO Strategies [55](#seo-strategies)](#seo-strategies)
-
-[Mobile Friendly SEO [58](#mobile-friendly-seo)](#mobile-friendly-seo)
-
-[Page Optimization for SEO
-[60](#page-optimization-for-seo)](#page-optimization-for-seo)
-
-[Running Campaigns and Tracking Results
-[62](#running-campaigns-and-tracking-results)](#running-campaigns-and-tracking-results)
-
-[Do's and Don'ts of Search Engine Optimization
-[65](#dos-and-donts-of-search-engine-optimization)](#dos-and-donts-of-search-engine-optimization)
-
-[Introduction [65](#introduction)](#introduction)
-
-[Conclusion [67](#conclusion)](#conclusion)
-
-[Hands-on Lab: Optimizing a Website for Search Ranking
-[67](#hands-on-lab-optimizing-a-website-for-search-ranking)](#hands-on-lab-optimizing-a-website-for-search-ranking)
-
-[Practice Quiz: Search Engine Optimization (SEO)
-[67](#practice-quiz-search-engine-optimization-seo)](#practice-quiz-search-engine-optimization-seo)
-
-[Module Summary: Search Engine Optimization (SEO)
-[67](#module-summary-search-engine-optimization-seo)](#module-summary-search-engine-optimization-seo)
-
-[Search Engine Optimization (SEO)
-[67](#search-engine-optimization-seo)](#search-engine-optimization-seo)
-
-[Graded Quiz: Search Engine Optimization (SEO)
-[68](#graded-quiz-search-engine-optimization-seo)](#graded-quiz-search-engine-optimization-seo)
-
-[Introduction to Web Build and Automated Tools
-[68](#introduction-to-web-build-and-automated-tools)](#introduction-to-web-build-and-automated-tools)
-
-[Introduction to Webpack 5
-[71](#introduction-to-webpack-5)](#introduction-to-webpack-5)
-
-[Essential Concepts of Webpack
-[72](#essential-concepts-of-webpack)](#essential-concepts-of-webpack)
-
-[Working with Webpack
-[74](#working-with-webpack)](#working-with-webpack)
-
-[Setting up Production with Webpack
-[76](#setting-up-production-with-webpack)](#setting-up-production-with-webpack)
-
-[Using Webpack Tools [78](#using-webpack-tools)](#using-webpack-tools)
-
-[Using Webpack with Frontend Frameworks
-[80](#using-webpack-with-frontend-frameworks)](#using-webpack-with-frontend-frameworks)
-
-[Hands on Lab: Build and Deploy a website using Webpack
-[83](#hands-on-lab-build-and-deploy-a-website-using-webpack)](#hands-on-lab-build-and-deploy-a-website-using-webpack)
-
-[Welcome to the Build and Deploy a website using Webpack lab!
-[83](#welcome-to-the-build-and-deploy-a-website-using-webpack-lab)](#welcome-to-the-build-and-deploy-a-website-using-webpack-lab)
-
-[Webpack Best Practices
-[83](#webpack-best-practices)](#webpack-best-practices)
-
-[Reading: HTTPS & SSL Certificates
-[86](#reading-https-ssl-certificates)](#reading-https-ssl-certificates)
-
-[What is HTTPS? [86](#what-is-https)](#what-is-https)
-
-[How does HTTPS work? [86](#how-does-https-work)](#how-does-https-work)
-
-[How does a website start using HTTPS?
-[87](#how-does-a-website-start-using-https)](#how-does-a-website-start-using-https)
-
-[What is an SSL Certificate?
-[87](#what-is-an-ssl-certificate)](#what-is-an-ssl-certificate)
-
-[How Does an SSL Certificate Work?
-[87](#how-does-an-ssl-certificate-work)](#how-does-an-ssl-certificate-work)
-
-[Practice Quiz: Introduction to Web Build with Webpack
-[88](#practice-quiz-introduction-to-web-build-with-webpack)](#practice-quiz-introduction-to-web-build-with-webpack)
-
-[Module Summary: Introduction to Automated Build Tools (Webpack)
-[88](#module-summary-introduction-to-automated-build-tools-webpack)](#module-summary-introduction-to-automated-build-tools-webpack)
-
-[In this module, you learned that:
-[88](#in-this-module-you-learned-that)](#in-this-module-you-learned-that)
-
-[Graded Quiz: Introduction to Web Build with Webpack
-[89](#graded-quiz-introduction-to-web-build-with-webpack)](#graded-quiz-introduction-to-web-build-with-webpack)
-
-[JavaScript Optimization
-[89](#javascript-optimization)](#javascript-optimization)
-
-[Popular Optimization Tools
-[91](#popular-optimization-tools)](#popular-optimization-tools)
-
-[Testing Frameworks [93](#testing-frameworks)](#testing-frameworks)
-
-[Testing Tools -- Mocha and Jasmine
-[95](#testing-tools-mocha-and-jasmine)](#testing-tools-mocha-and-jasmine)
-
-[Using Jasmine [97](#using-jasmine)](#using-jasmine)
-
-[Front-end Testing Best Practices
-[99](#front-end-testing-best-practices)](#front-end-testing-best-practices)
-
-[Hands-on Lab: Testing a React Application using Jasmine
-[101](#hands-on-lab-testing-a-react-application-using-jasmine)](#hands-on-lab-testing-a-react-application-using-jasmine)
-
-[Welcome to the Testing a React Application using Jasmine lab!
-[101](#welcome-to-the-testing-a-react-application-using-jasmine-lab)](#welcome-to-the-testing-a-react-application-using-jasmine-lab)
-
-[Practice Quiz: JavaScript Optimization and Testing Frameworks
-[102](#practice-quiz-javascript-optimization-and-testing-frameworks)](#practice-quiz-javascript-optimization-and-testing-frameworks)
-
-[Module Summary: Cross-Browser JavaScript Optimization and Testing
-Frameworks
-[102](#module-summary-cross-browser-javascript-optimization-and-testing-frameworks)](#module-summary-cross-browser-javascript-optimization-and-testing-frameworks)
-
-[Graded Quiz: JavaScript Optimization and Testing Frameworks
-[102](#graded-quiz-javascript-optimization-and-testing-frameworks)](#graded-quiz-javascript-optimization-and-testing-frameworks)
-
-[JavaScript Debugging
-[102](#javascript-debugging)](#javascript-debugging)
-
-[Basic Debugging Concepts
-[105](#basic-debugging-concepts)](#basic-debugging-concepts)
-
-[Introduction to Debugging Tools
-[109](#introduction-to-debugging-tools)](#introduction-to-debugging-tools)
-
-[Troubleshooting with Chrome DevTools
-[112](#troubleshooting-with-chrome-devtools)](#troubleshooting-with-chrome-devtools)
-
-[Monitoring your Website
-[116](#monitoring-your-website)](#monitoring-your-website)
-
-[Popular Monitoring Tools
-[120](#popular-monitoring-tools)](#popular-monitoring-tools)
-
-[Hands on Lab: Troubleshooting Common Errors with Chrome Dev Tools
-[124](#hands-on-lab-troubleshooting-common-errors-with-chrome-dev-tools)](#hands-on-lab-troubleshooting-common-errors-with-chrome-dev-tools)
-
-[Welcome to the Troubleshooting Common Errors with Chrome Dev Tools lab!
-[124](#welcome-to-the-troubleshooting-common-errors-with-chrome-dev-tools-lab)](#welcome-to-the-troubleshooting-common-errors-with-chrome-dev-tools-lab)
-
-[Practice Quiz: Debugging and Monitoring Websites
-[124](#practice-quiz-debugging-and-monitoring-websites)](#practice-quiz-debugging-and-monitoring-websites)
-
-[Module Summary: Debugging and Troubleshooting
-[124](#module-summary-debugging-and-troubleshooting)](#module-summary-debugging-and-troubleshooting)
-
-[Graded Quiz: Debugging and Troubleshooting
-[125](#graded-quiz-debugging-and-troubleshooting)](#graded-quiz-debugging-and-troubleshooting)
-
-[Final Project: Interest Rate Calculator
-[125](#final-project-interest-rate-calculator)](#final-project-interest-rate-calculator)
-
-[Peer-graded Assignment: Final Submission and Evaluation
-[126](#peer-graded-assignment-final-submission-and-evaluation)](#peer-graded-assignment-final-submission-and-evaluation)
-
-[Review criteria [126](#review-criteria)](#review-criteria)
-
 Hello and welcome to this course on Intermediate Web and Front-end
-Development. Are you interested in learning how to optimize your website
+Development (ibm-intermediate-web-dev). Are you interested in learning how to optimize your website
 for search engines? Or do you want to learn how to increase the
 visibility of your website? You will need to be familiar with the
 various tools and technologies available on the market for this. You
@@ -498,8 +297,8 @@ languages, such as HTML, CSS, and PHP, to create, customize, and host
 web pages. We will now talk about the essential characteristics of WCMS.
 
 <p align="center">
-<img src="./assets/images/image018.png" alt="image018" style="width:350px height:200px;"/>
-<img src="./assets/images/image019.png" alt="image019" style="width:350px height:200px;"/>
+  <img src="./assets/images/image018.png" alt="image018" style="width:350px height:200px;"/>
+  <img src="./assets/images/image019.png" alt="image019" style="width:350px height:200px;"/>
 </p>
 <!-- {width="3.50086176727909in" height="1.9608989501312335in"} -->
 <!-- {width="3.5in" height="1.960896762904637in"} -->
@@ -545,7 +344,7 @@ Here are the additional tasks that a WCMS enables a user to accomplish:
 -   Managing user access to a particular page on a website.
 
 <p align="center">
-<img src="./assets/images/image022.png" alt="image022" style="width:500px;"/>
+  <img src="./assets/images/image022.png" alt="image022" style="width:500px;"/>
 </p>
 <!-- {width="5.0in" height="2.796474190726159in"} -->
 
@@ -556,8 +355,10 @@ System. It primarily focuses on web content. An Enterprise Content
 Management System integrates software tools with an organization's
 strategy and aligns with its routine business operations.
 
-![](./assets/images/image023.png){width="5.0in"
-height="2.796474190726159in"}
+<p align="center">
+  <img src="./assets/images/image023.png" alt="image023" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.796474190726159in"} -->
 
 In this section, you learned that:
 
@@ -571,21 +372,22 @@ In this section, you learned that:
 
     -   and Code enables a user to create customizable web pages.
 
-```{=html}
-<!-- -->
-```
 -   A WCMS has several features that an end user can use to create and
     manage the content on their website.
 
 # 03. Popular CMS Platforms/Tools {#popular-cms-platformstools .unnumbered}
 
-![](./assets/images/image024.png){width="5.0in"
-height="2.8050218722659666in"}
+<p align="center">
+  <img src="./assets/images/image024.png" alt="image024" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.8050218722659666in"} -->
 
 Welcome to "Popular CMS platforms/tools."
 
-.![](./assets/images/image025.png){width="5.0in"
-height="2.8050207786526684in"}
+<p align="center">
+  <img src="./assets/images/image025.png" alt="image025" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.8050207786526684in"} -->
 
 After reading this section, you will be able to:
 
@@ -593,8 +395,10 @@ After reading this section, you will be able to:
 
 -   and Identify popular CMS platforms and tools.
 
-![](./assets/images/image026.png){width="5.0in"
-height="2.8050218722659666in"}
+<p align="center">
+<img src="./assets/images/image026.png" alt="image026" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.8050218722659666in"} -->
 
 Headless content management systems (CMSs) have gained popularity
 recently and are set to replace traditional CMSs. A conventional CMS
@@ -611,8 +415,10 @@ also be uploaded on other channels such as apps or newsletters. Any
 change made at a centralized location is implemented everywhere where it
 matters. This is the power that a headless CMS has.
 
-![](./assets/images/image027.png){width="5.0in"
-height="2.8050218722659666in"}
+<p align="center">
+<img src="./assets/images/image027.png" alt="image027" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.8050218722659666in"} -->
 
 The headless approach enables organizations to deliver content to
 different channels, such as mobile applications or JavaScript
@@ -625,8 +431,10 @@ a brand, their experience is consistent. A headless CMS architecture is
 less susceptible to cyber security threats as the back end is separated
 from the front end.
 
-![](./assets/images/image028.png){width="5.0in"
-height="2.8050218722659666in"}
+<p align="center">
+<img src="./assets/images/image028.png" alt="image028" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.8050218722659666in"} -->
 
 WordPress is one of the most popular CMS platforms. It accounts for more
 than 60% of the CMS market. It offers the flexibility and freedom to
@@ -639,8 +447,10 @@ developers and experienced website creators. It has a large pool of
 extensions that gives plenty of design options and constant feature
 updates.
 
-![](./assets/images/image029.png){width="5.0in"
-height="2.8050218722659666in"}
+<p align="center">
+<img src="./assets/images/image029.png" alt="image029" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.8050218722659666in"} -->
 
 The next popular CMS that we are going to discuss is Squarespace. It's
 an integrated platform where you can build your website and blog, host
@@ -656,8 +466,10 @@ use Wix for various purposes, such as email marketing, e-commerce,
 contact forms, and community forums. You can choose from different plans
 based on your requirement.
 
-![](./assets/images/image030.png){width="5.0in"
-height="2.8050218722659666in"}
+<p align="center">
+<img src="./assets/images/image030.png" alt="image030" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.8050218722659666in"} -->
 
 Shopify is a popular CMS platform for developing e-commerce websites.
 It's an all-in-one website builder and content management system with
@@ -670,8 +482,9 @@ change the order of your products, and do more. You can create, edit,
 and manage blogs, landing pages, and other navigation elements besides
 managing products.
 
-![](./assets/images/image031.png){width="5.0in"
-height="2.8050218722659666in"}
+<p align="center">
+<img src="./assets/images/image031.png" alt="image031" style="width:500px;"/>
+</p>
 
 Drupal is a free and open-source CMS. It's not as popular as WordPress
 and Joomla in terms of market share but is impressive in delivering
@@ -687,8 +500,9 @@ organizations that need complete customization at a scale. Another
 highlight of this software is its ability to create a progressive web
 app (PWA) for your online store.
 
-![](./assets/images/image032.png){width="5.0in"
-height="2.8050218722659666in"}
+<p align="center">
+<img src="./assets/images/image032.png" alt="image032" style="width:500px;"/>
+</p>
 
 In this section, you learned that:
 
@@ -699,28 +513,32 @@ Commerce are all popular CMS platforms.
 
 # 05. Web Development with CMS - Part 1 {#web-development-with-cms---part-1 .unnumbered}
 
-![](./assets/images/image033.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+<img src="./assets/images/image033.png" alt="image033" style="width:500px;"/>
+</p>
 
 Welcome to "Web development with CMS - Part 1."
 
-![](./assets/images/image034.png){width="5.0in"
-height="2.813034776902887in"}
+<p align="center">
+<img src="./assets/images/image034.png" alt="image034" style="width:500px;"/>
+</p>
 
 After watching this video, you will be able to: Explain important
 elements of a web development plan. Define best practices for a
 successful business website.
 
-![](./assets/images/image035.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+<img src="./assets/images/image035.png" alt="image035" style="width:500px;"/>
+</p>
 
 In today's competitive world, a website is essential for a business
 owner to acquire new and loyal customers. However, before the website
 launch, planning is necessary. A lot is done before the actual coding
 for the website starts. A web development plan needs to be in place.
 
-![](./assets/images/image036.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+<img src="./assets/images/image036.png" alt="image036" style="width:500px;"/>
+</p>
 
 Let's discuss the five important elements of this plan.
 
@@ -736,8 +554,9 @@ These include:
 
 -   Leveraging user and group roles.
 
-![](./assets/images/image037.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+<img src="./assets/images/image037.png" alt="image037" style="width:500px;"/>
+</p>
 
 Let's discuss each of them in detail.
 
@@ -763,8 +582,9 @@ Having a web strategy ensures that:
 Your web design is in line with your web goals, and yhe website that the
 designers and developers create functions as per your business goals.
 
-![](./assets/images/image038.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+<img src="./assets/images/image038.png" alt="image038" style="width:500px;"/>
+</p>
 
 Adopting a global approach is the next important element of a web
 development plan. In the 21st century, the growth of the internet has
@@ -776,8 +596,9 @@ modular approach. Measures need to be put in place at the outset so that
 adaptation later is as easy as possible. You will not have to edit every
 page if your website needs an update.
 
-![](./assets/images/image039.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+<img src="./assets/images/image039.png" alt="image039" style="width:500px;"/>
+</p>
 
 The other important element of a web development plan is the creation of
 page templates. A website template is a pre-defined layout that enables
@@ -789,8 +610,9 @@ your business's goals. This will help you save time, money, and effort.
 A website developed using a template can be updated easily and
 regularly.
 
-![](./assets/images/image040.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+<img src="./assets/images/image040.png" alt="image040" style="width:500px;"/>
+</p>
 
 Today, every visitor to a website expects a customized user experience.
 This is why focusing on personalization is an important element of a web
@@ -803,8 +625,9 @@ regardless of how they access the website or what device they use. By
 providing content tailored to each visitor's taste, content
 recommendations personalize every visitor's digital experience.
 
-![](./assets/images/image041.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+<img src="./assets/images/image041.png" alt="image040" style="width:500px;"/>
+</p>
 
 The last element of a web development plan that we are going to be
 discussing is leveraging user and group roles. Member roles are
@@ -814,8 +637,9 @@ sharing. A group with more rights than the general group is given
 administrative privileges. Administrators can leverage pre-existing
 roles and build new ones to suit their user base.
 
-![](./assets/images/image042.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+<img src="./assets/images/image042.png" alt="image042" style="width:500px;"/>
+</p>
 
 Now, we will explore some best practices for creating a successful
 business website. Ensure that your website makes the best use of search
@@ -828,8 +652,9 @@ rather than typefaces that might be too small or too big for some
 devices or browsers. Use JavaScript to enhance your website's
 functionality. Use CSS to style the graphics and text on your website.
 
-![](./assets/images/image043.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+<img src="./assets/images/image043.png" alt="image043" style="width:500px;"/>
+</p>
 
 In this section, you learned about: The important elements of a web
 development plan, and some best practices to create a successful
@@ -837,19 +662,22 @@ website.
 
 # 06. Web Development with CMS - Part 2 {#web-development-with-cms---part-2 .unnumbered}
 
-![](./assets/images/image044.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+  <img src="./assets/images/image044.png" alt="image044" style="width:500px;"/>
+</p>
 
 Welcome to "Web development with CMS."
 
-![](./assets/images/image045.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+  <img src="./assets/images/image045.png" alt="image045" style="width:500px;"/>
+</p>
 
 After watching this video, you will be able to: Identify the types of
 pages of a website. Explain the features of a CMS.
 
-![](./assets/images/image046.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+<img src="./assets/images/image046.png" alt="image046" style="width:500px;"/>
+</p>
 
 Each page of a website plays a vital role in its functioning. For users
 to easily navigate and access content, it is crucial that each page
@@ -869,8 +697,9 @@ These include:
 
 -   and User home or dashboard.
 
-![](./assets/images/image047.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+<img src="./assets/images/image047.png" alt="image047" style="width:500px;"/>
+</p>
 
 Let's discuss each page in detail. The first type of page that we are
 going to talk about is the front page. This page is the formal entry
@@ -883,8 +712,9 @@ about a post. The purpose of this type of page is to display timely and
 regularly updated content. It could be an informational page about a
 person, group, event, product, and so on.
 
-![](./assets/images/image048.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+<img src="./assets/images/image048.png" alt="image048" style="width:500px;"/>
+</p>
 
 Now, we will talk about the list or category page. Well-organized
 website content improves user experience. A developer, therefore, needs
@@ -900,8 +730,9 @@ of page of a website is the search page. A dedicated search page is
 unnecessary for smaller applications but can be beneficial. It can be
 integrated or merged with the list or category page.
 
-![](./assets/images/image049.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+<img src="./assets/images/image049.png" alt="image049" style="width:500px;"/>
+</p>
 
 The next type of page is the user or author profile. Any author or user
 that creates one or multiple posts has a dedicated page. Blogs with a
@@ -916,8 +747,9 @@ personal newsfeeds, recent activities, and recommended content. A
 dashboard is essential for social networks and gated applications but
 optional or irrelevant for others.
 
-![](./assets/images/image050.png){width="5.0in"
-height="2.834935476815398in"}
+<p align="center">
+<img src="./assets/images/image050.png" alt="image050" style="width:500px;"/>
+</p>
 
 Now, we are going to discuss the features of a CMS. Despite slight
 variations in design, every CMS has the same fundamental features. You
