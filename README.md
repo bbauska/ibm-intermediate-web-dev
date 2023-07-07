@@ -38,35 +38,35 @@ testing.
 These improve testing speed and efficiency, test accuracy, and reduce
 test maintenance costs and risks. Learning the fundamentals presented
 here is the first step towards a long and rewarding career as a web
-developer. To successfully complete this course, you should be familiar
-with the following:
+developer.
 
 <p align="center">
 <img src="./assets/images/image002.png" alt="image002" style="width:500px;"/>
 </p>
 <!-- {width="5.0in" height="2.8327996500437447in"} -->
 
-Basic knowledge of computer terminology Basic knowledge of website
-development Have a familiarity with the web development tools, and Have
-a familiarity with the search engine elements.
+To successfully complete this course, you should be familiar
+with the following:
+  - Basic knowledge of computer terminology,
+  - Basic knowledge of website development,
+  - Have a familiarity with the web development tools,
+  - and have a familiarity with the search engine elements.
 
 This course is part of a series of IBM courses designed to help you
 improve your skills as a front-end developer and understand the
-technical aspect of web and front-end application development. When you
-complete this course, you will be able to:
+technical aspect of web and front-end application development. 
 
 <p align="center">
 <img src="./assets/images/image003.png" alt="image003" style="width:500px;"/>
 </p>
 <!-- {width="5.0in" height="2.8327996500437447in"} -->
 
-Identify how to work with content management systems (CMSs) Identify how
-to improve a website\'s search engine ranking Discuss the importance
-of bundling code with a module bundler to deploy code faster. Describe
-how automated testing frameworks assist in developing test cases that
-enhance a website\'s effectiveness and performance (efficacy), and
-Demonstrate best practices for using debugging tools to find bugs in
-code by increasing visibility, analysis, and testing.
+When you complete this course, you will be able to:
+  - Identify how to work with content management systems (CMSs),
+  - Identify how to improve a website\'s search engine ranking,
+  - Discuss the importance of bundling code with a module bundler to deploy code faster,
+  - Describe how automated testing frameworks assist in developing test cases that enhance a website\'s effectiveness and performance (efficacy),
+  - and Demonstrate best practices for using debugging tools to find bugs in code by increasing visibility, analysis, and testing.
 
 This course is designed specifically for beginners, with guided
 instructional videos that walk you through key concepts and essential
@@ -99,9 +99,10 @@ Welcome to "Introduction to Content Management System (CMS)"
 </p>
 <!-- {width="5.0in" height="2.5576924759405073in"} -->
 
-After watching this video, you will be able to: Define Content
-Management Systems (CMSs), List several CMS software/platforms, and
-Recognize the benefits of using a CMS.
+After watching this video, you will be able to: 
+  - Define Content Management Systems (CMSs),
+  - List several CMS software/platforms,
+  - and Recognize the benefits of using a CMS.
 
 <p align="center">
 <img src="./assets/images/image006.png" alt="image006" style="width:500px;"/>
@@ -116,11 +117,10 @@ processes involved in developing a large-scale website. Well-managed
 content makes a website more useful to visitors and valuable to the
 person or organization who owns the website.
 
-A CMS has two core parts: The Content Management Application (CMA) is a
-software tool that enables developers to add and manage content on a
-website. And the Content Delivery Application (CDA) is the back-end
-process that takes the content you put into the CMA, stores it properly,
-and makes it visible to website visitors.
+A CMS has two core parts: 
+  1. The Content Management Application (CMA) is a software tool that enables developers to add and manage content on a website.
+  2. And the Content Delivery Application (CDA) is the back-end process that takes the content you put into the CMA, stores it properly, and makes it visible to 
+     website visitors.
 
 <p align="center">
 <img src="./assets/images/image007.png" alt="image007" style="width:500px;"/>
