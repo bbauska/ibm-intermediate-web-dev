@@ -2,6 +2,7 @@
 [IBM's Intermediate Web and Front-End Development by Coursera](https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction)
 
 https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction
+
 <p align="center">
 <img src="./assets/images/image001.png" alt="image001" style="width:500px;"/>
 <!-- {width="5.0in" height="2.8327996500437447in"}  -->
@@ -9,11 +10,14 @@ https://www.coursera.org/learn/intermediate-web-and-front-end-development/lectur
 
 # Table of Contents {#table-of-contents .TOC-Heading .unnumbered}
 
-[01. Introduction to Content Management System (CMS) [3](#introduction-to-content-management-system-cms)](#introduction-to-content-management-system-cms)
+[01. Introduction to Content Management System (CMS) 
+[3] (#introduction-to-content-management-system-cms)](#introduction-to-content-management-system-cms)
 
-[02. Features of Web CMS [10](#features-of-web-cms)](#features-of-web-cms)
+[02. Features of Web CMS 
+[10](#features-of-web-cms)](#features-of-web-cms)
 
-[03. Popular CMS Platforms/Tools [14](#popular-cms-platformstools)](#popular-cms-platformstools)
+[03. Popular CMS Platforms/Tools 
+[14](#popular-cms-platformstools)](#popular-cms-platformstools)
 
 [Web Development with CMS - Part 1 [20](#web-development-with-cms---part-1)](#web-development-with-cms---part-1)
 
@@ -237,8 +241,10 @@ here is the first step towards a long and rewarding career as a web
 developer. To successfully complete this course, you should be familiar
 with the following:
 
-![](./assets/images/image002.png){width="5.0in"
-height="2.8327996500437447in"}
+<p align="center">
+<img src="./assets/images/image002.png" alt="image002" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.8327996500437447in"} -->
 
 Basic knowledge of computer terminology Basic knowledge of website
 development Have a familiarity with the web development tools, and Have
@@ -249,8 +255,10 @@ improve your skills as a front-end developer and understand the
 technical aspect of web and front-end application development. When you
 complete this course, you will be able to:
 
-![](./assets/images/image003.png){width="5.0in"
-height="2.8327996500437447in"}
+<p align="center">
+<img src="./assets/images/image003.png" alt="image003" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.8327996500437447in"} -->
 
 Identify how to work with content management systems (CMSs) Identify how
 to improve a website\'s search engine ranking Discuss the importance
@@ -277,22 +285,28 @@ excited you're here. Let's get started!
 
 # Introduction to Content Management System (CMS)
 
-![](./assets/images/image004.png){width="5.0in"
-height="2.557691382327209in"}
+<p align="center">
+<img src="./assets/images/image004.png" alt="image004" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.557691382327209in"} -->
 
 <https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/zjLwk/introduction-to-content-management-system-cms>
 
 Welcome to "Introduction to Content Management System (CMS)"
 
-![](./assets/images/image005.png){width="5.0in"
-height="2.5576924759405073in"}
+<p align="center">
+<img src="./assets/images/image005.png" alt="image005" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.5576924759405073in"} -->
 
 After watching this video, you will be able to: Define Content
 Management Systems (CMSs), List several CMS software/platforms, and
 Recognize the benefits of using a CMS.
 
-![](./images/media/image006.png){width="5.0in"
-height="2.7841885389326335in"}
+<p align="center">
+<img src="./assets/images/image006.png" alt="image006" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.7841885389326335in"} -->
 
 What is a Content Management System (or CMS)? A CMS is a tool that helps
 developers build websites. It is software that allows developers to
@@ -308,8 +322,10 @@ website. And the Content Delivery Application (CDA) is the back-end
 process that takes the content you put into the CMA, stores it properly,
 and makes it visible to website visitors.
 
-![](./assets/images/image007.png)
-{width="5.0in" height="2.7841885389326335in"}
+<p align="center">
+<img src="./assets/images/image007.png" alt="image007" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.7841885389326335in"} -->
 
 There are three common types of content management systems. A Web
 Content Management System (WCMS) controls the content on many digital
@@ -323,11 +339,12 @@ stores, delivers, and manages unstructured data, enables delivery of the
 correct content to targeted audiences, and archives files after a set
 time.
 
-![](./assets/images/image008.png)
-{width="3.0in" height="1.6705129046369205in"}
-
-![](./assets/images/image9.png)
-{width="3.0in" height="1.6756408573928259in"}
+<p align="center">
+<img src="./assets/images/image008.png" alt="image008" style="width:300px;"/>
+<img src="./assets/images/image009.png" alt="image009" style="width:300px;"/>
+</p>
+<!-- {width="3.0in" height="1.6705129046369205in"} -->
+<!-- {width="3.0in" height="1.6756408573928259in"} -->
 
 There is both proprietary and open-source CMS software. Some examples
 are WordPress, Drupal, Joomla, Magento, Squarespace, Wix, and HubSpot.
@@ -336,8 +353,10 @@ example, Wordpress.org, Drupal, and Joomla. Others are available as
 hosted services like WordPress.com, HubSpot, and Wix. Many kinds of CMS
 software are available, depending on how developers want to use them.
 
-![](./assets/images/image010.png){width="5.0in"
-height="2.7927351268591427in"}
+<p align="center">
+<img src="./assets/images/image010.png" alt="image010" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.7927351268591427in"} -->
 
 So why use a CMS? Instead of creating a new web page or designing a new
 website, many solutions exist that can function how designers want.
@@ -356,8 +375,10 @@ publishing and updates. Affordability is a huge benefit of using CMS
 software. Instead of using a large web development team, websites can be
 managed by a smaller group or by a person, reducing the website\'s cost.
 
-![](./assets/images/image011.png){width="5.0in"
-height="2.7927351268591427in"}
+<p align="center">
+<img src="./assets/images/image011.png" alt="image011" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.7927351268591427in"} -->
 
 CMS software also provides tools to allow users to customize their
 website, regardless of the company size or the user's needs. Many CMSs
@@ -367,8 +388,10 @@ websites rather than coding them.
 CMSs have templates and third-party extensions that make it easy to
 customize the website and extend its capabilities.
 
-![](./assets/images/image012.png){width="5.0in"
-height="2.7927351268591427in"}
+<p align="center">
+<img src="./assets/images/image012.png" alt="image012" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.7927351268591427in"} -->
 
 So how do you choose a CMS? In the planning stage of the software
 development cycle, you\'ll consider what you need to help you create and
@@ -389,8 +412,10 @@ manage a website. You\'ll ask:
 Once you\'ve answered these questions, you're ready to choose the best
 CMS for you and your website!
 
-![](./assets/images/image013.png){width="5.0in"
-height="2.7927351268591427in"}
+<p align="center">
+<img src="./assets/images/image013.png" alt="image013" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.7927351268591427in"} -->
 
 In this video, you learned that:
 
@@ -421,13 +446,17 @@ In this video, you learned that:
 
 <https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/BWeid/features-of-web-cms>
 
-![](./assets/images/image014.png){width="5.0in"
-height="2.801281714785652in"}
+<p align="center">
+<img src="./assets/images/image014.png" alt="image014" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.801281714785652in"} -->
 
 Welcome to "Features of Web CMS."
 
-![](./assets/images/image015.png){width="5.0in"
-height="2.801281714785652in"}
+<p align="center">
+<img src="./assets/images/image015.png" alt="image015" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.801281714785652in"} -->
 
 After watching this video, you will be able to: describe a Web Content
 Management System (WCMS) and its types, identify the characteristics of
@@ -439,8 +468,10 @@ official website regularly. An organization needs to enable technical
 and non-technical end users to create and manage the content on its
 website.
 
-![](./assets/images/image016.png){width="5.0in"
-height="2.801281714785652in"}
+<p align="center">
+<img src="./assets/images/image016.png" alt="image016" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.801281714785652in"} -->
 
 This is made possible by Web Content Management System (WCMS). It is a
 program that helps users create, manage, modify, and publish content on
@@ -448,8 +479,10 @@ a web page. A user interacts with a Web Content Management System
 through a standard web browser. Users store the content in a database
 using programming languages like XML and .Net.
 
-![](./assets/images/image017.png){width="5.0in"
-height="2.801281714785652in"}
+<p align="center">
+<img src="./assets/images/image017.png" alt="image017" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.801281714785652in"} -->
 
 Let's discuss the two kinds of WCMSs: no-code and code. You can choose
 between the two based on your requirements, technical skills, and the
@@ -464,9 +497,12 @@ features. In this case, the user needs basic knowledge of programming
 languages, such as HTML, CSS, and PHP, to create, customize, and host
 web pages. We will now talk about the essential characteristics of WCMS.
 
-![](./assets/images/image018.png){width="3.50086176727909in"
-height="1.9608989501312335in"}![](./assets/images/image019.png){width="3.5in"
-height="1.960896762904637in"}
+<p align="center">
+<img src="./assets/images/image018.png" alt="image018" style="width:350px height:200px;"/>
+<img src="./assets/images/image019.png" alt="image019" style="width:350px height:200px;"/>
+</p>
+<!-- {width="3.50086176727909in" height="1.9608989501312335in"} -->
+<!-- {width="3.5in" height="1.960896762904637in"} -->
 
 A WCMS enables a user to accomplish specific tasks. Some of these
 include:
@@ -486,9 +522,12 @@ include:
 -   Scaling and implementing change to multiple domains easily and
     quickly.
 
-![](./assets/images/image020.png){width="3.0in"
-height="3.28in"}![](./assets/images/image021.png){width="3.0in"
-height="3.28in"}
+<p align="center">
+<img src="./assets/images/image020.png" alt="image020" style="width:300px;"/>
+<img src="./assets/images/image021.png" alt="image021" style="width:300px;"/>
+</p>
+<!-- {width="3.0in" height="3.28in"} -->
+<!-- {width="3.0in" height="3.28in"} -->
 
 Here are the additional tasks that a WCMS enables a user to accomplish:
 
@@ -505,8 +544,10 @@ Here are the additional tasks that a WCMS enables a user to accomplish:
 
 -   Managing user access to a particular page on a website.
 
-![](./assets/images/image022.png){width="5.0in"
-height="2.796474190726159in"}
+<p align="center">
+<img src="./assets/images/image022.png" alt="image022" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.796474190726159in"} -->
 
 Enterprise Content Management System (ECM) allows businesses to manage
 content throughout their lifecycle intelligently. A Web Content
