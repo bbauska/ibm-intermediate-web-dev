@@ -297,8 +297,8 @@ languages, such as HTML, CSS, and PHP, to create, customize, and host
 web pages. We will now talk about the essential characteristics of WCMS.
 
 <p align="center">
-  <img src="./assets/images/image018.png" alt="image018" style="width:350px height:200px;"/>
-  <img src="./assets/images/image019.png" alt="image019" style="width:350px height:200px;"/>
+  <img src="./assets/images/image018.png" alt="image018" style="width:350px;"/>
+  <img src="./assets/images/image019.png" alt="image019" style="width:350px;"/>
 </p>
 <!-- {width="3.50086176727909in" height="1.9608989501312335in"} -->
 <!-- {width="3.5in" height="1.960896762904637in"} -->
