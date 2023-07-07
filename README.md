@@ -9,20 +9,15 @@ https://www.coursera.org/learn/intermediate-web-and-front-end-development/lectur
 
 # Table of Contents {#table-of-contents .TOC-Heading .unnumbered}
 
-[01. Introduction to Content Management System (CMS)
-[3](#introduction-to-content-management-system-cms)](#introduction-to-content-management-system-cms)
+[01. Introduction to Content Management System (CMS) [3](#introduction-to-content-management-system-cms)](#introduction-to-content-management-system-cms)
 
-[02. Features of Web CMS
-[10](#features-of-web-cms)](#features-of-web-cms)
+[02. Features of Web CMS [10](#features-of-web-cms)](#features-of-web-cms)
 
-[03. Popular CMS Platforms/Tools
-[14](#popular-cms-platformstools)](#popular-cms-platformstools)
+[03. Popular CMS Platforms/Tools [14](#popular-cms-platformstools)](#popular-cms-platformstools)
 
-[Web Development with CMS - Part 1
-[20](#web-development-with-cms---part-1)](#web-development-with-cms---part-1)
+[Web Development with CMS - Part 1 [20](#web-development-with-cms---part-1)](#web-development-with-cms---part-1)
 
-[Web Development with CMS - Part 2
-[27](#web-development-with-cms---part-2)](#web-development-with-cms---part-2)
+[Web Development with CMS - Part 2 [27](#web-development-with-cms---part-2)](#web-development-with-cms---part-2)
 
 [Getting Started with WordPress - Part 1
 [33](#getting-started-with-wordpress---part-1)](#getting-started-with-wordpress---part-1)
