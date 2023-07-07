@@ -2,9 +2,10 @@
 [IBM's Intermediate Web and Front-End Development by Coursera](https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction)
 
 https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction
-
-![](./assets/images/image001.png){width="5.0in"
-height="2.8327996500437447in"}
+<p align="center">
+<img src="./assets/images/image001.png" alt="image001" style="width:500px;"/>
+<!-- {width="5.0in" height="2.8327996500437447in"}  -->
+</p>
 
 # Table of Contents {#table-of-contents .TOC-Heading .unnumbered}
 
@@ -312,8 +313,8 @@ website. And the Content Delivery Application (CDA) is the back-end
 process that takes the content you put into the CMA, stores it properly,
 and makes it visible to website visitors.
 
-![](./assets/images/image007.png){width="5.0in"
-height="2.7841885389326335in"}
+![](./assets/images/image007.png)
+{width="5.0in" height="2.7841885389326335in"}
 
 There are three common types of content management systems. A Web
 Content Management System (WCMS) controls the content on many digital
@@ -327,9 +328,11 @@ stores, delivers, and manages unstructured data, enables delivery of the
 correct content to targeted audiences, and archives files after a set
 time.
 
-![](./assets/images/image008.png){width="3.0in"
-height="1.6705129046369205in"}![](./assets/images/image9.png){width="3.0in"
-height="1.6756408573928259in"}
+![](./assets/images/image008.png)
+{width="3.0in" height="1.6705129046369205in"}
+
+![](./assets/images/image9.png)
+{width="3.0in" height="1.6756408573928259in"}
 
 There is both proprietary and open-source CMS software. Some examples
 are WordPress, Drupal, Joomla, Magento, Squarespace, Wix, and HubSpot.
