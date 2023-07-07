@@ -1,14 +1,15 @@
 # ibm-intermediate-web-dev
 [IBM's Intermediate Web and Front-End Development by Coursera](https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction)
 
-https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction
+<!-- https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction -->
 
 <p align="center">
 <img src="./assets/images/image001.png" alt="image001" style="width:500px;"/>
 <!-- {width="5.0in" height="2.8327996500437447in"}  -->
 </p>
 
-# Table of Contents {#table-of-contents .TOC-Heading .unnumbered}
+# Table of Contents
+<!-- {#table-of-contents .TOC-Heading .unnumbered} -->
 
 Hello and welcome to this course on Intermediate Web and Front-end
 Development (ibm-intermediate-web-dev). Are you interested in learning how to optimize your website
@@ -611,7 +612,7 @@ A website developed using a template can be updated easily and
 regularly.
 
 <p align="center">
-<img src="./assets/images/image040.png" alt="image040" style="width:500px;"/>
+  <img src="./assets/images/image040.png" alt="image040" style="width:500px;"/>
 </p>
 
 Today, every visitor to a website expects a customized user experience.
@@ -626,7 +627,7 @@ providing content tailored to each visitor's taste, content
 recommendations personalize every visitor's digital experience.
 
 <p align="center">
-<img src="./assets/images/image041.png" alt="image040" style="width:500px;"/>
+  <img src="./assets/images/image041.png" alt="image040" style="width:500px;"/>
 </p>
 
 The last element of a web development plan that we are going to be
@@ -638,7 +639,7 @@ administrative privileges. Administrators can leverage pre-existing
 roles and build new ones to suit their user base.
 
 <p align="center">
-<img src="./assets/images/image042.png" alt="image042" style="width:500px;"/>
+  <img src="./assets/images/image042.png" alt="image042" style="width:500px;"/>
 </p>
 
 Now, we will explore some best practices for creating a successful
@@ -653,7 +654,7 @@ devices or browsers. Use JavaScript to enhance your website's
 functionality. Use CSS to style the graphics and text on your website.
 
 <p align="center">
-<img src="./assets/images/image043.png" alt="image043" style="width:500px;"/>
+  <img src="./assets/images/image043.png" alt="image043" style="width:500px;"/>
 </p>
 
 In this section, you learned about: The important elements of a web
@@ -676,7 +677,7 @@ After watching this video, you will be able to: Identify the types of
 pages of a website. Explain the features of a CMS.
 
 <p align="center">
-<img src="./assets/images/image046.png" alt="image046" style="width:500px;"/>
+  <img src="./assets/images/image046.png" alt="image046" style="width:500px;"/>
 </p>
 
 Each page of a website plays a vital role in its functioning. For users
@@ -698,7 +699,7 @@ These include:
 -   and User home or dashboard.
 
 <p align="center">
-<img src="./assets/images/image047.png" alt="image047" style="width:500px;"/>
+  <img src="./assets/images/image047.png" alt="image047" style="width:500px;"/>
 </p>
 
 Let's discuss each page in detail. The first type of page that we are
@@ -713,7 +714,7 @@ regularly updated content. It could be an informational page about a
 person, group, event, product, and so on.
 
 <p align="center">
-<img src="./assets/images/image048.png" alt="image048" style="width:500px;"/>
+  <img src="./assets/images/image048.png" alt="image048" style="width:500px;"/>
 </p>
 
 Now, we will talk about the list or category page. Well-organized
@@ -731,7 +732,7 @@ unnecessary for smaller applications but can be beneficial. It can be
 integrated or merged with the list or category page.
 
 <p align="center">
-<img src="./assets/images/image049.png" alt="image049" style="width:500px;"/>
+  <img src="./assets/images/image049.png" alt="image049" style="width:500px;"/>
 </p>
 
 The next type of page is the user or author profile. Any author or user
@@ -748,7 +749,7 @@ dashboard is essential for social networks and gated applications but
 optional or irrelevant for others.
 
 <p align="center">
-<img src="./assets/images/image050.png" alt="image050" style="width:500px;"/>
+  <img src="./assets/images/image050.png" alt="image050" style="width:500px;"/>
 </p>
 
 Now, we are going to discuss the features of a CMS. Despite slight
@@ -756,8 +757,9 @@ variations in design, every CMS has the same fundamental features. You
 can create the content of your website using different CMS features.
 Some of these include: Page design, Blog content, and Content storage.
 
-![](./assets/images/image051.png){width="5.0in"
-height="2.834935476815398in"}
+<p align="center">
+  <img src="./assets/images/image051.png" alt="image051" style="width:500px;"/>
+</p>
 
 The most important feature of a CMS is designing a page. A developer can
 start designing a page using a template or a blank canvas. The selection
@@ -777,8 +779,9 @@ significantly on digital marketing can save time as they can produce
 content and use it across different parts of a website and advertising
 channels.
 
-![](./assets/images/image052.png){width="5.0in"
-height="2.834935476815398in"}
+<p align="center">
+  <img src="./assets/images/image052.png" alt="image052" style="width:500px;"/>
+</p>
 
 The last feature of a CMS that we will discuss in this session is
 content storage. This feature of a CMS allows you to store all your
@@ -788,8 +791,9 @@ file to your CMS. Or, pull it from your content library when you want to
 place it on a specific site. CMSs also allow you to review and approve
 the content before publication.
 
-![](./assets/images/image053.png){width="5.0in"
-height="2.834935476815398in"}
+<p align="center">
+  <img src="./assets/images/image053.png" alt="image053" style="width:500px;"/>
+</p>
 
 In this section, you learned that: A CMS helps in developing several
 types of pages on a website. The types of pages include the:
