@@ -8,7 +8,7 @@
 <!-- {width="5.0in" height="2.8327996500437447in"}  -->
 </p>
 
-## Table of Contents
+## 01. Course Introduction
 <!-- {#table-of-contents .TOC-Heading .unnumbered} -->
 
 Hello and welcome to this course on Intermediate Web and Front-end
@@ -83,7 +83,7 @@ learned, leading to a shareable badge and certificate that you can show
 prospective employers. We're here to support your success and are
 excited you're here. Let's get started!
 
-## Introduction to Content Management System (CMS)
+## 02. Introduction to Content Management System (CMS)
 
 <p align="center">
 <img src="./assets/images/image004.png" alt="image004" style="width:500px;"/>
@@ -242,7 +242,7 @@ In this video, you learned that:
 -   Some popular CMS platforms are WordPress, Drupal, Joomla, Magento,
     Squarespace, and Wix.
 
-## 02. Features of Web CMS
+## 03. Features of Web CMS
 <!-- {#features-of-web-cms .unnumbered} -->
 
 <https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/BWeid/features-of-web-cms>
@@ -377,7 +377,7 @@ In this section, you learned that:
 -   A WCMS has several features that an end user can use to create and
     manage the content on their website.
 
-## 03. Popular CMS Platforms/Tools
+## 04. Popular CMS Platforms/Tools
 <!-- {#popular-cms-platformstools .unnumbered} -->
 
 <p align="center">
@@ -514,7 +514,7 @@ traditional CMSs. WordPress offers the flexibility to build and run any
 type website. Joomla, Squarespace, Wix, Shopify, Drupal, and Adobe
 Commerce are all popular CMS platforms.
 
-## 05. Web Development with CMS - Part 1
+## 05a. Web Development with CMS - Part 1
 <!-- {#web-development-with-cms---part-1 .unnumbered} -->
 
 <p align="center">
@@ -664,7 +664,7 @@ In this section, you learned about: The important elements of a web
 development plan, and some best practices to create a successful
 website.
 
-## 06. Web Development with CMS - Part 2
+## 05b. Web Development with CMS - Part 2
 <!-- {#web-development-with-cms---part-2 .unnumbered} -->
 
 <p align="center">
@@ -817,7 +817,7 @@ types of pages on a website. The types of pages include the:
 Some of the features of a CMS include page design, blog content, and
 content storage.
 
-## 07. Getting Started with WordPress - Part 1
+## 06a. Getting Started with WordPress - Part 1
 <!-- {#getting-started-with-wordpress---part-1 .unnumbered} -->
 
 Welcome to "Getting started with WordPress - Part 1."
@@ -898,7 +898,7 @@ plugins work. Customization options offer different approaches depending
 on the type of customization and functionality you want to add to your
 website.
 
-## 08. Getting Started with WordPress - Part 2
+## 06b. Getting Started with WordPress - Part 2
 <!-- {#getting-started-with-wordpress---part-2 .unnumbered} -->
 
 Welcome to "Getting started with WordPress -- Part 2." After watching
@@ -1056,7 +1056,8 @@ In this video, you learned that:
 
     -   integrating your social media with the website.
 
-# 09. Adding E-commerce to Your Website {#adding-e-commerce-to-your-website .unnumbered}
+## xx. Adding E-commerce to Your Website
+<!-- {#adding-e-commerce-to-your-website .unnumbered} -->
 
 <p align="center">
   <img src="./assets/images/image054.png" alt="image054" style="width:500px;"/>
@@ -1120,7 +1121,7 @@ software will help you easily create high-converting landing pages, web
 pages, and blog posts.
 
 <p align="center">
-<img src="./assets/images/image059.png" alt="image059" style="width:500px;"/>
+  <img src="./assets/images/image059.png" alt="image059" style="width:500px;"/>
 </p>
 
 The first option is to add a store to your website. This option is great
@@ -1132,7 +1133,7 @@ to a website, including web form builders, analytics, SEO meta tags,
 payment gateways, and shopping carts.
 
 <p align="center">
-<img src="./assets/images/image060.png" alt="image060" style="width:500px;"/>
+  <img src="./assets/images/image060.png" alt="image060" style="width:500px;"/>
 </p>
 <!-- {width="5.0in" height="2.8173075240594927in"} -->
 
@@ -1146,7 +1147,7 @@ to your CMS: WordPress and WooCommerce, Joomla and Hikashop, Drupal and
 Drupal Commerce, and Wix and Wix Stores.
 
 <p align="center">
-<img src="./assets/images/image061.png" alt="image061" style="width:500px;"/>
+  <img src="./assets/images/image061.png" alt="image061" style="width:500px;"/>
 </p>
 
 Online marketplaces are beneficial to all. The buyer finds e-commerce
@@ -1154,7 +1155,7 @@ platforms convenient and secure places to purchase goods immediately.
 The seller is attracted to marketplaces by potential customers.
 
 <p align="center">
-<img src="./assets/images/image062.png" alt="image062" style="width:500px;"/>
+  <img src="./assets/images/image062.png" alt="image062" style="width:500px;"/>
 </p>
 
 Let's discuss some easy ways to include marketplaces on your website.
@@ -1196,8 +1197,9 @@ on. You see the latter, including sales, inventory, and other things.
 You need to find an e-commerce partner that enables you to have an
 attractive e-commerce store and an intuitive back-end dashboard.
 
-![](./assets/images/image065.png){width="5.0in"
-height="2.8173075240594927in"}
+<p align="center">
+<img src="./assets/images/image065.png" alt="image065" style="width:500px;"/>
+</p>
 
 There are various options available for website builders. This session
 will discuss the popular platforms: Wix, Weebly, and Squarespace. Wix is
@@ -1211,8 +1213,9 @@ back-end metrics. Squarespace is another easy-to-use tool that offers
 various templates to build and launch a customized online store and
 website in minutes.
 
-![](./assets/images/image066.png){width="5.0in"
-height="2.8173075240594927in"}
+<p align="center">
+<img src="./assets/images/image066.png" alt="image066" style="width:500px;"/>
+</p>
 
 In this section, you learned that:
 
@@ -1231,11 +1234,14 @@ In this section, you learned that:
 -   Wix, Weebly, and Squarespace are popular platforms for website
     building.
 
-# Practice Quiz: CMS & eCommerce {#practice-quiz-cms-ecommerce .unnumbered}
+### Practice Quiz: CMS & eCommerce
+<!-- {#practice-quiz-cms-ecommerce .unnumbered} -->
 
-# Module Summary: Content Management Systems (CMS) {#module-summary-content-management-systems-cms .unnumbered}
+### Module Summary: Content Management Systems (CMS)
+<!-- {#module-summary-content-management-systems-cms .unnumbered} -->
 
-## **Content Management Systems (CMSs)** {#content-management-systems-cmss .unnumbered}
+## 06. **Content Management Systems (CMSs)**
+<!-- {#content-management-systems-cmss .unnumbered} -->
 
 In this module, you learned that:
 
@@ -1262,17 +1268,21 @@ In this module, you learned that:
 
 -   E-commerce enables businesses to sell more locally and globally.
 
-# Graded Quiz: CMS & eCommerce {#graded-quiz-cms-ecommerce .unnumbered}
+### Graded Quiz: CMS & eCommerce
+<!-- {#graded-quiz-cms-ecommerce .unnumbered} -->
 
-# 10. Introduction to Search Engine Optimization (SEO) {#introduction-to-search-engine-optimization-seo .unnumbered}
+## 07. Introduction to Search Engine Optimization (SEO) 
+<!-- {#introduction-to-search-engine-optimization-seo .unnumbered} -->
 
-![](./assets/images/image067.png){width="5.0in"
-height="2.8301279527559053in"}
+<p align="center">
+  <img src="./assets/images/image067.png" alt="image067" style="width:500px;"/>
+</p>
 
 Welcome to "Introduction to Search Engine Optimization (SEO)."
 
-![](./assets/images/image068.png){width="5.0in"
-height="2.8301279527559053in"}
+<p align="center">
+  <img src="./assets/images/image068.png" alt="image068" style="width:500px;"/>
+</p>
 
 After watching this video, you will be able to:
 
@@ -1280,8 +1290,9 @@ After watching this video, you will be able to:
 
 -   and Identify the benefits of using SEO.
 
-![](./assets/images/image069.png){width="5.0in"
-height="2.8301279527559053in"}
+<p align="center">
+  <img src="./assets/images/image069.png" alt="image069" style="width:500px;"/>
+</p>
 
 Search engine optimization (SEO) refers to techniques that help a
 website rank higher in organic search results, making it more visible to
@@ -1296,8 +1307,9 @@ SEM. Paid search requires you to pay to have your website listed on a
 search engine so that it appears when someone types a specific keyword
 or phrase.
 
-![](./assets/images/image070.png){width="5.0in"
-height="2.8301279527559053in"}
+<p align="center">
+  <img src="./assets/images/image070.png" alt="image070" style="width:500px;"/>
+</p>
 
 Let's describe how a search engine works. A search engine needs an
 archive of available information to choose from to display results when
@@ -1311,15 +1323,17 @@ for content and following links on each webpage to other web pages.
 Indexing your website is essential as it will only appear in search
 results if it is done.
 
-![](./assets/images/image071.png){width="5.0in"
-height="2.8344017935258092in"}
+<p align="center">
+  <img src="./assets/images/image071.png" alt="image071" style="width:500px;"/>
+</p>
 
 Now that you know how search engines work, let's explore the types of
 SEO. Some of these include technical SEO, on-page SEO, and off-page SEO.
 Let's discuss each of them in detail.
 
-![](./assets/images/image072.png){width="5.0in"
-height="2.8344017935258092in"}
+<p align="center">
+  <img src="./assets/images/image072.png" alt="image072" style="width:500px;"/>
+</p>
 
 Technical SEO, as the name suggests, relates to the settings that need
 to be set up to facilitate the task of search engine crawlers. Note that
@@ -1333,8 +1347,9 @@ internal links, image SEO, structured data markup, and other techniques.
 When done correctly, on-page SEO will improve a website\'s or blog\'s
 usability and credibility.
 
-![](./assets/images/image073.png){width="5.0in"
-height="2.8344017935258092in"}
+<p align="center">
+  <img src="./assets/images/image073.png" alt="image073" style="width:500px;"/>
+</p>
 
 The last type of SEO we will discuss is off-page SEO. It refers to
 actions taken away from the website to influence the rankings on Search
@@ -1344,8 +1359,9 @@ quality of the connected content. Hence, a website with many high-value
 backlinks usually ranks higher than an otherwise equal website with
 fewer backlinks.
 
-![](./assets/images/image074.png){width="5.0in"
-height="2.8344017935258092in"}
+<p align="center">
+  <img src="./assets/images/image074.png" alt="image074" style="width:500px;"/>
+</p>
 
 Now, we will talk about the benefits of using SEO. Most users click one
 of the top five SERP suggestions. The website must rank among the top
@@ -1355,8 +1371,9 @@ experience and usability. Users trust search engines. Having a presence
 in the top positions for the keywords the user searches for enables the
 website to earn the users' trust.
 
-![](./assets/images/image075.png){width="5.0in"
-height="2.8344017935258092in"}
+<p align="center">
+  <img src="./assets/images/image075.png" alt="image075" style="width:500px;"/>
+</p>
 
 There are additional benefits of using SEO. SEO is essential for the
 social promotion of a website. People who find a website through a
@@ -1370,8 +1387,9 @@ competitive edge. If two websites sell the same product, the
 search-engine-optimized website will have more customers and make more
 sales.
 
-![](./assets/images/image076.png){width="5.0in"
-height="2.8344017935258092in"}
+<p align="center">
+  <img src="./assets/images/image076.png" alt="image076" style="width:500px;"/>
+</p>
 
 In this section, you learned that:
 
@@ -1390,7 +1408,8 @@ In this section, you learned that:
 -   And good SEO practices also improve a website\'s user experience and
     usability.
 
-# 11. Popular SEO Tools {#popular-seo-tools .unnumbered}
+## 08. Popular SEO Tools
+<!-- {#popular-seo-tools .unnumbered} -->
 
 Welcome to "Popular SEO Tools."
 
@@ -1478,7 +1497,8 @@ Tools, PageSpeed Insights, and Google Keyword Planner are some of the
 best free SEO tools available, and SEMrush SEO Toolkit, Ahrefs, Moz Pro,
 Serpstat, and SpyFu are some of the best-paid SEO tools available.
 
-# 12. SEO Strategies {#seo-strategies .unnumbered}
+## 09. SEO Strategies
+<!-- {#seo-strategies .unnumbered} -->
 
 Welcome to SEO Strategies.
 
@@ -1591,7 +1611,8 @@ strategies and optimize the website for a positive experience, and
 finally, monitor and be on the lookout for new trends and best
 practices.
 
-# 13. Mobile Friendly SEO {#mobile-friendly-seo .unnumbered}
+## 10. Mobile Friendly SEO
+<!-- {#mobile-friendly-seo .unnumbered} -->
 
 Welcome to "Mobile friendly SEO."
 
@@ -1696,7 +1717,8 @@ The best tool for determining whether a website is mobile-friendly is
 Google Search Console, and creating a mobile-specific website allows you
 to create content that is completely unique for mobile viewers.
 
-# 14. Page Optimization for SEO {#page-optimization-for-seo .unnumbered}
+## xx. Page Optimization for SEO
+<!-- {#page-optimization-for-seo .unnumbered} -->
 
 Welcome to "Page optimization for SEO."
 
@@ -1727,9 +1749,7 @@ structure elements which include: Page URLs, Internal Linking, Mobile
 Responsiveness, and Site Speed. Let's explore each in detail. The first
 type of on-page SEO component that we are going to discuss is Content
 elements. Content elements are the elements of your website\'s copy and
-content. It provides information about your website and
-
-business to both search engines and readers. Let\'s consider some
+content. It provides information about your website and business to both search engines and readers. Let\'s consider some
 guidelines for creating high-quality page content. Use short and
 long-tail keywords naturally Include visually appealing and relevant
 content. Create content for your specific buyer persona(s). Make content
@@ -1767,13 +1787,12 @@ featured snippets, knowledge panels, and other content features that
 appear when you search for something on Google. The last type of on-page
 SEO component is Site structure elements. It refers to the components of
 your website and site pages. Let's discuss each of them in detail. Your
-page URLs should be easy to remember
-
-for both readers and search engines. They are also important for
-maintaining the consistency of your site hierarchy as you create
-subpages, blog posts, and other types of internal pages. The process of
-hyperlinking to other useful pages on your website is known as internal
-linking. Internal linking is important for on-page SEO because it
+page URLs should be easy to remember for both readers and search engines. 
+They are also important for maintaining the consistency of your site 
+hierarchy as you create subpages, blog posts, and other types of internal 
+pages. The process of hyperlinking to other useful pages on your website 
+is known as internal linking. Internal linking is important for on-page 
+SEO because it
 directs readers to other pages on your website, which keeps them on your
 site longer and tells Google that your site is valuable and helpful.
 Besides that, the more time visitors spend on your website, the more
@@ -1796,7 +1815,8 @@ Content elements are the elements of your website\'s copy and content.
 HTML elements are the elements of your source code, and Site structure
 elements are components of the website.
 
-# 15. Running Campaigns and Tracking Results {#running-campaigns-and-tracking-results .unnumbered}
+## xx. Running Campaigns and Tracking Results
+<!-- {#running-campaigns-and-tracking-results .unnumbered} -->
 
 Welcome to "Running Campaigns and Tracking Results."
 
@@ -1906,9 +1926,11 @@ In this section, you learned that:
 -   and Google Search Console monitors website\'s search traffic and
     performance, troubleshoots problems, and optimizes search results.
 
-# 16. Do's and Don'ts of Search Engine Optimization {#dos-and-donts-of-search-engine-optimization .unnumbered}
+## xx. Do's and Don'ts of Search Engine Optimization
+<!-- {#dos-and-donts-of-search-engine-optimization .unnumbered} -->
 
-## Introduction {#introduction .unnumbered}
+### Introduction
+<!-- {#introduction .unnumbered} -->
 
 While SEO is a component of Internet marketing, it affects almost every
 aspect of a website and has an impact on user experience (UX). There are
@@ -2028,13 +2050,15 @@ don\'ts\" to keep in mind when developing your online strategy.
 |                                | engines will notice.                |
 +--------------------------------+-------------------------------------+
 
-## Conclusion  {#conclusion .unnumbered}
+### Conclusion
+<!--  {#conclusion .unnumbered} -->
 
 These \"do\'s and don\'ts\" are a good starting point for SEO reviews.
 Google\'s ranking algorithm considers over 200 factors, but these
 guidelines will help you stay on top of the basics.
 
-# Hands-on Lab: Optimizing a Website for Search Ranking {#hands-on-lab-optimizing-a-website-for-search-ranking .unnumbered}
+### Hands-on Lab: Optimizing a Website for Search Ranking
+<!-- {#hands-on-lab-optimizing-a-website-for-search-ranking .unnumbered} -->
 
 Welcome to the **Optimizing a Website for Search Ranking** lab!
 
@@ -2061,11 +2085,14 @@ This course uses a third-party app, Hands-on Lab: Optimizing a Website
 for Search Ranking , to enhance your learning experience. The app will
 reference basic information like your name, email, and Coursera ID.
 
-# Practice Quiz: Search Engine Optimization (SEO) {#practice-quiz-search-engine-optimization-seo .unnumbered}
+### Practice Quiz: Search Engine Optimization (SEO)
+<!-- {#practice-quiz-search-engine-optimization-seo .unnumbered} -->
 
-# Module Summary: Search Engine Optimization (SEO) {#module-summary-search-engine-optimization-seo .unnumbered}
+### Module Summary: Search Engine Optimization (SEO)
+<!-- {#module-summary-search-engine-optimization-seo .unnumbered} -->
 
-## **Search Engine Optimization (SEO)** {#search-engine-optimization-seo .unnumbered}
+## xx. **Search Engine Optimization (SEO)**
+<!-- {#search-engine-optimization-seo .unnumbered} -->
 
 In this module, you learned that:
 
@@ -2093,9 +2120,11 @@ In this module, you learned that:
 -   SEO tracking is the process of evaluating a campaign\'s
     effectiveness and development.
 
-# Graded Quiz: Search Engine Optimization (SEO) {#graded-quiz-search-engine-optimization-seo .unnumbered}
+### Graded Quiz: Search Engine Optimization (SEO)
+<!-- {#graded-quiz-search-engine-optimization-seo .unnumbered} -->
 
-# 17. Introduction to Web Build and Automated Tools {#introduction-to-web-build-and-automated-tools .unnumbered}
+## xx. Introduction to Web Build and Automated Tools
+<!-- {#introduction-to-web-build-and-automated-tools .unnumbered} -->
 
 Welcome to \"Introduction to Web Build and Automated Tools."
 
@@ -2218,7 +2247,8 @@ bundlers in a given situation, some important functions of build
 JavaScript tools, the five main benefits of Build automation, and some
 popular web build tools and bundlers used in web development.
 
-# 18. Introduction to Webpack 5 {#introduction-to-webpack-5 .unnumbered}
+## xx. Introduction to Webpack 5
+<!-- {#introduction-to-webpack-5 .unnumbered} -->
 
 Welcome to the "Introduction to Webpack 5." After watching this video,
 you will be able to: describe Webpack 5, explain some advantages of
@@ -2291,7 +2321,8 @@ In this section, you learned that:
     big file. It is powerful and has a unique plugin system as well as
     numerous other benefits.
 
-# 19. Essential Concepts of Webpack {#essential-concepts-of-webpack .unnumbered}
+## xx. Essential Concepts of Webpack
+<!-- {#essential-concepts-of-webpack .unnumbered} -->
 
 Welcome to "Essentials Concepts of Webpack"
 
@@ -2362,7 +2393,8 @@ In this section, you learned that:
 
 -   Plugins allow Webpack to perform a wide range of tasks.
 
-# 20. Working with Webpack {#working-with-webpack .unnumbered}
+## xx. Working with Webpack
+<!-- {#working-with-webpack .unnumbered} -->
 
 Welcome to "Working with Webpack."
 
@@ -2446,7 +2478,8 @@ assets are handled in a configuration file, code splitting and the three
 ways to accomplish it, the functions of Preload and Prefetch, and the
 three main configuration modes for Webpack.
 
-# 21. Setting up Production with Webpack {#setting-up-production-with-webpack .unnumbered}
+## xx. Setting up Production with Webpack
+<!-- {#setting-up-production-with-webpack .unnumbered} -->
 
 Welcome to "Setting up Production with Webpack."
 
@@ -2522,7 +2555,8 @@ In this section, you learned that:
 -   Clean up old assets to avoid the minification of all the files in
     the public folder.
 
-# 22. Using Webpack Tools {#using-webpack-tools .unnumbered}
+## xx. Using Webpack Tools
+<!-- {#using-webpack-tools .unnumbered} -->
 
 Welcome to "Using Webpack Tools."
 
@@ -2618,7 +2652,8 @@ In this section, you learned that:
 -   Webpack Bundle Analyzer helps to acknowledge the contents of the
     bundle and discover large modules.
 
-# 23. Using Webpack with Frontend Frameworks {#using-webpack-with-frontend-frameworks .unnumbered}
+## xx. Using Webpack with Frontend Frameworks
+<!-- {#using-webpack-with-frontend-frameworks .unnumbered} -->
 
 Welcome to "Using Webpack with Frontend Frameworks.\"
 
@@ -2749,9 +2784,11 @@ In this section, you learned about;
 
 -   and the steps to configure Webpack with Angular, Vue, and React.
 
-# Hands on Lab: Build and Deploy a website using Webpack {#hands-on-lab-build-and-deploy-a-website-using-webpack .unnumbered}
+### Hands on Lab: Build and Deploy a website using Webpack
+<!-- {#hands-on-lab-build-and-deploy-a-website-using-webpack .unnumbered} -->
 
-## Welcome to the **Build and Deploy a website using Webpack** lab!  {#welcome-to-the-build-and-deploy-a-website-using-webpack-lab .unnumbered}
+### Welcome to the **Build and Deploy a website using Webpack** lab!
+<!--  {#welcome-to-the-build-and-deploy-a-website-using-webpack-lab .unnumbered} -->
 
 In this lab, you will learn how to package your web application using
 Webpack. The lab is a continuation of the Fruit Marketplace.
@@ -2770,7 +2807,8 @@ This course uses a third-party app, Hands on Lab: Build and Deploy a
 website using Webpack, to enhance your learning experience. The app will
 reference basic information like your name, email, and Coursera ID.
 
-# 24. Webpack Best Practices {#webpack-best-practices .unnumbered}
+## xx. Webpack Best Practices
+<!-- {#webpack-best-practices .unnumbered} -->
 
 Welcome to "Webpack Best Practices."
 
@@ -2879,9 +2917,11 @@ smaller, self-contained chunks. Caching enables the build process to
 save previous build results. Tree shaking removes unnecessary code from
 the final bundle.
 
-# 25. Reading: HTTPS & SSL Certificates {#reading-https-ssl-certificates .unnumbered}
+## xx. Reading: HTTPS & SSL Certificates
+<!-- {#reading-https-ssl-certificates .unnumbered} -->
 
-## What is HTTPS? {#what-is-https .unnumbered}
+### What is HTTPS?
+<!-- {#what-is-https .unnumbered} -->
 
 Hypertext transfer protocol secure (HTTPS) is the secure version of
 HTTP, which is the primary protocol used to send data between a web
@@ -2898,7 +2938,8 @@ Look for a padlock in the URL bar to signify that the webpage is secure.
 Web browsers take HTTPS seriously; Google Chrome and other browsers flag
 all non-HTTPS websites as not secure.
 
-## How does HTTPS work? {#how-does-https-work .unnumbered}
+### How does HTTPS work?
+<!-- {#how-does-https-work .unnumbered} -->
 
 HTTPS uses an encryption protocol to encrypt communications. The
 protocol is called Transport Layer Security (TLS), formerly known as
@@ -2916,14 +2957,16 @@ The public key - this key is available to everyone who wants to interact
 with the server in a way that's secure. Information that's encrypted by
 the public key can only be decrypted by the private key.
 
-## How does a website start using HTTPS? {#how-does-a-website-start-using-https .unnumbered}
+### How does a website start using HTTPS?
+<!-- {#how-does-a-website-start-using-https .unnumbered} -->
 
 Many website hosting providers and other services will offer TLS/SSL
 certificates for a fee. These certificates will often be shared amongst
 many customers. More expensive certificates are available, which can be
 individually registered to particular web properties.
 
-## What is an SSL Certificate? {#what-is-an-ssl-certificate .unnumbered}
+### What is an SSL Certificate?
+<!-- {#what-is-an-ssl-certificate .unnumbered} -->
 
 SSL stands for Secure Sockets Layer, and, in short, it\'s the standard
 technology for keeping an internet connection secure and safeguarding
@@ -2944,7 +2987,8 @@ numbers and other financial information, names, and addresses.
 TLS (Transport Layer Security) is just an updated, more secure version
 of SSL.
 
-## How Does an SSL Certificate Work? {#how-does-an-ssl-certificate-work .unnumbered}
+### How Does an SSL Certificate Work?
+<!-- {#how-does-an-ssl-certificate-work .unnumbered} -->
 
 SSL certificates protect data transfer using two different encryption
 techniques: asymmetric and symmetric.
@@ -2975,11 +3019,14 @@ here's an overview of the process:
     communications. This key will remain valid for a limited time and
     only for that particular session.
 
-# Practice Quiz: Introduction to Web Build with Webpack {#practice-quiz-introduction-to-web-build-with-webpack .unnumbered}
+### Practice Quiz: Introduction to Web Build with Webpack
+<!-- {#practice-quiz-introduction-to-web-build-with-webpack .unnumbered} -->
 
-# Module Summary: Introduction to Automated Build Tools (Webpack) {#module-summary-introduction-to-automated-build-tools-webpack .unnumbered}
+### Module Summary: Introduction to Automated Build Tools (Webpack)
+<!-- {#module-summary-introduction-to-automated-build-tools-webpack .unnumbered} -->
 
-## In this module, you learned that: {#in-this-module-you-learned-that .unnumbered}
+### In this module, you learned that:
+<!-- {#in-this-module-you-learned-that .unnumbered} -->
 
 -   Build automation is preparing the source code for production so that
     users can interact with it comfortably.
@@ -3005,9 +3052,11 @@ here's an overview of the process:
 
 -   Some best practices can be implemented to optimize Webpack.
 
-# Graded Quiz: Introduction to Web Build with Webpack {#graded-quiz-introduction-to-web-build-with-webpack .unnumbered}
+### Graded Quiz: Introduction to Web Build with Webpack
+<!-- {#graded-quiz-introduction-to-web-build-with-webpack .unnumbered} -->
 
-# 26. JavaScript Optimization {#javascript-optimization .unnumbered}
+## xx. JavaScript Optimization
+<!-- {#javascript-optimization .unnumbered} -->
 
 Welcome to JavaScript Optimization. After watching this video, you will
 be able to: define web optimization and JavaScript, explain how web
@@ -3099,7 +3148,8 @@ usability. Web performance optimization provides user information
 quickly while ensuring a smooth interactive experience, and JavaScript
 tips affect the performance of a web application and how to improve it.
 
-# 27. Popular Optimization Tools {#popular-optimization-tools .unnumbered}
+## xx. Popular Optimization Tools
+<!-- {#popular-optimization-tools .unnumbered} -->
 
 Welcome to Popular Optimization Tools!
 
@@ -3184,7 +3234,8 @@ and provide optimized recommendations, and JavaScript optimization tools
 remove unnecessary codes, which reduces the time required for browsers
 to analyze and compile code.
 
-# 28. Testing Frameworks {#testing-frameworks .unnumbered}
+## xx. Testing Frameworks
+<!-- {#testing-frameworks .unnumbered} -->
 
 Welcome to Testing Frameworks. After watching this video, you will be
 able to: define testing frameworks and their components, list the key
@@ -3278,7 +3329,8 @@ fixes bugs, and helps achieve code integrity and optimization, and some
 popular JavaScript testing frameworks are Jest, Playwright, Mocha,
 Cypress, Jasmine, and Puppeteer.
 
-# 29. Testing Tools -- Mocha and Jasmine {#testing-tools-mocha-and-jasmine .unnumbered}
+## xx. Testing Tools -- Mocha and Jasmine
+<!-- {#testing-tools-mocha-and-jasmine .unnumbered} -->
 
 Welcome to \"Testing Tools -- Mocha and Jasmine.\"
 
@@ -3377,7 +3429,8 @@ overhead, has no external dependencies, and slow tests can be
 highlighted in Jasmine using jasmine-slow-reporter, whereas Mocha has it
 built-in.
 
-# 30. Using Jasmine {#using-jasmine .unnumbered}
+## xx. Using Jasmine
+<!-- {#using-jasmine .unnumbered} -->
 
 Welcome to Using Jasmine!
 
@@ -3448,7 +3501,8 @@ gem, and Node.js. The fundamental concepts of Jasmine are suite, spec,
 matchers, expectations, describe functions, and spies, and There are
 five steps to testing codes and React with Jasmine.
 
-# 31. Front-end Testing Best Practices {#front-end-testing-best-practices .unnumbered}
+## xx. Front-end Testing Best Practices
+<!-- {#front-end-testing-best-practices .unnumbered} -->
 
 Welcome to \"Front-end Testing Best Practices.\"
 
@@ -3549,9 +3603,11 @@ There are certain aspects of an application\'s front end that need to be
 focused on while performing front-end testing, and front-end testing
 tools ensure proper functionality of critical elements of a web page.
 
-# Hands-on Lab: Testing a React Application using Jasmine {#hands-on-lab-testing-a-react-application-using-jasmine .unnumbered}
+### Hands-on Lab: Testing a React Application using Jasmine
+<!-- {#hands-on-lab-testing-a-react-application-using-jasmine .unnumbered} -->
 
-## Welcome to the **Testing a React Application using Jasmine** lab!  {#welcome-to-the-testing-a-react-application-using-jasmine-lab .unnumbered}
+### Welcome to the **Testing a React Application using Jasmine** lab!
+<!--  {#welcome-to-the-testing-a-react-application-using-jasmine-lab .unnumbered} -->
 
 In this lab, you will learn how to test your logic in React with
 Jasmine.
@@ -3570,9 +3626,11 @@ This course uses a third-party app, Hands-on Lab: Testing a React
 Application using Jasmine, to enhance your learning experience. The app
 will reference basic information like your name, email, and Coursera ID.
 
-# Practice Quiz: JavaScript Optimization and Testing Frameworks {#practice-quiz-javascript-optimization-and-testing-frameworks .unnumbered}
+### Practice Quiz: JavaScript Optimization and Testing Frameworks
+<!-- {#practice-quiz-javascript-optimization-and-testing-frameworks .unnumbered} -->
 
-# Module Summary: Cross-Browser JavaScript Optimization and Testing Frameworks {#module-summary-cross-browser-javascript-optimization-and-testing-frameworks .unnumbered}
+### Module Summary: Cross-Browser JavaScript Optimization and Testing Frameworks
+<!-- {#module-summary-cross-browser-javascript-optimization-and-testing-frameworks .unnumbered} -->
 
 In this module, you learned that:
 
@@ -3603,9 +3661,11 @@ In this module, you learned that:
 -   Front-end testing tools ensure proper functionality of the critical
     elements of a web page.
 
-# Graded Quiz: JavaScript Optimization and Testing Frameworks {#graded-quiz-javascript-optimization-and-testing-frameworks .unnumbered}
+### Graded Quiz: JavaScript Optimization and Testing Frameworks
+<!-- {#graded-quiz-javascript-optimization-and-testing-frameworks .unnumbered} -->
 
-# 32. JavaScript Debugging {#javascript-debugging .unnumbered}
+## xx. JavaScript Debugging
+<!-- {#javascript-debugging .unnumbered} -->
 
 Welcome to "JavaScript Debugging." After watching this video, you will
 be able to: Describe debugging, Describe the process of debugging
@@ -3696,18 +3756,19 @@ creating global variables is outside. Its usage can be everywhere,
 whereas local variables are created inside a function. Its usage is by
 function.
 
-In this video, you learned about:
+In this module, you learned about:
 
 Debugging is an essential part of the software development process. A
 few steps are used to recognize and fix bugs. Debugging has many
 benefits. You can encounter JavaScript bugs in your code due to some
 factors.
 
-# 33. Basic Debugging Concepts {#basic-debugging-concepts .unnumbered}
+## xx. Basic Debugging Concepts
+<!-- {#basic-debugging-concepts .unnumbered} -->
 
 Welcome to "Basic Debugging Concepts."
 
-After watching this video, you will be able to:
+After reading this module, you will be able to:
 
 -   describe debugging strategies,
 
@@ -3817,9 +3878,10 @@ video, you learned about: debugging strategies used to localize an
 error, types of errors that one can experience while programming, and
 important debugging terminologies.
 
-# 34. Introduction to Debugging Tools {#introduction-to-debugging-tools .unnumbered}
+## xx. Introduction to Debugging Tools
+<!-- {#introduction-to-debugging-tools .unnumbered} -->
 
-Welcome to "Introduction to Debugging Tools." After watching this video,
+Welcome to "Introduction to Debugging Tools." After reading this module,
 you will be able to:
 
 -   Describe debugging tools,
@@ -3832,7 +3894,7 @@ development as well as a variety of other tasks, debugging being one of
 the most important. These tools simplify your work by analyzing
 potential issues with CSS, HTML, and JavaScript used in the code.
 
-In this video, we will
+In this module, we will:
 
 -   discuss some browser debugging tools which can help you not only
     debug and analyze your code but also inspect HTTP headers,
@@ -3901,7 +3963,8 @@ or extensions Debugging tool is a software program that enables you to
 debug a program There are some common debugging tools used by
 developers.
 
-# 35. Troubleshooting with Chrome DevTools {#troubleshooting-with-chrome-devtools .unnumbered}
+## xx. Troubleshooting with Chrome DevTools
+<!-- {#troubleshooting-with-chrome-devtools .unnumbered} -->
 
 Welcome to Troubleshooting with Chrome DevTools! After watching this
 video, you will be able to: Describe Chrome DevTools and its various
@@ -4002,7 +4065,8 @@ output something to the console, and Chrome DevTools helps switch
 between different mobile screen types and versions in addition to
 changing the screen size of a webpage.
 
-# 36. Monitoring your Website {#monitoring-your-website .unnumbered}
+## xx. Monitoring your Website
+<!-- {#monitoring-your-website .unnumbered} -->
 
 Welcome to "Monitoring your Website."
 
@@ -4135,7 +4199,8 @@ complete the process of automated website monitoring, the three types of
 website monitoring: availability monitoring, performance monitoring,
 functionality monitoring, and some popular website monitoring metrics.
 
-# 37. Popular Monitoring Tools {#popular-monitoring-tools .unnumbered}
+## xx. Popular Monitoring Tools
+<!-- {#popular-monitoring-tools .unnumbered} -->
 
 Welcome to Popular Monitoring Tools!
 
@@ -4240,9 +4305,11 @@ API endpoints proactively and sends alerts based on predefined
 parameters, and Allows developers to create effective software by
 providing a diverse set of tools.
 
-# Hands on Lab: Troubleshooting Common Errors with Chrome Dev Tools {#hands-on-lab-troubleshooting-common-errors-with-chrome-dev-tools .unnumbered}
+### Hands on Lab: Troubleshooting Common Errors with Chrome Dev Tools
+<!-- {#hands-on-lab-troubleshooting-common-errors-with-chrome-dev-tools .unnumbered} -->
 
-## Welcome to the **Troubleshooting Common Errors with Chrome Dev Tools** lab! {#welcome-to-the-troubleshooting-common-errors-with-chrome-dev-tools-lab .unnumbered}
+### Welcome to the **Troubleshooting Common Errors with Chrome Dev Tools** lab!
+<!-- {#welcome-to-the-troubleshooting-common-errors-with-chrome-dev-tools-lab .unnumbered} -->
 
 In this lab, you will learn how to use Chrome DevTools by working
 directly in the Elements, Console, and Sources panels.
@@ -4264,9 +4331,11 @@ Errors with Chrome Dev Tools, to enhance your learning experience. The
 app will reference basic information like your name, email, and Coursera
 ID.
 
-# Practice Quiz: Debugging and Monitoring Websites {#practice-quiz-debugging-and-monitoring-websites .unnumbered}
+### Practice Quiz: Debugging and Monitoring Websites
+<!-- {#practice-quiz-debugging-and-monitoring-websites .unnumbered} -->
 
-# Module Summary: Debugging and Troubleshooting {#module-summary-debugging-and-troubleshooting .unnumbered}
+### Module Summary: Debugging and Troubleshooting
+<!-- {#module-summary-debugging-and-troubleshooting .unnumbered} -->
 
 In this module, you learned that:
 
@@ -4298,9 +4367,11 @@ In this module, you learned that:
 -   By providing various tools, monitoring tools enable developers to
     create compelling software.
 
-# Graded Quiz: Debugging and Troubleshooting {#graded-quiz-debugging-and-troubleshooting .unnumbered}
+### Graded Quiz: Debugging and Troubleshooting
+<!-- {#graded-quiz-debugging-and-troubleshooting .unnumbered} -->
 
-# Final Project: Interest Rate Calculator {#final-project-interest-rate-calculator .unnumbered}
+## xx. Final Project: Interest Rate Calculator
+<!-- {#final-project-interest-rate-calculator .unnumbered} -->
 
 Welcome to the hands- on lab for **Interest Rate Calculator**.
 
@@ -4318,7 +4389,8 @@ This course uses a third-party app, Final Project: Interest Rate
 Calculator, to enhance your learning experience. The app will reference
 basic information like your name, email, and Coursera ID.
 
-# Peer-graded Assignment: Final Submission and Evaluation {#peer-graded-assignment-final-submission-and-evaluation .unnumbered}
+### Peer-graded Assignment: Final Submission and Evaluation
+<!-- {#peer-graded-assignment-final-submission-and-evaluation .unnumbered} -->
 
 There are 10 points for nine tasks in this final project. Your peers who
 will grade your final assignment are also completing this assignment
@@ -4349,7 +4421,7 @@ desktop.*
 *To upload the file, click upload file, navigate to the file, or drag
 and drop the file icon onto the window.*
 
-## Review criteria
+### Review criteria
 <!-- {#review-criteria .unnumbered} -->
 
 1.  Show favicon working, upload a screenshot of your browser tab and
@@ -4385,3 +4457,4 @@ and drop the file icon onto the window.*
     solution along with source, and save it as 09-final-output. (2 pts)
 
 
+<!-- last updated 7/9/2023 10:48am -->
