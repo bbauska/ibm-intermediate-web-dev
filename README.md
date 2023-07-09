@@ -11,6 +11,53 @@ ibm-intermediate-web-dev: IBM's Intermediate Web & Front-end Development
 <!-- {width="5.0in" height="2.8327996500437447in"}  -->
 </p>
 
+<h2><a href="#table-of-contents">Table of Contents</a></h2>
+
+## [**Week 1: Content Management Systems (CMS)**](#ch1)
+>### 1.1 [**Introduction to Intermediate Web &amp; Front-end Development**](#ch1-1)
+>### 1.2 [**Introduction to Content Management Systems (CMS)**](#ch1-2)
+>### 1.3 [**Features of Web CMS**](#ch1-3)
+>### 1.4 [**Popular CMS Platforms/Tools**](#ch1-4)
+>### 1.5 [**Web Development with CMS**](#ch1-5)
+>### 1.6 [**Getting Started with WordPress**](#ch1-6)
+>### 1.7 [**Adding E-Commerce to your Website**](#ch1-7)
+
+## [**Week 2: Search Engine Optimization (SEO)**](#ch2)
+>### 2.1 [**Introduction to Search Engine Optimization (SEO)**](#ch2-1-1)
+>### 2.2 [**Streaming multimedia content: the video and audio elements**](#ch2-2-1)
+>### 2.3 [**Subtitles and closed captions**](#ch2-3-1)
+>### 2.4 [**Enhanced HTML5 media players and frameworks**](#ch2-4-1)
+>### 2.5 [**Webcam, microphone: the getUserMedia API**](#ch2-5-1)
+>### 2.6 [**Exercises - Module 2**](#ch2-6-1)
+
+## [**Week 3: **](#ch3)
+>### 3.1 [**xxx**](#ch3-1-1)
+>### 3.2 [**xxxs**](#ch3-2-1)
+>### 3.3 [**xxx**](#ch3-3-1)
+>### 3.4 [**xxx**](#ch3-4-1)
+
+## [**Week 4: **](#ch4)
+>### 4.1 [**xxx**](#ch4-1-1)
+>### 4.2 [**xxx**](#ch4-2-1)
+>### 4.3 [**xxx**](#ch4-3-1)
+>### 4.4 [**xxx**](#ch4-4-1)
+>### 4.5 [**xxx**](#ch4-5-1)
+
+## [**Week 5: **](#ch5)
+>### 5.1 [**xxx**](#ch5-1-1)
+>### 5.2 [**xxx**](#ch5-2-1)
+>### 5.3 [**xxx**](#ch5-3-1)
+
+## [**Week 6: **](#ch6)
+>### 6.1 [**Introduction - Module 6**](#ch6-1-1)
+>### 6.2 [**Introduction to HTML5 APIs**](#ch6-2-1)
+>### 6.3 [**HTML5 Cache**](#ch6-3-1)
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+
 ## 01. Course Introduction
 <!-- {#table-of-contents .TOC-Heading .unnumbered} -->
 
