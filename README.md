@@ -4,11 +4,11 @@
 <!-- https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction -->
 
 <p align="center">
-<img src="./assets/images/image001.png" alt="image001" style="width:500px;"/>
+  <img src="./assets/images/image001.png" alt="image001" style="width:500px;"/>
 <!-- {width="5.0in" height="2.8327996500437447in"}  -->
 </p>
 
-# Table of Contents
+## Table of Contents
 <!-- {#table-of-contents .TOC-Heading .unnumbered} -->
 
 Hello and welcome to this course on Intermediate Web and Front-end
@@ -41,7 +41,7 @@ here is the first step towards a long and rewarding career as a web
 developer.
 
 <p align="center">
-<img src="./assets/images/image002.png" alt="image002" style="width:500px;"/>
+  <img src="./assets/images/image002.png" alt="image002" style="width:500px;"/>
 </p>
 <!-- {width="5.0in" height="2.8327996500437447in"} -->
 
@@ -57,7 +57,7 @@ improve your skills as a front-end developer and understand the
 technical aspect of web and front-end application development. 
 
 <p align="center">
-<img src="./assets/images/image003.png" alt="image003" style="width:500px;"/>
+  <img src="./assets/images/image003.png" alt="image003" style="width:500px;"/>
 </p>
 <!-- {width="5.0in" height="2.8327996500437447in"} -->
 
@@ -83,7 +83,7 @@ learned, leading to a shareable badge and certificate that you can show
 prospective employers. We're here to support your success and are
 excited you're here. Let's get started!
 
-# Introduction to Content Management System (CMS)
+## Introduction to Content Management System (CMS)
 
 <p align="center">
 <img src="./assets/images/image004.png" alt="image004" style="width:500px;"/>
@@ -242,7 +242,8 @@ In this video, you learned that:
 -   Some popular CMS platforms are WordPress, Drupal, Joomla, Magento,
     Squarespace, and Wix.
 
-# 02. Features of Web CMS {#features-of-web-cms .unnumbered}
+## 02. Features of Web CMS
+<!-- {#features-of-web-cms .unnumbered} -->
 
 <https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/BWeid/features-of-web-cms>
 
@@ -376,7 +377,8 @@ In this section, you learned that:
 -   A WCMS has several features that an end user can use to create and
     manage the content on their website.
 
-# 03. Popular CMS Platforms/Tools {#popular-cms-platformstools .unnumbered}
+## 03. Popular CMS Platforms/Tools
+<!-- {#popular-cms-platformstools .unnumbered} -->
 
 <p align="center">
   <img src="./assets/images/image024.png" alt="image024" style="width:500px;"/>
@@ -512,7 +514,8 @@ traditional CMSs. WordPress offers the flexibility to build and run any
 type website. Joomla, Squarespace, Wix, Shopify, Drupal, and Adobe
 Commerce are all popular CMS platforms.
 
-# 05. Web Development with CMS - Part 1 {#web-development-with-cms---part-1 .unnumbered}
+## 05. Web Development with CMS - Part 1
+<!-- {#web-development-with-cms---part-1 .unnumbered} -->
 
 <p align="center">
 <img src="./assets/images/image033.png" alt="image033" style="width:500px;"/>
@@ -661,7 +664,8 @@ In this section, you learned about: The important elements of a web
 development plan, and some best practices to create a successful
 website.
 
-# 06. Web Development with CMS - Part 2 {#web-development-with-cms---part-2 .unnumbered}
+## 06. Web Development with CMS - Part 2
+<!-- {#web-development-with-cms---part-2 .unnumbered} -->
 
 <p align="center">
   <img src="./assets/images/image044.png" alt="image044" style="width:500px;"/>
@@ -813,7 +817,8 @@ types of pages on a website. The types of pages include the:
 Some of the features of a CMS include page design, blog content, and
 content storage.
 
-# 07. Getting Started with WordPress - Part 1 {#getting-started-with-wordpress---part-1 .unnumbered}
+## 07. Getting Started with WordPress - Part 1
+<!-- {#getting-started-with-wordpress---part-1 .unnumbered} -->
 
 Welcome to "Getting started with WordPress - Part 1."
 
@@ -893,7 +898,8 @@ plugins work. Customization options offer different approaches depending
 on the type of customization and functionality you want to add to your
 website.
 
-# 08. Getting Started with WordPress - Part 2 {#getting-started-with-wordpress---part-2 .unnumbered}
+## 08. Getting Started with WordPress - Part 2
+<!-- {#getting-started-with-wordpress---part-2 .unnumbered} -->
 
 Welcome to "Getting started with WordPress -- Part 2." After watching
 this video, you will be able to: Describe the popular website builder,
@@ -1052,13 +1058,15 @@ In this video, you learned that:
 
 # 09. Adding E-commerce to Your Website {#adding-e-commerce-to-your-website .unnumbered}
 
-![](./assets/images/image054.png){width="5.0in"
-height="2.6330129046369204in"}
+<p align="center">
+  <img src="./assets/images/image054.png" alt="image054" style="width:500px;"/>
+</p>
 
 Welcome to "Adding E-commerce to Your Website."
 
-![](./assets/images/image055.png){width="5.0in"
-height="2.671474190726159in"}
+<p align="center">
+  <img src="./assets/images/image055.png" alt="image055" style="width:500px;"/>
+</p>
 
 After watching this video, you will be able to:
 
@@ -1067,8 +1075,11 @@ After watching this video, you will be able to:
 
 -   and describe how to add e-commerce functionality to your website.
 
-> ![](./assets/images/image056.png){width="5.0in"
-> height="2.671474190726159in"}
+<p align="center">
+  <img src="./assets/images/image056.png" alt="image056" style="width:500px;"/>
+</p>
+<!-- > ![](./assets/images/image056.png) -->
+<!-- {width="5.0in" > height="2.671474190726159in"} -->
 
 Businesses must adapt to the new online world to remain relevant and
 profitable. Those who depend on customers visiting a storefront must
@@ -1081,8 +1092,9 @@ how you build your website. However, like most businesses, if you\'re
 either using WordPress website or a website builder to create your
 website, adding e-commerce functionality is simple.
 
-![](./assets/images/image057.png){width="5.0in"
-height="2.671474190726159in"}
+<p align="center">
+  <img src="./assets/images/image057.png" alt="image057" style="width:500px;"/>
+</p>
 
 The global consultancy firm AT Kearney stated, \"e-commerce is the next
 frontier in global expansion. Global e-commerce has grown by thirteen
@@ -1092,8 +1104,10 @@ markets and complement existing store footprints." E-commerce is easy
 and affordable. It allows you to sell locally and globally every hour of
 every day.
 
-![](./assets/images/image058.png){width="5.0in"
-height="2.671474190726159in"}
+<p align="center">
+  <img src="./assets/images/image058.png" alt="image058" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.671474190726159in"} -->
 
 Adding e-commerce features to a website requires a certain degree of
 technical knowledge. Here are some ways to add e-commerce to your
@@ -1105,8 +1119,9 @@ shopping basket to your website. Using drag-and-drop website builder
 software will help you easily create high-converting landing pages, web
 pages, and blog posts.
 
-![](./assets/images/image059.png){width="5.0in"
-height="2.697115048118985in"}
+<p align="center">
+<img src="./assets/images/image059.png" alt="image059" style="width:500px;"/>
+</p>
 
 The first option is to add a store to your website. This option is great
 if you have full permission to edit your website. You can add payment
@@ -1116,8 +1131,10 @@ or plugins. These plugins are software that add various functionalities
 to a website, including web form builders, analytics, SEO meta tags,
 payment gateways, and shopping carts.
 
-![](./assets/images/image060.png){width="5.0in"
-height="2.8173075240594927in"}
+<p align="center">
+<img src="./assets/images/image060.png" alt="image060" style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.8173075240594927in"} -->
 
 If you're a lucky owner of WordPress, Joomla, or Drupal websites,
 installing a plugin will be the most viable way to add e-commerce
@@ -1128,15 +1145,17 @@ select the one compatible with your website version, and click
 to your CMS: WordPress and WooCommerce, Joomla and Hikashop, Drupal and
 Drupal Commerce, and Wix and Wix Stores.
 
-![](./assets/images/image061.png){width="5.0in"
-height="2.8173075240594927in"}
+<p align="center">
+<img src="./assets/images/image061.png" alt="image061" style="width:500px;"/>
+</p>
 
 Online marketplaces are beneficial to all. The buyer finds e-commerce
 platforms convenient and secure places to purchase goods immediately.
 The seller is attracted to marketplaces by potential customers.
 
-![](./assets/images/image062.png){width="5.0in"
-height="2.8173075240594927in"}
+<p align="center">
+<img src="./assets/images/image062.png" alt="image062" style="width:500px;"/>
+</p>
 
 Let's discuss some easy ways to include marketplaces on your website.
 WooCommerce, WP e-commerce, and BigCommerce are service providers that
@@ -1154,8 +1173,9 @@ button to make it a part of your website. The solution costs a few
 dollars monthly and requires little effort to integrate into the
 existing website.
 
-![](./assets/images/image063.png){width="5.0in"
-height="2.8173075240594927in"}
+<p align="center">
+<img src="./assets/images/image063.png" alt="image063" style="width:500px;"/>
+</p>
 
 Here are the steps to add the Shopify Buy button to your website. Add
 the Buy Button sales channel. Select the plus button next to the Sales
@@ -1165,8 +1185,9 @@ Add channel. To create a Buy button, go back to your Shopify admin and
 go to the Buy Button. Select Create a Buy Button. Select the Product Buy
 Button.
 
-![](./assets/images/image064.png){width="5.0in"
-height="2.8173075240594927in"}
+<p align="center">
+<img src="./assets/images/image064.png" alt="image064" style="width:500px;"/>
+</p>
 
 An e-commerce store has two parts: the front-end store and the back-end
 dashboard. The former is what everyone sees when they visit your site,
@@ -4328,7 +4349,8 @@ desktop.*
 *To upload the file, click upload file, navigate to the file, or drag
 and drop the file icon onto the window.*
 
-## Review criteria {#review-criteria .unnumbered}
+## Review criteria
+<!-- {#review-criteria .unnumbered} -->
 
 1.  Show favicon working, upload a screenshot of your browser tab and
     save it as 01-favicon-visible as a .png file or a .jpg file (see
