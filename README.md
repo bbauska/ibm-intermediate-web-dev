@@ -872,6 +872,12 @@ content storage.
 
 Welcome to "Getting started with WordPress - Part 1."
 
+<p align="center">
+  <img src="./assets/images/image053.png" alt="image053" style="width:500px;"/>
+</p>
+
+![wp-001](https://github.com/bbauska/ibm-intermediate-web-dev/assets/41387907/d6569821-b78c-4db2-81e2-03dd4be1ec48)
+
 After watching this video, you will be able to: define WordPress as a
 Content Management System (CMS) and describe key concepts related to
 WordPress WordPress is a CMS that helps you build and manage your
