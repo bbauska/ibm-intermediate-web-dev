@@ -4447,8 +4447,7 @@ Network Labs and will only be used for communicating important
 information to enhance your learning experience.
 
 In case you are having issues with the Lab environment, you can view the
-lab by clicking this
-[link](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-WD0231EN-SkillsNetwork/labs/FinalProject/02-Instructions.md.html).
+lab by [clicking this link](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-WD0231EN-SkillsNetwork/labs/FinalProject/02-Instructions.md.html).
 
 This course uses a third-party app, Final Project: Interest Rate
 Calculator, to enhance your learning experience. The app will reference
@@ -4521,5 +4520,12 @@ and drop the file icon onto the window.*
 9.  Show achieving the goal state, upload a screenshot of your final
     solution along with source, and save it as 09-final-output. (2 pts)
 
+<!--
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" target="_blank">
+  <img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+  alt="IMAGE ALT TEXT HERE" 
+  width="240" height="180" 
+  border="10" /></a>
+-->
 
-<!-- last updated 7/9/2023 10:48am -->
+<!-- last updated 7/13/2023 1:13pm -->
