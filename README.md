@@ -16,7 +16,7 @@ output:
   <img src="./assets/images/image001.png" 
   class="drop-shadow"
   alt="Intermediate Web &amp; Front-end Development" 
-  style="box-shadow: 0 3px 5px rgba(0, 0, 0, 0.4);"/>
+  style="drop-shadow: 0 3px 5px rgba(0, 0, 0, 0.4);"/>
 <!-- {width="5.0in" height="2.8327996500437447in"}  -->
 </p>
 
