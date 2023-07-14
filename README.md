@@ -3,7 +3,7 @@ title: "IBM's Intermediate Web & Front-end Development"
 author: "bbauska"
 date: "7/14/2023 4pm"
 output: 
-  html_document:
+  markdown:
      css: 
      self_contained: no
 ---
