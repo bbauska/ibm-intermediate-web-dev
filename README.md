@@ -4,7 +4,7 @@ author: "bbauska"
 date: "7/14/2023 4pm"
 output: 
   html_document:
-     css: ./assets/css/styles.css
+     css: 
      self_contained: no
 ---
 <!-- [IBM's Intermediate Web and Front-End Development by Coursera](https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction) -->
