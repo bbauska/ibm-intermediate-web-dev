@@ -15,7 +15,7 @@ output:
   <img src="./assets/images/image001.png" 
   alt="Intermediate Web &amp; Front-end Development" 
   style="border: 2px solid  gray;" 
-  width="400" />
+  width="500" />
 <!--  style="box-shadow: 3px 3px 3px gray;"> -->
 <!--  style="drop-shadow: 0 3px 5px rgba(0, 0, 0, 0.4);" -->
 <!-- {width="5.0in" height="2.8327996500437447in"}  -->
@@ -116,9 +116,8 @@ developer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image002.png"
-  class="displayed"
   alt="image002"
-  style="box-shadow: 0 3px 5px rgba(0, 0, 0, 0.4);"/>
+  width="500" />
 </p>
 <!-- height="2.8327996500437447in"} -->
 
@@ -140,8 +139,8 @@ technical aspect of web and front-end application development.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image003.png"
-  class="displayed"
-  alt="image003" style="width:500px;"/>
+  alt="image003"
+  width="500" />
 </p>
 <!-- {width="5.0in" height="2.8327996500437447in"} -->
 
@@ -181,7 +180,8 @@ excited you're here. Let's get started!
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image004.png"
-    alt="image004" style="width:500px;"/>
+    alt="image004"
+    width="500" />
 </p>
 <!-- {width="5.0in" height="2.557691382327209in"} -->
 
