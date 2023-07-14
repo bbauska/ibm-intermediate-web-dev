@@ -250,12 +250,13 @@ time.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image008.png"
-    alt="image008" style="width:300px;"/>
+    alt="Examples of proprietary and open-source CMS software." style="width:350px;"/>
   <img src="./assets/images/image009.png"
-    alt="image009" style="width:300px;"/>
-<!-- ![](./assets/images/image008.png){width="3.0in"
-height="1.6705129046369205in"}![](./assets/images/image009.png){width="3.0in"
-height="1.6756408573928259in"} -->
+    alt="More examples of proprietary and open-source CMS software." style="width:350px;"/>
+</p>
+<!-- ![](./assets/images/image008.png){width="3.0in" -->
+<!-- height="1.6705129046369205in"}![](./assets/images/image009.png){width="3.0in" -->
+<!-- height="1.6756408573928259in"} -->
 
 There is both proprietary and open-source CMS software. Some examples
 are WordPress, Drupal, Joomla, Magento, Squarespace, Wix, and HubSpot.
@@ -265,8 +266,12 @@ hosted services like WordPress.com, HubSpot, and Wix. Many kinds of CMS
 software are available, depending on how developers want to use them.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image010.png){width="5.0in"
-height="2.7927351268591427in"}
+<p align="center">
+  <img src="./assets/images/image010.png"
+  alt="Benefits of CMS Software." 
+  style="width:500px;"/>
+</p>
+<!-- {width="5.0in" height="2.7927351268591427in"} -->
 
 So why use a CMS? Instead of creating a new web page or designing a new
 website, many solutions exist that can function how designers want.
@@ -286,8 +291,11 @@ software. Instead of using a large web development team, websites can be
 managed by a smaller group or by a person, reducing the website\'s cost.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image011.png){width="5.0in"
-height="2.7927351268591427in"}
+<p align="center">
+  <img src="./assets/images/image011.png"
+  alt="Additional Benefits of CMS Software." 
+  style="width:500px;"/>
+</p>
 
 CMS software also provides tools to allow users to customize their
 website, regardless of the company size or the user's needs. Many CMSs
@@ -298,8 +306,11 @@ CMSs have templates and third-party extensions that make it easy to
 customize the website and extend its capabilities.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image012.png){width="5.0in"
-height="2.7927351268591427in"}
+<p align="center">
+  <img src="./assets/images/image012.png"
+  alt="Choosing a CMS." 
+  style="width:500px;"/>
+</p>
 
 So how do you choose a CMS? In the planning stage of the software
 development cycle, you\'ll consider what you need to help you create and
@@ -320,8 +331,11 @@ Once you\'ve answered these questions, you're ready to choose the best
 CMS for you and your website!
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image013.png){width="5.0in"
-height="2.7927351268591427in"}
+<p align="center">
+  <img src="./assets/images/image013.png"
+  alt="Module Summary." 
+  style="width:500px;"/>
+</p>
 
 In this module (02), you learned that:
 
@@ -336,11 +350,11 @@ In this module (02), you learned that:
 
 -   Three types of content management systems are;
 
-1.  Web content management systems,
+  1.  Web content management systems,
 
-2.  Digital asset management systems, and
+  2.  Digital asset management systems, and
 
-3.  Enterprise content management systems.
+  3.  Enterprise content management systems.
 
 -   CMS benefits include more accessible website publishing, scheduling,
     affordability, and customization,
@@ -350,25 +364,28 @@ In this module (02), you learned that:
 
 # 03. Features of Web CMS
 
-<https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/BWeid/features-of-web-cms>
+<!-- <https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/BWeid/features-of-web-cms> -->
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image014.png){width="5.0in"
-height="2.801281714785652in"}
+<p align="center">
+  <img src="./assets/images/image014.png"
+  alt="Features of Web CMS." 
+  style="width:500px;"/>
+</p>
 
 Welcome to "Features of Web CMS."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image015.png){width="5.0in"
-height="2.801281714785652in"}
+<p align="center">
+  <img src="./assets/images/image015.png"
+  alt="What you will learn in Module 03 - Features of Web CMS."
+  style="width:500px;"/>
+</p>
 
 After reading this module (03), you will be able to:
 
 -   Describe a Web Content Management System (WCMS) and its types,
 
-```{=html}
-<!-- -->
-```
 -   Identify the characteristics of the Web Content Management System,
     and
 
@@ -380,8 +397,11 @@ and non-technical end users to create and manage the content on its
 website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image016.png){width="5.0in"
-height="2.801281714785652in"}
+<p align="center">
+  <img src="./assets/images/image016.png"
+  alt="What is WCMS - Web Content Management System?" 
+  style="width:500px;"/>
+</p>
 
 This is made possible by Web Content Management System (WCMS). It is a
 program that helps users create, manage, modify, and publish content on
@@ -390,8 +410,11 @@ through a standard web browser. Users store the content in a database
 using programming languages like XML and .Net.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image017.png){width="5.0in"
-height="2.801281714785652in"}
+<p align="center">
+  <img src="./assets/images/image017.png"
+  alt="Types of WCMSs: No-code and Code." 
+  style="width:500px;"/>
+</p>
 
 Let's discuss the two kinds of WCMSs: no-code and code. You can choose
 between the two based on your requirements, technical skills, and the
