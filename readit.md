@@ -1,6 +1,6 @@
 https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction
 
-![](./images/media/image1.png){width="5.0in"
+![](./assets/images/image1.png){width="5.0in"
 height="2.8327996500437447in"}
 
 # **Table of Contents** {#table-of-contents .TOC-Heading}
@@ -255,7 +255,7 @@ test maintenance costs and risks. Learning the fundamentals presented
 here is the first step towards a long and rewarding career as a web
 developer.
 
-![](./images/media/image2.png){width="5.0in"
+![](./assets/images/image002.png){width="5.0in"
 height="2.8327996500437447in"}
 
 To successfully complete this course, you should be familiar with the
@@ -273,7 +273,7 @@ This course is part of a series of IBM courses designed to help you
 improve your skills as a front-end developer and understand the
 technical aspect of web and front-end application development.
 
-![](./images/media/image3.png){width="5.0in"
+![](./assets/images/image003.png){width="5.0in"
 height="2.8327996500437447in"}
 
 When you complete this course, you will be able to:
@@ -309,14 +309,14 @@ excited you're here. Let's get started!
 
 # 02. Introduction to Content Management System (CMS)
 
-![](./images/media/image4.png){width="5.0in"
+![](./assets/images/image004.png){width="5.0in"
 height="2.557691382327209in"}
 
 <https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/zjLwk/introduction-to-content-management-system-cms>
 
 Welcome to "Introduction to Content Management System (CMS)"
 
-![](./images/media/image5.png){width="5.0in"
+![](./assets/images/image005.png){width="5.0in"
 height="2.5576924759405073in"}
 
 After reading this module (02), you will be able to:
@@ -327,7 +327,7 @@ After reading this module (02), you will be able to:
 
 -   Recognize the benefits of using a CMS.
 
-![](./images/media/image6.png){width="5.0in"
+![](./assets/images/image006.png){width="5.0in"
 height="2.7841885389326335in"}
 
 What is a Content Management System (or CMS)? A CMS is a tool that helps
@@ -344,7 +344,7 @@ website. And the Content Delivery Application (CDA) is the back-end
 process that takes the content you put into the CMA, stores it properly,
 and makes it visible to website visitors.
 
-![](./images/media/image7.png){width="5.0in"
+![](./assets/images/image007.png){width="5.0in"
 height="2.7841885389326335in"}
 
 There are three common types of content management systems. A Web
@@ -359,8 +359,8 @@ stores, delivers, and manages unstructured data, enables delivery of the
 correct content to targeted audiences, and archives files after a set
 time.
 
-![](./images/media/image8.png){width="3.0in"
-height="1.6705129046369205in"}![](./images/media/image9.png){width="3.0in"
+![](./assets/images/image008.png){width="3.0in"
+height="1.6705129046369205in"}![](./assets/images/image009.png){width="3.0in"
 height="1.6756408573928259in"}
 
 There is both proprietary and open-source CMS software. Some examples
@@ -370,7 +370,7 @@ example, Wordpress.org, Drupal, and Joomla. Others are available as
 hosted services like WordPress.com, HubSpot, and Wix. Many kinds of CMS
 software are available, depending on how developers want to use them.
 
-![](./images/media/image10.png){width="5.0in"
+![](./assets/images/image010.png){width="5.0in"
 height="2.7927351268591427in"}
 
 So why use a CMS? Instead of creating a new web page or designing a new
@@ -390,7 +390,7 @@ publishing and updates. Affordability is a huge benefit of using CMS
 software. Instead of using a large web development team, websites can be
 managed by a smaller group or by a person, reducing the website\'s cost.
 
-![](./images/media/image11.png){width="5.0in"
+![](./assets/images/image011.png){width="5.0in"
 height="2.7927351268591427in"}
 
 CMS software also provides tools to allow users to customize their
@@ -401,7 +401,7 @@ websites rather than coding them.
 CMSs have templates and third-party extensions that make it easy to
 customize the website and extend its capabilities.
 
-![](./images/media/image12.png){width="5.0in"
+![](./assets/images/image012.png){width="5.0in"
 height="2.7927351268591427in"}
 
 So how do you choose a CMS? In the planning stage of the software
@@ -422,7 +422,7 @@ manage a website. You\'ll ask:
 Once you\'ve answered these questions, you're ready to choose the best
 CMS for you and your website!
 
-![](./images/media/image13.png){width="5.0in"
+![](./assets/images/image013.png){width="5.0in"
 height="2.7927351268591427in"}
 
 In this module (02), you learned that:
@@ -454,12 +454,12 @@ In this module (02), you learned that:
 
 <https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/BWeid/features-of-web-cms>
 
-![](./images/media/image14.png){width="5.0in"
+![](./assets/images/image014.png){width="5.0in"
 height="2.801281714785652in"}
 
 Welcome to "Features of Web CMS."
 
-![](./images/media/image15.png){width="5.0in"
+![](./assets/images/image015.png){width="5.0in"
 height="2.801281714785652in"}
 
 After reading this module (03), you will be able to:
@@ -479,7 +479,7 @@ official website regularly. An organization needs to enable technical
 and non-technical end users to create and manage the content on its
 website.
 
-![](./images/media/image16.png){width="5.0in"
+![](./assets/images/image016.png){width="5.0in"
 height="2.801281714785652in"}
 
 This is made possible by Web Content Management System (WCMS). It is a
@@ -488,7 +488,7 @@ a web page. A user interacts with a Web Content Management System
 through a standard web browser. Users store the content in a database
 using programming languages like XML and .Net.
 
-![](./images/media/image17.png){width="5.0in"
+![](./assets/images/image017.png){width="5.0in"
 height="2.801281714785652in"}
 
 Let's discuss the two kinds of WCMSs: no-code and code. You can choose
@@ -508,8 +508,8 @@ basic knowledge of programming languages, such as HTML, CSS, and PHP, to
 create, customize, and host web pages. We will now talk about the
 essential characteristics of WCMS.
 
-![](./images/media/image18.png){width="3.50086176727909in"
-height="1.9608989501312335in"}![](./images/media/image19.png){width="3.5in"
+![](./assets/images/image018.png){width="3.50086176727909in"
+height="1.9608989501312335in"}![](./assets/images/image019.png){width="3.5in"
 height="1.960896762904637in"}
 
 A WCMS enables a user to accomplish specific tasks. Some of these
@@ -530,8 +530,8 @@ include:
 -   Scaling and implementing change to multiple domains easily and
     quickly.
 
-![](./images/media/image20.png){width="3.0in"
-height="3.28in"}![](./images/media/image21.png){width="3.0in"
+![](./assets/images/image020.png){width="3.0in"
+height="3.28in"}![](./assets/images/image021.png){width="3.0in"
 height="3.28in"}
 
 Here are the additional tasks that a WCMS enables a user to accomplish:
@@ -549,7 +549,7 @@ Here are the additional tasks that a WCMS enables a user to accomplish:
 
 -   Managing user access to a particular page on a website.
 
-![](./images/media/image22.png){width="5.0in"
+![](./assets/images/image022.png){width="5.0in"
 height="2.796474190726159in"}
 
 Enterprise Content Management System (ECM) allows businesses to manage
@@ -559,7 +559,7 @@ System. It primarily focuses on web content. An Enterprise Content
 Management System integrates software tools with an organization's
 strategy and aligns with its routine business operations.
 
-![](./images/media/image23.png){width="5.0in"
+![](./assets/images/image023.png){width="5.0in"
 height="2.796474190726159in"}
 
 In this module (03), you learned that:
@@ -582,12 +582,12 @@ In this module (03), you learned that:
 
 # 04. Popular CMS Platforms/Tools
 
-![](./images/media/image24.png){width="5.0in"
+![](./assets/images/image024.png){width="5.0in"
 height="2.8050218722659666in"}
 
 Welcome to "Popular CMS platforms/tools."
 
-.![](./images/media/image25.png){width="5.0in"
+.![](./assets/images/image025.png){width="5.0in"
 height="2.8050207786526684in"}
 
 After reading this module (04), you will be able to:
@@ -596,7 +596,7 @@ After reading this module (04), you will be able to:
 
 -   Identify popular CMS platforms and tools.
 
-![](./images/media/image26.png){width="5.0in"
+![](./assets/images/image026.png){width="5.0in"
 height="2.8050218722659666in"}
 
 Headless content management systems (CMSs) have gained popularity
@@ -614,7 +614,7 @@ also be uploaded on other channels such as apps or newsletters. Any
 change made at a centralized location is implemented everywhere where it
 matters. This is the power that a headless CMS has.
 
-![](./images/media/image27.png){width="5.0in"
+![](./assets/images/image027.png){width="5.0in"
 height="2.8050218722659666in"}
 
 The headless approach enables organizations to deliver content to
@@ -628,7 +628,7 @@ a brand, their experience is consistent. A headless CMS architecture is
 less susceptible to cyber security threats as the back end is separated
 from the front end.
 
-![](./images/media/image28.png){width="5.0in"
+![](./assets/images/image028.png){width="5.0in"
 height="2.8050218722659666in"}
 
 WordPress is one of the most popular CMS platforms. It accounts for more
@@ -643,7 +643,7 @@ and extensions. Joomla is ideal for developers and experienced website
 creators. It has a large pool of extensions that gives plenty of design
 options and constant feature updates.
 
-![](./images/media/image29.png){width="5.0in"
+![](./assets/images/image029.png){width="5.0in"
 height="2.8050218722659666in"}
 
 The next popular CMS that we are going to discuss is Squarespace. It's
@@ -661,7 +661,7 @@ use Wix for various purposes, such as email marketing, e-commerce,
 contact forms, and community forums. You can choose from different plans
 based on your requirement.
 
-![](./images/media/image30.png){width="5.0in"
+![](./assets/images/image030.png){width="5.0in"
 height="2.8050218722659666in"}
 
 Shopify is a popular CMS platform for developing e-commerce websites.
@@ -675,7 +675,7 @@ change the order of your products, and do more. You can create, edit,
 and manage blogs, landing pages, and other navigation elements besides
 managing products.
 
-![](./images/media/image31.png){width="5.0in"
+![](./assets/images/image031.png){width="5.0in"
 height="2.8050218722659666in"}
 
 Drupal is a free and open-source CMS. It's not as popular as WordPress
@@ -693,7 +693,7 @@ mid-market and enterprise businesses and B2B organizations that need
 complete customization at a scale. Another highlight of this software is
 its ability to create a progressive web app (PWA) for your online store.
 
-![](./images/media/image32.png){width="5.0in"
+![](./assets/images/image032.png){width="5.0in"
 height="2.8050218722659666in"}
 
 In this section (04), you learned that:
@@ -709,12 +709,12 @@ In this section (04), you learned that:
 
 # 05a. Web Development with CMS - Part 1
 
-![](./images/media/image33.png){width="5.0in"
+![](./assets/images/image033.png){width="5.0in"
 height="2.813033683289589in"}
 
 Welcome to "Web development with CMS - Part 1."
 
-![](./images/media/image34.png){width="5.0in"
+![](./assets/images/image034.png){width="5.0in"
 height="2.813034776902887in"}
 
 After reading this module (05a), you will be able to:
@@ -723,7 +723,7 @@ After reading this module (05a), you will be able to:
 
 -   Define best practices for a successful business website.
 
-![](./images/media/image35.png){width="5.0in"
+![](./assets/images/image035.png){width="5.0in"
 height="2.813033683289589in"}
 
 In today's competitive world, a website is essential for a business
@@ -731,7 +731,7 @@ owner to acquire new and loyal customers. However, before the website
 launch, planning is necessary. A lot is done before the actual coding
 for the website starts. A web development plan needs to be in place.
 
-![](./images/media/image36.png){width="5.0in"
+![](./assets/images/image036.png){width="5.0in"
 height="2.813033683289589in"}
 
 Let's discuss the five important elements of this plan.
@@ -748,7 +748,7 @@ These include:
 
 -   Leveraging user and group roles.
 
-![](./images/media/image37.png){width="5.0in"
+![](./assets/images/image037.png){width="5.0in"
 height="2.813033683289589in"}
 
 Let's discuss each of them in detail.
@@ -775,7 +775,7 @@ Having a web strategy ensures that:
 Your web design is in line with your web goals, and yhe website that the
 designers and developers create functions as per your business goals.
 
-![](./images/media/image38.png){width="5.0in"
+![](./assets/images/image038.png){width="5.0in"
 height="2.813033683289589in"}
 
 Adopting a global approach is the next important element of a web
@@ -788,7 +788,7 @@ modular approach. Measures need to be put in place at the outset so that
 adaptation later is as easy as possible. You will not have to edit every
 page if your website needs an update.
 
-![](./images/media/image39.png){width="5.0in"
+![](./assets/images/image39.png){width="5.0in"
 height="2.813033683289589in"}
 
 The other important element of a web development plan is the creation of
@@ -801,7 +801,7 @@ your business's goals. This will help you save time, money, and effort.
 A website developed using a template can be updated easily and
 regularly.
 
-![](./images/media/image40.png){width="5.0in"
+![](./assets/images/image040.png){width="5.0in"
 height="2.813033683289589in"}
 
 Today, every visitor to a website expects a customized user experience.
@@ -815,7 +815,7 @@ regardless of how they access the website or what device they use. By
 providing content tailored to each visitor's taste, content
 recommendations personalize every visitor's digital experience.
 
-![](./images/media/image41.png){width="5.0in"
+![](./assets/images/image041.png){width="5.0in"
 height="2.813033683289589in"}
 
 The last element of a web development plan that we are going to be
@@ -826,7 +826,7 @@ sharing. A group with more rights than the general group is given
 administrative privileges. Administrators can leverage pre-existing
 roles and build new ones to suit their user base.
 
-![](./images/media/image42.png){width="5.0in"
+![](./assets/images/image042.png){width="5.0in"
 height="2.813033683289589in"}
 
 Now, we will explore some best practices for creating a successful
@@ -840,7 +840,7 @@ rather than typefaces that might be too small or too big for some
 devices or browsers. Use JavaScript to enhance your website's
 functionality. Use CSS to style the graphics and text on your website.
 
-![](./images/media/image43.png){width="5.0in"
+![](./assets/images/image043.png){width="5.0in"
 height="2.813033683289589in"}
 
 In this module (05a), you learned about:
@@ -851,12 +851,12 @@ In this module (05a), you learned about:
 
 # 05b. Web Development with CMS - Part 2
 
-![](./images/media/image44.png){width="5.0in"
+![](./assets/images/image044.png){width="5.0in"
 height="2.813033683289589in"}
 
 Welcome to "Web development with CMS -- Part 2."
 
-![](./images/media/image45.png){width="5.0in"
+![](./assets/images/image045.png){width="5.0in"
 height="2.813033683289589in"}
 
 After reading this module (05b), you will be able to:
@@ -865,7 +865,7 @@ After reading this module (05b), you will be able to:
 
 -   Explain the features of a CMS.
 
-![](./images/media/image46.png){width="5.0in"
+![](./assets/images/image046.png){width="5.0in"
 height="2.813033683289589in"}
 
 Each page of a website plays a vital role in its functioning. For users
@@ -886,7 +886,7 @@ These include:
 
 -   User home or dashboard.
 
-![](./images/media/image47.png){width="5.0in"
+![](./assets/images/image047.png){width="5.0in"
 height="2.813033683289589in"}
 
 Let's discuss each page in detail. The first type of page that we are
@@ -901,7 +901,7 @@ the public information about a post. The purpose of this type of page is
 to display timely and regularly updated content. It could be an
 informational page about a person, group, event, product, and so on.
 
-![](./images/media/image48.png){width="5.0in"
+![](./assets/images/image048.png){width="5.0in"
 height="2.813033683289589in"}
 
 Now, we will talk about the list or category page. Well-organized
@@ -919,7 +919,7 @@ Another type of page of a website is the search page. A dedicated search
 page is unnecessary for smaller applications but can be beneficial. It
 can be integrated or merged with the list or category page.
 
-![](./images/media/image49.png){width="5.0in"
+![](./assets/images/image049.png){width="5.0in"
 height="2.813033683289589in"}
 
 The next type of page is the user or author profile. Any author or user
@@ -936,7 +936,7 @@ personal newsfeeds, recent activities, and recommended content. A
 dashboard is essential for social networks and gated applications but
 optional or irrelevant for others.
 
-![](./images/media/image50.png){width="5.0in"
+![](./assets/images/image050.png){width="5.0in"
 height="2.834935476815398in"}
 
 Now, we are going to discuss the features of a CMS. Despite slight
@@ -944,7 +944,7 @@ variations in design, every CMS has the same fundamental features. You
 can create the content of your website using different CMS features.
 Some of these include: Page design, Blog content, and Content storage.
 
-![](./images/media/image51.png){width="5.0in"
+![](./assets/images/image051.png){width="5.0in"
 height="2.834935476815398in"}
 
 The most important feature of a CMS is designing a page. A developer can
@@ -967,7 +967,7 @@ significantly on digital marketing can save time as they can produce
 content and use it across different parts of a website and advertising
 channels.
 
-![](./images/media/image52.png){width="5.0in"
+![](./assets/images/image052.png){width="5.0in"
 height="2.834935476815398in"}
 
 The last feature of a CMS that we will discuss in this session is
@@ -978,7 +978,7 @@ file to your CMS. Or, pull it from your content library when you want to
 place it on a specific site. CMSs also allow you to review and approve
 the content before publication.
 
-![](./images/media/image53.png){width="5.0in"
+![](./assets/images/image053.png){width="5.0in"
 height="2.834935476815398in"}
 
 In this module (05b), you learned that:
@@ -1003,12 +1003,12 @@ In this module (05b), you learned that:
 
 # 06a. Getting Started with WordPress - Part 1
 
-![](./images/media/image54.png){width="5.0in"
+![](./assets/images/image054.png){width="5.0in"
 height="2.827457349081365in"}
 
 Welcome to "Getting started with WordPress - Part 1."
 
-![](./images/media/image55.png){width="5.0in"
+![](./assets/images/image055.png){width="5.0in"
 height="2.8173075240594927in"}
 
 After reading this module (06a), you will be able to:
@@ -1017,7 +1017,7 @@ After reading this module (06a), you will be able to:
 
 -   Describe key concepts related to WordPress.
 
-![](./images/media/image56.png){width="5.0in"
+![](./assets/images/image056.png){width="5.0in"
 height="2.7991447944007in"}
 
 WordPress is a CMS that helps you build and manage your website. It
@@ -1030,7 +1030,7 @@ However, they are frequently feature-limited and require you to host
 with a specific company. WordPress allows you to constantly update your
 website\'s design, content, and functionality.
 
-![](./images/media/image57.png){width="5.0in"
+![](./assets/images/image057.png){width="5.0in"
 height="2.7991447944007in"}
 
 WordPress is a good fit for your projects and websites due to several
@@ -1038,7 +1038,7 @@ factors. These include the ease of customization, excellent performance,
 and highly robust features that allow a CMS to run a wide range of
 websites, including blogs, business, and e-commerce sites.
 
-![](./images/media/image58.png){width="5.0in"
+![](./assets/images/image058.png){width="5.0in"
 height="2.7991447944007in"}
 
 There are two common platforms: WordPress.org and WordPress.com.
@@ -1063,7 +1063,7 @@ However, you can do so with Wordpress.org, as you must use it with a
 third-party host. You can install third-party plugins with
 WordPress.com\'s top-tier business plan.
 
-![](./images/media/image59.png){width="5.0in"
+![](./assets/images/image059.png){width="5.0in"
 height="2.7991447944007in"}
 
 Users, developers, or both should know certain concepts and
@@ -1071,7 +1071,7 @@ terminologies related to WordPress. These include the following terms:
 Database, WordPress Core, plugins, themes, hooks, customization options,
 and Rest API.
 
-![](./images/media/image60.png){width="5.0in"
+![](./assets/images/image060.png){width="5.0in"
 height="2.7991447944007in"}
 
 Let's discuss each of these in detail now.
@@ -1084,7 +1084,7 @@ WordPress includes every essential file needed for a WordPress website
 to function. This is available for download from Wordpress.org or as
 part of your hosting package.
 
-![](./images/media/image61.png){width="5.0in"
+![](./assets/images/image061.png){width="5.0in"
 height="2.7991447944007in"}
 
 Plugins are pieces of code you can write yourself or download from
@@ -1100,7 +1100,7 @@ of theming. Block themes are more modular. They provide users with more
 customization options and require less coding. The Block Theme system is
 the future of WordPress theming.
 
-![](./images/media/image62.png){width="5.0in"
+![](./assets/images/image062.png){width="5.0in"
 height="2.7991447944007in"}
 
 Hooks are the foundation of the WordPress core, themes, and plugins.
@@ -1114,14 +1114,14 @@ of customization and functionality you want to add to your website.
 There are two types: visual changes facilitated by themes and functional
 changes implemented by plugins.
 
-![](./images/media/image63.png){width="5.0in"
+![](./assets/images/image063.png){width="5.0in"
 height="2.7991447944007in"}
 
 The Rest API is new and allows you to build true WordPress applications.
 These include iPhone, Android, and TV apps if you are familiar with
 other programming languages.
 
-![](./images/media/image64.png){width="5.0in"
+![](./assets/images/image064.png){width="5.0in"
 height="2.7991447944007in"}
 
 In this module (06a), you learned:
@@ -1149,12 +1149,12 @@ In this module (06a), you learned:
 
 # 06b. Getting Started with WordPress - Part 2
 
-![](./images/media/image65.png){width="5.0in"
+![](./assets/images/image065.png){width="5.0in"
 height="2.8258552055993in"}
 
 Welcome to "Getting started with WordPress -- Part 2."
 
-![](./images/media/image66.png){width="5.0in"
+![](./assets/images/image066.png){width="5.0in"
 height="2.8258552055993in"}
 
 After reading this module (06b), you will be able to:
@@ -1169,7 +1169,7 @@ WordPress is a user-friendly platform that enables you to develop a
 professional website without coding knowledge. This module will teach
 you how to create a website using WordPress.
 
-![](./images/media/image67.png){width="5.0in"
+![](./assets/images/image067.png){width="5.0in"
 height="2.8258552055993in"}
 
 The steps to create a website using WordPress include the following:
@@ -1188,7 +1188,7 @@ The steps to create a website using WordPress include the following:
 
 -   Integrating your social media with the website.
 
-![](./images/media/image68.png){width="5.0in"
+![](./assets/images/image068.png){width="5.0in"
 height="2.8258552055993in"}
 
 Let's discuss each of these steps in detail.
@@ -1200,7 +1200,7 @@ thought. After you\'ve found the perfect domain name, get that
 registered with a domain name registrar. Some popular registrars include
 GoDaddy and Google Domains.
 
-![](./images/media/image69.png){width="5.0in"
+![](./assets/images/image069.png){width="5.0in"
 height="2.8258552055993in"}
 
 The next step in creating a website using WordPress is setting up web
@@ -1210,7 +1210,7 @@ hosting means renting computer space to power your website. Hosting is
 available at all price points, ranging from a few dollars to hundreds
 per month.
 
-![](./images/media/image70.png){width="5.0in"
+![](./assets/images/image070.png){width="5.0in"
 height="2.8258552055993in"}
 
 Next, you need to install the WordPress software. Most WordPress hosting
@@ -1221,7 +1221,7 @@ the software or using a quick installation method. Using a managed
 WordPress hosting account, you\'ll be able to install and use the
 software immediately.
 
-![](./images/media/image71.png){width="5.0in"
+![](./assets/images/image071.png){width="5.0in"
 height="2.8258552055993in"}
 
 After you've installed the WordPress software, you need to select a
@@ -1236,7 +1236,7 @@ themes typically have advanced functionalities and no branding from the
 creator. Look for frequently updated themes to ensure that your website
 stays current.
 
-![](./images/media/image72.png){width="5.0in"
+![](./assets/images/image072.png){width="5.0in"
 height="2.8258552055993in"}
 
 After selecting the theme of your website, you need to design the
@@ -1249,7 +1249,7 @@ additional web pages for your website. These may include the About Us
 page, the Contact page, the Privacy Policy page, the custom landing
 page, and so on.
 
-![](./images/media/image73.png){width="5.0in"
+![](./assets/images/image073.png){width="5.0in"
 height="2.8258552055993in"}
 
 Now, to boost the functionality of your website, you can install
@@ -1262,7 +1262,7 @@ create user forums, and manage comments. One important consideration is
 that coding errors from a plugin developer may leave your website
 vulnerable to cyberattacks. Hence, research before you install one.
 
-![](./images/media/image74.png){width="5.0in"
+![](./assets/images/image074.png){width="5.0in"
 height="2.8258552055993in"}
 
 The next step is creating navigation menus. Users can browse different
@@ -1271,7 +1271,7 @@ links at the top of a web page that users can click to navigate your
 website. WordPress includes a robust navigation menu system, which your
 WordPress theme uses to display menus.
 
-![](./images/media/image75.png){width="5.0in"
+![](./assets/images/image075.png){width="5.0in"
 height="2.8258552055993in"}
 
 The last and optional step is integrating your social media with your
@@ -1283,7 +1283,7 @@ YouTube, and others. It also allows you to post online or redirect users
 to your social media profiles. You must be familiar with specific tools
 to begin working with WordPress development and website design.
 
-![](./images/media/image76.png){width="5.0in"
+![](./assets/images/image076.png){width="5.0in"
 height="2.8258552055993in"}
 
 Let us understand the skills required for enhancing WordPress. The
@@ -1303,7 +1303,7 @@ HTML and CSS are the first two languages you should learn. No matter
 what code you write or the language you use, it all comes down to HTML
 and CSS.
 
-![](./images/media/image77.png){width="5.0in"
+![](./assets/images/image077.png){width="5.0in"
 height="2.8258552055993in"}
 
 HTML is responsible for giving a website its structure. This implies
@@ -1324,7 +1324,7 @@ adding dynamic functionality to web pages.
 MySQL is a database-access and data-management language. WordPress
 relies on it to retrieve all its data.
 
-![](./images/media/image78.png){width="5.0in"
+![](./assets/images/image078.png){width="5.0in"
 height="2.8258552055993in"}
 
 In this module (06), you learned that:
@@ -1354,12 +1354,12 @@ In this module (06), you learned that:
 
 # 07. Adding E-commerce to Your Website
 
-![](./images/media/image79.png){width="5.0in"
+![](./assets/images/image079.png){width="5.0in"
 height="2.6330129046369204in"}
 
 Welcome to "Adding E-commerce to Your Website."
 
-![](./images/media/image80.png){width="5.0in"
+![](./assets/images/image080.png){width="5.0in"
 height="2.671474190726159in"}
 
 After reading this module (07), you will be able to:
@@ -1369,7 +1369,7 @@ After reading this module (07), you will be able to:
 
 -   Describe how to add e-commerce functionality to your website.
 
-> ![](./images/media/image81.png){width="5.0in"
+> ![](./assets/images/image081.png){width="5.0in"
 > height="2.671474190726159in"}
 
 Businesses must adapt to the new online world to remain relevant and
@@ -1383,7 +1383,7 @@ how you build your website. However, like most businesses, if you\'re
 either using WordPress website or a website builder to create your
 website, adding e-commerce functionality is simple.
 
-![](./images/media/image82.png){width="5.0in"
+![](./assets/images/image082.png){width="5.0in"
 height="2.671474190726159in"}
 
 The global consultancy firm AT Kearney stated, \"e-commerce is the next
@@ -1394,7 +1394,7 @@ markets and complement existing store footprints." E-commerce is easy
 and affordable. It allows you to sell locally and globally every hour of
 every day.
 
-![](./images/media/image83.png){width="5.0in"
+![](./assets/images/image083.png){width="5.0in"
 height="2.671474190726159in"}
 
 Adding e-commerce features to a website requires a certain degree of
@@ -1407,7 +1407,7 @@ shopping basket to your website. Using drag-and-drop website builder
 software will help you easily create high-converting landing pages, web
 pages, and blog posts.
 
-![](./images/media/image84.png){width="5.0in"
+![](./assets/images/image084.png){width="5.0in"
 height="2.697115048118985in"}
 
 The first option is to add a store to your website. This option is great
@@ -1418,7 +1418,7 @@ or plugins. These plugins are software that add various functionalities
 to a website, including web form builders, analytics, SEO meta tags,
 payment gateways, and shopping carts.
 
-![](./images/media/image85.png){width="5.0in"
+![](./assets/images/image085.png){width="5.0in"
 height="2.8173075240594927in"}
 
 If you're a lucky owner of WordPress, Joomla, or Drupal websites,
@@ -1430,14 +1430,14 @@ select the one compatible with your website version, and click
 to your CMS: WordPress and WooCommerce, Joomla and Hikashop, Drupal and
 Drupal Commerce, and Wix and Wix Stores.
 
-![](./images/media/image86.png){width="5.0in"
+![](./assets/images/image086.png){width="5.0in"
 height="2.8173075240594927in"}
 
 Online marketplaces are beneficial to all. The buyer finds e-commerce
 platforms convenient and secure places to purchase goods immediately.
 The seller is attracted to marketplaces by potential customers.
 
-![](./images/media/image87.png){width="5.0in"
+![](./assets/images/image087.png){width="5.0in"
 height="2.8173075240594927in"}
 
 Let's discuss some easy ways to include marketplaces on your website.
@@ -1456,7 +1456,7 @@ button to make it a part of your website. The solution costs a few
 dollars monthly and requires little effort to integrate into the
 existing website.
 
-![](./images/media/image88.png){width="5.0in"
+![](./assets/images/image088.png){width="5.0in"
 height="2.8173075240594927in"}
 
 Here are the steps to add the Shopify Buy button to your website. Add
@@ -1467,7 +1467,7 @@ Add channel. To create a Buy button, go back to your Shopify admin and
 go to the Buy Button. Select Create a Buy Button. Select the Product Buy
 Button.
 
-![](./images/media/image89.png){width="5.0in"
+![](./assets/images/image089.png){width="5.0in"
 height="2.8173075240594927in"}
 
 An e-commerce store has two parts: the front-end store and the back-end
@@ -1477,7 +1477,7 @@ on. You see the latter, including sales, inventory, and other things.
 You need to find an e-commerce partner that enables you to have an
 attractive e-commerce store and an intuitive back-end dashboard.
 
-![](./images/media/image90.png){width="5.0in"
+![](./assets/images/image090.png){width="5.0in"
 height="2.8173075240594927in"}
 
 There are various options available for website builders. This session
@@ -1492,7 +1492,7 @@ back-end metrics. Squarespace is another easy-to-use tool that offers
 various templates to build and launch a customized online store and
 website in minutes.
 
-![](./images/media/image91.png){width="5.0in"
+![](./assets/images/image091.png){width="5.0in"
 height="2.8173075240594927in"}
 
 In this module (07), you learned that:
@@ -1549,12 +1549,12 @@ In this week (01), you learned that:
 
 # 08. Introduction to Search Engine Optimization (SEO)
 
-![](./images/media/image92.png){width="5.0in"
+![](./assets/images/image092.png){width="5.0in"
 height="2.8301279527559053in"}
 
 Welcome to "Introduction to Search Engine Optimization (SEO)."
 
-![](./images/media/image93.png){width="5.0in"
+![](./assets/images/image093.png){width="5.0in"
 height="2.8301279527559053in"}
 
 After reading this module (08), you will be able to:
@@ -1563,7 +1563,7 @@ After reading this module (08), you will be able to:
 
 -   Identify the benefits of using SEO.
 
-![](./images/media/image94.png){width="5.0in"
+![](./assets/images/image094.png){width="5.0in"
 height="2.8301279527559053in"}
 
 Search engine optimization (SEO) refers to techniques that help a
@@ -1579,7 +1579,7 @@ SEM. Paid search requires you to pay to have your website listed on a
 search engine so that it appears when someone types a specific keyword
 or phrase.
 
-![](./images/media/image95.png){width="5.0in"
+![](./assets/images/image095.png){width="5.0in"
 height="2.8301279527559053in"}
 
 Let's describe how a search engine works. A search engine needs an
@@ -1594,14 +1594,14 @@ for content and following links on each webpage to other web pages.
 Indexing your website is essential as it will only appear in search
 results if it is done.
 
-![](./images/media/image96.png){width="5.0in"
+![](./assets/images/image096.png){width="5.0in"
 height="2.8344017935258092in"}
 
 Now that you know how search engines work, let's explore the types of
 SEO. Some of these include technical SEO, on-page SEO, and off-page SEO.
 Let's discuss each of them in detail.
 
-![](./images/media/image97.png){width="5.0in"
+![](./assets/images/image097.png){width="5.0in"
 height="2.8344017935258092in"}
 
 Technical SEO, as the name suggests, relates to the settings that need
@@ -1616,7 +1616,7 @@ internal links, image SEO, structured data markup, and other techniques.
 When done correctly, on-page SEO will improve a website\'s or blog\'s
 usability and credibility.
 
-![](./images/media/image98.png){width="5.0in"
+![](./assets/images/image098.png){width="5.0in"
 height="2.8344017935258092in"}
 
 The last type of SEO we will discuss is off-page SEO. It refers to
@@ -1627,7 +1627,7 @@ quality of the connected content. Hence, a website with many high-value
 backlinks usually ranks higher than an otherwise equal website with
 fewer backlinks.
 
-![](./images/media/image99.png){width="5.0in"
+![](./assets/images/image099.png){width="5.0in"
 height="2.8344017935258092in"}
 
 Now, we will talk about the benefits of using SEO. Most users click one
@@ -1638,7 +1638,7 @@ experience and usability. Users trust search engines. Having a presence
 in the top positions for the keywords the user searches for enables the
 website to earn the users' trust.
 
-![](./images/media/image100.png){width="5.0in"
+![](./assets/images/image100.png){width="5.0in"
 height="2.8344017935258092in"}
 
 There are additional benefits of using SEO. SEO is essential for the
@@ -1653,7 +1653,7 @@ competitive edge. If two websites sell the same product, the
 search-engine-optimized website will have more customers and make more
 sales.
 
-![](./images/media/image101.png){width="5.0in"
+![](./assets/images/image101.png){width="5.0in"
 height="2.8344017935258092in"}
 
 In this module (08), you learned that:
@@ -1675,12 +1675,12 @@ In this module (08), you learned that:
 
 # 09. Popular SEO Tools
 
-![](./images/media/image102.png){width="5.0in"
+![](./assets/images/image102.png){width="5.0in"
 height="2.8258552055993in"}
 
 Welcome to "Popular SEO Tools."
 
-![](./images/media/image103.png){width="5.0in"
+![](./assets/images/image103.png){width="5.0in"
 height="2.8258552055993in"}
 
 After reading this module (09), you will be able to:
@@ -1693,7 +1693,7 @@ After reading this module (09), you will be able to:
 
 -   Identify some free and paid SEO tools.
 
-![](./images/media/image104.png){width="5.0in"
+![](./assets/images/image104.png){width="5.0in"
 height="2.8258552055993in"}
 
 SEO tools enable business owners to know their websites\' overall health
@@ -1705,14 +1705,14 @@ tools, and reports, among other things. Enable you to research what your
 competitors are doing, and Provide insights into industry niches,
 allowing you to identify what works and what doesn\'t.
 
-![](./images/media/image105.png){width="5.0in"
+![](./assets/images/image105.png){width="5.0in"
 height="2.8258552055993in"}
 
 You need to consider a few factors when selecting the best SEO software.
 They are: Ongoing assistance Features and functionalities. Learning
 curve Cost, and Support.
 
-![](./images/media/image106.png){width="5.0in"
+![](./assets/images/image106.png){width="5.0in"
 height="2.8258552055993in"}
 
 Let's explore each in detail. The main factor to consider is whether you
@@ -1726,7 +1726,7 @@ research, SERP rank tracking, content evaluation tools, competitor
 analysis, backlink monitoring, and website audit functionality play an
 important role.
 
-![](./images/media/image107.png){width="5.0in"
+![](./assets/images/image107.png){width="5.0in"
 height="2.8258552055993in"}
 
 The learning curve is another crucial factor to consider. The best SEO
@@ -1740,14 +1740,14 @@ important consideration is support. Customers care about the types and
 quality of support available through online learning resources and
 direct support channels such as email, chat, and phone.
 
-![](./images/media/image108.png){width="5.0in"
+![](./assets/images/image108.png){width="5.0in"
 height="2.8258552055993in"}
 
 We will now discuss the benefits of using the best SEO tools online.
 These include reporting, higher search ranking, improvements, and
 higher-quality website traffic.
 
-![](./images/media/image109.png){width="5.0in"
+![](./assets/images/image109.png){width="5.0in"
 height="2.8258552055993in"}
 
 Let's explore each in detail.
@@ -1768,7 +1768,7 @@ Higher-Quality Website Traffic: The best SEO tools enable a website to
 connect to its target audience. This involves focusing on the right
 leads, which results in higher-quality website traffic.
 
-![](./images/media/image110.png){width="5.0in"
+![](./assets/images/image110.png){width="5.0in"
 height="2.821581364829396in"}
 
 Now, we\'ll discuss some of the best free SEO tools available.
@@ -1785,7 +1785,7 @@ configuration to track SEO results over time, diagnostic tools to
 address SEO strategy flaws, and a configurable notification system to
 track your Bing account in real time.
 
-![](./images/media/image111.png){width="5.0in"
+![](./assets/images/image111.png){width="5.0in"
 height="2.821581364829396in"}
 
 PageSpeed Insights is another useful tool that shows how your website
@@ -1797,7 +1797,7 @@ Google Keyword Planner. You can improve your keyword settings using this
 free tool as it integrates seamlessly into your Google suite of
 applications.
 
-![](./images/media/image112.png){width="5.0in"
+![](./assets/images/image112.png){width="5.0in"
 height="2.821581364829396in"}
 
 Let's now explore some of the best paid SEO tools available.
@@ -1815,7 +1815,7 @@ rankings and use this information to improve your SEO strategies.
 Moz Pro monitors a website's ranking, analyses backlinks, performs site
 audits, and employs keyword tools.
 
-![](./images/media/image113.png){width="5.0in"
+![](./assets/images/image113.png){width="5.0in"
 height="2.821581364829396in"}
 
 Serpstat is a comprehensive tool that can help you analyze competitors
@@ -1826,7 +1826,7 @@ legally spy on your competitors\' SEO practices. Regardless of what kind
 of services you sign up for, you will have access to all the data they
 uncover.
 
-![](./images/media/image114.png){width="5.0in"
+![](./assets/images/image114.png){width="5.0in"
 height="2.821581364829396in"}
 
 In this module (09), you learned that:
@@ -1846,12 +1846,12 @@ In this module (09), you learned that:
 
 # 10. SEO Strategies
 
-![](./images/media/image115.png){width="5.0in"
+![](./assets/images/image115.png){width="5.0in"
 height="2.8322648731408573in"}
 
 Welcome to SEO Strategies.
 
-![](./images/media/image116.png){width="5.0in"
+![](./assets/images/image116.png){width="5.0in"
 height="2.8322648731408573in"}
 
 After reading this module (10), you will be able to:
@@ -1860,7 +1860,7 @@ After reading this module (10), you will be able to:
 
 -   Define the steps to develop an SEO strategy.
 
-![](./images/media/image117.png){width="5.0in"
+![](./assets/images/image117.png){width="5.0in"
 height="2.8322648731408573in"}
 
 An SEO strategy is a plan of action for a company to optimize its
@@ -1871,7 +1871,7 @@ Knowing what works best for you and your business, as well as connecting
 with your ideal audience, is an important part of developing an SEO
 strategy.
 
-![](./images/media/image118.png){width="5.0in"
+![](./assets/images/image118.png){width="5.0in"
 height="2.8322648731408573in"}
 
 There is no one-size-fits-all approach to developing an SEO strategy, as
@@ -1881,7 +1881,7 @@ make your website more searchable online. These include: Assessing the
 current SEO strategy, Analyzing the competition, Setting goals and KPIs,
 Executing the improved strategy, and Monitoring the execution.
 
-![](./images/media/image119.png){width="5.0in"
+![](./assets/images/image119.png){width="5.0in"
 height="2.8322648731408573in"}
 
 The first step is to evaluate your current SEO strategy and its
@@ -1901,7 +1901,7 @@ non-branded traffic allows you to acquire new users who may not have
 previously heard of you. You\'ll also be able to identify areas that
 need improvement for your next SEO strategy.
 
-![](./images/media/image120.png){width="5.0in"
+![](./assets/images/image120.png){width="5.0in"
 height="2.8322648731408573in"}
 
 After you\'ve assessed your current SEO strategy, you should analyze the
@@ -1920,7 +1920,7 @@ keyword rankings will tell you if your competitors are ranked for
 keywords that you are not. This will help you identify opportunities to
 boost your keyword rankings.
 
-![](./images/media/image121.png){width="5.0in"
+![](./assets/images/image121.png){width="5.0in"
 height="2.8322648731408573in"}
 
 Finally, you need to analyze the link profiles of your competitors\'
@@ -1929,7 +1929,7 @@ from and identify the link gap between their website and yours. This
 will enable you to develop your link-building strategy to build a strong
 backlink profile.
 
-![](./images/media/image122.png){width="5.0in"
+![](./assets/images/image122.png){width="5.0in"
 height="2.8322648731408573in"}
 
 After your strategy is developed, you need to set goals you want to
@@ -1937,7 +1937,7 @@ achieve. Like: What aspects of the company do you want to improve? and
 Is there more traffic? How about more clicks or perhaps more down-funnel
 activity?
 
-![](./images/media/image123.png){width="5.0in"
+![](./assets/images/image123.png){width="5.0in"
 height="2.8322648731408573in"}
 
 Addressing these questions will help you consider what readers might be
@@ -1950,7 +1950,7 @@ Each goal should be mapped to a unique tactic that you can employ to
 help optimize your strategy, which is why knowing your goals ahead of
 time is crucial.
 
-![](./images/media/image124.png){width="5.0in"
+![](./assets/images/image124.png){width="5.0in"
 height="2.8322648731408573in"}
 
 After your goals are set, you should begin optimizing your website for
@@ -1963,7 +1963,7 @@ indication of keyword relevance. You will be able to effectively rank
 your keywords while also providing a positive user experience if you
 create high-quality content.
 
-![](./images/media/image125.png){width="5.0in"
+![](./assets/images/image125.png){width="5.0in"
 height="2.8322648731408573in"}
 
 Next, on a monthly or bimonthly basis, you should submit press releases
@@ -1978,7 +1978,7 @@ and image results. If you have high-quality product images on your
 website and include relevant keywords in the file names, the images will
 rank higher in search engines.
 
-![](./images/media/image126.png){width="5.0in"
+![](./assets/images/image126.png){width="5.0in"
 height="2.8322648731408573in"}
 
 Finally, you need to be on the lookout for new trends and best
@@ -1993,7 +1993,7 @@ building -- Focus on gaining authoritative links that your competitors
 do not already have. Analyzing your metrics and making actionable
 experiments based on your findings.
 
-![](./images/media/image127.png){width="5.0in"
+![](./assets/images/image127.png){width="5.0in"
 height="2.8322648731408573in"}
 
 In this module (10), you learned that:
@@ -2017,12 +2017,12 @@ In this module (10), you learned that:
 
 # 11. Mobile Friendly SEO
 
-![](./images/media/image128.png){width="5.0in"
+![](./assets/images/image128.png){width="5.0in"
 height="2.821581364829396in"}
 
 Welcome to "Mobile friendly SEO."
 
-![](./images/media/image129.png){width="5.0in"
+![](./assets/images/image129.png){width="5.0in"
 height="2.821581364829396in"}
 
 After reading this module (11), you will be able to:
@@ -2035,7 +2035,7 @@ After reading this module (11), you will be able to:
 
 -   Identify the best practices.
 
-![](./images/media/image130.png){width="5.0in"
+![](./assets/images/image130.png){width="5.0in"
 height="2.821581364829396in"}
 
 Mobile SEO is the process of optimizing websites for mobile devices such
@@ -2043,7 +2043,7 @@ as smartphones and tablets. This includes optimizing the
 website\'s design and content, as well as making the website resources
 available to search engine spiders.
 
-![](./images/media/image131.png){width="5.0in"
+![](./assets/images/image131.png){width="5.0in"
 height="2.821581364829396in"}
 
 Mobile SEO considers:
@@ -2059,7 +2059,7 @@ such as bloated images and extra script,
 and How to include usability best practices for mobile content access
 and provide the best visual experience
 
-![](./images/media/image132.png){width="5.0in"
+![](./assets/images/image132.png){width="5.0in"
 height="2.821581364829396in"}
 
 Due to significant increase in mobile usage, most users access a
@@ -2073,7 +2073,7 @@ smartphone users are more likely to purchase than desktop users. It is
 your responsibility to be available when they are looking for your
 products or services.
 
-![](./images/media/image133.png){width="5.0in"
+![](./assets/images/image133.png){width="5.0in"
 height="2.821581364829396in"}
 
 Let's now discuss the significant differences between desktop and mobile
@@ -2096,7 +2096,7 @@ Because mobile device screens are vertical and much smaller than desktop
 screens, search results have a fraction of the search space that a
 desktop screen has.
 
-![](./images/media/image134.png){width="5.0in"
+![](./assets/images/image134.png){width="5.0in"
 height="2.821581364829396in"}
 
 The best tool to use to determine whether your website is
@@ -2111,13 +2111,13 @@ your content. The Mobile Usability tool is another Google Search Console
 feature that scans your site and displays a list of posts and pages that
 do not adhere to Google\'s mobile-friendly guidelines.
 
-![](./images/media/image135.png){width="5.0in"
+![](./assets/images/image135.png){width="5.0in"
 height="2.821581364829396in"}
 
 Other excellent mobile SEO tools include Google\'s Mobile-Friendly Test
 & Analytics, SEMrush, Ahrefs, ScreamingFrog, and SimilarWeb.
 
-![](./images/media/image136.png){width="5.0in"
+![](./assets/images/image136.png){width="5.0in"
 height="2.821581364829396in"}
 
 If your site is already well optimized for search engines, there are
@@ -2138,7 +2138,7 @@ Avoid Popups and Flash - The plugin may not be available on your user\'s
 phone, causing them to miss out on all the fun. Use HTML5 instead if you
 want to create special effects.
 
-![](./images/media/image137.png){width="5.0in"
+![](./assets/images/image137.png){width="5.0in"
 height="2.821581364829396in"}
 
 Design for Touch screen - Touch screen navigation can result in
@@ -2153,7 +2153,7 @@ This includes standardizing your name, address, and phone number, as
 well as including your city and state name in the metadata of your
 website.
 
-![](./images/media/image138.png){width="5.0in"
+![](./assets/images/image138.png){width="5.0in"
 height="2.821581364829396in"}
 
 Mobile site configuration - Choosing whether to use a responsive,
@@ -2164,7 +2164,7 @@ create a separate mobile URL - Another option is to create a separate
 site for mobile users. This enables you to create entirely unique
 content for mobile visitors.
 
-![](./images/media/image139.png){width="5.0in"
+![](./assets/images/image139.png){width="5.0in"
 height="2.821581364829396in"}
 
 In this module (11), you learned that:
@@ -2183,12 +2183,12 @@ In this module (11), you learned that:
 
 # 12. Page Optimization for SEO
 
-![](./images/media/image140.png){width="5.0in"
+![](./assets/images/image140.png){width="5.0in"
 height="2.8114315398075242in"}
 
 Welcome to "Page optimization for SEO."
 
-![](./images/media/image141.png){width="5.0in"
+![](./assets/images/image141.png){width="5.0in"
 height="2.8322648731408573in"}
 
 After finishing this module (12), you will be able to:
@@ -2197,7 +2197,7 @@ After finishing this module (12), you will be able to:
 
 -   Identify the various on-page SEO components.
 
-![](./images/media/image142.png){width="5.0in"
+![](./assets/images/image142.png){width="5.0in"
 height="2.8322648731408573in"}
 
 Page Optimization for SEO, also known as on-page SEO or on-site SEO, is
@@ -2209,7 +2209,7 @@ page matches a user\'s search intent. The better a search engine
 understands a website\'s content, the higher it will rank in the search
 results, resulting in a more organic traffic, conversions, and revenue.
 
-![](./images/media/image143.png){width="5.0in"
+![](./assets/images/image143.png){width="5.0in"
 height="2.8322648731408573in"}
 
 On-page SEO aims to make it easy for both search engines and users to:
@@ -2219,7 +2219,7 @@ useful enough to rank higher on a SERP, and Assist in website
 optimization by informing Google about how the website adds value to
 visitors and customers.
 
-![](./images/media/image144.png){width="5.0in"
+![](./assets/images/image144.png){width="5.0in"
 height="2.8322648731408573in"}
 
 Text and HTML changes are required to optimize a website page fully. The
@@ -2229,7 +2229,7 @@ Alt-text, and Structured Markup. And Site structure elements which
 include: Page URLs, Internal Linking, Mobile Responsiveness, and Site
 Speed.
 
-![](./images/media/image145.png){width="5.0in"
+![](./assets/images/image145.png){width="5.0in"
 height="2.8322648731408573in"}
 
 Let's explore each in detail. The first type of on-page SEO component
@@ -2238,7 +2238,7 @@ the elements of your website\'s copy and content. It provides
 information about your website and business to both search engines and
 readers.
 
-![](./images/media/image146.png){width="5.0in"
+![](./assets/images/image146.png){width="5.0in"
 height="2.8322648731408573in"}
 
 Let\'s consider some guidelines for creating high-quality page content.
@@ -2248,7 +2248,7 @@ Make content that people will want to share and link to. Create brief,
 compelling introductions. Clearly articulate both the problem and your
 solution.
 
-![](./images/media/image147.png){width="5.0in"
+![](./assets/images/image147.png){width="5.0in"
 height="2.8322648731408573in"}
 
 Avoid using lengthy sentences and paragraphs. However, if you eliminate
@@ -2257,7 +2257,7 @@ sections that are longer than 300 words using subheadings. Naturally
 incorporate the target SEO keyword throughout the page copy. Match
 content to search intent, and always write with your readers in mind.
 
-![](./images/media/image148.png){width="5.0in"
+![](./assets/images/image148.png){width="5.0in"
 height="2.8322648731408573in"}
 
 Another type of on-page SEO component is HTML elements. It refers to the
@@ -2278,7 +2278,7 @@ important keywords in your headers, but not the same ones as in your
 page title. In your h1 and h2 headers, include your most important
 keywords.
 
-![](./images/media/image149.png){width="5.0in"
+![](./assets/images/image149.png){width="5.0in"
 height="2.8322648731408573in"}
 
 Meta descriptions are the short page descriptions that appear beneath
@@ -2298,7 +2298,7 @@ and understand different elements of the content. Structured markup is
 responsible for the featured snippets, knowledge panels, and other
 content features that appear when you search for something on Google.
 
-![](./images/media/image150.png){width="5.0in"
+![](./assets/images/image150.png){width="5.0in"
 height="2.8322648731408573in"}
 
 The last type of on-page SEO component is Site structure elements. It
@@ -2319,7 +2319,7 @@ more time Google has to crawl and index your site pages. This allows
 Google to learn more about your website and potentially rank it higher
 in search engine results pages.
 
-![](./images/media/image151.png){width="5.0in"
+![](./assets/images/image151.png){width="5.0in"
 height="2.8322648731408573in"}
 
 Mobile responsiveness is important. Sites that are optimized for faster
@@ -2333,7 +2333,7 @@ concerned with the user experience first and foremost. Visitors are
 unlikely to stick around if your site loads slowly or haphazardly.
 Moreover, site speed has an impact on conversions and ROI.
 
-![](./images/media/image152.png){width="5.0in"
+![](./assets/images/image152.png){width="5.0in"
 height="2.8322648731408573in"}
 
 In this module (12), you learned that:
@@ -2356,12 +2356,12 @@ In this module (12), you learned that:
 
 # 13. Running Campaigns and Tracking Results
 
-![](./images/media/image153.png){width="5.0in"
+![](./assets/images/image153.png){width="5.0in"
 height="2.848290682414698in"}
 
 Welcome to "Running Campaigns and Tracking Results."
 
-![](./images/media/image154.png){width="5.0in"
+![](./assets/images/image154.png){width="5.0in"
 height="2.848290682414698in"}
 
 After reading this module (13), you will be able to:
@@ -2372,7 +2372,7 @@ After reading this module (13), you will be able to:
 
 -   Identify the key SEO tracking tools.
 
-![](./images/media/image155.png){width="5.0in"
+![](./assets/images/image155.png){width="5.0in"
 height="2.848290682414698in"}
 
 An SEO campaign is a planned effort to raise a website\'s ranking in
@@ -2388,7 +2388,7 @@ media platforms are excellent for promoting your content. People enjoy
 sharing interesting articles and videos, so this is a great way to reach
 many people.
 
-![](./images/media/image156.png){width="5.0in"
+![](./assets/images/image156.png){width="5.0in"
 height="2.821581364829396in"}
 
 SEO tracking is the process of assessing the effectiveness and
@@ -2404,7 +2404,7 @@ quality of organic traffic is to track the number of conversions it
 generates. To track conversions and the conversion rate from organic
 traffic, create a relevant \"Goal\" in Google Analytics.
 
-![](./images/media/image157.png){width="5.0in"
+![](./assets/images/image157.png){width="5.0in"
 height="2.821581364829396in"}
 
 Keyword Rankings: Daily keyword tracking is an excellent way to stay on
@@ -2419,7 +2419,7 @@ SEO Site Health: One important ranking factor is the site\'s SEO
 friendliness, which includes having a way to identify and address common
 technical problems.
 
-![](./images/media/image158.png){width="5.0in"
+![](./assets/images/image158.png){width="5.0in"
 height="2.821581364829396in"}
 
 When you use SEO in your content, you can increase organic traffic to
@@ -2429,7 +2429,7 @@ running an SEO campaign smoothly. They are as follows:
 Monitoring website traffic, Tracking content's effectiveness, Tracking
 top-performing pages, and Monitoring paid campaigns.
 
-![](./images/media/image159.png){width="5.0in"
+![](./assets/images/image159.png){width="5.0in"
 height="2.821581364829396in"}
 
 Monitoring website traffic can help you make quick decisions and gain
@@ -2443,7 +2443,7 @@ customer\'s behavior and intent. Knowing your overall traffic and which
 pages are being visited will assist you in developing new content and
 optimizing what you already have.
 
-![](./images/media/image160.png){width="5.0in"
+![](./assets/images/image160.png){width="5.0in"
 height="2.806089238845144in"}
 
 It\'s handy to have all of the data about individual page performance in
@@ -2454,14 +2454,14 @@ budget is spent strategically requires real-time feedback that provides
 clear results and insights. Tagging campaign URLs correctly is a sure
 way to avoid cluttered reports and keep incoming visitors organized.
 
-![](./images/media/image161.png){width="5.0in"
+![](./assets/images/image161.png){width="5.0in"
 height="2.806089238845144in"}
 
 Now that you know the best practices for running an SEO campaign, here
 are two key SEO tracking tools to help you manage and track the results
 of your website. They are: Google Analytics and Google Search Console.
 
-![](./images/media/image162.png){width="5.0in"
+![](./assets/images/image162.png){width="5.0in"
 height="2.806089238845144in"}
 
 Google Analytics can be viewed as an SEO tracking tool for everything
@@ -2478,7 +2478,7 @@ engagement by identifying conversions as users who view more than a set
 number of pages or screens per session. Event: This classifies a
 specific user interaction with your website or app as a conversion.
 
-![](./images/media/image163.png){width="5.0in"
+![](./assets/images/image163.png){width="5.0in"
 height="2.806089238845144in"}
 
 Google Search Console (GSC) is another free tool that lets you monitor
@@ -2494,7 +2494,7 @@ Another useful metric to track over time because it frequently allows
 you to identify \"quick wins\" by simply changing the title or meta
 description, resulting in a significant increase in traffic.
 
-![](./images/media/image164.png){width="5.0in"
+![](./assets/images/image164.png){width="5.0in"
 height="2.806089238845144in"}
 
 In this section (13), you learned that:
@@ -2705,12 +2705,12 @@ In this module, you learned that:
 
 # 15. Introduction to Web Build and Automated Tools
 
-![](./images/media/image165.png){width="5.0in"
+![](./assets/images/image165.png){width="5.0in"
 height="2.806089238845144in"}
 
 Welcome to \"Introduction to Web Build and Automated Tools."
 
-![](./images/media/image166.png){width="5.0in"
+![](./assets/images/image166.png){width="5.0in"
 height="2.806089238845144in"}
 
 After reading this module (15), you will be able to:
@@ -2724,7 +2724,7 @@ After reading this module (15), you will be able to:
 
 -   Describe some popular web build tools and bundlers.
 
-![](./images/media/image167.png){width="5.0in"
+![](./assets/images/image167.png){width="5.0in"
 height="2.806089238845144in"}
 
 Build automation is the process of preparing the source code for
@@ -2741,7 +2741,7 @@ repository multiple times in a period. The integration is then verified
 by an automated build and automated tests. Due to this regular
 integration, errors are identified quickly and easily.
 
-![](./images/media/image168.png){width="5.0in"
+![](./assets/images/image168.png){width="5.0in"
 height="2.806089238845144in"}
 
 Suppose you have a 300-line JavaScript script. You simply insert the old
@@ -2762,7 +2762,7 @@ at which we could incorporate that mapping into our previous
 concatenation strategy. At this point, the functionality of an automated
 build tool and bundler comes into prominence.
 
-![](./images/media/image169.png){width="5.0in"
+![](./assets/images/image169.png){width="5.0in"
 height="2.806089238845144in"}
 
 Let\'s quickly go through the functions of JavaScript tools. Using these
@@ -2787,7 +2787,7 @@ the feature like "hot" reloading. Note that not all tools do all these
 steps or do them in exactly the same way. However, these are some of the
 core problems that most build tools address in one way or another.
 
-![](./images/media/image170.png){width="5.0in"
+![](./assets/images/image170.png){width="5.0in"
 height="2.806089238845144in"}
 
 Build automation offers five main benefits. These include increased
@@ -2796,7 +2796,7 @@ maintenance, and saving time and money.
 
 Let's discuss each of these benefits in detail.
 
-![](./images/media/image171.png){width="5.0in"
+![](./assets/images/image171.png){width="5.0in"
 height="2.806089238845144in"}
 
 One of the major benefits of build automation is increased productivity.
@@ -2808,7 +2808,7 @@ Another benefit of build automation is accelerated delivery. Build
 automation eradicates unnecessary tasks and enables you to identify
 issues faster, which helps expedite the delivery process.
 
-![](./images/media/image172.png){width="5.0in"
+![](./assets/images/image172.png){width="5.0in"
 height="2.806089238845144in"}
 
 Enhanced quality is another important benefit of build automation. Build
@@ -2819,7 +2819,7 @@ Furthermore, it records maintenance. Build automation enables you to
 maintain a complete history of files and changes made. Maintaining a
 complete history enables you to track issues back to their core.
 
-![](./images/media/image173.png){width="5.0in"
+![](./assets/images/image173.png){width="5.0in"
 height="2.806089238845144in"}
 
 The last benefit we will discuss in this session is saving time and
@@ -2827,13 +2827,13 @@ money. As build automation ensures increased productivity, accelerated
 delivery, and enhanced quality, it enables you to save time and money
 spent in delivering quality products and services.
 
-![](./images/media/image174.png){width="5.0in"
+![](./assets/images/image174.png){width="5.0in"
 height="2.806089238845144in"}
 
 Now, we will explore some popular web build tools and bundlers. These
 include: Grunt, Gulp, Browserify, Webpack, npm, and RequireJS.
 
-![](./images/media/image175.png){width="5.0in"
+![](./assets/images/image175.png){width="5.0in"
 height="2.806089238845144in"}
 
 Let's take a brief look at each of these tools.
@@ -2849,7 +2849,7 @@ which means piping the output derived from one task as an input for the
 next. Unlike Grunt, it deals with actual code rather than relying on
 plugin configuration.
 
-![](./images/media/image176.png){width="5.0in"
+![](./assets/images/image176.png){width="5.0in"
 height="2.806089238845144in"}
 
 Browserify is a build tool that allows using Node.js modules directly in
@@ -2867,7 +2867,7 @@ and plugins. It provides flexibility in resolving modules and enables
 you to modify your build to suit certain circumstances and get around
 packages that don\'t function properly in difficult situations.
 
-![](./images/media/image177.png){width="5.0in"
+![](./assets/images/image177.png){width="5.0in"
 height="2.806089238845144in"}
 
 Node package manager (npm) functions as a package manager for
@@ -2888,7 +2888,7 @@ better user experience, it merges and minifies modules into a single
 script. It can compile JavaScript files from many modules and
 load several JavaScript files.
 
-![](./images/media/image178.png){width="5.0in"
+![](./assets/images/image178.png){width="5.0in"
 height="2.806089238845144in"}
 
 In this module (15), you learned about:
@@ -2906,12 +2906,12 @@ In this module (15), you learned about:
 
 # 16. Introduction to Webpack 5
 
-![](./images/media/image179.png){width="5.0in"
+![](./assets/images/image179.png){width="5.0in"
 height="2.806089238845144in"}
 
 Welcome to the "Introduction to Webpack 5."
 
-![](./images/media/image180.png){width="5.0in"
+![](./assets/images/image180.png){width="5.0in"
 height="2.806089238845144in"}
 
 After reading this module (16), you will be able to:
@@ -2926,7 +2926,7 @@ After reading this module (16), you will be able to:
 
 -   Describe why to use Webpack 5.
 
-![](./images/media/image181.png){width="5.0in"
+![](./assets/images/image181.png){width="5.0in"
 height="2.806089238845144in"}
 
 Webpack 5 is a module bundler that assists, in handling the bundling of
@@ -2935,7 +2935,7 @@ developers to concentrate on the development. Instead of being dependent
 on online solutions, you can use Webpack 5 to build your own custom
 solutions or boilerplates.
 
-![](./images/media/image182.png){width="5.0in"
+![](./assets/images/image182.png){width="5.0in"
 height="2.806089238845144in"}
 
 Now that you understand what Webpack 5 is, let us see some of its
@@ -2949,7 +2949,7 @@ It allows the import of static assets into your JavaScript, and Also
 offers a development server for development, which can instantly update
 modules and styles as you save.
 
-![](./images/media/image183.png){width="5.0in"
+![](./assets/images/image183.png){width="5.0in"
 height="2.806089238845144in"}
 
 Now that you understand what Webpack 5 is and its advantages, let us
@@ -2969,7 +2969,7 @@ Webpack 5:
 
 -   Supports live updates or hot module replacement during development.
 
-![](./images/media/image184.png){width="5.0in"
+![](./assets/images/image184.png){width="5.0in"
 height="2.806089238845144in"}
 
 Webpack 5 is a command line tool and essentially a module bundler that
@@ -2979,7 +2979,7 @@ taking multiple files and combining them into one big file, as shown
 here. The output file that Webpack generates can be sent to the client's
 browser by a server.
 
-![](./images/media/image185.png){width="5.0in"
+![](./assets/images/image185.png){width="5.0in"
 height="2.806089238845144in"}
 
 We will now explore the benefits of using Webpack 5. Webpack 5 is
@@ -2994,7 +2994,7 @@ bundles and generates them for development and consistency. It is simple
 to cache assets as Webpack 5 allows each file\'s assets to have their
 own version.
 
-![](./images/media/image186.png){width="5.0in"
+![](./assets/images/image186.png){width="5.0in"
 height="2.806089238845144in"}
 
 In this module (16), you learned that:
@@ -3014,12 +3014,12 @@ In this module (16), you learned that:
 
 # 17. Essential Concepts of Webpack
 
-![](./images/media/image187.png){width="5.0in"
+![](./assets/images/image187.png){width="5.0in"
 height="2.806089238845144in"}
 
 Welcome to "Essentials Concepts of Webpack"
 
-![](./images/media/image188.png){width="5.0in"
+![](./assets/images/image188.png){width="5.0in"
 height="2.806089238845144in"}
 
 After reading this module (17), you will be able to:
@@ -3028,7 +3028,7 @@ After reading this module (17), you will be able to:
 
 -   Define components that optimize the functioning of Webpack.
 
-![](./images/media/image189.png){width="5.0in"
+![](./assets/images/image189.png){width="5.0in"
 height="2.806089238845144in"}
 
 Let us start by discussing Webpack's role in combining modules into
@@ -3041,7 +3041,7 @@ will bundle all the webpack modules. Considering this, we will learn the
 core concepts in detail. They are: Entry Output Loaders and Plugins In
 addition, we will touch upon some components related to Webpack.
 
-![](./images/media/image190.png){width="5.0in"
+![](./assets/images/image190.png){width="5.0in"
 height="2.806089238845144in"}
 
 The first concept is Entry. The initial point from which the frontend
@@ -3052,10 +3052,10 @@ configurable. Webpack can have multiple entry points that produce
 modules through each dependency, and it repeats this procedure
 throughout the application. See example (above).
 
-![](./images/media/image191.png){width="5.0in"
+![](./assets/images/image191.png){width="5.0in"
 height="2.806089238845144in"}
 
-![](./images/media/image192.png){width="5.0in"
+![](./assets/images/image192.png){width="5.0in"
 height="2.806089238845144in"}
 
 The second concept is Output. The static and JavaScript files produced
@@ -3066,7 +3066,7 @@ this example (above), you are instructing Webpack to place the bundles
 in a JavaScript file called My-Webpack.bundle.js in the same directory
 as Webpack.config.js.
 
-![](./images/media/image193.png){width="5.0in"
+![](./assets/images/image193.png){width="5.0in"
 height="2.806089238845144in"}
 
 Let us now understand the third concept, Loader. As Webpack only
@@ -3076,12 +3076,12 @@ source code of non-JavaScript modules, allowing us to preprocess those
 files before they're added to the dependency graph. They help Webpack
 deal with various file extensions.
 
-![](./images/media/image194.png){width="5.0in"
+![](./assets/images/image194.png){width="5.0in"
 height="2.806089238845144in"}
 
 Let us look at an example (above).
 
-![](./images/media/image195.png){width="5.0in"
+![](./assets/images/image195.png){width="5.0in"
 height="2.806089238845144in"}
 
 The last concept is Plugins. It allows Webpack to perform a wide range
@@ -3089,13 +3089,13 @@ of tasks like bundle optimization, asset management, injection of
 environment variables, and minifying files. They are third-party
 extensions that can alter how Webpack functions.
 
-![](./images/media/image196.png){width="5.0in"
+![](./assets/images/image196.png){width="5.0in"
 height="2.806089238845144in"}
 
 For example, there are plugins for extracting HTML and CSS or setting up
 environment variables.
 
-![](./images/media/image197.png){width="5.0in"
+![](./assets/images/image197.png){width="5.0in"
 height="2.806089238845144in"}
 
 Along with these, there are some additional concepts that optimize the
@@ -3115,7 +3115,7 @@ Bundles separate the source code from the distribution code. The source
 code is what we write and edit, whereas the distribution code is the
 optimized output that is finally loaded in the browser.
 
-![](./images/media/image198.png){width="5.0in"
+![](./assets/images/image198.png){width="5.0in"
 height="2.806089238845144in"}
 
 In this module (17), you learned that:
@@ -3135,12 +3135,12 @@ In this module (17), you learned that:
 
 # 18. Working with Webpack
 
-![](./images/media/image199.png){width="5.0in"
+![](./assets/images/image199.png){width="5.0in"
 height="2.806089238845144in"}
 
 Welcome to "Working with Webpack."
 
-![](./images/media/image200.png){width="5.0in"
+![](./assets/images/image200.png){width="5.0in"
 height="2.806089238845144in"}
 
 After reading this module (18), you will be able to:
@@ -3155,7 +3155,7 @@ After reading this module (18), you will be able to:
 
 -   Describe the three main Webpack modes.
 
-![](./images/media/image201.png){width="5.0in"
+![](./assets/images/image201.png){width="5.0in"
 height="2.806089238845144in"}
 
 Let's first understand the functions of Webpack and why we need
@@ -3166,7 +3166,7 @@ bundled to dist/main.js by default. Configuration helps to determine
 whether code should be compressed for quicker execution or packed with
 source maps for better error tracking.
 
-![](./images/media/image202.png){width="5.0in"
+![](./assets/images/image202.png){width="5.0in"
 height="2.806089238845144in"}
 
 Webpack supports a configuration file for projects with complex
@@ -3177,14 +3177,14 @@ screen.
 The configuration JavaScript module belongs to CommonJS. Output from
 this file is an object that Webpack will consider.
 
-![](./images/media/image203.png){width="5.0in"
+![](./assets/images/image203.png){width="5.0in"
 height="2.806089238845144in"}
 
 The configuration mentioned above instructs Webpack to create the
 project in development mode to include comments and non-minimized code
 in the output bundle while it is running.
 
-![](./images/media/image204.png){width="5.0in"
+![](./assets/images/image204.png){width="5.0in"
 height="2.806089238845144in"}
 
 Let's learn how assets can be easily managed using Webpack Your project
@@ -3194,7 +3194,7 @@ assets. This is not needed in Webpack 5 because the new version comes
 with built-in asset modules. They allow you to use asset files without
 configuring additional loaders.
 
-![](./images/media/image205.png){width="5.0in"
+![](./assets/images/image205.png){width="5.0in"
 height="2.806089238845144in"}
 
 Let's now explore how each asset type is handled in the Webpack
@@ -3204,7 +3204,7 @@ icons can be incorporated using built-in asset modules. The asset
 modules can incorporate any font through your build directory. Data can
 be incorporated in the form of JSON files, CSVs, TSVs, and XML.
 
-![](./images/media/image206.png){width="5.0in"
+![](./assets/images/image206.png){width="5.0in"
 height="2.806089238845144in"}
 
 Now that you have learned about asset management, let's understand code
@@ -3213,7 +3213,7 @@ smaller bundles and control resource load prioritization. The reduced
 main bundle size will speed up the initial load time and enable the
 users to engage with your application more quickly.
 
-![](./images/media/image207.png){width="5.0in"
+![](./assets/images/image207.png){width="5.0in"
 height="2.806089238845144in"}
 
 Code Splitting in Webpack 5 can be accomplished in three ways:
@@ -3226,7 +3226,7 @@ Code Splitting in Webpack 5 can be accomplished in three ways:
 3.  Dynamic imports: Split code using inline function calls within
     modules.
 
-![](./images/media/image208.png){width="5.0in"
+![](./assets/images/image208.png){width="5.0in"
 height="2.806089238845144in"}
 
 Now that you have a clear understanding of code splitting let's learn
@@ -3237,7 +3237,7 @@ browser to request a resource without interrupting the document's onload
 event. These are the modules needed for current navigation and are
 loaded in parallel to the parent chunk.
 
-![](./images/media/image209.png){width="5.0in"
+![](./assets/images/image209.png){width="5.0in"
 height="2.806089238845144in"}
 
 Prefetch serves as an indication to the browser that a resource may be
@@ -3247,7 +3247,7 @@ start loading after the parent chunk finishes loading. Developers must
 be careful when employing it since improper configuration might result
 in poor performance.
 
-![](./images/media/image210.png){width="5.0in"
+![](./assets/images/image210.png){width="5.0in"
 height="2.806089238845144in"}
 
 Lastly, let's identify the three main configuration modes for Webpack. A
@@ -3255,7 +3255,7 @@ mode configuration option instructs Webpack to make appropriate use of
 its built-in optimizations. The three main configuration modes are:
 Development Production And none.
 
-![](./images/media/image211.png){width="5.0in"
+![](./assets/images/image211.png){width="5.0in"
 height="2.806089238845144in"}
 
 Development mode is used specifically in the development phase of an
@@ -3264,7 +3264,7 @@ link your produced code to the original source code. This makes
 debugging simpler and speeds up the process of fixing bugs and errors in
 your code.
 
-![](./images/media/image212.png){width="5.0in"
+![](./assets/images/image212.png){width="5.0in"
 height="2.806089238845144in"}
 
 Production is the default mode value and is used to deliver the final
@@ -3276,7 +3276,7 @@ minification with the TerserWebpackPlugin. It is helpful at the time of
 building an application. In this mode, none of the default optimization
 options are applied.
 
-![](./images/media/image213.png){width="5.0in"
+![](./assets/images/image213.png){width="5.0in"
 height="2.806089238845144in"}
 
 In this module (18), you learned about:
@@ -3295,12 +3295,12 @@ In this module (18), you learned about:
 
 # 19. Setting up Production with Webpack
 
-![](./images/media/image214.png){width="5.0in"
+![](./assets/images/image214.png){width="5.0in"
 height="2.806089238845144in"}
 
 Welcome to "Setting up Production with Webpack."
 
-![](./images/media/image215.png){width="5.0in"
+![](./assets/images/image215.png){width="5.0in"
 height="2.806089238845144in"}
 
 After reading this module (19), you will be able to:
@@ -3309,7 +3309,7 @@ After reading this module (19), you will be able to:
 
 -   Discuss the best practices related to Webpack in production.
 
-![](./images/media/image216.png){width="5.0in"
+![](./assets/images/image216.png){width="5.0in"
 height="2.806089238845144in"}
 
 A mode configuration option instructs Webpack to make appropriate use of
@@ -3326,7 +3326,7 @@ comments. As a result of Webpack\'s adoption of the software engineering
 paradigm convention over configuration, you can basically acquire a
 useful configuration by simply setting the mode to production.
 
-![](./images/media/image217.png){width="5.0in"
+![](./assets/images/image217.png){width="5.0in"
 height="2.806089238845144in"}
 
 Production is the default mode value. It encourages Webpack to give you
@@ -3337,7 +3337,7 @@ production mode, tries its best to optimize the build by automatically
 minifying the code. It is recommended to create distinct Webpack
 settings for each scenario.
 
-![](./images/media/image218.png){width="5.0in"
+![](./assets/images/image218.png){width="5.0in"
 height="2.806089238845144in"}
 
 Development and production builds have numerous different objectives. In
@@ -3347,7 +3347,7 @@ case of production, the goal shifts to minified bundles, lighter-weight
 source maps, and optimized assets to improve the load time. We still
 prefer a "common" configuration to make things uniform.
 
-![](./images/media/image219.png){width="5.0in"
+![](./assets/images/image219.png){width="5.0in"
 height="2.806089238845144in"}
 
 We will now discuss the best practices related to Webpack in production.
@@ -3357,7 +3357,7 @@ to improve a website's performance include: Minifying CSS, Webpack
 source maps, File hashing, and Cleanup of old assets. Let's discuss each
 of these practices in detail.
 
-![](./images/media/image220.png){width="5.0in"
+![](./assets/images/image220.png){width="5.0in"
 height="2.806089238845144in"}
 
 Minifying CSS means to remove unnecessary characters, such as comments,
@@ -3367,7 +3367,7 @@ Here are the steps to minify CSS: Add another plugin to help Webpack
 minify your CSS files. Open your command line. Run npm install
 optimize-css-assets-Webpack-plugin. Finally, save dev.
 
-![](./images/media/image221.png){width="5.0in"
+![](./assets/images/image221.png){width="5.0in"
 height="2.806089238845144in"}
 
 Source maps are generated alongside built files, which are minified
@@ -3375,7 +3375,7 @@ already. These maps let you trace back the minified code to its original
 location and help in debugging the code live. Webpack has built-in
 support for source map generation via the devtool property.
 
-![](./images/media/image222.png){width="5.0in"
+![](./assets/images/image222.png){width="5.0in"
 height="2.806089238845144in"}
 
 Files essentially consist of data chunks. This data is changed via
@@ -3385,7 +3385,7 @@ file even after the website is published. Adding hashing or content
 hashing is known as long-term caching, as the files could be cached
 forever.
 
-![](./images/media/image223.png){width="5.0in"
+![](./assets/images/image223.png){width="5.0in"
 height="2.806089238845144in"}
 
 One of the best practices related to production is to install a plugin
@@ -3395,7 +3395,7 @@ folder. To install a cleanup plugin, follow these steps: Install a
 plugin. Open your command line and run npm install clean-Webpack-plugin.
 Finally, save dev.
 
-![](./images/media/image224.png){width="5.0in"
+![](./assets/images/image224.png){width="5.0in"
 height="2.806089238845144in"}
 
 In this module (19), you learned that:
@@ -3417,12 +3417,12 @@ In this module (19), you learned that:
 
 # 20. Using Webpack Tools
 
-![](./images/media/image225.png){width="5.0in"
+![](./assets/images/image225.png){width="5.0in"
 height="2.806089238845144in"}
 
 Welcome to "Using Webpack Tools."
 
-![](./images/media/image226.png){width="5.0in"
+![](./assets/images/image226.png){width="5.0in"
 height="2.806089238845144in"}
 
 After reading this module (20), you will be able to:
@@ -3431,7 +3431,7 @@ After reading this module (20), you will be able to:
 
 -   Describe five popular Webpack bundle size tools.
 
-![](./images/media/image227.png){width="5.0in"
+![](./assets/images/image227.png){width="5.0in"
 height="2.806089238845144in"}
 
 Webpack is a module bundler used to bundle JavaScript files to be used
@@ -3441,7 +3441,7 @@ bundle sizes, creating a problem for the developers. An increase in
 bundle size results in an increase in download time and a bigger
 overhead in execution time during initialization.
 
-![](./images/media/image228.png){width="5.0in"
+![](./assets/images/image228.png){width="5.0in"
 height="2.806089238845144in"}
 
 Let's now discuss the benefits of reducing the build size. Reduced build
@@ -3451,7 +3451,7 @@ applications. Ultimately, the user\'s mobile data plan cost is reduced.
 Developers use different Webpack tools to reduce the bundle size. Let's
 explore five such tools.
 
-![](./images/media/image229.png){width="5.0in"
+![](./assets/images/image229.png){width="5.0in"
 height="2.806089238845144in"}
 
 The five popular Webpack tools that we are going to explore in this
@@ -3460,7 +3460,7 @@ session include:
 Bundlephobia, Webpack Visualizer, Webpack Analyzer, Source Map Explorer,
 and Webpack Bundle Analyzer.
 
-![](./images/media/image230.png){width="5.0in"
+![](./assets/images/image230.png){width="5.0in"
 height="2.806089238845144in"}
 
 Now, let's discuss each in detail.
@@ -3474,7 +3474,7 @@ beforehand and helps select the best option available. Bundlephobia also
 displays how this package will affect users and browsers when it is used
 in your application.
 
-![](./images/media/image231.png){width="5.0in"
+![](./assets/images/image231.png){width="5.0in"
 height="2.806089238845144in"}
 
 For example, it helps determine the download and render times. To use
@@ -3486,7 +3486,7 @@ following command:
 
 -   Npm -g bundle-phobia-cli
 
-![](./images/media/image232.png){width="5.0in"
+![](./assets/images/image232.png){width="5.0in"
 height="2.806089238845144in"}
 
 Another popular Webpack tool is Webpack Visualizer. It is an analysis
@@ -3496,7 +3496,7 @@ which modules can be duplicated. It shows the visualized separation of
 components. It determines how much space they take up and their
 percentage allocation to the overall amount of the chunk.
 
-![](./images/media/image233.png){width="5.0in"
+![](./assets/images/image233.png){width="5.0in"
 height="2.806089238845144in"}
 
 There are two ways of using Webpack Visualizer. You can upload your
@@ -3507,7 +3507,7 @@ could just install it using 
 
 and then import it to the webpack config file.
 
-![](./images/media/image234.png){width="5.0in"
+![](./assets/images/image234.png){width="5.0in"
 height="2.806089238845144in"}
 
 The next popular Webpack tool we will explore is Webpack Analyzer. It is
@@ -3516,13 +3516,13 @@ Analyzer offers a more detailed examination of your bundle by generating
 a dependency graph. Webpack Analyzer results display the warnings and
 errors from the Webpack build with suggestions on how to enhance it.
 
-![](./images/media/image235.png){width="5.0in"
+![](./assets/images/image235.png){width="5.0in"
 height="2.806089238845144in"}
 
 To use Webpack Analyzer, generate a stat file using the Webpack ---
 profile --- json \> stats.json command and upload it to the website.
 
-![](./images/media/image236.png){width="5.0in"
+![](./assets/images/image236.png){width="5.0in"
 height="2.806089238845144in"}
 
 Source Map Explorer is another popular Webpack tool that offers a visual
@@ -3533,14 +3533,14 @@ Explorer allows you to inspect your final bundle in a graphical manner.
 It provides a treemap visualization to help you debug where all the code
 is coming from.
 
-![](./images/media/image237.png){width="5.0in"
+![](./assets/images/image237.png){width="5.0in"
 height="2.806089238845144in"}
 
 To use Source Map Explorer: Install Source Map Explorer globally using
 npm. Then, try to generate a responsive treemap of your bundle using
 the bundle.js and bundle.js.map files.
 
-![](./images/media/image238.png){width="5.0in"
+![](./assets/images/image238.png){width="5.0in"
 height="2.806089238845144in"}
 
 The last Webpack tool we will explore is Webpack Bundle Analyzer. It
@@ -3549,13 +3549,13 @@ modules used in your project. It also supports minified bundles. Webpack
 bundle Analyzer helps to identify modules that are large or can be
 removed.
 
-![](./images/media/image239.png){width="5.0in"
+![](./assets/images/image239.png){width="5.0in"
 height="2.806089238845144in"}
 
 To use this tool: Install the plugin, Create the Webpack stats JSON
 file, and Use the analyzer.
 
-![](./images/media/image240.png){width="5.0in"
+![](./assets/images/image240.png){width="5.0in"
 height="2.806089238845144in"}
 
 In this module (20), you learned that:
@@ -3579,12 +3579,12 @@ In this module (20), you learned that:
 
 # 21. Using Webpack with Frontend Frameworks
 
-![](./images/media/image241.png){width="5.0in"
+![](./assets/images/image241.png){width="5.0in"
 height="2.806089238845144in"}
 
 Welcome to "Using Webpack with Frontend Frameworks.\"
 
-![](./images/media/image242.png){width="5.0in"
+![](./assets/images/image242.png){width="5.0in"
 height="2.806089238845144in"}
 
 After reading this module (21), you will be able to:
@@ -3593,7 +3593,7 @@ After reading this module (21), you will be able to:
 
 -   Describe how to configure Webpack with Angular, Vue, and React.
 
-![](./images/media/image243.png){width="5.0in"
+![](./assets/images/image243.png){width="5.0in"
 height="2.806089238845144in"}
 
 Let's begin by understanding a front-end framework. A front-end
@@ -3601,7 +3601,7 @@ framework is a pre-prepared library meant to be used for the development
 of a website. It is a collection of CSS, JavaScript, and other files
 designed to make building web applications faster and more consistent.
 
-![](./images/media/image244.png){width="5.0in"
+![](./assets/images/image244.png){width="5.0in"
 height="2.806089238845144in"}
 
 Webpack is commonly used with frontend frameworks. It has several
@@ -3609,7 +3609,7 @@ features that are useful for building and deploying web applications.
 Some of these features include: Code bundling, Module management, Code
 optimization, and Easy integration.
 
-![](./images/media/image245.png){width="5.0in"
+![](./assets/images/image245.png){width="5.0in"
 height="2.806089238845144in"}
 
 Let's discuss each of these features in detail. The first feature is
@@ -3631,7 +3631,7 @@ frameworks, making it a versatile tool for building web applications.
 These features make the development process more efficient and the final
 product robust.
 
-![](./images/media/image246.png){width="5.0in"
+![](./assets/images/image246.png){width="5.0in"
 height="2.806089238845144in"}
 
 Now, let's discuss how to configure Webpack with Angular. However,
@@ -3640,7 +3640,7 @@ JavaScript framework developed and maintained by Google. It is used to
 create Single-Page Applications (SPAs) that can dynamically update
 content without requiring a page refresh.
 
-![](./images/media/image247.png){width="5.0in"
+![](./assets/images/image247.png){width="5.0in"
 height="2.806089238845144in"}
 
 Configuring Webpack with Angular involves a few steps. Let's explore
@@ -3660,7 +3660,7 @@ types (for example, TypeScript, HTML, and CSS) and plugins to perform
 other tasks, such as injecting generated JS bundles into an HTML
 template (html-webpack-plugin).
 
-![](./images/media/image248.png){width="5.0in"
+![](./assets/images/image248.png){width="5.0in"
 height="2.806089238845144in"}
 
 Here are the remaining steps of configuring Webpack with Angular: Now,
@@ -3680,7 +3680,7 @@ command, as shown here:
 
 \- to run the application.
 
-![](./images/media/image249.png){width="5.0in"
+![](./assets/images/image249.png){width="5.0in"
 height="2.806089238845144in"}
 
 Now we will discuss the process of configuring Webpack with Vue. Before
@@ -3688,7 +3688,7 @@ we proceed, let's try to understand what Vue.js is. Vue.js is an
 open-source JavaScript framework for building user interfaces. It is
 designed to be approachable and easy to learn.
 
-![](./images/media/image250.png){width="5.0in"
+![](./assets/images/image250.png){width="5.0in"
 height="2.806089238845144in"}
 
 Let's talk about the steps of configuring Webpack with Vue in detail.
@@ -3700,7 +3700,7 @@ you need to install dependencies. For this, you can use the npm package
 manager. Now, you need to configure Webpack to use the Babel loader and
 the Vue loader.
 
-![](./images/media/image251.png){width="5.0in"
+![](./assets/images/image251.png){width="5.0in"
 height="2.806089238845144in"}
 
 Here are the remaining steps of configuring Webpack with Vue: Write the
@@ -3719,7 +3719,7 @@ are included, will appear. Also, you can use webpack-validator, a tool
 that will validate your Webpack configuration file and highlight any
 errors or potential issues.
 
-![](./images/media/image252.png){width="5.0in"
+![](./assets/images/image252.png){width="5.0in"
 height="2.806089238845144in"}
 
 And lastly, we will discuss the process of configuring Webpack with
@@ -3728,7 +3728,7 @@ JavaScript library used to build user interfaces. It was developed and
 is maintained by Facebook. It focuses on the declarative approach to
 programming, making it easier to understand and debug code.
 
-![](./images/media/image253.png){width="5.0in"
+![](./assets/images/image253.png){width="5.0in"
 height="2.806089238845144in"}
 
 Now let\'s explore the steps of configuring Webpack with React. The
@@ -3752,7 +3752,7 @@ To set up git for your project, use this command:
 
 Create a new source folder and add HTML and JavaScript files.
 
-![](./images/media/image254.png){width="5.0in"
+![](./assets/images/image254.png){width="5.0in"
 height="2.806089238845144in"}
 
 The second step of configuring Webpack with React is to install and set
@@ -3774,7 +3774,7 @@ the entry point for Webpack.
 The fourth step of configuring Webpack with React is to define the
 output path for the bundled file after the entry point is defined.
 
-![](./images/media/image255.png){width="5.0in"
+![](./assets/images/image255.png){width="5.0in"
 height="2.806089238845144in"}
 
 Here are the remaining steps of configuring Webpack with React: Add the
@@ -3785,7 +3785,7 @@ Babel.
 Now that a configuration file is created, you can build and run the
 application.
 
-![](./images/media/image256.png){width="5.0in"
+![](./assets/images/image256.png){width="5.0in"
 height="2.806089238845144in"}
 
 In this module (21), you learned about;
@@ -3817,12 +3817,12 @@ reference basic information like your name, email, and Coursera ID.
 
 # 22. Webpack Best Practices
 
-![](./images/media/image257.png){width="5.0in"
+![](./assets/images/image257.png){width="5.0in"
 height="2.806089238845144in"}
 
 Welcome to "Webpack Best Practices."
 
-![](./images/media/image258.png){width="5.0in"
+![](./assets/images/image258.png){width="5.0in"
 height="2.806089238845144in"}
 
 After reading this module (22), you will be able to:
@@ -3832,7 +3832,7 @@ After reading this module (22), you will be able to:
 -   Describe the benefits of implementing some key best practices in
     Webpack.
 
-![](./images/media/image259.png){width="5.0in"
+![](./assets/images/image259.png){width="5.0in"
 height="2.806089238845144in"}
 
 Webpack is a widely used module bundler that aids developers in building
@@ -3840,7 +3840,7 @@ effective and optimized web applications. It is an excellent tool for
 creating applications; however, it can be challenging to get the most
 out of it.
 
-![](./images/media/image260.png){width="5.0in"
+![](./assets/images/image260.png){width="5.0in"
 height="2.806089238845144in"}
 
 In this module (22), we will learn about a few best practices for
@@ -3850,7 +3850,7 @@ Production builds, Using source maps, Lazy loading modules, Exclusion
 and inclusion of files, Reusing modules, Splitting vendor bundles,
 Caching approach, and Tree shaking.
 
-![](./images/media/image261.png){width="5.0in"
+![](./assets/images/image261.png){width="5.0in"
 height="2.806089238845144in"}
 
 The first best practice that we will explore is using the production
@@ -3867,7 +3867,7 @@ user experience, as the application loads faster and runs more
 efficiently. To use the production mode in Webpack, you need to set the
 mode configuration option to \"production.\"
 
-![](./images/media/image262.png){width="5.0in"
+![](./assets/images/image262.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Another best practice related to using Webpack is the use of source
@@ -3879,7 +3879,7 @@ enables developers to test their code in the same manner they would if
 it weren\'t bundled. Hence, source maps provide an easier way to debug
 and understand the code, especially in complex web development projects.
 
-![](./images/media/image263.png){width="5.0in"
+![](./assets/images/image263.png){width="5.0in"
 height="2.8429483814523184in"}
 
 The third best practice is lazy loading. It is a technique of loading
@@ -3890,7 +3890,7 @@ JavaScript files and the web page is loaded on demand. This accelerates
 the initial loading of the application and reduces its overall weight as
 some blocks may never even be loaded.
 
-![](./images/media/image264.png){width="5.0in"
+![](./assets/images/image264.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Now, we will discuss the exclusion and inclusion of files. In Webpack,
@@ -3902,7 +3902,7 @@ compiled. For example: the src folder. By using the \"exclude\" and
 \"include\" options in Webpack, you can have greater control over which
 files are processed, which helps enhance compilation efficiency.
 
-![](./images/media/image265.png){width="5.0in"
+![](./assets/images/image265.png){width="5.0in"
 height="2.8429483814523184in"}
 
 The fifth best practice is reusing modules. Reusing modules in Webpack
@@ -3914,7 +3914,7 @@ Additionally, by using pre-existing modules, programmers may ensure that
 their code complies with the latest standards and best practices related
 to improving the performance of your application.
 
-![](./images/media/image266.png){width="5.0in"
+![](./assets/images/image266.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Next, we will discuss bundle splitting in Webpack. It is a way of
@@ -3928,7 +3928,7 @@ particularly useful for large applications with many dependencies. This
 helps reduce the size of the initial load, improving the performance of
 your application.
 
-![](./images/media/image267.png){width="5.0in"
+![](./assets/images/image267.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Another popular practice is caching. Caching in Webpack is a technique
@@ -3944,7 +3944,7 @@ to examine their bundles and determine which files are duplicated or
 unnecessary. After these files are identified, developers can create an
 appropriate caching strategy for them.
 
-![](./images/media/image268.png){width="5.0in"
+![](./assets/images/image268.png){width="5.0in"
 height="2.8429483814523184in"}
 
 The last best practice to optimize Webpack that we are going to discuss
@@ -3956,7 +3956,7 @@ efficient bundle, which can improve performance and reduce the size of
 the application for the end user. In Webpack5, tree shaking is enabled
 by default in the production mode.
 
-![](./images/media/image269.png){width="5.0in"
+![](./assets/images/image269.png){width="5.0in"
 height="2.8429483814523184in"}
 
 In this module (22), you learned that:
@@ -4114,12 +4114,12 @@ In this module (24), you learned that:
 
 # 24. JavaScript Optimization
 
-![](./images/media/image270.png){width="5.0in"
+![](./assets/images/image270.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Welcome to JavaScript Optimization.
 
-![](./images/media/image271.png){width="5.0in"
+![](./assets/images/image271.png){width="5.0in"
 height="2.8429483814523184in"}
 
 After reading this module (24), you will be able to: define web
@@ -4128,7 +4128,7 @@ website success factors, identify some popular web performance
 optimization methods, and define how JavaScript can improve a web
 application's performance.
 
-![](./images/media/image272.png){width="5.0in"
+![](./assets/images/image272.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Web optimization determines how quickly a website loads and becomes
@@ -4140,7 +4140,7 @@ important to minimize loading and response times and add additional
 features to conceal inactivity by making the experience as available and
 interactive as possible.
 
-![](./images/media/image273.png){width="5.0in"
+![](./assets/images/image273.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Web optimization impacts the crucial factors that determine website
@@ -4156,7 +4156,7 @@ and have a lower SERP ranking. The last factor is website usability,
 which helps to increase or establish customer loyalty. The better the
 website behaves, the happier the end users are.
 
-![](./images/media/image274.png){width="5.0in"
+![](./assets/images/image274.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let's now talk about a few web performance optimization methods.
@@ -4174,7 +4174,7 @@ is. These large code files should be compressed to their original size
 to improve site responsiveness. You can use GZip and other well-known
 programs for data compression and decompression.
 
-![](./images/media/image275.png){width="5.0in"
+![](./assets/images/image275.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Resource minification Resource minification removes unnecessary code
@@ -4190,7 +4190,7 @@ attributes can also be used as it adjusts image size based on the
 display properties of the user's device. Animated WebP can be used for
 videos or replaced with an HTML5 video tag.
 
-![](./images/media/image276.png){width="5.0in"
+![](./assets/images/image276.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Use caching When a user visits a website, the elements are saved in a
@@ -4206,7 +4206,7 @@ techniques to reduce the number of requests. Avoid using extra plugins,
 images, JavaScript, and CSS. Combine your JavaScript and CSS files into
 a single package. Only use third-party frameworks when necessary.
 
-![](./images/media/image277.png){width="5.0in"
+![](./assets/images/image277.png){width="5.0in"
 height="2.8429483814523184in"}
 
 JavaScript is becoming a popular language for creating web applications.
@@ -4222,7 +4222,7 @@ Gzip as a compression and decompression software application. It
 compresses large JavaScript files and saves bandwidth, reducing latency
 and time lag and improving overall application performance.
 
-![](./images/media/image278.png){width="5.0in"
+![](./assets/images/image278.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Utilize HTTP/2 HTTP/2 uses multiplexing, allowing multiple responses and
@@ -4236,7 +4236,7 @@ page to improve both rendering progress and download parallelization. It
 will save the total amount of code required and make the page load
 faster.
 
-![](./images/media/image279.png){width="5.0in"
+![](./assets/images/image279.png){width="5.0in"
 height="2.8429483814523184in"}
 
 In this module (24), you learned that:
@@ -4258,12 +4258,12 @@ In this module (24), you learned that:
 
 # 25. Popular Optimization Tools
 
-![](./images/media/image280.png){width="5.0in"
+![](./assets/images/image280.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Welcome to Popular Optimization Tools!
 
-![](./images/media/image281.png){width="5.0in"
+![](./assets/images/image281.png){width="5.0in"
 height="2.8429483814523184in"}
 
 After reading this module (25), you'll be able to:
@@ -4272,7 +4272,7 @@ After reading this module (25), you'll be able to:
 
 -   and list the key optimization tools used in each approach.
 
-![](./images/media/image282.png){width="5.0in"
+![](./assets/images/image282.png){width="5.0in"
 height="2.8429483814523184in"}
 
 The goal of website optimization is to make a website as appealing to
@@ -4282,7 +4282,7 @@ is necessary to determine what is wrong with the current website. Simply
 brainstorming potential issues is not enough. Instead, we need to use
 available software tools to look for potential issues.
 
-![](./images/media/image283.png){width="5.0in"
+![](./assets/images/image283.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Some of the factors that require the use of optimization tools include:
@@ -4291,7 +4291,7 @@ JavaScript. Let's discuss some of the best, most-used, and most
 productive website optimization tools you should consider adding to your
 website.
 
-![](./images/media/image284.png){width="5.0in"
+![](./assets/images/image284.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let\'s start with page speed optimization tools. A slow website can
@@ -4302,13 +4302,13 @@ to improve page load times by implementing certain measures. These
 include: Reducing and compressing HTML, CSS, JavaScript, and images,
 Caching content, and Using faster hosting servers.
 
-![](./images/media/image285.png){width="5.0in"
+![](./assets/images/image285.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Some of the popular page speed optimization tools include: PageSpeed
 Insights Gtmetrix Pingdom, and WebPageTest.
 
-![](./images/media/image286.png){width="5.0in"
+![](./assets/images/image286.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Next, we'll discuss user experience (UX) optimization tools. Great UX
@@ -4320,13 +4320,13 @@ your website smoothly. UX tools aid in every stage of the page
 optimization process, from identifying where users are getting stuck to
 conducting user research.
 
-![](./images/media/image287.png){width="5.0in"
+![](./assets/images/image287.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Some of the popular UX optimization tools include: Hotjar UserTesting
 TryMyUI, and UsabilityHub.
 
-![](./images/media/image288.png){width="5.0in"
+![](./assets/images/image288.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let\'s look at mobile optimization tools now. Mobile-first optimization
@@ -4338,7 +4338,7 @@ analytics data to determine what percentage of your users and customers
 browse on mobile devices, so you can determine how important mobile
 optimization is to your business.
 
-![](./images/media/image289.png){width="5.0in"
+![](./assets/images/image289.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Some of the popular mobile optimization tools include:
@@ -4346,7 +4346,7 @@ Some of the popular mobile optimization tools include:
 PageSpeed Insights Google Search Console Google Analytics, and
 WebPageTest.
 
-![](./images/media/image290.png){width="5.0in"
+![](./assets/images/image290.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Next, we will discuss web accessibility optimization tools. An
@@ -4358,13 +4358,13 @@ impairments (for example, different types of colorblindness). The tools
 can also provide optimization recommendations to make your website more
 inclusive.
 
-![](./images/media/image291.png){width="5.0in"
+![](./assets/images/image291.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Some of the popular web accessibility optimization tools include: WAVE
 EqualWeb, and Functional Accessibility Evaluator.
 
-![](./images/media/image292.png){width="5.0in"
+![](./assets/images/image292.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Finally, let's talk about JavaScript optimization tools. If it is
@@ -4373,7 +4373,7 @@ practice is to remove it along with all associated JavaScript code sets.
 This will reduce not only the transmission time but also the time the
 browser takes to analyze and compile the code.
 
-![](./images/media/image293.png){width="5.0in"
+![](./assets/images/image293.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Some of the popular JavaScript optimization tools include: JS Minifier
@@ -4384,7 +4384,7 @@ the file size of your script. Flow, which is a static type of JavaScript
 code checker that works hard to increase your productivity, making your
 code faster, smarter, more confident, and more broadly applicable.
 
-![](./images/media/image294.png){width="5.0in"
+![](./assets/images/image294.png){width="5.0in"
 height="2.8429483814523184in"}
 
 ESLint, which is a linting tool that helps automatically check your code
@@ -4392,7 +4392,7 @@ for potential problems, and Optimize-js, which optimizes a JavaScript
 file for faster initial execution and parsing by enclosing all functions
 that are immediately invoked or are likely to be invoked in parentheses.
 
-![](./images/media/image295.png){width="5.0in"
+![](./assets/images/image295.png){width="5.0in"
 height="2.8429483814523184in"}
 
 In this module (25), you learned that:
@@ -4419,12 +4419,12 @@ In this module (25), you learned that:
 
 # 26. Testing Frameworks
 
-![](./images/media/image296.png){width="5.0in"
+![](./assets/images/image296.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Welcome to Testing Frameworks.
 
-![](./images/media/image297.png){width="5.0in"
+![](./assets/images/image297.png){width="5.0in"
 height="2.8429483814523184in"}
 
 After reading this module (26), you will be able to:
@@ -4435,7 +4435,7 @@ After reading this module (26), you will be able to:
 
 -   Identify the popular JavaScript testing frameworks.
 
-![](./images/media/image298.png){width="5.0in"
+![](./assets/images/image298.png){width="5.0in"
 height="2.8429483814523184in"}
 
 A testing framework is a set of rules or guidelines that can be used to
@@ -4446,7 +4446,7 @@ repositories, processes for storing test results, and information on how
 to access external resources are all covered in the testing framework
 guidelines.
 
-![](./images/media/image299.png){width="5.0in"
+![](./assets/images/image299.png){width="5.0in"
 height="2.8429483814523184in"}
 
 The JavaScript testing framework is a JS-based dynamic framework that is
@@ -4459,7 +4459,7 @@ Front-end testing is also performed for: CSS Regression Testing for
 minor CSS changes that break the front-end layout. JS file changes that
 render the front-end unusable. and performance evaluations.
 
-![](./images/media/image300.png){width="5.0in"
+![](./assets/images/image300.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let\'s now explore the various components of a testing framework. Let's
@@ -4474,7 +4474,7 @@ test cases are created and stored. Unit testing, integration testing,
 end-to-end testing, and behavior-driven development are all examples of
 testing libraries.
 
-![](./images/media/image301.png){width="5.0in"
+![](./assets/images/image301.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Following that, we will learn about Integration testing. Testing units
@@ -4489,7 +4489,7 @@ that everyone can understand. It helps turn scenarios and expected
 behavior features into code. BDD allows code to be aligned with the
 intent and scope of automated tests.
 
-![](./images/media/image302.png){width="5.0in"
+![](./assets/images/image302.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let\'s look at some of the benefits of the testing framework. The first
@@ -4502,7 +4502,7 @@ helps find bugs early. As a developer, you can use the testing framework
 to find and fix bugs on your own, which will improve code quality and
 make testing easier.
 
-![](./images/media/image303.png){width="5.0in"
+![](./assets/images/image303.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Next, we will discuss how it helps with code integrity. The term code
@@ -4516,7 +4516,7 @@ way to achieve the desired result is to use optimized code. Testing
 assists developers in optimizing their code so that their program uses
 fewer resources while still providing the necessary functionality.
 
-![](./images/media/image304.png){width="5.0in"
+![](./assets/images/image304.png){width="5.0in"
 height="2.8429483814523184in"}
 
 We will now learn about some of the popular JavaScript testing
@@ -4530,7 +4530,7 @@ WebKit using a single API. Playwright is designed to enable
 cross-browser web automation and automation that is always
 up-to-date, reliable, and fast.
 
-![](./images/media/image305.png){width="5.0in"
+![](./assets/images/image305.png){width="5.0in"
 height="2.8429483814523184in"}
 
 The next framework is Mocha. Mocha is a feature-rich JavaScript test
@@ -4543,7 +4543,7 @@ asynchronous testing simple and easy. To pair with any JavaScript
 testing framework, the Cypress testing library also employs a BDD/TDD
 assertion library and a browser.
 
-![](./images/media/image306.png){width="5.0in"
+![](./assets/images/image306.png){width="5.0in"
 height="2.8429483814523184in"}
 
 The next JavaScript framework that we will discuss is Jasmine. Jasmine
@@ -4556,7 +4556,7 @@ Chrome/Chromium via the DevTools Protocol. Puppeteer is designed to run
 in headless mode by default, but it can also be configured to run in
 full (non-headless) Chrome/Chromium mode.
 
-![](./images/media/image307.png){width="5.0in"
+![](./assets/images/image307.png){width="5.0in"
 height="2.8429483814523184in"}
 
 In this module (26), you learned that:
@@ -4578,12 +4578,12 @@ In this module (26), you learned that:
 
 # 27. Testing Tools -- Mocha and Jasmine
 
-![](./images/media/image308.png){width="5.0in"
+![](./assets/images/image308.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Welcome to \"Testing Tools -- Mocha and Jasmine.\"
 
-![](./images/media/image309.png){width="5.0in"
+![](./assets/images/image309.png){width="5.0in"
 height="2.8429483814523184in"}
 
 After reading this module (27), you'll be able to:
@@ -4594,7 +4594,7 @@ After reading this module (27), you'll be able to:
 
 -   Recognize the differences between the two frameworks.
 
-![](./images/media/image310.png){width="5.0in"
+![](./assets/images/image310.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Mocha is a NodeJS-based open-source JavaScript testing framework. It
@@ -4604,7 +4604,7 @@ uncaught exceptions to the appropriate test cases. Mocha allows you to
 write structured code to thoroughly test your applications,
 categorizing them into test suites and test cases.
 
-![](./images/media/image311.png){width="5.0in"
+![](./assets/images/image311.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Mapping errors to corresponding test cases enables us to generate a test
@@ -4614,7 +4614,7 @@ interface is a BDD interface, which aims to assist developers in
 creating predictable and resilient to-change software rather than
 error-prone software.
 
-![](./images/media/image312.png){width="5.0in"
+![](./assets/images/image312.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Mocha is a simple and adaptable framework that works with any assertion
@@ -4627,7 +4627,7 @@ describe functions by including code and assertions to determine a pass
 or fail status. Mocha will report the test as failed if an assertion
 fails.
 
-![](./images/media/image313.png){width="5.0in"
+![](./assets/images/image313.png){width="5.0in"
 height="2.8429483814523184in"}
 
 If a code throws an exception, it is marked as failed as well. It will
@@ -4635,7 +4635,7 @@ report a pass if everything runs smoothly and all assertions are valid.
 Because of Node\'s asynchronous behavior, Mocha can also notify you if
 your tests run too long.
 
-![](./images/media/image314.png){width="5.0in"
+![](./assets/images/image314.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let\'s take a look at some of the advantages of using the Mocha testing
@@ -4645,7 +4645,7 @@ always accurate. It can be configured to run test cases in the web
 browser. It offers several ways to generate test reports and can even
 create custom reports.
 
-![](./images/media/image315.png){width="5.0in"
+![](./assets/images/image315.png){width="5.0in"
 height="2.8429483814523184in"}
 
 It can be set up for either synchronous or asynchronous testing. It
@@ -4654,7 +4654,7 @@ framework. Following the test run, it highlights the slow-running tests.
 It supports the retry failed tests feature, which allows you to
 configure re-running failed tests.
 
-![](./images/media/image316.png){width="5.0in"
+![](./assets/images/image316.png){width="5.0in"
 height="2.8429483814523184in"}
 
 The following are some of Mocha\'s drawbacks. The developer must spend
@@ -4664,7 +4664,7 @@ documentation, the search feature is not user-friendly. Since you need
 to integrate different frameworks for assertions, the test scripts can
 be confusing at times.
 
-![](./images/media/image317.png){width="5.0in"
+![](./assets/images/image317.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Mocha is slow to release new features and support developer tools. Mocha
@@ -4674,7 +4674,7 @@ must explicitly select an assertion library. Mocha snapshot testing can
 be challenging. To do it correctly, you\'ll need to use the
 chai-jest-snapshot library.
 
-![](./images/media/image318.png){width="5.0in"
+![](./assets/images/image318.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Jasmine is an open-source JavaScript framework that can test any
@@ -4686,7 +4686,7 @@ tests on both synchronous and asynchronous code. Jasmine is tested in a
 variety of browsers, including Safari, Chrome, Firefox, and Microsoft
 Edge, as well as Node.
 
-![](./images/media/image319.png){width="5.0in"
+![](./assets/images/image319.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Jasmine has many features, including: It\'s fast, has low overhead, and
@@ -4694,14 +4694,14 @@ has no external dependencies. It\'s a batteries-included library with
 everything you need to test your code. It is available for both Node and
 browser. It is compatible with other languages, such as Python and Ruby.
 
-![](./images/media/image320.png){width="5.0in"
+![](./assets/images/image320.png){width="5.0in"
 height="2.8429483814523184in"}
 
 It does not require the DOM. It has a clean and simple syntax as well as
 a rich and straightforward API. We can describe the tests and the
 expected results using natural language.
 
-![](./images/media/image321.png){width="5.0in"
+![](./assets/images/image321.png){width="5.0in"
 height="2.8429483814523184in"}
 
 The following are some of the advantages of using Jasmine: It has lower
@@ -4711,21 +4711,21 @@ similarly.
 
 The coding is pretty similar to writing in natural language.
 
-![](./images/media/image322.png){width="5.0in"
+![](./assets/images/image322.png){width="5.0in"
 height="2.8429483814523184in"}
 
 It provides wide documentation for use with a variety of frameworks. It
 supports asynchronous testing. It marks the use of spies for applying
 test doubles.
 
-![](./images/media/image323.png){width="5.0in"
+![](./assets/images/image323.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Now, let\'s look at the main disadvantages of using Jasmine they are:
 Asynchronous testing is difficult. All test files must have a specific
 suffix.
 
-![](./images/media/image324.png){width="5.0in"
+![](./assets/images/image324.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Now that we\'ve learned about the Mocha and Jasmine frameworks, let\'s
@@ -4736,7 +4736,7 @@ karma-jasmine-html-reporter or jasmine-pretty-html-reporter, whereas
 Mocha creates mocha-simple-html-reporter and mochawesome. Jasmine and
 Mocha both have documentation and forum support.
 
-![](./images/media/image325.png){width="5.0in"
+![](./assets/images/image325.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Jasmine does not include built-in support for rerunning a failed test,
@@ -4746,7 +4746,7 @@ testing is challenging in Jasmine but simple in Mocha. Jasmine and Mocha
 both support parallel execution. Jasmine\'s plug-in support and
 extensibility are limited, whereas Mocha\'s are good.
 
-![](./images/media/image326.png){width="5.0in"
+![](./assets/images/image326.png){width="5.0in"
 height="2.8429483814523184in"}
 
 In this module (27), you learned that:
@@ -4768,12 +4768,12 @@ In this module (27), you learned that:
 
 # 28. Using Jasmine
 
-![](./images/media/image327.png){width="5.0in"
+![](./assets/images/image327.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Welcome to Using Jasmine!
 
-![](./images/media/image328.png){width="5.0in"
+![](./assets/images/image328.png){width="5.0in"
 height="2.8429483814523184in"}
 
 After reading this module (28), you will be able to:
@@ -4782,7 +4782,7 @@ After reading this module (28), you will be able to:
 
 -   Identify the steps to test code and React with Jasmine.
 
-![](./images/media/image329.png){width="5.0in"
+![](./assets/images/image329.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Jasmine is an open-source framework for unit testing JavaScript that is
@@ -4792,7 +4792,7 @@ JS Spec, Rspec, and Jspec have a significant impact on Jasmine. It makes
 an attempt to describe tests in a human-readable format so that
 non-technical people understand what is being tested.
 
-![](./images/media/image330.png){width="5.0in"
+![](./assets/images/image330.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let's look at the fundamental concepts of Jasmine. A Jasmine suite is a
@@ -4808,7 +4808,7 @@ represents a statement that can be true or false. To pass the spec, all
 of the expectations within the spec must be met. If one or more
 expectations within a spec are incorrect, the spec fails.
 
-![](./images/media/image331.png){width="5.0in"
+![](./assets/images/image331.png){width="5.0in"
 height="2.8429483814523184in"}
 
 In Jasmine, an expectation is an assertion that is either true or false.
@@ -4817,7 +4817,7 @@ a value, which is referred to as the \"toBe\" value. Matchers is a
 comparison between the actual value and the expected value, either if
 the expectation is \"true\" or \"false."
 
-![](./images/media/image332.png){width="5.0in"
+![](./assets/images/image332.png){width="5.0in"
 height="2.8429483814523184in"}
 
 The describe function in Jasmine is used to group related specs. The
@@ -4831,7 +4831,7 @@ objects that are created to represent or mimic the real thing. Mocks are
 required to avoid the overhead cost of creating the actual object they
 represent.
 
-![](./images/media/image333.png){width="5.0in"
+![](./assets/images/image333.png){width="5.0in"
 height="2.8429483814523184in"}
 
 The steps to begin testing with Jasmine are as follows. Download Jasmine
@@ -4839,7 +4839,7 @@ The steps to begin testing with Jasmine are as follows. Download Jasmine
 downloading it or using a package manager. Initialize Jasmine. Create a
 spec (test) file, and Make the source code available to your spec file.
 
-![](./images/media/image334.png){width="5.0in"
+![](./assets/images/image334.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let us now try to understand the steps for testing React with Jasmine.
@@ -4852,7 +4852,7 @@ React that Jasmine runs must be included in the JS bundle.
 The next step is to leverage Test Utils. ReactTestUtils makes it simple
 to test React components in your preferred testing framework.
 
-![](./images/media/image335.png){width="5.0in"
+![](./assets/images/image335.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Then, in Jasmine, learn the structure of a React test. There is a
@@ -4867,7 +4867,7 @@ After you\'ve mastered the basics of writing unit tests, you can move on
 to using React event simulation and Jasmine spies to see what happens
 when users interact with your components.
 
-![](./images/media/image336.png){width="5.0in"
+![](./assets/images/image336.png){width="5.0in"
 height="2.8429483814523184in"}
 
 In this module (28), you learned that:
@@ -4884,12 +4884,12 @@ In this module (28), you learned that:
 
 # 29. Front-end Testing Best Practices
 
-![](./images/media/image337.png){width="5.0in"
+![](./assets/images/image337.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Welcome to \"Front-end Testing Best Practices.\"
 
-![](./images/media/image338.png){width="5.0in"
+![](./assets/images/image338.png){width="5.0in"
 height="2.8429483814523184in"}
 
 After reading this module (29), you will be able to:
@@ -4901,7 +4901,7 @@ After reading this module (29), you will be able to:
 
 -   and list some of the best front-end testing practices.
 
-![](./images/media/image339.png){width="5.0in"
+![](./assets/images/image339.png){width="5.0in"
 height="2.8429483814523184in"}
 
 The front end of a program is the client-side section. Front-end testing
@@ -4913,7 +4913,7 @@ architecture. Clients, servers, and information systems or resources are
 all included. The client is part of the presentation layer. This layer
 is tested by front-end testers.
 
-![](./images/media/image340.png){width="5.0in"
+![](./assets/images/image340.png){width="5.0in"
 height="2.8429483814523184in"}
 
 We will now discuss some of the advantages of using front-end testing.
@@ -4926,7 +4926,7 @@ accessible to all users, particularly those with disabilities.
 Accessibility testing is a required component of front-end testing and
 must be completed prior to the deployment of a website.
 
-![](./images/media/image341.png){width="5.0in"
+![](./assets/images/image341.png){width="5.0in"
 height="2.8429483814523184in"}
 
 With the widespread use of interconnected versions of an app on
@@ -4938,7 +4938,7 @@ complex features, but it crashes another part of the application that
 you were unaware of. Front-end testing ensures that the code is
 consistent and that the front-end functionality is intact.
 
-![](./images/media/image342.png){width="5.0in"
+![](./assets/images/image342.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Next, if a bug is discovered, whether by your team or by users, you need
@@ -4948,7 +4948,7 @@ explanation of the test\'s functionality is necessary when writing
 tests. Front-end testing helps in keeping well-maintained tests which is
 beneficial as they serve as live documentation.
 
-![](./images/media/image343.png){width="5.0in"
+![](./assets/images/image343.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let us now try to understand which aspects of an application\'s front
@@ -4961,7 +4961,7 @@ impairments, can use the application. End-to-end checks are required for
 checking and confirming the application\'s back-end to front-end
 workflow by simulating real-world actions that users are likely to take.
 
-![](./images/media/image344.png){width="5.0in"
+![](./assets/images/image344.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Image analysis testing is performed to determine where you can
@@ -4972,7 +4972,7 @@ important CSS elements: syntax and display. While syntax is more of a
 developer\'s day-to-day responsibility, displayed views must be tested
 for regression after changes to specific parts of the app.
 
-![](./images/media/image345.png){width="5.0in"
+![](./assets/images/image345.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Now we\'ll explore some of the best front-end testing practices. These
@@ -4981,7 +4981,7 @@ devices, Performing deterministic tests, striving for coverage and not
 100% code coverage, Encouraging shorter and more readable unit tests,
 Keeping tests independent, and Testing a variety of input parameters.
 
-![](./images/media/image346.png){width="5.0in"
+![](./assets/images/image346.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let us now discuss each in detail. Focusing on front-end elements
@@ -4993,7 +4993,7 @@ real browsers and devices instead of emulators and simulators to save
 time and money and enhance the reliability of your software testing
 results.
 
-![](./images/media/image347.png){width="5.0in"
+![](./assets/images/image347.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Performing deterministic tests Deterministic tests are the ones that can
@@ -5006,7 +5006,7 @@ However, it doesn\'t work in practice. A high level of test coverage
 provides a false sense of security. Good tests are simple to maintain
 and provide you with the confidence to make changes to your code.
 
-![](./images/media/image348.png){width="5.0in"
+![](./assets/images/image348.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Encouraging shorter and more readable unit tests A unit test should only
@@ -5020,7 +5020,7 @@ validate all possible code paths through the code under test. You must
 be confident that the deployed code can handle the full range of inputs
 that a user may enter.
 
-![](./images/media/image349.png){width="5.0in"
+![](./assets/images/image349.png){width="5.0in"
 height="2.8429483814523184in"}
 
 There are numerous vendors offering front-end testing tools, making it
@@ -5029,7 +5029,7 @@ list of some of the best and most widely used front-end testing tools.
 Jest, Selenium WebDriver, Cypress, WebDriverIO, WebDriverJS, and
 Jasmine.
 
-![](./images/media/image350.png){width="5.0in"
+![](./assets/images/image350.png){width="5.0in"
 height="2.8429483814523184in"}
 
 In this module (29), you learned that:
@@ -5109,12 +5109,12 @@ In this module, you learned that:
 
 # 30. JavaScript Debugging
 
-![](./images/media/image351.png){width="5.0in"
+![](./assets/images/image351.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Welcome to "JavaScript Debugging."
 
-![](./images/media/image352.png){width="5.0in"
+![](./assets/images/image352.png){width="5.0in"
 height="2.8429483814523184in"}
 
 After reading this module (30), you will be able to:
@@ -5127,7 +5127,7 @@ After reading this module (30), you will be able to:
 
 -   Identify some common JavaScript bugs.
 
-![](./images/media/image353.png){width="5.0in"
+![](./assets/images/image353.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Errors are common while writing programs. These errors or flaws are
@@ -5135,7 +5135,7 @@ bugs. If your JavaScript does not function the way you want it to, there
 is a high possibility that you have a bug in your code. Therefore, we
 use debugging, which identifies and fixes bugs in your code.
 
-![](./images/media/image354.png){width="5.0in"
+![](./assets/images/image354.png){width="5.0in"
 height="2.8429483814523184in"}
 
 In computer programming and engineering, debugging is essential to
@@ -5146,7 +5146,7 @@ one module can cause more bugs to appear in another. There can be more
 challenges involved in debugging such a program, than coding a single
 program.
 
-![](./images/media/image355.png){width="5.0in"
+![](./assets/images/image355.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let\'s try to understand why bugs occur in JavaScript. If your script
@@ -5155,7 +5155,7 @@ bracket for every opening bracket. Second, check the character string.
 Always enclose the text in quotation marks when working on JavaScript.
 You can either use single or double quotation marks to enclose the text.
 
-![](./images/media/image356.png){width="5.0in"
+![](./assets/images/image356.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Now that you know why bugs occur in JavaScript and how to prevent them,
@@ -5173,7 +5173,7 @@ steps. These are:
 
 -   Adjusting test scenarios and trying again.
 
-![](./images/media/image357.png){width="5.0in"
+![](./assets/images/image357.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let's discuss each step in detail. The first step in debugging is to
@@ -5188,7 +5188,7 @@ test. Development and staging environments are breakable without
 affecting end users, therefore, you should always try to break your code
 in a safe environment.
 
-![](./images/media/image358.png){width="5.0in"
+![](./assets/images/image358.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Next, you need to log more data to diagnose the problem. You can observe
@@ -5199,7 +5199,7 @@ and replicating them in a non-production environment can be difficult
 due to time constraints or other factors. Return to the first step and
 try it all over again.
 
-![](./images/media/image359.png){width="5.0in"
+![](./assets/images/image359.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Now that you know how to debug JavaScript errors, let's discuss the
@@ -5214,7 +5214,7 @@ where you suspect a logic or implementation problem and investigate
 whether it is doing what you expected. You can achieve the same result
 by including printouts in your code.
 
-![](./images/media/image360.png){width="5.0in"
+![](./assets/images/image360.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Debugging offers various benefits. It immediately reports an error
@@ -5225,7 +5225,7 @@ developer reduce unnecessary and distracting information. It allows the
 developer to avoid writing complex one-time testing codes, saving time
 and energy required for software development.
 
-![](./images/media/image361.png){width="5.0in"
+![](./assets/images/image361.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let's explore some reasons for JavaScript bugs in your code. These
@@ -5234,7 +5234,7 @@ Incorrect use of quotation marks, Incorrect use of brackets, Incorrect
 Indexing, Misspelling of function and variable names, and Incorrect use
 of variable assignment. Let's discuss each reason in detail.
 
-![](./images/media/image362.png){width="5.0in"
+![](./assets/images/image362.png){width="5.0in"
 height="2.8429483814523184in"}
 
 The interaction of variables of different types can result in many bugs
@@ -5246,7 +5246,7 @@ equal. In JavaScript, you can use different quotation marks to enclose
 quotation marks within quotation marks. You may face issues if you use
 double quotations.
 
-![](./images/media/image363.png){width="5.0in"
+![](./assets/images/image363.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Another error that we see quite often is the incorrect use of brackets.
@@ -5256,7 +5256,7 @@ an array by using index zero. As the result is off by one, this
 frequently results in an \"index out of range\" reference error in
 JavaScript.
 
-![](./images/media/image364.png){width="5.0in"
+![](./assets/images/image364.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Missing letters and wrong capitalization also lead to bugs in the code.
@@ -5268,7 +5268,7 @@ variables is that creating global variables is outside. Its usage can be
 everywhere, whereas local variables are created inside a function. Its
 usage is by function.
 
-![](./images/media/image365.png){width="5.0in"
+![](./assets/images/image365.png){width="5.0in"
 height="2.8429483814523184in"}
 
 In this module (30), you learned about:
@@ -5283,12 +5283,12 @@ In this module (30), you learned about:
 
 # 31. Basic Debugging Concepts
 
-![](./images/media/image366.png){width="5.0in"
+![](./assets/images/image366.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Welcome to "Basic Debugging Concepts."
 
-![](./images/media/image367.png){width="5.0in"
+![](./assets/images/image367.png){width="5.0in"
 height="2.8429483814523184in"}
 
 After reading this module (31), you will be able to:
@@ -5299,7 +5299,7 @@ After reading this module (31), you will be able to:
 
 -   Explain the terminologies used in debugging.
 
-![](./images/media/image368.png){width="5.0in"
+![](./assets/images/image368.png){width="5.0in"
 height="2.8429483814523184in"}
 
 If your program does not generate the desired output, there is a high
@@ -5308,7 +5308,7 @@ crucial step in the software development process, as it identifies and
 fixes bugs. A major part of the debugging process involves identifying
 the cause based on the symptoms.
 
-![](./images/media/image369.png){width="5.0in"
+![](./assets/images/image369.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Different strategies can be employed to localize the error, as there is
@@ -5318,7 +5318,7 @@ Some of these include: Incremental development, Debuggers, Binary
 search, Instrumentation, Assertions, Backtracking, Simplify,
 Error-finding tools, and Hypotheses.
 
-![](./images/media/image370.png){width="5.0in"
+![](./assets/images/image370.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let's review each of them in detail. In this strategy, the program is
@@ -5332,7 +5332,7 @@ generating voluminous difficult-to-read log files by observing program
 expressions, setting program breakpoints, and analyzing the memory
 content at selected points during execution.
 
-![](./images/media/image371.png){width="5.0in"
+![](./assets/images/image371.png){width="5.0in"
 height="2.8429483814523184in"}
 
 This strategy places a check halfway through a large piece of code.
@@ -5346,7 +5346,7 @@ when the amount of information grows significantly. In this case,
 automated scripts can be used to sort through the data and provide
 pertinent portions in a more concise style.
 
-![](./images/media/image372.png){width="5.0in"
+![](./assets/images/image372.png){width="5.0in"
 height="2.8429483814523184in"}
 
 This strategy is used to verify that the program maintains the
@@ -5359,7 +5359,7 @@ The next strategy is backtracking. This involves starting at the
 problem\'s origin and working your way back through the code to
 determine how it occurred.
 
-![](./images/media/image373.png){width="5.0in"
+![](./assets/images/image373.png){width="5.0in"
 height="2.8429483814523184in"}
 
 This strategy involves removing the sections of the code irrelevant to
@@ -5372,7 +5372,7 @@ identify violations of particular classes of errors using error-finding
 tools. For example, tools that check safety properties. Error-finding
 tools use either static analysis or dynamic analysis.
 
-![](./images/media/image374.png){width="5.0in"
+![](./assets/images/image374.png){width="5.0in"
 height="2.8429483814523184in"}
 
 This strategy involves a few steps. First, review the test case results.
@@ -5381,7 +5381,7 @@ execute a simple test to refute the hypothesis. If the hypothesis is
 rejected, generate another one and repeat the process. Finding the
 simplest hypotheses and associated test cases is an effective strategy.
 
-![](./images/media/image375.png){width="5.0in"
+![](./assets/images/image375.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let's now explore different types of bugs. A program may contain bugs
@@ -5389,7 +5389,7 @@ even after meticulous planning and defensive programming. There are
 different types of errors that one may experience. These are: Type
 errors, Minor errors, Implementation errors, and Conceptual errors.
 
-![](./images/media/image376.png){width="5.0in"
+![](./assets/images/image376.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let's discuss each type of error in detail. The compiler always detects
@@ -5401,7 +5401,7 @@ issue and what needs to be done. Errors such as typos or other simple
 errors may escape detection by the type checker or other compiler
 checks. These are simple to fix after they are identified.
 
-![](./images/media/image377.png){width="5.0in"
+![](./assets/images/image377.png){width="5.0in"
 height="2.8429483814523184in"}
 
 While a program\'s high-level algorithm may follow the correct logic,
@@ -5414,14 +5414,14 @@ cases. One must carefully consider the algorithm and attempt to develop
 a justification for its effectiveness. If the algorithm is too complex,
 it may be better to redo it from scratch and create a cleaner design.
 
-![](./images/media/image378.png){width="5.0in"
+![](./assets/images/image378.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let's now discuss some important terminologies used in debugging. These
 are: Application log, Debugger, Stepping, Stack, Breakpoints, and
 Current Line.
 
-![](./images/media/image379.png){width="5.0in"
+![](./assets/images/image379.png){width="5.0in"
 height="2.8429483814523184in"}
 
 It's a passage of text that describes an action that occurs in an
@@ -5436,7 +5436,7 @@ displays the source of the code currently being executed if the
 developer tools console is opened. The browser will now provide
 debugging methods and tools for debugging.
 
-![](./images/media/image380.png){width="5.0in"
+![](./assets/images/image380.png){width="5.0in"
 height="2.8429483814523184in"}
 
 The action of telling the debugger to run through the program one line
@@ -5447,7 +5447,7 @@ program enters more and more \"functions.\" For your software, this
 serves as a \"trail\" of function calls. This allows you to see how
 "calling" one function affects the "current" function.
 
-![](./images/media/image381.png){width="5.0in"
+![](./assets/images/image381.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Breakpoints instruct the debugger where to \"stop\" your program\'s
@@ -5459,7 +5459,7 @@ when running your program. The control of the program typically flows
 from the current line to the next line down the screen, to the following
 line, and so on.
 
-![](./images/media/image382.png){width="5.0in"
+![](./assets/images/image382.png){width="5.0in"
 height="2.8429483814523184in"}
 
 In this module (31), you learned about:
@@ -5472,12 +5472,12 @@ In this module (31), you learned about:
 
 # 32. Introduction to Debugging Tools
 
-![](./images/media/image383.png){width="5.0in"
+![](./assets/images/image383.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Welcome to "Introduction to Debugging Tools."
 
-![](./images/media/image384.png){width="5.0in"
+![](./assets/images/image384.png){width="5.0in"
 height="2.8429483814523184in"}
 
 After reading this module (32), you will be able to:
@@ -5486,7 +5486,7 @@ After reading this module (32), you will be able to:
 
 -   Identify a few common debugging tools.
 
-![](./images/media/image385.png){width="5.0in"
+![](./assets/images/image385.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Browsers today are equipped with a variety of web development tools
@@ -5504,7 +5504,7 @@ In this module, we will
 
 -   Assess a web page\'s accessibility.
 
-![](./images/media/image386.png){width="5.0in"
+![](./assets/images/image386.png){width="5.0in"
 height="2.8429483814523184in"}
 
 A debugging tool is a software program that enables you to debug a
@@ -5515,7 +5515,7 @@ attempt a fix without changing the source code. Debugging tools can also
 be used for troubleshooting issues with other applications, such as web
 browsers and operating systems.
 
-![](./images/media/image387.png){width="5.0in"
+![](./assets/images/image387.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Some of the common debugging tools include Chrome Developer Tools,
@@ -5523,7 +5523,7 @@ Firefox developer tools, Safari Develop Menu, React Developer Tools,
 console debugging, and Integrated Development Environment (IDE)/Visual
 Studio Code.
 
-![](./images/media/image388.png){width="5.0in"
+![](./assets/images/image388.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let's discuss each in detail. Chrome developer tools are a set of tools
@@ -5535,14 +5535,14 @@ tools for network and performance monitoring and security features. The
 Console and Network activity tabs are where most JavaScript debugging
 happens.
 
-![](./images/media/image389.png){width="5.0in"
+![](./assets/images/image389.png){width="5.0in"
 height="2.8429483814523184in"}
 
 The keyboard shortcuts mentioned here can be used to open the developer
 console in Google Chrome: macOS \`CMD\`+\`OPT\`+\`I\` Windows
 \`CTRL\`+\`SHIFT\`+\`I\`
 
-![](./images/media/image390.png){width="5.0in"
+![](./assets/images/image390.png){width="5.0in"
 height="2.8429483814523184in"}
 
 In the past, Firefox users relied on Firebug, an extension that provided
@@ -5551,7 +5551,7 @@ firebug was incorporated into the Firefox Developer Tools available in
 the latest versions of Firefox. This put Google Chrome and the Firefox
 browser's integrated toolkit on an equal level.
 
-![](./images/media/image391.png){width="5.0in"
+![](./assets/images/image391.png){width="5.0in"
 height="2.8429483814523184in"}
 
 To access the developer tools in Mozilla Firefox, open the browser,
@@ -5559,7 +5559,7 @@ click the Firefox menu in the upper right corner, and click \"More
 Tools.\" Next, select \"Web Developer Tools.\" Finally, click
 \"Console.\"
 
-![](./images/media/image392.png){width="5.0in"
+![](./assets/images/image392.png){width="5.0in"
 height="2.8429483814523184in"}
 
 There are options in the Develop menu to display the JavaScript console,
@@ -5569,7 +5569,7 @@ comparable to the developer tools in Safari. All browser developer tools
 are progressively getting better as they become better equipped to
 fulfill developers\' demands.
 
-![](./images/media/image393.png){width="5.0in"
+![](./assets/images/image393.png){width="5.0in"
 height="2.8429483814523184in"}
 
 To utilize Safari's built-in developer tools, users must enable the
@@ -5578,7 +5578,7 @@ Safari Develop menu. - First click the \"Safari\" tab and then click
 Develop menu in the menu bar.\" The Develop menu will appear in the menu
 bar.
 
-![](./images/media/image394.png){width="5.0in"
+![](./assets/images/image394.png){width="5.0in"
 height="2.8429483814523184in"}
 
 React Developer Tools, an extension of Chrome DevTools, is a great
@@ -5588,7 +5588,7 @@ after adding the extension, a React tab will be added to the developer
 console, displaying properties and state values for any element you
 click.
 
-![](./images/media/image395.png){width="5.0in"
+![](./assets/images/image395.png){width="5.0in"
 height="2.8429483814523184in"}
 
 This is the most commonly used JavaScript console method. Error handling
@@ -5596,7 +5596,7 @@ or throwing are not done using this method. Instead, it is employed to
 print statements in the console. There is console.log() which is the
 most common one you\'ll see.
 
-![](./images/media/image396.png){width="5.0in"
+![](./assets/images/image396.png){width="5.0in"
 height="2.8429483814523184in"}
 
 When debugging Java applications, you do not always need to use an IDE.
@@ -5608,7 +5608,7 @@ Visual Studio Code provides sufficient features for a quick debugging
 session of your Java application despite all the complex debugging
 features that IDE's debuggers provide.
 
-![](./images/media/image397.png){width="5.0in"
+![](./assets/images/image397.png){width="5.0in"
 height="2.8429483814523184in"}
 
 In this module (32), you learned that:
@@ -5623,12 +5623,12 @@ In this module (32), you learned that:
 
 # 33. Troubleshooting with Chrome DevTools
 
-![](./images/media/image398.png){width="5.0in"
+![](./assets/images/image398.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Welcome to Troubleshooting with Chrome DevTools!
 
-![](./images/media/image399.png){width="5.0in"
+![](./assets/images/image399.png){width="5.0in"
 height="2.8429483814523184in"}
 
 After reading this module (33), you will be able to:
@@ -5637,7 +5637,7 @@ After reading this module (33), you will be able to:
 
 -   Determine how to access some of the panels\' features.
 
-![](./images/media/image400.png){width="5.0in"
+![](./assets/images/image400.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Explain how to use Chrome DevTools to debug HTML and CSS The Google
@@ -5645,7 +5645,7 @@ Chrome browser includes built-in developer tools, also known
 as DevTools, that allow developers to edit code directly in the browser,
 add breakpoints to detect issues, and debug their code quickly.
 
-![](./images/media/image401.png){width="5.0in"
+![](./assets/images/image401.png){width="5.0in"
 height="2.8429483814523184in"}
 
 There are eleven panels in the DevTools UI. Here\'s a quick listing of
@@ -5667,7 +5667,7 @@ panel: Helps you can record the checkout flow once and measure it
 regularly Performance Insights panel: Highlights the key insights in the
 Insights pane, with actionable feedback on how to fix issues.
 
-![](./images/media/image402.png){width="5.0in"
+![](./assets/images/image402.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let\'s first try to understand how to access Chrome DevTools. To access
@@ -5676,7 +5676,7 @@ DevTools will open the Elements panel and highlight the selected DOM
 element. To open the console panel, use the keyboard shortcut CMD +
 Option + J on Mac or CTRL + SHIFT + J on Windows.
 
-![](./images/media/image403.png){width="5.0in"
+![](./assets/images/image403.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let\'s now learn how to access the elements panel. To access the
@@ -5684,14 +5684,14 @@ elements panel: Right-click any element on the page and select
 \"inspect\" or Click on the elements panel inside Chrome DevTools. That
 element should now be highlighted in the DOM tree.
 
-![](./images/media/image404.png){width="5.0in"
+![](./assets/images/image404.png){width="5.0in"
 height="2.8429483814523184in"}
 
 To select another element on the page: Hover over an element on the page
 and Click once on the highlighted area that corresponds to the element
 you want to inspect.
 
-![](./images/media/image405.png){width="5.0in"
+![](./assets/images/image405.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Now that we know how to access the Elements panel let\'s look at how to
@@ -5702,7 +5702,7 @@ that comprises that element. This is useful if you want to change the
 behavior of an element by adding or removing HTML elements inside or
 around any element on the page.
 
-![](./images/media/image406.png){width="5.0in"
+![](./assets/images/image406.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Since these changes aren\'t saved in your application\'s source code,
@@ -5711,7 +5711,7 @@ and deleting these elements in your code. Simply refreshing the page
 allows you to edit the same component multiple times. You can easily
 delete and reorder elements in addition to editing them.
 
-![](./images/media/image407.png){width="5.0in"
+![](./assets/images/image407.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let's now look at how to edit CSS. The Styles panel is useful for
@@ -5720,7 +5720,7 @@ you to preview changes without affecting the appearance of your website
 for other visitors. It is not necessary to refresh your browser to see
 the changes because they are updated in real-time.
 
-![](./images/media/image408.png){width="5.0in"
+![](./assets/images/image408.png){width="5.0in"
 height="2.8429483814523184in"}
 
 In fact, if you refresh your browser after making changes, the browser
@@ -5728,7 +5728,7 @@ will reload the unmodified version of your website, wiping out your
 changes. Using the styles panel for live CSS testing ensures that the
 actual code of your live website is not altered.
 
-![](./images/media/image409.png){width="5.0in"
+![](./assets/images/image409.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let\'s now understand the process of setting a breakpoint in your codes.
@@ -5740,7 +5740,7 @@ by hovering over the variables you want to examine. This is essential
 for debugging because quickly viewing your app's current state at any
 point will provide you with valuable insight into how it works.
 
-![](./images/media/image410.png){width="5.0in"
+![](./assets/images/image410.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Another way to trigger a breakpoint is to simply add the following code
@@ -5748,7 +5748,7 @@ line to a Javascript program: debugger; When the code reaches this line,
 the debugger is triggered in the same way that a breakpoint would be set
 in that line.
 
-![](./images/media/image411.png){width="5.0in"
+![](./assets/images/image411.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let's now look at the logging function. The code has a console.log
@@ -5759,20 +5759,20 @@ open console to see for (let i = 0; i \< 5; i++)
 DevTools Console panel or press Esc while in another panel. This opens
 the console at the bottom of the screen.
 
-![](./images/media/image412.png){width="5.0in"
+![](./assets/images/image412.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let's now learn how to find properties in an object. The grep.js snippet
 searches an object and its prototypical chain for properties that match
 a set of criteria.
 
-![](./images/media/image413.png){width="5.0in"
+![](./assets/images/image413.png){width="5.0in"
 height="2.8429483814523184in"}
 
 For example, this instruction will look for all properties in the
 document object that match get: grep(document, \'get\');
 
-![](./images/media/image414.png){width="5.0in"
+![](./assets/images/image414.png){width="5.0in"
 height="2.8429483814523184in"}
 
 When you switch to developer mode in Chrome, it renders a half-sized
@@ -5780,18 +5780,18 @@ version of your webpage. Fortunately, Chrome DevTools allows you to
 switch between different mobile screen types and versions in addition to
 changing the screen size of a webpage.
 
-![](./images/media/image415.png){width="5.0in"
+![](./assets/images/image415.png){width="5.0in"
 height="2.8429483814523184in"}
 
 To access that option: First, toggle on the Inspect mode.
 
-![](./images/media/image416.png){width="5.0in"
+![](./assets/images/image416.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Next, select Responsive from the drop-down menu in the top-left corner
 of the DevTools. Lastly, choose your preferred mobile device.
 
-![](./images/media/image417.png){width="5.0in"
+![](./assets/images/image417.png){width="5.0in"
 height="2.8429483814523184in"}
 
 The webpage is then rendered and adjusted to fit the size of the mobile
@@ -5802,7 +5802,7 @@ these steps: In the DevTools window, select the Lighthouse option. Next,
 choose the parameters you want to test. Select either Mobile or Desktop
 to see how your website performs on different platforms.
 
-![](./images/media/image418.png){width="5.0in"
+![](./assets/images/image418.png){width="5.0in"
 height="2.8429483814523184in"}
 
 In this video, you learned that:
@@ -5826,12 +5826,12 @@ In this video, you learned that:
 
 # 34. Monitoring your Website
 
-![](./images/media/image419.png){width="5.0in"
+![](./assets/images/image419.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Welcome to "Monitoring your Website."
 
-![](./images/media/image420.png){width="5.0in"
+![](./assets/images/image420.png){width="5.0in"
 height="2.8429483814523184in"}
 
 After reading this module (34), you will be able to:
@@ -5844,7 +5844,7 @@ After reading this module (34), you will be able to:
 
 -   Define popular website monitoring metrics.
 
-![](./images/media/image421.png){width="5.0in"
+![](./assets/images/image421.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Website monitoring implies evaluating a website or web service for
@@ -5854,7 +5854,7 @@ access and interact with it as intended. Continuous monitoring helps
 organizations prevent downtime and proactively respond to potential
 errors that could have a negative impact.
 
-![](./images/media/image422.png){width="5.0in"
+![](./assets/images/image422.png){width="5.0in"
 height="2.8429483814523184in"}
 
 One of the main advantages of monitoring websites is increased website
@@ -5870,13 +5870,13 @@ revenue. Monitoring helps send alerts when your search, forms, or logins
 go wrong. Website monitoring helps prevent these issues and keeps
 revenue flowing.
 
-![](./images/media/image423.png){width="5.0in"
+![](./assets/images/image423.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Website monitoring can be done in two ways: automated monitoring and
 real user monitoring.
 
-![](./images/media/image424.png){width="5.0in"
+![](./assets/images/image424.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let's discuss each of them in detail. Automated monitoring means
@@ -5887,7 +5887,7 @@ monitoring. This checkpoint network communicates with a website or
 service to confirm that it performs as intended. The checkpoint performs
 various steps to complete the process of web monitoring.
 
-![](./images/media/image425.png){width="5.0in"
+![](./assets/images/image425.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let's discuss each step in detail. The first step that the checkpoint
@@ -5902,7 +5902,7 @@ Real Browser Monitoring (RBM). The checkpoint loads the content into a
 real browser. RBM launches a browser and monitors a web application,
 mimicking the user\'s interaction with the site.
 
-![](./images/media/image426.png){width="5.0in"
+![](./assets/images/image426.png){width="5.0in"
 height="2.8429483814523184in"}
 
 After real browser monitoring is completed, the checkpoint collects the
@@ -5918,7 +5918,7 @@ Finally, the checkpoint reports its findings to the monitoring service
 and uses the information to resolve any issues and improve the
 website\'s performance and availability.
 
-![](./images/media/image427.png){width="5.0in"
+![](./assets/images/image427.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let's now discuss the other way of website monitoring, which is Real
@@ -5931,7 +5931,7 @@ rates, and user actions. Script files, agents, cookies, and server-side
 code track the website's performance as each site visitor accesses the
 site.
 
-![](./images/media/image428.png){width="5.0in"
+![](./assets/images/image428.png){width="5.0in"
 height="2.8429483814523184in"}
 
 There are several types of website monitoring that indicate a \"larger
@@ -5940,7 +5940,7 @@ picture\" of the website's performance.
 These include: Availability monitoring, Performance monitoring, and
 Functionality monitoring.
 
-![](./images/media/image429.png){width="5.0in"
+![](./assets/images/image429.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let's explore each type in detail. Availability monitoring or uptime
@@ -5948,7 +5948,7 @@ monitoring checks if a website is available and accessible to users,
 ensuring that the website is running and can always be used by users. It
 checks the availability of web services, domains, and pages.
 
-![](./images/media/image430.png){width="5.0in"
+![](./assets/images/image430.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Performance monitoring checks the speed of a website or service. The
@@ -5957,7 +5957,7 @@ performance monitors. Performance monitors may use RUM technology or
 synthetic monitoring. RUM and the Full-Page Check provide the most
 comprehensive performance data set.
 
-![](./images/media/image431.png){width="5.0in"
+![](./assets/images/image431.png){width="5.0in"
 height="2.8429483814523184in"}
 
 The third type is functionality monitoring.
@@ -5971,7 +5971,7 @@ interact with a web application in the same way as regular users, and an
 alert is sent to the supporting staff in case of any error or downtime
 faced.
 
-![](./images/media/image432.png){width="5.0in"
+![](./assets/images/image432.png){width="5.0in"
 height="2.8429483814523184in"}
 
 We will now explore some of the popular website monitoring metrics.
@@ -5980,7 +5980,7 @@ These include:
 Page Speed, Time to Title, Time to Start Render, Time to Interact, DNS
 Lookup Speed, Bounce Rate, and Requests Per Second.
 
-![](./images/media/image433.png){width="5.0in"
+![](./assets/images/image433.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let's discuss each of them. A page\'s speed is determined by its loading
@@ -5989,7 +5989,7 @@ which is the time the server takes to respond and is also called time to
 first byte (TTFB); Transfer time, which is the time taken to download an
 HTML web page; and Time taken to render a web page in a browser.
 
-![](./images/media/image434.png){width="5.0in"
+![](./assets/images/image434.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Time to title is the time that a website's title takes to appear in a
@@ -5999,7 +5999,7 @@ request. Time to Interact measures the time taken before users are able
 to click links, type in text fields, scroll, or interact with a website
 in other ways.
 
-![](./images/media/image435.png){width="5.0in"
+![](./assets/images/image435.png){width="5.0in"
 height="2.8429483814523184in"}
 
 DNS Lookup Speed is the time the Domain Name System (DNS) provider takes
@@ -6014,7 +6014,7 @@ looking for. Requests Per Second refers to the number of requests the
 server receives every second. It is also referred to as "Throughput" or
 "Average Load."
 
-![](./images/media/image436.png){width="5.0in"
+![](./assets/images/image436.png){width="5.0in"
 height="2.8429483814523184in"}
 
 In this module (34), you learned about:
@@ -6037,12 +6037,12 @@ In this module (34), you learned about:
 
 # 35. Popular Monitoring Tools
 
-![](./images/media/image437.png){width="5.0in"
+![](./assets/images/image437.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Welcome to Popular Monitoring Tools!
 
-![](./images/media/image438.png){width="5.0in"
+![](./assets/images/image438.png){width="5.0in"
 height="2.8429483814523184in"}
 
 After reading this module (35), you will be able to:
@@ -6051,7 +6051,7 @@ After reading this module (35), you will be able to:
 
 -   Identify some of the most popular monitoring tools.
 
-![](./images/media/image439.png){width="5.0in"
+![](./assets/images/image439.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Your website\'s effectiveness directly impacts your business, so
@@ -6061,7 +6061,7 @@ identifying and resolving problems easier. There are numerous options
 available, ranging from simple uptime or transaction monitoring
 solutions to complex web performance monitoring solutions.
 
-![](./images/media/image440.png){width="5.0in"
+![](./assets/images/image440.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Certain factors need to be considered when selecting the best monitoring
@@ -6072,7 +6072,7 @@ a free trial or demo that allows for an evaluation prior to the
 purchase, and Additional capabilities for monitoring other assets, such
 as physical servers and network devices.
 
-![](./images/media/image441.png){width="5.0in"
+![](./assets/images/image441.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let's now explore some of the most popular monitoring tools. They
@@ -6081,7 +6081,7 @@ include:
 Pingdom, Uptime Robot, Datadog Synthetics, Site24x7, Uptrends, Uptimia,
 and New Relic.
 
-![](./images/media/image442.png){width="5.0in"
+![](./assets/images/image442.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Let\'s discuss each in detail. Pingdom is a paid uptime monitoring
@@ -6090,7 +6090,7 @@ goes down. It provides a wide range of capabilities, including SSL
 certificate monitoring and website performance monitoring, and has an
 easy-to-use interface and a low price.
 
-![](./images/media/image443.png){width="5.0in"
+![](./assets/images/image443.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Pingdom offers real-time user monitoring solutions that track real-time
@@ -6099,7 +6099,7 @@ data collected from actual people. Geographical performance is also
 monitored to ensure that your website performs optimally regardless of
 where users access it.
 
-![](./images/media/image444.png){width="5.0in"
+![](./assets/images/image444.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Uptime Robot is the best option if you are looking for a simple tool
@@ -6110,7 +6110,7 @@ website and APIs every 5 minutes from 12 locations worldwide and sends
 alerts via various integrations with tools such as Slack, Pagerduty,
 OpsGenie, Telegram, and VictorOps.
 
-![](./images/media/image445.png){width="5.0in"
+![](./assets/images/image445.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Datadog Synthetics tests allow you to proactively monitor your API
@@ -6121,7 +6121,7 @@ into your CI pipeline to ensure early problem detection, allowing you to
 evaluate the state of your production environment after each deployment
 and minimize downtime by eliminating errors before your users see them.
 
-![](./images/media/image446.png){width="5.0in"
+![](./assets/images/image446.png){width="5.0in"
 height="2.8429483814523184in"}
 
 With Datadog Synthetics, you can monitor all of your critical
@@ -6132,7 +6132,7 @@ End-user screenshots and step-by-step waterfall visualizations are
 combined with an intelligent system that identifies elements even after
 UI changes, resulting in fewer broken tests.
 
-![](./images/media/image447.png){width="5.0in"
+![](./assets/images/image447.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Site 24x7 provides website performance monitoring via periodic checks
@@ -6143,13 +6143,13 @@ errors in your website\'s code. DNS fetches, connection establishment
 times, first-byte time, download time, and SSL handshake time are all
 included in performance timings.
 
-![](./images/media/image448.png){width="5.0in"
+![](./assets/images/image448.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Some of the features include: Monitoring bundles, SaaS platform, 90 test
 launch locations, DNS checks, and SSL certificate verification.
 
-![](./images/media/image449.png){width="5.0in"
+![](./assets/images/image449.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Uptrends is a website monitoring service that also monitors network and
@@ -6160,7 +6160,7 @@ compared to yours. DNS records and DNS fetch times are some other checks
 performed by Uptime. It also monitors SSL certificates to ensure that
 they do not become outdated.
 
-![](./images/media/image450.png){width="5.0in"
+![](./assets/images/image450.png){width="5.0in"
 height="2.8429483814523184in"}
 
 It also monitors the performance of FTP servers for download delivery.
@@ -6173,7 +6173,7 @@ console displays real-time test results, which can also be exported to a
 PDF or Excel format. Uptrends stores test results for two years to allow
 for historical analysis.
 
-![](./images/media/image451.png){width="5.0in"
+![](./assets/images/image451.png){width="5.0in"
 height="2.8429483814523184in"}
 
 Uptimia provides monitoring services for both small and large
@@ -6182,7 +6182,7 @@ monitoring, and real-time user monitoring. The company provides a
 free-forever plan that allows you to monitor one website in five-minute
 increments. The free plan only includes uptime monitoring.
 
-![](./images/media/image452.png){width="5.0in"
+![](./assets/images/image452.png){width="5.0in"
 height="2.8429483814523184in"}
 
 New Relic is an observability platform that helps you in monitoring,
@@ -6197,7 +6197,7 @@ tools for monitoring, analytics, and optimization. Key features include:
 
 -   Applied intelligence with quick incident response.
 
-![](./images/media/image453.png){width="5.0in"
+![](./assets/images/image453.png){width="5.0in"
 height="2.8429483814523184in"}
 
 In this module (35), you learned that:
@@ -6295,7 +6295,7 @@ In case you are having issues with the Lab environment, you can view the
 lab by clicking this
 [link](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-WD0231EN-SkillsNetwork/labs/FinalProject/02-Instructions.md.html).
 
-![](./images/media/image454.png){width="3.0in"
+![](./assets/images/image454.png){width="3.0in"
 height="2.2817311898512687in"}
 
 This course uses a third-party app, Final Project: Interest Rate
@@ -6366,3 +6366,5 @@ and drop the file icon onto the window.*
 
 9.  Show achieving the goal state, upload a screenshot of your final
     solution along with source, and save it as 09-final-output. (2 pts)
+
+<!-- July 14, 2023 1:48am -->
