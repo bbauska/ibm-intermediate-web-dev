@@ -15,7 +15,8 @@ output:
 <p align="center">
   <img src="./assets/images/image001.png" 
   alt="Intermediate Web &amp; Front-end Development" 
-  style="border: 2px solid  gray;" />
+  style="border: 2px solid  gray;" 
+  width="200" />
 <!--  style="box-shadow: 3px 3px 3px gray;"> -->
 <!--  style="drop-shadow: 0 3px 5px rgba(0, 0, 0, 0.4);" -->
 <!-- {width="5.0in" height="2.8327996500437447in"}  -->
