@@ -14,7 +14,7 @@ output:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image001.png" 
-  class="box-shadow"
+  class="drop-shadow"
   alt="Intermediate Web &amp; Front-end Development" 
   style="width:500px;"/>
 <!-- {width="5.0in" height="2.8327996500437447in"}  -->
