@@ -1,24 +1,13 @@
 ---
-ibm-intermediate-web-dev: IBM's Intermediate Web & Front-end Development
+title: "IBM's Intermediate Web & Front-end Development"
+author: "bbauska"
+date: "7/14/2023 4pm"
+output: 
+  html_document:
+     css: font-awesome-4.4.0/css/font-awesome.css
+     self_contained: no
 ---
-<style>
-  img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .displayed {
-    display: block;
-    margin: 0 auto; }
-
-  .border {
-    border-width: 1px;
-    border-color: #778899;  /* dark grayish blue */
-    border-style: solid; }
-  .box-shadow {
-    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.4); }
-</style>
-[IBM's Intermediate Web and Front-End Development by Coursera](https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction)
+<!-- [IBM's Intermediate Web and Front-End Development by Coursera](https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction) -->
 
 <!-- https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction -->
 
