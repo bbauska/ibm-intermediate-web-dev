@@ -8,7 +8,9 @@ ibm-intermediate-web-dev: IBM's Intermediate Web & Front-end Development
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image001.png" alt="image001" style="width:500px;"/>
+  <img src="./assets/images/image001.png" 
+  alt="Intermediate Web &amp; Front-end Development" 
+  style="width:500px;"/>
 <!-- {width="5.0in" height="2.8327996500437447in"}  -->
 </p>
 
