@@ -32,3 +32,16 @@
   }
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
+  .displayed {
+    display: block;
+    margin: 0 auto; }
+
+  .border {
+    border-width: 1px;
+    border-color: #778899;  /* dark grayish blue */
+    border-style: solid; }
