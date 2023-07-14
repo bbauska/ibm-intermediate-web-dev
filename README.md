@@ -116,7 +116,8 @@ developer.
 <p align="center">
   <img src="./assets/images/image002.png"
   class="displayed"
-  alt="image002" style="width:500px;"/>
+  alt="image002"
+  style="box-shadow: 0 3px 5px rgba(0, 0, 0, 0.4);"/>
 </p>
 <!-- height="2.8327996500437447in"} -->
 
