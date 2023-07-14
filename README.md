@@ -116,7 +116,7 @@ developer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image002.png"
-  alt="image002"
+  alt="To complete this course, you should be familiar with the following knowledge."
   width="500" />
 </p>
 <!-- height="2.8327996500437447in"} -->
@@ -139,7 +139,7 @@ technical aspect of web and front-end application development.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image003.png"
-  alt="image003"
+  alt="When you complete this course, you will be able to:"
   width="500" />
 </p>
 <!-- {width="5.0in" height="2.8327996500437447in"} -->
@@ -180,19 +180,20 @@ excited you're here. Let's get started!
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image004.png"
-    alt="image004"
+    alt="Introduction to Content Management System (CMS)."
     width="500" />
 </p>
 <!-- {width="5.0in" height="2.557691382327209in"} -->
 
-<https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/zjLwk/introduction-to-content-management-system-cms>
+<!-- <https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/zjLwk/introduction-to-content-management-system-cms> -->
 
 Welcome to "Introduction to Content Management System (CMS)"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image005.png"
-    alt="image005" style="width:500px;"/>
+    alt="After reading, you will be able to: Define CMS, List several CMS platforms and Recognize the benefits of using CMS."
+    width="500" />
 </p>
 <!-- {width="5.0in" height="2.5576924759405073in"} -->
 
@@ -207,7 +208,8 @@ After reading this module (02), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image006.png"
-    alt="image006" style="width:500px;"/>
+    alt="What is Content Management System?"
+    style="width:500px;"/>
 </p>
 <!-- {width="5.0in" height="2.7841885389326335in"} -->
 
@@ -228,7 +230,8 @@ and makes it visible to website visitors.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image007.png"
-    alt="image007" style="width:500px;"/>
+    alt="There are 3 common typoe of CMS;  Web CMS, Digital CMS, and Enterprise CMS."
+    style="width:500px;"/>
 </p>
 <!-- {width="5.0in" height="2.7841885389326335in"} -->
 
