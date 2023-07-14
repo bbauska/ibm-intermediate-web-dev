@@ -4,8 +4,7 @@ author: "bbauska"
 date: "7/14/2023 4pm"
 output: 
   markdown:
-     css: 
-     self_contained: no
+    with_style
 ---
 <!-- [IBM's Intermediate Web and Front-End Development by Coursera](https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction) -->
 
