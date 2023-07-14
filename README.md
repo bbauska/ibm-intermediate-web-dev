@@ -1,7 +1,23 @@
 ---
 ibm-intermediate-web-dev: IBM's Intermediate Web & Front-end Development
 ---
+<style>
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .displayed {
+    display: block;
+    margin: 0 auto; }
 
+  .border {
+    border-width: 1px;
+    border-color: #778899;  /* dark grayish blue */
+    border-style: solid; }
+  .box-shadow {
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.4); }
+</style>
 [IBM's Intermediate Web and Front-End Development by Coursera](https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction)
 
 <!-- https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction -->
@@ -9,6 +25,7 @@ ibm-intermediate-web-dev: IBM's Intermediate Web & Front-end Development
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image001.png" 
+  class="box-shadow"
   alt="Intermediate Web &amp; Front-end Development" 
   style="width:500px;"/>
 <!-- {width="5.0in" height="2.8327996500437447in"}  -->
@@ -109,7 +126,8 @@ developer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image002.png"
-    alt="image002" style="width:500px;"/>
+  class="displayed"
+  alt="image002" style="width:500px;"/>
 </p>
 <!-- height="2.8327996500437447in"} -->
 
@@ -131,7 +149,8 @@ technical aspect of web and front-end application development.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image003.png"
-    alt="image003" style="width:500px;"/>
+  class="displayed"
+  alt="image003" style="width:500px;"/>
 </p>
 <!-- {width="5.0in" height="2.8327996500437447in"} -->
 
