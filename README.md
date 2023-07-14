@@ -108,7 +108,7 @@ here is the first step towards a long and rewarding career as a web
 developer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image002.png
+  <img src="./assets/images/image002.png"
     alt="image002" style="width:500px;"/>
 </p>
 <!-- height="2.8327996500437447in"} -->
@@ -130,7 +130,7 @@ technical aspect of web and front-end application development.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image003.png
+  <img src="./assets/images/image003.png"
     alt="image003" style="width:500px;"/>
 </p>
 <!-- {width="5.0in" height="2.8327996500437447in"} -->
@@ -170,7 +170,7 @@ excited you're here. Let's get started!
 # 02. Introduction to Content Management System (CMS)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image004.png
+  <img src="./assets/images/image004.png"
     alt="image004" style="width:500px;"/>
 </p>
 <!-- {width="5.0in" height="2.557691382327209in"} -->
@@ -181,7 +181,7 @@ Welcome to "Introduction to Content Management System (CMS)"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image005.png
+  <img src="./assets/images/image005.png"
     alt="image005" style="width:500px;"/>
 </p>
 <!-- {width="5.0in" height="2.5576924759405073in"} -->
@@ -196,7 +196,7 @@ After reading this module (02), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image006.png
+  <img src="./assets/images/image006.png"
     alt="image006" style="width:500px;"/>
 </p>
 <!-- {width="5.0in" height="2.7841885389326335in"} -->
@@ -217,7 +217,7 @@ and makes it visible to website visitors.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image007.png
+  <img src="./assets/images/image007.png"
     alt="image007" style="width:500px;"/>
 </p>
 <!-- {width="5.0in" height="2.7841885389326335in"} -->
@@ -236,9 +236,9 @@ time.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image008.png
+  <img src="./assets/images/image008.png"
     alt="image008" style="width:300px;"/>
-  <img src="./assets/images/image009.png
+  <img src="./assets/images/image009.png"
     alt="image009" style="width:300px;"/>
 <!-- ![](./assets/images/image008.png){width="3.0in"
 height="1.6705129046369205in"}![](./assets/images/image009.png){width="3.0in"
