@@ -362,7 +362,7 @@ In this module (02), you learned that:
 -   Some popular CMS platforms are WordPress, Drupal, Joomla, Magento,
     Squarespace, and Wix.
 
-<h1 id="ch1-03"03. Features of Web CMS</h1>
+<h1 id="ch1-03">03. Features of Web CMS</h1>
 
 <!-- <https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/BWeid/features-of-web-cms> -->
 
