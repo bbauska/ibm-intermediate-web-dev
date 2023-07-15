@@ -83,7 +83,7 @@ https://www.coursera.org/learn/intermediate-web-and-front-end-development/lectur
 
 <!-- # [Week 1:]{.mark} -->
 
-# 01. Introduction to Intermediate Web & Front-End Development
+<h1 id="ch1-01">01. Introduction to Intermediate Web & Front-End Development</h1>
 
 Hello and welcome to this course on Intermediate Web and Front-end
 Development. Are you interested in learning how to optimize your website
@@ -176,7 +176,7 @@ prospective employers. We're here to support your success and are
 excited you're here. Let's get started!
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# 02. Introduction to Content Management System (CMS)
+<h1 id="ch1-02">02. Introduction to Content Management System (CMS)</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image004.png"
@@ -362,7 +362,7 @@ In this module (02), you learned that:
 -   Some popular CMS platforms are WordPress, Drupal, Joomla, Magento,
     Squarespace, and Wix.
 
-# 03. Features of Web CMS
+<h1 id="ch1-03"03. Features of Web CMS</h1>
 
 <!-- <https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/BWeid/features-of-web-cms> -->
 
@@ -522,7 +522,7 @@ In this module (03), you learned that:
 -   A WCMS has several features that an end user can use to create and
     manage the content on their website.
 
-# 04. Popular CMS Platforms/Tools
+<h1 id="ch1-04"04. Popular CMS Platforms/Tools</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -685,7 +685,7 @@ In this module (04), you learned that:
 -   Joomla, Squarespace, Wix, Shopify, Drupal, and Adobe Commerce are
     all popular CMS platforms.
 
-# 05a. Web Development with CMS - Part 1
+<h1 id="ch1-05a"05a. Web Development with CMS - Part 1</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -871,7 +871,7 @@ In this module (05a), you learned about:
 
 -   Best practices to create a successful website.
 
-# 05b. Web Development with CMS - Part 2
+<h1 id="ch1-05b"05b. Web Development with CMS - Part 2</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1063,7 +1063,7 @@ In this module (05b), you learned that:
 -   Some of the features of a CMS include page design, blog content, and
     content storage.
 
-# 06a. Getting Started with WordPress - Part 1
+<h1 id="ch1-06a"06a. Getting Started with WordPress - Part 1</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1252,7 +1252,7 @@ In this module (06a), you learned:
     type of customization and functionality you want to add to your
     website.
 
-# 06b. Getting Started with WordPress - Part 2
+<h1 id="ch1-06b"06b. Getting Started with WordPress - Part 2</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1513,7 +1513,7 @@ In this module (06), you learned that:
 
     -   Integrating your social media with the website.
 
-# 07. Adding E-commerce to Your Website
+<h1 id="ch1-07"07. Adding E-commerce to Your Website</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1725,7 +1725,7 @@ In this module (07), you learned that:
 -   Wix, Weebly, and Squarespace are popular platforms for website
     building.
 
-# Practice Quiz: CMS & eCommerce
+## Practice Quiz: CMS & eCommerce
 
 # Week 1 Summary: Content Management Systems (CMS)
 
@@ -1760,7 +1760,7 @@ In this week (01), you learned that:
 
 # [Week 2:]{.mark}
 
-# 08. Introduction to Search Engine Optimization (SEO)
+<h1 id="ch2-08">08. Introduction to Search Engine Optimization (SEO)</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1926,7 +1926,7 @@ In this module (08), you learned that:
 -   Good SEO practices also improve a website\'s user experience and
     usability.
 
-# 09. Popular SEO Tools
+<h1 id="ch2-09">09. Popular SEO Tools</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2149,7 +2149,7 @@ In this module (09), you learned that:
 -   SEMrush SEO Toolkit, Ahrefs, Moz Pro, Serpstat, and SpyFu are some
     of the best-paid SEO tools available.
 
-# 10. SEO Strategies
+<h1 id="ch2-10">10. SEO Strategies</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2372,7 +2372,7 @@ In this module (10), you learned that:
 
     -   Monitor and be on the lookout for new trends and best practices.
 
-# 11. Mobile Friendly SEO
+<h1 id="ch2-11">11. Mobile Friendly SEO</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2586,7 +2586,7 @@ In this module (11), you learned that:
 -   Creating a mobile-specific website allows you to create content that
     is completely unique for mobile viewers.
 
-# 12. Page Optimization for SEO
+<h1 id="ch2-12">12. Page Optimization for SEO</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2811,7 +2811,7 @@ In this module (12), you learned that:
 
 -   Site structure elements are components of the website.
 
-# 13. Running Campaigns and Tracking Results
+<h1 id="ch2-13">13. Running Campaigns and Tracking Results</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3019,7 +3019,7 @@ In this section (13), you learned that:
 -   Google Search Console monitors website\'s search traffic and
     performance, troubleshoots problems, and optimizes search results.
 
-# 14. Do's and Don'ts of Search Engine Optimization
+<h1 id="ch2-14">14. Do's and Don'ts of Search Engine Optimization</h1>
 
 ## Introduction
 
@@ -3208,7 +3208,7 @@ In this module, you learned that:
 
 # [Week 3:]{.mark}
 
-# 15. Introduction to Web Build and Automated Tools
+<h1 id="ch3-15">15. Introduction to Web Build and Automated Tools</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3464,7 +3464,7 @@ In this module (15), you learned about:
 
 -   Some popular web build tools and bundlers used in web development.
 
-# 16. Introduction to Webpack 5
+<h1 id="ch3-16">16. Introduction to Webpack 5</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3604,7 +3604,7 @@ In this module (16), you learned that:
 -   Webpack 5 is powerful and has a unique plugin system as well as
     numerous other benefits.
 
-# 17. Essential Concepts of Webpack
+<h1 id="ch3-17">17. Essential Concepts of Webpack</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3773,7 +3773,7 @@ In this module (17), you learned that:
 
 -   Plugins allow Webpack to perform a wide range of tasks.
 
-# 18. Working with Webpack
+<h1 id="ch3-18">18. Working with Webpack</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3992,7 +3992,7 @@ In this module (18), you learned about:
 
 -   The three main configuration modes for Webpack.
 
-# 19. Setting up Production with Webpack
+<h1 id="ch3-19">19. Setting up Production with Webpack</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4158,7 +4158,7 @@ In this module (19), you learned that:
     -   Clean up old assets to avoid the minification of all the files
         in the public folder.
 
-# 20. Using Webpack Tools
+<h1 id="ch3-20">20. Using Webpack Tools</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4384,7 +4384,7 @@ In this module (20), you learned that:
 -   Webpack Bundle Analyzer helps to acknowledge the contents of the
     bundle and discover large modules.
 
-# 21. Using Webpack with Frontend Frameworks
+<h1 id="ch3-21">21. Using Webpack with Frontend Frameworks</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4665,7 +4665,7 @@ In this module (21), you learned about;
 
 -   The steps to configure Webpack with Angular, Vue, and React.
 
-# Hands on Lab: Build and Deploy a website using Webpack
+## Hands on Lab: Build and Deploy a website using Webpack
 
 ## Welcome to the **Build and Deploy a website using Webpack** lab! 
 
@@ -4686,8 +4686,7 @@ This course uses a third-party app, Hands on Lab: Build and Deploy a
 website using Webpack, to enhance your learning experience. The app will
 reference basic information like your name, email, and Coursera ID.
 
-# 22. Webpack Best Practices
-
+<h1 id="ch3-22">22. Webpack Best Practices</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image257.png"
@@ -4904,7 +4903,7 @@ In this module (22), you learned that:
 
 -   Tree shaking removes unnecessary code from the final bundle.
 
-# 23. Reading: HTTPS & SSL Certificates
+<h1 id="ch3-23">23. Reading: HTTPS & SSL Certificates</h1>
 
 ## What is HTTPS?
 
@@ -5034,7 +5033,7 @@ In this module (24), you learned that:
 
 # [Week 4:]{.mark}
 
-# 24. JavaScript Optimization
+<h1 id="ch4-24">24. JavaScript Optimization</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5218,7 +5217,7 @@ In this module (24), you learned that:
 -   JavaScript tips affect the performance of a web application and how
     to improve it.
 
-# 25. Popular Optimization Tools
+<h1 id="ch4-25">25. Popular Optimization Tools</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image280.png"
@@ -5441,7 +5440,7 @@ In this module (25), you learned that:
 -   JavaScript optimization tools remove unnecessary codes, which
     reduces the time required for browsers to analyze and compile code.
 
-# 26. Testing Frameworks
+<h1 id="ch4-26">26. Testing Frameworks</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image296.png"
@@ -5646,7 +5645,7 @@ In this module (26), you learned that:
 -   Some popular JavaScript testing frameworks are Jest, Playwright,
     Mocha, Cypress, Jasmine, and Puppeteer.
 
-# 27. Testing Tools -- Mocha and Jasmine
+<h1 id="ch4-27">27. Testing Tools -- Mocha and Jasmine</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5912,7 +5911,7 @@ In this module (27), you learned that:
 -   Slow tests can be highlighted in Jasmine using
     jasmine-slow-reporter, whereas Mocha has it built-in.
 
-# 28. Using Jasmine
+<h1 id="ch4-28">28. Using Jasmine</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6067,8 +6066,7 @@ In this module (28), you learned that:
 
 -   There are five steps to testing codes and React with Jasmine.
 
-# 29. Front-end Testing Best Practices
-
+<h1 id="ch4-29">29. Front-end Testing Best Practices</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image337.png"
@@ -6346,7 +6344,7 @@ In this module, you learned that:
 
 # [Week 5:]{.mark}
 
-# 30. JavaScript Debugging
+<h1 id="ch5-30">30. JavaScript Debugging</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6578,8 +6576,7 @@ In this module (30), you learned about:
 
 -   You can encounter JavaScript bugs in your code due to some factors.
 
-# 31. Basic Debugging Concepts
-
+<h1 id="ch5-31">31. Basic Debugging Concepts</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image366.png"
@@ -6832,7 +6829,7 @@ In this module (31), you learned about:
 
 -   Important debugging terminologies.
 
-# 32. Introduction to Debugging Tools
+<h1 id="ch5-32">32. Introduction to Debugging Tools</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image383.png"
@@ -7041,8 +7038,7 @@ In this module (32), you learned that:
 
 -   There are some common debugging tools used by developers.
 
-# 33. Troubleshooting with Chrome DevTools
-
+<h1 id="ch5-33">33. Troubleshooting with Chrome DevTools</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image398.png"
@@ -7327,7 +7323,7 @@ In this video, you learned that:
 -   Chrome DevTools helps switch between different mobile screen types
     and versions in addition to changing the screen size of a webpage.
 
-# 34. Monitoring your Website
+<h1 id="ch5-34">34. Monitoring your Website</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image419.png"
@@ -7607,7 +7603,7 @@ In this module (34), you learned about:
 
 -   Some popular website monitoring metrics.
 
-# 35. Popular Monitoring Tools
+<h1 id="ch5-35">35. Popular Monitoring Tools</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image437.png"
@@ -7918,7 +7914,7 @@ In week 5, you learned that:
 
 # [Week 6:]{.mark}
 
-# 36. Interest Rate Calculator
+<h1 id="ch6-36">36. Interest Rate Calculator</h1>
 
 Welcome to the hands- on lab for **Interest Rate Calculator**.
 
@@ -8007,5 +8003,9 @@ and drop the file icon onto the window.*
 
 9.  Show achieving the goal state, upload a screenshot of your final
     solution along with source, and save it as 09-final-output. (2 pts)
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!-- July 14, 2023 3:09pm -->
