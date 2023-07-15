@@ -333,7 +333,7 @@ CMS for you and your website!
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image013.png"
-  alt="Module Summary." 
+  alt="Module Summary (02)." 
   style="width:500px;"/>
 </p>
 
@@ -434,10 +434,14 @@ create, customize, and host web pages. We will now talk about the
 essential characteristics of WCMS.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image018.png){width="3.50086176727909in"
-height="1.9608989501312335in"}![](./assets/images/image019.png){width="3.5in"
-height="1.960896762904637in"}
+<p align="center">
+  <img src="./assets/images/image018.png"
+    alt="A WCMS enables a user to accomplish the following tasks." 
+	style="width:350px;"/>
+  <img src="./assets/images/image019.png"
+    alt="More tasks accomplised with WCMS software."
+	style="width:350px;"/>
+</p>
 
 A WCMS enables a user to accomplish specific tasks. Some of these
 include:
@@ -458,11 +462,15 @@ include:
     quickly.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image020.png"
+    alt="WCMS enables a user to accomplish the following additional tasks." 
+	style="width:350px;"/>
+  <img src="./assets/images/image021.png"
+    alt="WCMS enables a user to accomplish the following additional tasks." 
+	style="width:350px;"/>
+</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image020.png){width="3.0in"
-height="3.28in"}![](./assets/images/image021.png){width="3.0in"
-height="3.28in"}
-
 Here are the additional tasks that a WCMS enables a user to accomplish:
 
 -   Managing the life cycle of a document, including creation,
