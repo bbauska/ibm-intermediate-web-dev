@@ -3046,9 +3046,8 @@ some practices become obsolete or even unacceptable over time. The
 following are some of the most important and current SEO \"do\'s and
 don\'ts\" to keep in mind when developing your online strategy.
 
-+---------------------------------+------------------------------------+
 | **Do's**                        | **Don'ts**                         |
-+=================================+====================================+
+| :------------------------------ | :--------------------------------- |
 | **Do include meta descriptions  | **Don't use all of your keywords   |
 | and title tags.**               | on the same page.**                |
 |                                 |                                    |
@@ -3061,7 +3060,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 | clicks on your content in the   | about.                             |
 | search results. Use titles that |                                    |
 | pique users\' interest.         |                                    |
-+---------------------------------+------------------------------------+
+| :------------------------------ | :--------------------------------- |
 | **Do include keywords that are  | **Don't overuse keywords.**        |
 | pertinent to the page.**        |                                    |
 |                                 | Search engines do prefer content   |
@@ -3073,7 +3072,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 |                                 | content leads to a poor user       |
 |                                 | experience, it may result in your  |
 |                                 | website being ranked lower.        |
-+---------------------------------+------------------------------------+
+| :------------------------------ | :--------------------------------- |
 | **Do allow other websites to    | **Don\'t copy large amounts of     |
 | link to your website, but do    | outside content.**                 |
 | not link back to them.**        |                                    |
@@ -3086,7 +3085,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 | webmaster has a link trading    | way to present your content in a   |
 | network.                        | way that is more engaging to your  |
 |                                 | buyer.                             |
-+---------------------------------+------------------------------------+
+| :------------------------------ | :--------------------------------- |
 | **Do have a presence on         | **Don't ignore bad reviews. **     |
 | relevant social media           |                                    |
 | platforms. **                   | Responding to every comment,       |
@@ -3098,7 +3097,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 | correctly, social media can be  | happy and unhappy customers.       |
 | an extremely effective business |                                    |
 | tool.                           |                                    |
-+---------------------------------+------------------------------------+
+| :------------------------------ | :--------------------------------- |
 | **Do monitor site metrics.**    | **Don\'t be alarmed if your        |
 |                                 | rankings appear to drop            |
 | None of the other SEO do\'s and | suddenly. **                       |
@@ -3121,7 +3120,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 | The most convenient way to      |                                    |
 | track your metrics is to use a  |                                    |
 | tool like Google Analytics.     |                                    |
-+---------------------------------+------------------------------------+
+| :------------------------------ | :--------------------------------- |
 |                                 | **Don\'t skip user search          |
 |                                 | intention.**                       |
 |                                 |                                    |
@@ -3142,7 +3141,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 |                                 |     query, make sure you own the   |
 |                                 |     navigational query for your    |
 |                                 |     own brand.                     |
-+---------------------------------+------------------------------------+
+| :------------------------------ | :--------------------------------- |
 |                                 | **Don\'t link to external websites |
 |                                 | too frequently.**                  |
 |                                 |                                    |
@@ -3152,7 +3151,6 @@ don\'ts\" to keep in mind when developing your online strategy.
 |                                 | difficult to read. This leads to   |
 |                                 | higher bounce rates, which search  |
 |                                 | engines will notice.               |
-+---------------------------------+------------------------------------+
 
 ## Conclusion 
 
@@ -3160,7 +3158,7 @@ These \"do\'s and don\'ts\" are a good starting point for SEO reviews.
 Google\'s ranking algorithm considers over 200 factors, but these
 guidelines will help you stay on top of the basics.
 
-# Hands-on Lab: Optimizing a Website for Search Ranking
+## Hands-on Lab: Optimizing a Website for Search Ranking
 
 Welcome to the **Optimizing a Website for Search Ranking** lab!
 
@@ -3187,7 +3185,7 @@ This course uses a third-party app, Hands-on Lab: Optimizing a Website
 for Search Ranking, to enhance your learning experience. The app will
 reference basic information like your name, email, and Coursera ID.
 
-# Practice Quiz: Search Engine Optimization (SEO)
+## Practice Quiz: Search Engine Optimization (SEO)
 
 # Week 2 Summary: Search Engine Optimization (SEO)
 
@@ -3823,7 +3821,7 @@ After reading this module (18), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image201.png"
-  alt=""
+  alt="Webpack: functions and how to configure."
   style="width:500px;"/>
 </p>
 
@@ -3838,7 +3836,7 @@ source maps for better error tracking.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image202.png"
-  alt=""
+  alt="Webpack sample config file."
   style="width:500px;"/>
 </p>
 
@@ -3853,7 +3851,7 @@ this file is an object that Webpack will consider.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image203.png"
-  alt=""
+  alt="Webpack creates project in development mode and includes comments and non-minimized code while running."
   style="width:500px;"/>
 </p>
 
@@ -3864,7 +3862,7 @@ in the output bundle while it is running.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image204.png"
-  alt=""
+  alt="How to manage assets in Webpack 5.  Now built-in.  No additional configuration required."
   style="width:500px;"/>
 </p>
 
@@ -3878,7 +3876,7 @@ configuring additional loaders.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image205.png"
-  alt=""
+  alt="How each asset type is handled in Webpack's config file."
   style="width:500px;"/>
 </p>
 
@@ -3892,7 +3890,7 @@ be incorporated in the form of JSON files, CSVs, TSVs, and XML.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image206.png"
-  alt=""
+  alt="Code splitting in Webpack for resource load prioritization."
   style="width:500px;"/>
 </p>
 
@@ -3905,13 +3903,13 @@ users to engage with your application more quickly.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image207.png"
-  alt=""
+  alt="Code Splitting in Webpack 5 can be accomplished in 3 ways: Entry points, Prevent duplication &amp; Dynamic imports."
   style="width:500px;"/>
 </p>
 
 Code Splitting in Webpack 5 can be accomplished in three ways:
 
-1.  Entry points: Manually split code using entry configuration,
+1.  Entry points: Manually split code using entry configuration,
 
 2.  Prevent duplication: Remove identical entries and split chunks with
     SplitChunksPlugin,
@@ -3921,7 +3919,7 @@ Code Splitting in Webpack 5 can be accomplished in three ways:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image208.png"
-  alt=""
+  alt="Preload is declarative request which enables the browser to request resource without interrupting onload events."
   style="width:500px;"/>
 </p>
 
@@ -3936,7 +3934,7 @@ loaded in parallel to the parent chunk.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image209.png"
-  alt=""
+  alt="Prefetch for future navigation."
   style="width:500px;"/>
 </p>
 
@@ -3950,19 +3948,20 @@ in poor performance.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image210.png"
-  alt=""
+  alt="Three main config modes for Webpack 5: Development, Production, none."
   style="width:500px;"/>
 </p>
 
 Lastly, let's identify the three main configuration modes for Webpack. A
 mode configuration option instructs Webpack to make appropriate use of
 its built-in optimizations. The three main configuration modes are:
-Development Production And none.
+Development, Production, And none.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image211.png"
-  alt=""
+  alt="Development mode is used specifically in the development phase of an 
+  application.  Source maps are used to link produced code to original source code."
   style="width:500px;"/>
 </p>
 
@@ -3975,7 +3974,7 @@ your code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image212.png"
-  alt=""
+  alt="Production is the default mode value and is used to deliver the final code for production."
   style="width:500px;"/>
 </p>
 
@@ -3991,7 +3990,7 @@ options are applied.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image213.png"
-  alt=""
+  alt="Webpack 5 is a module bundler for web applications.  Among other things."
   style="width:500px;"/>
 </p>
 
@@ -4023,7 +4022,7 @@ Welcome to "Setting up Production with Webpack."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image215.png"
-  alt=""
+  alt="Configuration modes in Webpack and best practices."
   style="width:500px;"/>
 </p>
 
@@ -4036,7 +4035,7 @@ After reading this module (19), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image216.png"
-  alt=""
+  alt="Mode configuration option instructs Webpack to make appropriate use of built-in optimizations."
   style="width:500px;"/>
 </p>
 
@@ -4057,7 +4056,7 @@ useful configuration by simply setting the mode to production.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image217.png"
-  alt=""
+  alt="Production mode encourages Webpack to optimize."
   style="width:500px;"/>
 </p>
 
@@ -4072,7 +4071,7 @@ settings for each scenario.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image218.png"
-  alt=""
+  alt="Development mode encourages strong source mapping."
   style="width:500px;"/>
 </p>
 
@@ -4086,7 +4085,7 @@ prefer a "common" configuration to make things uniform.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image219.png"
-  alt=""
+  alt="Best practices with Webpack in production."
   style="width:500px;"/>
 </p>
 
@@ -4100,7 +4099,7 @@ of these practices in detail.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image220.png"
-  alt=""
+  alt="Minifying CSS in production to improve load time."
   style="width:500px;"/>
 </p>
 
