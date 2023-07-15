@@ -75,7 +75,7 @@ output:
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-<h1 id="ch1">WEEK 1</h1>h1>
+<h1 id="ch1">WEEK 1</h1>
 
 ## 01. Course Introduction
 
