@@ -121,6 +121,10 @@ developer.
 </p>
 <!-- height="2.8327996500437447in"} -->
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 To successfully complete this course, you should be familiar with the
 following:
 
