@@ -522,7 +522,7 @@ In this module (03), you learned that:
 -   A WCMS has several features that an end user can use to create and
     manage the content on their website.
 
-<h1 id="ch1-04"04. Popular CMS Platforms/Tools</h1>
+<h1 id="ch1-04">04. Popular CMS Platforms/Tools</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -685,7 +685,7 @@ In this module (04), you learned that:
 -   Joomla, Squarespace, Wix, Shopify, Drupal, and Adobe Commerce are
     all popular CMS platforms.
 
-<h1 id="ch1-05a"05a. Web Development with CMS - Part 1</h1>
+<h1 id="ch1-05a">05a. Web Development with CMS - Part 1</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -871,7 +871,7 @@ In this module (05a), you learned about:
 
 -   Best practices to create a successful website.
 
-<h1 id="ch1-05b"05b. Web Development with CMS - Part 2</h1>
+<h1 id="ch1-05b">05b. Web Development with CMS - Part 2</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1063,7 +1063,7 @@ In this module (05b), you learned that:
 -   Some of the features of a CMS include page design, blog content, and
     content storage.
 
-<h1 id="ch1-06a"06a. Getting Started with WordPress - Part 1</h1>
+<h1 id="ch1-06a">06a. Getting Started with WordPress - Part 1</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1252,7 +1252,7 @@ In this module (06a), you learned:
     type of customization and functionality you want to add to your
     website.
 
-<h1 id="ch1-06b"06b. Getting Started with WordPress - Part 2</h1>
+<h1 id="ch1-06b">06b. Getting Started with WordPress - Part 2</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1513,7 +1513,7 @@ In this module (06), you learned that:
 
     -   Integrating your social media with the website.
 
-<h1 id="ch1-07"07. Adding E-commerce to Your Website</h1>
+<h1 id="ch1-07">07. Adding E-commerce to Your Website</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
