@@ -646,8 +646,11 @@ and manage blogs, landing pages, and other navigation elements besides
 managing products.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image031.png){width="5.0in"
-height="2.8050218722659666in"}
+<p align="center">
+  <img src="./assets/images/image031.png"
+  alt="Drupal and Adobe Commerce CMS Platforms."
+  style="width:500px;"/>
+</p>
 
 Drupal is a free and open-source CMS. It's not as popular as WordPress
 and Joomla in terms of market share but is impressive in delivering
@@ -665,10 +668,13 @@ complete customization at a scale. Another highlight of this software is
 its ability to create a progressive web app (PWA) for your online store.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image032.png){width="5.0in"
-height="2.8050218722659666in"}
+<p align="center">
+  <img src="./assets/images/image032.png"
+  alt="Module 04: What you Laerned."
+  style="width:500px;"/>
+</p>
 
-In this section (04), you learned that:
+In this module (04), you learned that:
 
 -   Headless CMSs have become increasingly popular and are set to
     replace traditional CMSs,
@@ -682,14 +688,20 @@ In this section (04), you learned that:
 # 05a. Web Development with CMS - Part 1
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image033.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+  <img src="./assets/images/image033.png"
+  alt="Welcome to Web development with CMS - Part 1"
+  style="width:500px;"/>
+</p>
 
 Welcome to "Web development with CMS - Part 1."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image034.png){width="5.0in"
-height="2.813034776902887in"}
+<p align="center">
+  <img src="./assets/images/image034.png"
+  alt="Explain important elements of a web development plan and define best practices for a sucessful business website."
+  style="width:500px;"/>
+</p>
 
 After reading this module (05a), you will be able to:
 
@@ -698,8 +710,11 @@ After reading this module (05a), you will be able to:
 -   Define best practices for a successful business website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image035.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+  <img src="./assets/images/image035.png"
+  alt="Web development plan and it's elements."
+  style="width:500px;"/>
+</p>
 
 In today's competitive world, a website is essential for a business
 owner to acquire new and loyal customers. However, before the website
@@ -707,8 +722,11 @@ launch, planning is necessary. A lot is done before the actual coding
 for the website starts. A web development plan needs to be in place.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image036.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+  <img src="./assets/images/image036.png"
+  alt="Web development plan and it's 5 elements."
+  style="width:500px;"/>
+</p>
 
 Let's discuss the five important elements of this plan.
 
@@ -725,8 +743,11 @@ These include:
 -   Leveraging user and group roles.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image037.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+  <img src="./assets/images/image037.png"
+  alt="Elements of a Web development plan: Developing a web strategy."
+  style="width:500px;"/>
+</p>
 
 Let's discuss each of them in detail.
 
@@ -753,8 +774,11 @@ Your web design is in line with your web goals, and yhe website that the
 designers and developers create functions as per your business goals.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image038.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+  <img src="./assets/images/image038.png"
+  alt="Elements of a Web development plan: Adopting a global approach."
+  style="width:500px;"/>
+</p>
 
 Adopting a global approach is the next important element of a web
 development plan. In the 21st century, the growth of the internet has
@@ -767,8 +791,11 @@ adaptation later is as easy as possible. You will not have to edit every
 page if your website needs an update.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image39.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+  <img src="./assets/images/image039.png"
+  alt="Elements of a Web development plan: Creating page templates."
+  style="width:500px;"/>
+</p>
 
 The other important element of a web development plan is the creation of
 page templates. A website template is a pre-defined layout that enables
@@ -781,8 +808,11 @@ A website developed using a template can be updated easily and
 regularly.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image040.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+  <img src="./assets/images/image040.png"
+  alt="Elements of a Web development plan: focusing on Personalization."
+  style="width:500px;"/>
+</p>
 
 Today, every visitor to a website expects a customized user experience.
 This is why focusing on personalization is an important element of a web
@@ -796,8 +826,11 @@ providing content tailored to each visitor's taste, content
 recommendations personalize every visitor's digital experience.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image041.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+  <img src="./assets/images/image041.png"
+  alt="Elements of a Web Development Plan: Leveraging user and group roles."
+  style="width:500px;"/>
+</p>
 
 The last element of a web development plan that we are going to be
 discussing is leveraging user and group roles. Member roles are
@@ -808,8 +841,11 @@ administrative privileges. Administrators can leverage pre-existing
 roles and build new ones to suit their user base.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image042.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+  <img src="./assets/images/image042.png"
+  alt="Best practices for creating a successful business website."
+  style="width:500px;"/>
+</p>
 
 Now, we will explore some best practices for creating a successful
 business website. Ensure that your website makes the best use of search
@@ -823,8 +859,11 @@ devices or browsers. Use JavaScript to enhance your website's
 functionality. Use CSS to style the graphics and text on your website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image043.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+  <img src="./assets/images/image043.png"
+  alt="05a Web Development with CMS - Part 1."
+  style="width:500px;"/>
+</p>
 
 In this module (05a), you learned about:
 
@@ -835,14 +874,20 @@ In this module (05a), you learned about:
 # 05b. Web Development with CMS - Part 2
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image044.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+  <img src="./assets/images/image044.png"
+  alt="Welcome to 05b Web Development with CMS - Part 2."
+  style="width:500px;"/>
+</p>
 
-Welcome to "Web development with CMS -- Part 2."
+Welcome to "Web development with CMS -- Part 2 (05b)."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image045.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+  <img src="./assets/images/image045.png"
+  alt="Module 05b Summary: Identify types of website pages and features of a CMS."
+  style="width:500px;"/>
+</p>
 
 After reading this module (05b), you will be able to:
 
@@ -851,8 +896,11 @@ After reading this module (05b), you will be able to:
 -   Explain the features of a CMS.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image046.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+  <img src="./assets/images/image046.png"
+  alt="Summary of Different Page types of a web site."
+  style="width:500px;"/>
+</p>
 
 Each page of a website plays a vital role in its functioning. For users
 to easily navigate and access content, it is crucial that each page
@@ -873,8 +921,11 @@ These include:
 -   User home or dashboard.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image047.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+  <img src="./assets/images/image047.png"
+  alt="Website Page Types: Front Page and Post Page."
+  style="width:500px;"/>
+</p>
 
 Let's discuss each page in detail. The first type of page that we are
 going to talk about is the front page. This page is the formal entry
@@ -889,8 +940,11 @@ to display timely and regularly updated content. It could be an
 informational page about a person, group, event, product, and so on.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image048.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+  <img src="./assets/images/image048.png"
+  alt="Website Page Types: List or Category Page and Search Page."
+  style="width:500px;"/>
+</p>
 
 Now, we will talk about the list or category page. Well-organized
 website content improves user experience. A developer, therefore, needs
@@ -908,8 +962,11 @@ page is unnecessary for smaller applications but can be beneficial. It
 can be integrated or merged with the list or category page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image049.png){width="5.0in"
-height="2.813033683289589in"}
+<p align="center">
+  <img src="./assets/images/image049.png"
+  alt="Types of pages of a website: User/author profile and user's home or dashboard."
+  style="width:500px;"/>
+</p>
 
 The next type of page is the user or author profile. Any author or user
 that creates one or multiple posts has a dedicated page. Blogs with a
@@ -926,8 +983,11 @@ dashboard is essential for social networks and gated applications but
 optional or irrelevant for others.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image050.png){width="5.0in"
-height="2.834935476815398in"}
+<p align="center">
+  <img src="./assets/images/image050.png"
+  alt="Features of a CMS."
+  style="width:500px;"/>
+</p>
 
 Now, we are going to discuss the features of a CMS. Despite slight
 variations in design, every CMS has the same fundamental features. You
