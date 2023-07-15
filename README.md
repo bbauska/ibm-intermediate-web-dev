@@ -995,8 +995,11 @@ can create the content of your website using different CMS features.
 Some of these include: Page design, Blog content, and Content storage.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image051.png){width="5.0in"
-height="2.834935476815398in"}
+<p align="center">
+  <img src="./assets/images/image051.png"
+  alt="Features of a CMS: Page design and Blog content."
+  style="width:500px;"/>
+</p>
 
 The most important feature of a CMS is designing a page. A developer can
 start designing a page using a template or a blank canvas. The selection
@@ -1019,8 +1022,11 @@ content and use it across different parts of a website and advertising
 channels.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image052.png){width="5.0in"
-height="2.834935476815398in"}
+<p align="center">
+  <img src="./assets/images/image052.png"
+  alt="Features of a CMS: Content storage."
+  style="width:500px;"/>
+</p>
 
 The last feature of a CMS that we will discuss in this session is
 content storage. This feature of a CMS allows you to store all your
@@ -1031,8 +1037,11 @@ place it on a specific site. CMSs also allow you to review and approve
 the content before publication.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image053.png){width="5.0in"
-height="2.834935476815398in"}
+<p align="center">
+  <img src="./assets/images/image053.png"
+  alt="Summary Module 05b: CMS page types and features of a CMS."
+  style="width:500px;"/>
+</p>
 
 In this module (05b), you learned that:
 
@@ -1057,14 +1066,20 @@ In this module (05b), you learned that:
 # 06a. Getting Started with WordPress - Part 1
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image054.png){width="5.0in"
-height="2.827457349081365in"}
+<p align="center">
+  <img src="./assets/images/image054.png"
+  alt="Getting Started with WordPress, Part 1."
+  style="width:500px;"/>
+</p>
 
 Welcome to "Getting started with WordPress - Part 1."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image055.png){width="5.0in"
-height="2.8173075240594927in"}
+<p align="center">
+  <img src="./assets/images/image055.png"
+  alt="06a. Define WordPress as CMS and describe key concepts related to WordPress."
+  style="width:500px;"/>
+</p>
 
 After reading this module (06a), you will be able to:
 
@@ -1073,8 +1088,11 @@ After reading this module (06a), you will be able to:
 -   Describe key concepts related to WordPress.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image056.png){width="5.0in"
-height="2.7991447944007in"}
+<p align="center">
+  <img src="./assets/images/image056.png"
+  alt="WordPress: Website creation and mgmt, installation of plugins, greater flexibility and constant updates."
+  style="width:500px;"/>
+</p>
 
 WordPress is a CMS that helps you build and manage your website. It
 serves as a foundation for your content and allows you to install
@@ -1087,8 +1105,11 @@ with a specific company. WordPress allows you to constantly update your
 website\'s design, content, and functionality.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image057.png){width="5.0in"
-height="2.7991447944007in"}
+<p align="center">
+  <img src="./assets/images/image057.png"
+  alt="WordPress: Ease of customization, excellect performance and highly robust features."
+  style="width:500px;"/>
+</p>
 
 WordPress is a good fit for your projects and websites due to several
 factors. These include the ease of customization, excellent performance,
@@ -1096,8 +1117,11 @@ and highly robust features that allow a CMS to run a wide range of
 websites, including blogs, business, and e-commerce sites.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image058.png){width="5.0in"
-height="2.7991447944007in"}
+<p align="center">
+  <img src="./assets/images/image058.png"
+  alt="WordPress.org and WordPress.com - summary."
+  style="width:500px;"/>
+</p>
 
 There are two common platforms: WordPress.org and WordPress.com.
 
@@ -1120,10 +1144,12 @@ Secure Shell (SSH) or edit code via File Transfer Protocol (FTP).
 However, you can do so with Wordpress.org, as you must use it with a
 third-party host. You can install third-party plugins with
 WordPress.com\'s top-tier business plan.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image059.png){width="5.0in"
-height="2.7991447944007in"}
+<p align="center">
+  <img src="./assets/images/image059.png"
+  alt="WordPress concepts: database, core, plugins, hooks, customization updates and rest API."
+  style="width:500px;"/>
+</p>
 
 Users, developers, or both should know certain concepts and
 terminologies related to WordPress. These include the following terms:
@@ -1131,8 +1157,11 @@ Database, WordPress Core, plugins, themes, hooks, customization options,
 and Rest API.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image060.png){width="5.0in"
-height="2.7991447944007in"}
+<p align="center">
+  <img src="./assets/images/image060.png"
+  alt="WordPress concepts: Database supports MySQL and MariaDB.  WordPress Core explained."
+  style="width:500px;"/>
+</p>
 
 Let's discuss each of these in detail now.
 
@@ -1145,8 +1174,11 @@ to function. This is available for download from Wordpress.org or as
 part of your hosting package.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image061.png){width="5.0in"
-height="2.7991447944007in"}
+<p align="center">
+  <img src="./assets/images/image061.png"
+  alt="."
+  style="width:500px;"/>
+</p>
 
 Plugins are pieces of code you can write yourself or download from
 places like the WordPress Plugin repository. Plugins can add new
@@ -1162,8 +1194,11 @@ customization options and require less coding. The Block Theme system is
 the future of WordPress theming.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image062.png){width="5.0in"
-height="2.7991447944007in"}
+<p align="center">
+  <img src="./assets/images/image062.png"
+  alt="."
+  style="width:500px;"/>
+</p>
 
 Hooks are the foundation of the WordPress core, themes, and plugins.
 There are two types of hooks: actions and filters. Action hooks allow
@@ -1177,16 +1212,22 @@ There are two types: visual changes facilitated by themes and functional
 changes implemented by plugins.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image063.png){width="5.0in"
-height="2.7991447944007in"}
+<p align="center">
+  <img src="./assets/images/image063.png"
+  alt="."
+  style="width:500px;"/>
+</p>
 
 The Rest API is new and allows you to build true WordPress applications.
 These include iPhone, Android, and TV apps if you are familiar with
 other programming languages.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image064.png){width="5.0in"
-height="2.7991447944007in"}
+<p align="center">
+  <img src="./assets/images/image064.png"
+  alt="."
+  style="width:500px;"/>
+</p>
 
 In this module (06a), you learned:
 
@@ -1214,14 +1255,20 @@ In this module (06a), you learned:
 # 06b. Getting Started with WordPress - Part 2
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image065.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image065.png"
+  alt="."
+  style="width:500px;"/>
+</p>
 
 Welcome to "Getting started with WordPress -- Part 2."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image066.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image066.png"
+  alt="."
+  style="width:500px;"/>
+</p>
 
 After reading this module (06b), you will be able to:
 
@@ -1236,8 +1283,11 @@ professional website without coding knowledge. This module will teach
 you how to create a website using WordPress.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image067.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image067.png"
+  alt="."
+  style="width:500px;"/>
+</p>
 
 The steps to create a website using WordPress include the following:
 
@@ -1256,8 +1306,11 @@ The steps to create a website using WordPress include the following:
 -   Integrating your social media with the website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image068.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image068.png"
+  alt="."
+  style="width:500px;"/>
+</p>
 
 Let's discuss each of these steps in detail.
 
@@ -1269,8 +1322,11 @@ registered with a domain name registrar. Some popular registrars include
 GoDaddy and Google Domains.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image069.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image069.png"
+  alt="."
+  style="width:500px;"/>
+</p>
 
 The next step in creating a website using WordPress is setting up web
 hosting. Web hosting is the \"engine\" that powers your WordPress
@@ -1280,8 +1336,11 @@ available at all price points, ranging from a few dollars to hundreds
 per month.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image070.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image070.png"
+  alt="."
+  style="width:500px;"/>
+</p>
 
 Next, you need to install the WordPress software. Most WordPress hosting
 companies provide simple tools to install free WordPress software. The
@@ -1292,8 +1351,11 @@ WordPress hosting account, you\'ll be able to install and use the
 software immediately.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image071.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image071.png"
+  alt="."
+  style="width:500px;"/>
+</p>
 
 After you've installed the WordPress software, you need to select a
 theme for your website. Your WordPress theme determines how your website
@@ -1308,8 +1370,11 @@ creator. Look for frequently updated themes to ensure that your website
 stays current.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image072.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image072.png"
+  alt="."
+  style="width:500px;"/>
+</p>
 
 After selecting the theme of your website, you need to design the
 homepage and the additional pages of your website. To create an
@@ -1322,8 +1387,11 @@ page, the Contact page, the Privacy Policy page, the custom landing
 page, and so on.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image073.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image073.png"
+  alt="."
+  style="width:500px;"/>
+</p>
 
 Now, to boost the functionality of your website, you can install
 plugins. Note that this step is optional. While themes are concerned
@@ -1335,8 +1403,12 @@ create user forums, and manage comments. One important consideration is
 that coding errors from a plugin developer may leave your website
 vulnerable to cyberattacks. Hence, research before you install one.
 
-![](./assets/images/image074.png){width="5.0in"
-height="2.8258552055993in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image074.png"
+  alt="."
+  style="width:500px;"/>
+</p>
 
 The next step is creating navigation menus. Users can browse different
 pages or sections of your website using navigation menus. Menus are
@@ -1344,8 +1416,12 @@ links at the top of a web page that users can click to navigate your
 website. WordPress includes a robust navigation menu system, which your
 WordPress theme uses to display menus.
 
-![](./assets/images/image075.png){width="5.0in"
-height="2.8258552055993in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image075.png"
+  alt="."
+  style="width:500px;"/>
+</p>
 
 The last and optional step is integrating your social media with your
 website. This helps you to enhance brand reach and awareness, encourage
@@ -1356,8 +1432,11 @@ YouTube, and others. It also allows you to post online or redirect users
 to your social media profiles. You must be familiar with specific tools
 to begin working with WordPress development and website design.
 
-![](./assets/images/image076.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image076.png"
+  alt="."
+  style="width:500px;"/>
+</p>
 
 Let us understand the skills required for enhancing WordPress. The
 following skills are:
@@ -1377,8 +1456,11 @@ what code you write or the language you use, it all comes down to HTML
 and CSS.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image077.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image077.png"
+  alt="."
+  style="width:500px;"/>
+</p>
 
 HTML is responsible for giving a website its structure. This implies
 deciding what text should be a heading, what should be a list, what goes
@@ -1399,8 +1481,11 @@ MySQL is a database-access and data-management language. WordPress
 relies on it to retrieve all its data.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image078.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image078.png"
+  alt="."
+  style="width:500px;"/>
+</p>
 
 In this module (06), you learned that:
 
@@ -1430,14 +1515,20 @@ In this module (06), you learned that:
 # 07. Adding E-commerce to Your Website
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image079.png){width="5.0in"
-height="2.6330129046369204in"}
+<p align="center">
+  <img src="./assets/images/image079.png"
+  alt="07. Welcome to Adding E-commerce to your Website."
+  style="width:500px;"/>
+</p>
 
 Welcome to "Adding E-commerce to Your Website."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image080.png){width="5.0in"
-height="2.671474190726159in"}
+<p align="center">
+  <img src="./assets/images/image080.png"
+  alt="Summary 07 Adding E-commerce to your Website."
+  style="width:500px;"/>
+</p>
 
 After reading this module (07), you will be able to:
 
@@ -1447,8 +1538,11 @@ After reading this module (07), you will be able to:
 -   Describe how to add e-commerce functionality to your website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-> ![](./assets/images/image081.png){width="5.0in"
-> height="2.671474190726159in"}
+> <p align="center">
+>  <img src="./assets/images/image081.png"
+>  alt="."
+>  style="width:500px;"/>
+> </p>
 
 Businesses must adapt to the new online world to remain relevant and
 profitable. Those who depend on customers visiting a storefront must
@@ -1462,8 +1556,11 @@ either using WordPress website or a website builder to create your
 website, adding e-commerce functionality is simple.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image082.png){width="5.0in"
-height="2.671474190726159in"}
+<p align="center">
+  <img src="./assets/images/image082.png"
+  alt="Why add e-commerce functionality"
+  style="width:500px;"/>
+</p>
 
 The global consultancy firm AT Kearney stated, \"e-commerce is the next
 frontier in global expansion. Global e-commerce has grown by thirteen
@@ -1474,8 +1571,11 @@ and affordable. It allows you to sell locally and globally every hour of
 every day.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image083.png){width="5.0in"
-height="2.671474190726159in"}
+<p align="center">
+  <img src="./assets/images/image083.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Adding e-commerce features to a website requires a certain degree of
 technical knowledge. Here are some ways to add e-commerce to your
@@ -1488,8 +1588,11 @@ software will help you easily create high-converting landing pages, web
 pages, and blog posts.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image084.png){width="5.0in"
-height="2.697115048118985in"}
+<p align="center">
+  <img src="./assets/images/image084.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The first option is to add a store to your website. This option is great
 if you have full permission to edit your website. You can add payment
