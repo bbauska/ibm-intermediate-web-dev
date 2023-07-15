@@ -399,6 +399,10 @@ After reading this module (03), you will be able to:
 
 -   Explain Enterprise Content Management System (ECMS).
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 In today's digital world, an organization must manage and update its
 official website regularly. An organization needs to enable technical
 and non-technical end users to create and manage the content on its
