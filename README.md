@@ -209,6 +209,10 @@ After reading this module (02), you will be able to:
 
 -   Recognize the benefits of using a CMS.
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image006.png"
