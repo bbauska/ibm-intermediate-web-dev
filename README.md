@@ -75,7 +75,7 @@ output:
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-# WEEK 1
+<h1 id="ch1">WEEK 1</h1>h1>
 
 ## 01. Course Introduction
 
@@ -1758,7 +1758,9 @@ In this week (01), you learned that:
 
 # Graded Quiz: CMS & eCommerce
 
-# [Week 2:]{.mark}
+<!-- # [Week 2:]{.mark} -->
+
+<h1 id="ch2">WEEK 2</h1>
 
 <h1 id="ch2-08">08. Introduction to Search Engine Optimization (SEO)</h1>
 
@@ -3206,7 +3208,9 @@ In this module, you learned that:
 
 ## Graded Quiz: Search Engine Optimization (SEO)
 
-# [Week 3:]{.mark}
+<!-- # [Week 3:]{.mark} -->
+
+<h1 id="ch3">WEEK 3</h1>
 
 <h1 id="ch3-15">15. Introduction to Web Build and Automated Tools</h1>
 
@@ -5031,7 +5035,9 @@ In this module (24), you learned that:
 
 # Graded Quiz: Introduction to Web Build with Webpack
 
-# [Week 4:]{.mark}
+<!-- # [Week 4:]{.mark} -->
+
+<h1 id="ch4">WEEK 4</h1>
 
 <h1 id="ch4-24">24. JavaScript Optimization</h1>
 
@@ -6342,7 +6348,9 @@ In this module, you learned that:
 
 # Graded Quiz: JavaScript Optimization and Testing Frameworks
 
-# [Week 5:]{.mark}
+<!-- # [Week 5:]{.mark} -->
+
+<h1 id="ch5">WEEK 5</h1>
 
 <h1 id="ch5-30">30. JavaScript Debugging</h1>
 
@@ -7912,7 +7920,9 @@ In week 5, you learned that:
 
 ## Graded Quiz: Debugging and Troubleshooting
 
-# [Week 6:]{.mark}
+<!-- # [Week 6:]{.mark} -->
+
+<h1 id="ch6">WEEK 6</h1>
 
 <h1 id="ch6-36">36. Interest Rate Calculator</h1>
 
