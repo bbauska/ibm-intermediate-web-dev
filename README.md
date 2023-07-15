@@ -470,7 +470,7 @@ include:
     alt="WCMS enables a user to accomplish the following additional tasks." 
 	style="width:350px;"/>
 </p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
 Here are the additional tasks that a WCMS enables a user to accomplish:
 
 -   Managing the life cycle of a document, including creation,
@@ -487,8 +487,11 @@ Here are the additional tasks that a WCMS enables a user to accomplish:
 -   Managing user access to a particular page on a website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image022.png){width="5.0in"
-height="2.796474190726159in"}
+<p align="center">
+  <img src="./assets/images/image022.png"
+  alt="Enterprise CMS: Manage content throughout the lifecycle intelligently." 
+  style="width:500px;"/>
+</p>
 
 Enterprise Content Management System (ECM) allows businesses to manage
 content throughout their lifecycle intelligently. A Web Content
@@ -498,8 +501,11 @@ Management System integrates software tools with an organization's
 strategy and aligns with its routine business operations.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image023.png){width="5.0in"
-height="2.796474190726159in"}
+<p align="center">
+  <img src="./assets/images/image023.png"
+  alt="Module 3 Summary: WCMS." 
+  style="width:500px;"/>
+</p>
 
 In this module (03), you learned that:
 
@@ -513,23 +519,26 @@ In this module (03), you learned that:
 
     -   Code enables a user to create customizable web pages.
 
-```{=html}
-<!-- -->
-```
 -   A WCMS has several features that an end user can use to create and
     manage the content on their website.
 
 # 04. Popular CMS Platforms/Tools
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image024.png){width="5.0in"
-height="2.8050218722659666in"}
+<p align="center">
+  <img src="./assets/images/image024.png"
+  alt="Welcome to Popular CMS Platofrms/Tools (04)." 
+  style="width:500px;"/>
+</p>
 
 Welcome to "Popular CMS platforms/tools."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-.![](./assets/images/image025.png){width="5.0in"
-height="2.8050207786526684in"}
+<p align="center">
+  <img src="./assets/images/image025.png"
+  alt="Summary Module 04: Explain Headless CMS and Identify popular CMS Platforms and Tools."
+  style="width:500px;"/>
+</p>
 
 After reading this module (04), you will be able to:
 
@@ -538,8 +547,11 @@ After reading this module (04), you will be able to:
 -   Identify popular CMS platforms and tools.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image026.png){width="5.0in"
-height="2.8050218722659666in"}
+<p align="center">
+  <img src="./assets/images/image026.png"
+  alt="Headless CMSs: True Integration." 
+  style="width:500px;"/>
+</p>
 
 Headless content management systems (CMSs) have gained popularity
 recently and are set to replace traditional CMSs. A conventional CMS
@@ -557,8 +569,11 @@ change made at a centralized location is implemented everywhere where it
 matters. This is the power that a headless CMS has.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image027.png){width="5.0in"
-height="2.8050218722659666in"}
+<p align="center">
+  <img src="./assets/images/image027.png"
+  alt="Headless CMS: to deliever content to the different channels." 
+  style="width:500px;"/>
+</p>
 
 The headless approach enables organizations to deliver content to
 different channels, such as mobile applications or JavaScript
@@ -572,8 +587,11 @@ less susceptible to cyber security threats as the back end is separated
 from the front end.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image028.png){width="5.0in"
-height="2.8050218722659666in"}
+<p align="center">
+  <img src="./assets/images/image028.png"
+  alt="WordPress and Joomla CMS Platforms."
+  style="width:500px;"/>
+</p>
 
 WordPress is one of the most popular CMS platforms. It accounts for more
 than 60% of the CMS market. It offers the flexibility and freedom to
@@ -588,8 +606,11 @@ creators. It has a large pool of extensions that gives plenty of design
 options and constant feature updates.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image029.png){width="5.0in"
-height="2.8050218722659666in"}
+<p align="center">
+  <img src="./assets/images/image029.png"
+  alt="Squarespace &amp; WIX CMS Platforms." 
+  style="width:500px;"/>
+</p>
 
 The next popular CMS that we are going to discuss is Squarespace. It's
 an integrated platform where you can build your website and blog, host
@@ -607,8 +628,11 @@ contact forms, and community forums. You can choose from different plans
 based on your requirement.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image030.png){width="5.0in"
-height="2.8050218722659666in"}
+<p align="center">
+  <img src="./assets/images/image030.png"
+  alt="Shopify CMS Platform."
+  style="width:500px;"/>
+</p>
 
 Shopify is a popular CMS platform for developing e-commerce websites.
 It's an all-in-one website builder and content management system with
