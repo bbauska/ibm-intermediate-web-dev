@@ -3046,10 +3046,10 @@ some practices become obsolete or even unacceptable over time. The
 following are some of the most important and current SEO \"do\'s and
 don\'ts\" to keep in mind when developing your online strategy.
 
-| **Do's**                        | **Don'ts**                         |
+| <b>Do's<b>                        | <b>Don'ts</b>                    |
 | :------------------------------ | :--------------------------------- |
-| **Do include meta descriptions  | **Don't use all of your keywords   |
-| and title tags.**               | on the same page.**                |
+| <b>Do include meta descriptions | <b>Don't use all of your keywords  |
+| and title tags.</b>             | on the same page.</b>              |
 |                                 |                                    |
 | Meta descriptions and title     | Instead, make sure that each page  |
 | tags are critical components of | contains specific, relevant        |
@@ -3060,9 +3060,11 @@ don\'ts\" to keep in mind when developing your online strategy.
 | clicks on your content in the   | about.                             |
 | search results. Use titles that |                                    |
 | pique users\' interest.         |                                    |
-| :------------------------------ | :--------------------------------- |
-| **Do include keywords that are  | **Don't overuse keywords.**        |
-| pertinent to the page.**        |                                    |
+
+| ------------------------------- | ---------------------------------- |
+
+| <b>Do include keywords that are | <b>Don't overuse keywords.</b>     |
+| pertinent to the page.</b>      |                                    |
 |                                 | Search engines do prefer content   |
 | The keywords in your content    | with a clear theme, but overusing  |
 | should be related to the title  | a keyword tends to put off         |
@@ -3072,10 +3074,10 @@ don\'ts\" to keep in mind when developing your online strategy.
 |                                 | content leads to a poor user       |
 |                                 | experience, it may result in your  |
 |                                 | website being ranked lower.        |
-| :------------------------------ | :--------------------------------- |
-| **Do allow other websites to    | **Don\'t copy large amounts of     |
-| link to your website, but do    | outside content.**                 |
-| not link back to them.**        |                                    |
+|---------------------------------|------------------------------------|
+| <b>Do allow other websites to   | <b>Don\'t copy large amounts of    |
+| link to your website, but do    | outside content.</b>               |
+| not link back to them.</b>      |                                    |
 |                                 | Duplicating your own content does  |
 | Google dislikes link exchanges. | not harm your SEO but copying      |
 | Search engines want to see      | someone else\'s content almost     |
@@ -3085,10 +3087,10 @@ don\'ts\" to keep in mind when developing your online strategy.
 | webmaster has a link trading    | way to present your content in a   |
 | network.                        | way that is more engaging to your  |
 |                                 | buyer.                             |
-| :------------------------------ | :--------------------------------- |
-| **Do have a presence on         | **Don't ignore bad reviews. **     |
+|---------------------------------|------------------------------------|
+| <b>Do have a presence on        | <b>Don't ignore bad reviews.</b>   |
 | relevant social media           |                                    |
-| platforms. **                   | Responding to every comment,       |
+| platforms.</b>                  | Responding to every comment,       |
 |                                 | whether positive or negative, is   |
 | It is critical to update        | crucial, even if it seems outdated |
 | profiles on a regular basis,    | or untrue to you. While searchers  |
@@ -3097,10 +3099,10 @@ don\'ts\" to keep in mind when developing your online strategy.
 | correctly, social media can be  | happy and unhappy customers.       |
 | an extremely effective business |                                    |
 | tool.                           |                                    |
-| :------------------------------ | :--------------------------------- |
-| **Do monitor site metrics.**    | **Don\'t be alarmed if your        |
-|                                 | rankings appear to drop            |
-| None of the other SEO do\'s and | suddenly. **                       |
+|---------------------------------|------------------------------------|
+| <b>Do monitor site metrics.</b> | <b>Don\'t be alarmed if your</b>   |
+|                                 | <b>rankings appear to drop</b>     |
+| None of the other SEO do\'s and | <b>suddenly.</b>                   |
 | don\'ts will be much use unless |                                    |
 | you verify that they are        | Any change in rankings can always  |
 | working for you. Once           | be explained, and it might be as   |
@@ -3120,9 +3122,9 @@ don\'ts\" to keep in mind when developing your online strategy.
 | The most convenient way to      |                                    |
 | track your metrics is to use a  |                                    |
 | tool like Google Analytics.     |                                    |
-| :------------------------------ | :--------------------------------- |
-|                                 | **Don\'t skip user search          |
-|                                 | intention.**                       |
+| ------------------------------- | ---------------------------------- |
+|                                 | <b>Don\'t skip user search</b>     |
+|                                 | <b>intention.</b>                  |
 |                                 |                                    |
 |                                 | Google\'s ultimate goal with       |
 |                                 | search results is to serve a       |
@@ -3141,9 +3143,9 @@ don\'ts\" to keep in mind when developing your online strategy.
 |                                 |     query, make sure you own the   |
 |                                 |     navigational query for your    |
 |                                 |     own brand.                     |
-| :------------------------------ | :--------------------------------- |
-|                                 | **Don\'t link to external websites |
-|                                 | too frequently.**                  |
+| ------------------------------- | ---------------------------------- |
+|                                 | <b>Don\'t link to external websites|
+|                                 | too frequently.</b>                |
 |                                 |                                    |
 |                                 | The only drawback of having too    |
 |                                 | many outbound links today is that  |
@@ -6103,17 +6105,19 @@ Welcome to \"Front-end Testing Best Practices.\"
 
 After reading this module (29), you will be able to:
 
--   define front-end testing and its advantages,
+-   Define front-end testing and its advantages,
 
--   identify what aspect of an application\'s front end should be
-    tested,
+-   Identify what aspect of an application\'s front end should be
+    tested, and
 
--   and list some of the best front-end testing practices.
+-   List some of the best front-end testing practices.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image339.png"
-  alt=""
+  alt="What is front-end testing?  Test usability and functioning of an app's GUI, 
+  validate menus, forms, buttons and other app elements visible to users, and consists 
+  of 3-tier architecture containing clients, servers, and information systems."
   style="width:500px;"/>
 </p>
 
@@ -6128,7 +6132,7 @@ is tested by front-end testers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image340.png"
-  alt=""
+  alt="Advantages of front-end testing; provides accurate interactions, offers accessibility to all users."
   style="width:500px;"/>
 </p>
 
@@ -6145,7 +6149,7 @@ must be completed prior to the deployment of a website.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image341.png"
-  alt=""
+  alt="Front-end testing ensures consistent behavior and protects application from regression."
   style="width:500px;"/>
 </p>
 
@@ -6161,7 +6165,7 @@ consistent and that the front-end functionality is intact.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image342.png"
-  alt=""
+  alt="Front-end testing fixes bugs and keeps well-maintained test codes."
   style="width:500px;"/>
 </p>
 
@@ -6175,7 +6179,8 @@ beneficial as they serve as live documentation.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image343.png"
-  alt=""
+  alt="What should be tested in front-end testing? Cross-broser &amp; platform 
+  functionality, accessibility, and end-to-end checks."
   style="width:500px;"/>
 </p>
 
@@ -6192,7 +6197,7 @@ workflow by simulating real-world actions that users are likely to take.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image344.png"
-  alt=""
+  alt="Additional tests; image analysis testing and Cascade Style Sheet (CSS) testing."
   style="width:500px;"/>
 </p>
 
@@ -6207,7 +6212,7 @@ for regression after changes to specific parts of the app.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image345.png"
-  alt=""
+  alt="Best practices of front-end testing"
   style="width:500px;"/>
 </p>
 
@@ -6220,7 +6225,7 @@ Keeping tests independent, and Testing a variety of input parameters.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image346.png"
-  alt=""
+  alt="Focus on front-end elements.  Use actual browsers and devices."
   style="width:500px;"/>
 </p>
 
@@ -6236,7 +6241,7 @@ results.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image347.png"
-  alt=""
+  alt="Perform deterministic tests. Striving for coverage and not 100% code coverage."
   style="width:500px;"/>
 </p>
 
@@ -6253,12 +6258,13 @@ and provide you with the confidence to make changes to your code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image348.png"
-  alt=""
+  alt="Encouraging shorter and more readable unit tests. Keep test independent. Test a variety of
+  input parameters."
   style="width:500px;"/>
 </p>
 
-Encouraging shorter and more readable unit tests A unit test should only
-test a single unit of code. If there is only one reason for the test to
+Encouraging shorter and more readable unit tests.  A unit test should only
+test a single unit of code. If there is only one reason for the test to
 fail, less time is spent determining the root cause of the test's
 failure. Keeping tests independent the outcome of one test should have
 no impact on the results of any other tests. Sharing state or mock
@@ -6271,7 +6277,7 @@ that a user may enter.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image349.png"
-  alt=""
+  alt="Common best and most used front-end testing tools."
   style="width:500px;"/>
 </p>
 
@@ -6283,7 +6289,7 @@ Jasmine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image350.png"
-  alt=""
+  alt="Module 29 educates you on Front-end testing and tools."
   style="width:500px;"/>
 </p>
 
