@@ -3805,12 +3805,10 @@ After reading this module (18), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image200.png"
+  <img src="./assets/images/image201.png"
   alt=""
   style="width:500px;"/>
 </p>
-![](./assets/images/image201.png){width="5.0in"
-height="2.806089238845144in"}
 
 Let's first understand the functions of Webpack and why we need
 configuration. Webpack is a module bundler for web applications that
@@ -3822,12 +3820,10 @@ source maps for better error tracking.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image200.png"
+  <img src="./assets/images/image202.png"
   alt=""
   style="width:500px;"/>
 </p>
-![](./assets/images/image202.png){width="5.0in"
-height="2.806089238845144in"}
 
 Webpack supports a configuration file for projects with complex
 structures. This is more efficient than manually typing numerous
@@ -3839,12 +3835,10 @@ this file is an object that Webpack will consider.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image200.png"
+  <img src="./assets/images/image203.png"
   alt=""
   style="width:500px;"/>
 </p>
-![](./assets/images/image203.png){width="5.0in"
-height="2.806089238845144in"}
 
 The configuration mentioned above instructs Webpack to create the
 project in development mode to include comments and non-minimized code
@@ -3852,12 +3846,10 @@ in the output bundle while it is running.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image200.png"
+  <img src="./assets/images/image204.png"
   alt=""
   style="width:500px;"/>
 </p>
-![](./assets/images/image204.png){width="5.0in"
-height="2.806089238845144in"}
 
 Let's learn how assets can be easily managed using Webpack Your project
 will often contain assets such as images, fonts, icons, and other
@@ -3868,12 +3860,10 @@ configuring additional loaders.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image200.png"
+  <img src="./assets/images/image205.png"
   alt=""
   style="width:500px;"/>
 </p>
-![](./assets/images/image205.png){width="5.0in"
-height="2.806089238845144in"}
 
 Let's now explore how each asset type is handled in the Webpack
 configuration file. A CSS file can be imported by installing and adding
@@ -3884,12 +3874,10 @@ be incorporated in the form of JSON files, CSVs, TSVs, and XML.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image200.png"
+  <img src="./assets/images/image206.png"
   alt=""
   style="width:500px;"/>
 </p>
-![](./assets/images/image206.png){width="5.0in"
-height="2.806089238845144in"}
 
 Now that you have learned about asset management, let's understand code
 splitting. The code splitting feature in Webpack is used to achieve
@@ -3899,12 +3887,10 @@ users to engage with your application more quickly.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image200.png"
+  <img src="./assets/images/image207.png"
   alt=""
   style="width:500px;"/>
 </p>
-![](./assets/images/image207.png){width="5.0in"
-height="2.806089238845144in"}
 
 Code Splitting in Webpack 5 can be accomplished in three ways:
 
@@ -3917,12 +3903,10 @@ Code Splitting in Webpack 5 can be accomplished in three ways:
     modules.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image200.png"
+  <img src="./assets/images/image208.png"
   alt=""
   style="width:500px;"/>
 </p>
-![](./assets/images/image208.png){width="5.0in"
-height="2.806089238845144in"}
 
 Now that you have a clear understanding of code splitting let's learn
 about Preload and Prefetch.
@@ -3934,12 +3918,10 @@ loaded in parallel to the parent chunk.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image200.png"
+  <img src="./assets/images/image209.png"
   alt=""
   style="width:500px;"/>
 </p>
-![](./assets/images/image209.png){width="5.0in"
-height="2.806089238845144in"}
 
 Prefetch serves as an indication to the browser that a resource may be
 required, but it leaves it to the browser to determine if it is to be
@@ -3962,12 +3944,10 @@ Development Production And none.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image210.png"
+  <img src="./assets/images/image211.png"
   alt=""
   style="width:500px;"/>
 </p>
-![](./assets/images/image211.png){width="5.0in"
-height="2.806089238845144in"}
 
 Development mode is used specifically in the development phase of an
 application. Webpack offers source maps in the development code that
@@ -3977,12 +3957,10 @@ your code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image210.png"
+  <img src="./assets/images/image212.png"
   alt=""
   style="width:500px;"/>
 </p>
-![](./assets/images/image212.png){width="5.0in"
-height="2.806089238845144in"}
 
 Production is the default mode value and is used to deliver the final
 code for production. Webpack, in production mode, tries its best to
@@ -4061,12 +4039,10 @@ useful configuration by simply setting the mode to production.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image210.png"
+  <img src="./assets/images/image217.png"
   alt=""
   style="width:500px;"/>
 </p>
-![](./assets/images/image217.png){width="5.0in"
-height="2.806089238845144in"}
 
 Production is the default mode value. It encourages Webpack to give you
 access to all the optimizations possible, such as tree shaking,
@@ -4078,12 +4054,10 @@ settings for each scenario.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image210.png"
+  <img src="./assets/images/image218.png"
   alt=""
   style="width:500px;"/>
 </p>
-![](./assets/images/image218.png){width="5.0in"
-height="2.806089238845144in"}
 
 Development and production builds have numerous different objectives. In
 the case of development, the goal is to have strong source mapping and a
@@ -4094,12 +4068,10 @@ prefer a "common" configuration to make things uniform.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image210.png"
+  <img src="./assets/images/image219.png"
   alt=""
   style="width:500px;"/>
 </p>
-![](./assets/images/image219.png){width="5.0in"
-height="2.806089238845144in"}
 
 We will now discuss the best practices related to Webpack in production.
 Webpack, in the production mode, tries its best to optimize the build by
@@ -4124,12 +4096,10 @@ optimize-css-assets-Webpack-plugin. Finally, save dev.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image220.png"
+  <img src="./assets/images/image221.png"
   alt=""
   style="width:500px;"/>
 </p>
-![](./assets/images/image221.png){width="5.0in"
-height="2.806089238845144in"}
 
 Source maps are generated alongside built files, which are minified
 already. These maps let you trace back the minified code to its original
@@ -4138,12 +4108,10 @@ support for source map generation via the devtool property.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image220.png"
+  <img src="./assets/images/image222.png"
   alt=""
   style="width:500px;"/>
 </p>
-![](./assets/images/image222.png){width="5.0in"
-height="2.806089238845144in"}
 
 Files essentially consist of data chunks. This data is changed via
 hashing into a key or value that is much shorter and fixed in length. It
@@ -4154,12 +4122,10 @@ forever.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image220.png"
+  <img src="./assets/images/image223.png"
   alt=""
   style="width:500px;"/>
 </p>
-![](./assets/images/image223.png){width="5.0in"
-height="2.806089238845144in"}
 
 One of the best practices related to production is to install a plugin
 to create a build folder and to clean that folder every time it runs.
@@ -4170,12 +4136,10 @@ Finally, save dev.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image220.png"
+  <img src="./assets/images/image224.png"
   alt=""
   style="width:500px;"/>
 </p>
-![](./assets/images/image224.png){width="5.0in"
-height="2.806089238845144in"}
 
 In this module (19), you learned that:
 
@@ -4773,8 +4737,12 @@ Production builds, Using source maps, Lazy loading modules, Exclusion
 and inclusion of files, Reusing modules, Splitting vendor bundles,
 Caching approach, and Tree shaking.
 
-![](./assets/images/image261.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image261.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The first best practice that we will explore is using the production
 mode in Webpack. Using this mode has several benefits. It helps in
@@ -4789,9 +4757,12 @@ applied in the production mode can lead to a faster, more responsive
 user experience, as the application loads faster and runs more
 efficiently. To use the production mode in Webpack, you need to set the
 mode configuration option to \"production.\"
-
-![](./assets/images/image262.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image262.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Another best practice related to using Webpack is the use of source
 maps. Webpack combines all the code in one or more bundles. These
@@ -4802,8 +4773,12 @@ enables developers to test their code in the same manner they would if
 it weren\'t bundled. Hence, source maps provide an easier way to debug
 and understand the code, especially in complex web development projects.
 
-![](./assets/images/image263.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image263.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The third best practice is lazy loading. It is a technique of loading
 JavaScript modules only when they are needed, rather than loading them
@@ -4813,8 +4788,12 @@ JavaScript files and the web page is loaded on demand. This accelerates
 the initial loading of the application and reduces its overall weight as
 some blocks may never even be loaded.
 
-![](./assets/images/image264.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image264.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Now, we will discuss the exclusion and inclusion of files. In Webpack,
 you can use the \"exclude\" and \"include\" options to specify which
@@ -4825,8 +4804,12 @@ compiled. For example: the src folder. By using the \"exclude\" and
 \"include\" options in Webpack, you can have greater control over which
 files are processed, which helps enhance compilation efficiency.
 
-![](./assets/images/image265.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image265.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The fifth best practice is reusing modules. Reusing modules in Webpack
 is a way to optimize your build by sharing common code between multiple
@@ -4837,8 +4820,12 @@ Additionally, by using pre-existing modules, programmers may ensure that
 their code complies with the latest standards and best practices related
 to improving the performance of your application.
 
-![](./assets/images/image266.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image266.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Next, we will discuss bundle splitting in Webpack. It is a way of
 breaking your application into smaller, independent chunks that can be
@@ -4851,8 +4838,12 @@ particularly useful for large applications with many dependencies. This
 helps reduce the size of the initial load, improving the performance of
 your application.
 
-![](./assets/images/image267.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image267.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Another popular practice is caching. Caching in Webpack is a technique
 that allows the build process to save the results of previous builds so
@@ -4867,8 +4858,12 @@ to examine their bundles and determine which files are duplicated or
 unnecessary. After these files are identified, developers can create an
 appropriate caching strategy for them.
 
-![](./assets/images/image268.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image268.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The last best practice to optimize Webpack that we are going to discuss
 is tree shaking. It is an optimization technique used in Webpack to
@@ -4879,8 +4874,12 @@ efficient bundle, which can improve performance and reduce the size of
 the application for the end user. In Webpack5, tree shaking is enabled
 by default in the production mode.
 
-![](./assets/images/image269.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image269.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (22), you learned that:
 
@@ -5037,13 +5036,21 @@ In this module (24), you learned that:
 
 # 24. JavaScript Optimization
 
-![](./assets/images/image270.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image270.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to JavaScript Optimization.
 
-![](./assets/images/image271.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image271.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (24), you will be able to: define web
 optimization and JavaScript, explain how web optimization impacts
@@ -5051,8 +5058,12 @@ website success factors, identify some popular web performance
 optimization methods, and define how JavaScript can improve a web
 application's performance.
 
-![](./assets/images/image272.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image272.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Web optimization determines how quickly a website loads and becomes
 responsive and interactive and how smoothly the content is presented
@@ -5063,8 +5074,12 @@ important to minimize loading and response times and add additional
 features to conceal inactivity by making the experience as available and
 interactive as possible.
 
-![](./assets/images/image273.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image273.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Web optimization impacts the crucial factors that determine website
 success. The first factor is conversion rate. This metric is crucial for
@@ -5079,8 +5094,12 @@ and have a lower SERP ranking. The last factor is website usability,
 which helps to increase or establish customer loyalty. The better the
 website behaves, the happier the end users are.
 
-![](./assets/images/image274.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image274.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's now talk about a few web performance optimization methods.
 
@@ -5097,8 +5116,12 @@ is. These large code files should be compressed to their original size
 to improve site responsiveness. You can use GZip and other well-known
 programs for data compression and decompression.
 
-![](./assets/images/image275.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image275.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Resource minification Resource minification removes unnecessary code
 redundancy from CSS, HTML, and JavaScript, resulting in smaller page
@@ -5113,8 +5136,12 @@ attributes can also be used as it adjusts image size based on the
 display properties of the user's device. Animated WebP can be used for
 videos or replaced with an HTML5 video tag.
 
-![](./assets/images/image276.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image276.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Use caching When a user visits a website, the elements are saved in a
 temporary hard drive storage area known as a cache. Caching saves a copy
@@ -5129,8 +5156,12 @@ techniques to reduce the number of requests. Avoid using extra plugins,
 images, JavaScript, and CSS. Combine your JavaScript and CSS files into
 a single package. Only use third-party frameworks when necessary.
 
-![](./assets/images/image277.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image277.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 JavaScript is becoming a popular language for creating web applications.
 Here are some important points on how JavaScript can improve the
@@ -5145,8 +5176,12 @@ Gzip as a compression and decompression software application. It
 compresses large JavaScript files and saves bandwidth, reducing latency
 and time lag and improving overall application performance.
 
-![](./assets/images/image278.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image278.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Utilize HTTP/2 HTTP/2 uses multiplexing, allowing multiple responses and
 requests to be sent simultaneously. It improves not only JavaScript
@@ -5159,8 +5194,12 @@ page to improve both rendering progress and download parallelization. It
 will save the total amount of code required and make the page load
 faster.
 
-![](./assets/images/image279.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image279.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (24), you learned that:
 
@@ -5180,14 +5219,21 @@ In this module (24), you learned that:
     to improve it.
 
 # 25. Popular Optimization Tools
-
-![](./assets/images/image280.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image280.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to Popular Optimization Tools!
 
-![](./assets/images/image281.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image281.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (25), you'll be able to:
 
@@ -5195,8 +5241,12 @@ After reading this module (25), you'll be able to:
 
 -   and list the key optimization tools used in each approach.
 
-![](./assets/images/image282.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image282.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The goal of website optimization is to make a website as appealing to
 search engines and users as possible. To achieve this, the first step is
@@ -5205,8 +5255,12 @@ is necessary to determine what is wrong with the current website. Simply
 brainstorming potential issues is not enough. Instead, we need to use
 available software tools to look for potential issues.
 
-![](./assets/images/image283.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image283.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Some of the factors that require the use of optimization tools include:
 Page speed, User experience (UX), Mobile, Web accessibility, and
@@ -5214,8 +5268,12 @@ JavaScript. Let's discuss some of the best, most-used, and most
 productive website optimization tools you should consider adding to your
 website.
 
-![](./assets/images/image284.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image284.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let\'s start with page speed optimization tools. A slow website can
 drive users away and affect search rankings. Web page speed tools do not
@@ -5225,14 +5283,22 @@ to improve page load times by implementing certain measures. These
 include: Reducing and compressing HTML, CSS, JavaScript, and images,
 Caching content, and Using faster hosting servers.
 
-![](./assets/images/image285.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image285.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Some of the popular page speed optimization tools include: PageSpeed
 Insights Gtmetrix Pingdom, and WebPageTest.
 
-![](./assets/images/image286.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image286.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Next, we'll discuss user experience (UX) optimization tools. Great UX
 will keep visitors happy and reduce friction on your website, resulting
@@ -5243,14 +5309,22 @@ your website smoothly. UX tools aid in every stage of the page
 optimization process, from identifying where users are getting stuck to
 conducting user research.
 
-![](./assets/images/image287.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image287.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Some of the popular UX optimization tools include: Hotjar UserTesting
 TryMyUI, and UsabilityHub.
 
-![](./assets/images/image288.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image288.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let\'s look at mobile optimization tools now. Mobile-first optimization
 can help you ensure that users see your site properly on smartphones and
@@ -5261,16 +5335,23 @@ analytics data to determine what percentage of your users and customers
 browse on mobile devices, so you can determine how important mobile
 optimization is to your business.
 
-![](./assets/images/image289.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image289.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Some of the popular mobile optimization tools include:
 
 PageSpeed Insights Google Search Console Google Analytics, and
 WebPageTest.
-
-![](./assets/images/image290.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image290.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Next, we will discuss web accessibility optimization tools. An
 accessible website is simple to use for everyone, which is a win-win
@@ -5281,14 +5362,22 @@ impairments (for example, different types of colorblindness). The tools
 can also provide optimization recommendations to make your website more
 inclusive.
 
-![](./assets/images/image291.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image291.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Some of the popular web accessibility optimization tools include: WAVE
 EqualWeb, and Functional Accessibility Evaluator.
 
-![](./assets/images/image292.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image292.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Finally, let's talk about JavaScript optimization tools. If it is
 discovered that the functionality is not being used by users, the best
@@ -5296,8 +5385,12 @@ practice is to remove it along with all associated JavaScript code sets.
 This will reduce not only the transmission time but also the time the
 browser takes to analyze and compile the code.
 
-![](./assets/images/image293.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image293.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Some of the popular JavaScript optimization tools include: JS Minifier
 is a web-based tool to compress JavaScript code to make it as light as
@@ -5307,16 +5400,24 @@ the file size of your script. Flow, which is a static type of JavaScript
 code checker that works hard to increase your productivity, making your
 code faster, smarter, more confident, and more broadly applicable.
 
-![](./assets/images/image294.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image294.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 ESLint, which is a linting tool that helps automatically check your code
 for potential problems, and Optimize-js, which optimizes a JavaScript
 file for faster initial execution and parsing by enclosing all functions
 that are immediately invoked or are likely to be invoked in parentheses.
 
-![](./assets/images/image295.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image295.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (25), you learned that:
 
@@ -5341,14 +5442,21 @@ In this module (25), you learned that:
     reduces the time required for browsers to analyze and compile code.
 
 # 26. Testing Frameworks
-
-![](./assets/images/image296.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image296.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to Testing Frameworks.
 
-![](./assets/images/image297.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image297.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (26), you will be able to:
 
@@ -5358,8 +5466,12 @@ After reading this module (26), you will be able to:
 
 -   Identify the popular JavaScript testing frameworks.
 
-![](./assets/images/image298.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image298.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 A testing framework is a set of rules or guidelines that can be used to
 develop and design test cases. While a test automation framework is a
@@ -5369,8 +5481,12 @@ repositories, processes for storing test results, and information on how
 to access external resources are all covered in the testing framework
 guidelines.
 
-![](./assets/images/image299.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image299.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The JavaScript testing framework is a JS-based dynamic framework that is
 well-known for its ease of use in front-end and back-end development.
@@ -5381,9 +5497,12 @@ web applications or software is defect free with subsequent updates.
 Front-end testing is also performed for: CSS Regression Testing for
 minor CSS changes that break the front-end layout. JS file changes that
 render the front-end unusable. and performance evaluations.
-
-![](./assets/images/image300.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image300.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let\'s now explore the various components of a testing framework. Let's
 first learn about testing data management. The most
@@ -5397,8 +5516,12 @@ test cases are created and stored. Unit testing, integration testing,
 end-to-end testing, and behavior-driven development are all examples of
 testing libraries.
 
-![](./assets/images/image301.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image301.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Following that, we will learn about Integration testing. Testing units
 in isolation is valuable and necessary, but you must also test the
@@ -5412,8 +5535,12 @@ that everyone can understand. It helps turn scenarios and expected
 behavior features into code. BDD allows code to be aligned with the
 intent and scope of automated tests.
 
-![](./assets/images/image302.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image302.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let\'s look at some of the benefits of the testing framework. The first
 benefit is that testing frameworks help to make the project more agile.
@@ -5425,8 +5552,12 @@ helps find bugs early. As a developer, you can use the testing framework
 to find and fix bugs on your own, which will improve code quality and
 make testing easier.
 
-![](./assets/images/image303.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image303.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Next, we will discuss how it helps with code integrity. The term code
 integrity refers to achieving the results that the developer intended.
@@ -5439,8 +5570,12 @@ way to achieve the desired result is to use optimized code. Testing
 assists developers in optimizing their code so that their program uses
 fewer resources while still providing the necessary functionality.
 
-![](./assets/images/image304.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image304.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 We will now learn about some of the popular JavaScript testing
 frameworks. First, let's learn about Jest. The React development team
@@ -5453,8 +5588,12 @@ WebKit using a single API. Playwright is designed to enable
 cross-browser web automation and automation that is always
 up-to-date, reliable, and fast.
 
-![](./assets/images/image305.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image305.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The next framework is Mocha. Mocha is a feature-rich JavaScript test
 framework that runs on Node.js and in the browser to make asynchronous
@@ -5466,8 +5605,12 @@ asynchronous testing simple and easy. To pair with any JavaScript
 testing framework, the Cypress testing library also employs a BDD/TDD
 assertion library and a browser.
 
-![](./assets/images/image306.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image306.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The next JavaScript framework that we will discuss is Jasmine. Jasmine
 is a behavior-driven development framework for JavaScript code testing.
@@ -5479,8 +5622,12 @@ Chrome/Chromium via the DevTools Protocol. Puppeteer is designed to run
 in headless mode by default, but it can also be configured to run in
 full (non-headless) Chrome/Chromium mode.
 
-![](./assets/images/image307.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image307.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (26), you learned that:
 
@@ -5501,13 +5648,21 @@ In this module (26), you learned that:
 
 # 27. Testing Tools -- Mocha and Jasmine
 
-![](./assets/images/image308.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image308.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to \"Testing Tools -- Mocha and Jasmine.\"
 
-![](./assets/images/image309.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image309.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (27), you'll be able to:
 
@@ -5517,8 +5672,12 @@ After reading this module (27), you'll be able to:
 
 -   Recognize the differences between the two frameworks.
 
-![](./assets/images/image310.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image310.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Mocha is a NodeJS-based open-source JavaScript testing framework. It
 prioritizes core features and extensibility. Mocha tests are executed
@@ -5527,8 +5686,12 @@ uncaught exceptions to the appropriate test cases. Mocha allows you to
 write structured code to thoroughly test your applications,
 categorizing them into test suites and test cases.
 
-![](./assets/images/image311.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image311.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Mapping errors to corresponding test cases enables us to generate a test
 report following the run. Mocha supports a wide range of test
@@ -5537,8 +5700,12 @@ interface is a BDD interface, which aims to assist developers in
 creating predictable and resilient to-change software rather than
 error-prone software.
 
-![](./assets/images/image312.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image312.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Mocha is a simple and adaptable framework that works with any assertion
 library. The most popular assertion libraries with Mocha are Chai,
@@ -5550,16 +5717,24 @@ describe functions by including code and assertions to determine a pass
 or fail status. Mocha will report the test as failed if an assertion
 fails.
 
-![](./assets/images/image313.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image313.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 If a code throws an exception, it is marked as failed as well. It will
 report a pass if everything runs smoothly and all assertions are valid.
 Because of Node\'s asynchronous behavior, Mocha can also notify you if
 your tests run too long.
 
-![](./assets/images/image314.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image314.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let\'s take a look at some of the advantages of using the Mocha testing
 framework. It encourages Test Driven Development (TDD) and Behavior
@@ -5568,8 +5743,12 @@ always accurate. It can be configured to run test cases in the web
 browser. It offers several ways to generate test reports and can even
 create custom reports.
 
-![](./assets/images/image315.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image315.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 It can be set up for either synchronous or asynchronous testing. It
 includes a wide variety of plugins that can be used to extend your
@@ -5577,8 +5756,12 @@ framework. Following the test run, it highlights the slow-running tests.
 It supports the retry failed tests feature, which allows you to
 configure re-running failed tests.
 
-![](./assets/images/image316.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image316.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The following are some of Mocha\'s drawbacks. The developer must spend
 time configuring the Mocha framework. Snapshot testing is not supported
@@ -5587,8 +5770,12 @@ documentation, the search feature is not user-friendly. Since you need
 to integrate different frameworks for assertions, the test scripts can
 be confusing at times.
 
-![](./assets/images/image317.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image317.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Mocha is slow to release new features and support developer tools. Mocha
 requires more configuration than other frameworks, making it less
@@ -5597,8 +5784,12 @@ must explicitly select an assertion library. Mocha snapshot testing can
 be challenging. To do it correctly, you\'ll need to use the
 chai-jest-snapshot library.
 
-![](./assets/images/image318.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image318.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Jasmine is an open-source JavaScript framework that can test any
 JavaScript application. Jasmine uses the BDD procedure to ensure that
@@ -5609,23 +5800,35 @@ tests on both synchronous and asynchronous code. Jasmine is tested in a
 variety of browsers, including Safari, Chrome, Firefox, and Microsoft
 Edge, as well as Node.
 
-![](./assets/images/image319.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image319.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Jasmine has many features, including: It\'s fast, has low overhead, and
 has no external dependencies. It\'s a batteries-included library with
 everything you need to test your code. It is available for both Node and
 browser. It is compatible with other languages, such as Python and Ruby.
 
-![](./assets/images/image320.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image320.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 It does not require the DOM. It has a clean and simple syntax as well as
 a rich and straightforward API. We can describe the tests and the
 expected results using natural language.
 
-![](./assets/images/image321.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image321.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The following are some of the advantages of using Jasmine: It has lower
 overhead due to no external dependencies. It proceeds with nearly every
@@ -5634,22 +5837,34 @@ similarly.
 
 The coding is pretty similar to writing in natural language.
 
-![](./assets/images/image322.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image322.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 It provides wide documentation for use with a variety of frameworks. It
 supports asynchronous testing. It marks the use of spies for applying
 test doubles.
 
-![](./assets/images/image323.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image323.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Now, let\'s look at the main disadvantages of using Jasmine they are:
 Asynchronous testing is difficult. All test files must have a specific
 suffix.
 
-![](./assets/images/image324.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image324.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Now that we\'ve learned about the Mocha and Jasmine frameworks, let\'s
 compare them. Jasmine includes an assertion library, whereas Mocha must
@@ -5659,8 +5874,12 @@ karma-jasmine-html-reporter or jasmine-pretty-html-reporter, whereas
 Mocha creates mocha-simple-html-reporter and mochawesome. Jasmine and
 Mocha both have documentation and forum support.
 
-![](./assets/images/image325.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image325.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Jasmine does not include built-in support for rerunning a failed test,
 whereas Mocha does. Slow tests can be highlighted in Jasmine using
@@ -5669,8 +5888,12 @@ testing is challenging in Jasmine but simple in Mocha. Jasmine and Mocha
 both support parallel execution. Jasmine\'s plug-in support and
 extensibility are limited, whereas Mocha\'s are good.
 
-![](./assets/images/image326.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image326.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (27), you learned that:
 
@@ -5691,13 +5914,21 @@ In this module (27), you learned that:
 
 # 28. Using Jasmine
 
-![](./assets/images/image327.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image327.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to Using Jasmine!
 
-![](./assets/images/image328.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image328.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (28), you will be able to:
 
@@ -5705,8 +5936,12 @@ After reading this module (28), you will be able to:
 
 -   Identify the steps to test code and React with Jasmine.
 
-![](./assets/images/image329.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image329.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Jasmine is an open-source framework for unit testing JavaScript that is
 readily accessible in a variety of formats, including stand-alone, ruby
@@ -5714,9 +5949,12 @@ gem, Node.js, and so on. It is simple to set up and easy to write tests.
 JS Spec, Rspec, and Jspec have a significant impact on Jasmine. It makes
 an attempt to describe tests in a human-readable format so that
 non-technical people understand what is being tested.
-
-![](./assets/images/image330.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image330.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's look at the fundamental concepts of Jasmine. A Jasmine suite is a
 collection of test cases that can be used to verify the behavior of a
@@ -5731,8 +5969,12 @@ represents a statement that can be true or false. To pass the spec, all
 of the expectations within the spec must be met. If one or more
 expectations within a spec are incorrect, the spec fails.
 
-![](./assets/images/image331.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image331.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In Jasmine, an expectation is an assertion that is either true or false.
 Expectations are described as \"expect\" within the function that takes
@@ -5740,8 +5982,12 @@ a value, which is referred to as the \"toBe\" value. Matchers is a
 comparison between the actual value and the expected value, either if
 the expectation is \"true\" or \"false."
 
-![](./assets/images/image332.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image332.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The describe function in Jasmine is used to group related specs. The
 string parameter is used to name the collection of specs and will be
@@ -5754,16 +6000,24 @@ objects that are created to represent or mimic the real thing. Mocks are
 required to avoid the overhead cost of creating the actual object they
 represent.
 
-![](./assets/images/image333.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image333.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The steps to begin testing with Jasmine are as follows. Download Jasmine
 (standalone version). Give Jasmine access to your code by manually
 downloading it or using a package manager. Initialize Jasmine. Create a
 spec (test) file, and Make the source code available to your spec file.
 
-![](./assets/images/image334.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image334.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let us now try to understand the steps for testing React with Jasmine.
 First, install and set up Jasmine. Next, set up React with add-ons.
@@ -5775,8 +6029,12 @@ React that Jasmine runs must be included in the JS bundle.
 The next step is to leverage Test Utils. ReactTestUtils makes it simple
 to test React components in your preferred testing framework.
 
-![](./assets/images/image335.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image335.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Then, in Jasmine, learn the structure of a React test. There is a
 specific sequence of calls that must be made in order to render and test
@@ -5790,8 +6048,12 @@ After you\'ve mastered the basics of writing unit tests, you can move on
 to using React event simulation and Jasmine spies to see what happens
 when users interact with your components.
 
-![](./assets/images/image336.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image336.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (28), you learned that:
 
@@ -5807,13 +6069,21 @@ In this module (28), you learned that:
 
 # 29. Front-end Testing Best Practices
 
-![](./assets/images/image337.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image337.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to \"Front-end Testing Best Practices.\"
 
-![](./assets/images/image338.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image338.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (29), you will be able to:
 
@@ -5824,8 +6094,12 @@ After reading this module (29), you will be able to:
 
 -   and list some of the best front-end testing practices.
 
-![](./assets/images/image339.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image339.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The front end of a program is the client-side section. Front-end testing
 is the process of testing the usability and functionality of an
@@ -5835,9 +6109,12 @@ to end users. Every web application is built with a three-tier
 architecture. Clients, servers, and information systems or resources are
 all included. The client is part of the presentation layer. This layer
 is tested by front-end testers.
-
-![](./assets/images/image340.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image340.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 We will now discuss some of the advantages of using front-end testing.
 First, an app should provide accurate interaction. It should be fast and
@@ -5849,8 +6126,12 @@ accessible to all users, particularly those with disabilities.
 Accessibility testing is a required component of front-end testing and
 must be completed prior to the deployment of a website.
 
-![](./assets/images/image341.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image341.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 With the widespread use of interconnected versions of an app on
 different devices such as a smartwatch, smartphone, and smart TV,
@@ -5861,8 +6142,12 @@ complex features, but it crashes another part of the application that
 you were unaware of. Front-end testing ensures that the code is
 consistent and that the front-end functionality is intact.
 
-![](./assets/images/image342.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image342.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Next, if a bug is discovered, whether by your team or by users, you need
 to fix it and prevent its recurrence unexpectedly by adding an
@@ -5871,8 +6156,12 @@ explanation of the test\'s functionality is necessary when writing
 tests. Front-end testing helps in keeping well-maintained tests which is
 beneficial as they serve as live documentation.
 
-![](./assets/images/image343.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image343.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let us now try to understand which aspects of an application\'s front
 end you need to focus on while performing front-end testing. When
@@ -5884,8 +6173,12 @@ impairments, can use the application. End-to-end checks are required for
 checking and confirming the application\'s back-end to front-end
 workflow by simulating real-world actions that users are likely to take.
 
-![](./assets/images/image344.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image344.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Image analysis testing is performed to determine where you can
 optimize the images to help the app run faster. Most websites and apps
@@ -5895,8 +6188,12 @@ important CSS elements: syntax and display. While syntax is more of a
 developer\'s day-to-day responsibility, displayed views must be tested
 for regression after changes to specific parts of the app.
 
-![](./assets/images/image345.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image345.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Now we\'ll explore some of the best front-end testing practices. These
 include: Focusing on front-end elements, using actual browsers and
@@ -5904,8 +6201,12 @@ devices, Performing deterministic tests, striving for coverage and not
 100% code coverage, Encouraging shorter and more readable unit tests,
 Keeping tests independent, and Testing a variety of input parameters.
 
-![](./assets/images/image346.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image346.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let us now discuss each in detail. Focusing on front-end elements
 Front-end testing involves examining and validating hundreds or
@@ -5916,8 +6217,12 @@ real browsers and devices instead of emulators and simulators to save
 time and money and enhance the reliability of your software testing
 results.
 
-![](./assets/images/image347.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image347.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Performing deterministic tests Deterministic tests are the ones that can
 be repeated. They produce the same results every time a specific code is
@@ -5929,8 +6234,12 @@ However, it doesn\'t work in practice. A high level of test coverage
 provides a false sense of security. Good tests are simple to maintain
 and provide you with the confidence to make changes to your code.
 
-![](./assets/images/image348.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image348.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Encouraging shorter and more readable unit tests A unit test should only
 test a single unit of code. If there is only one reason for the test to
@@ -5943,17 +6252,24 @@ validate all possible code paths through the code under test. You must
 be confident that the deployed code can handle the full range of inputs
 that a user may enter.
 
-![](./assets/images/image349.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image349.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 There are numerous vendors offering front-end testing tools, making it
 difficult to decide which one to use. For your convenience, here is a
 list of some of the best and most widely used front-end testing tools.
 Jest, Selenium WebDriver, Cypress, WebDriverIO, WebDriverJS, and
 Jasmine.
-
-![](./assets/images/image350.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image350.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (29), you learned that:
 
@@ -6032,13 +6348,21 @@ In this module, you learned that:
 
 # 30. JavaScript Debugging
 
-![](./assets/images/image351.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image351.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to "JavaScript Debugging."
 
-![](./assets/images/image352.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image352.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (30), you will be able to:
 
@@ -6050,16 +6374,24 @@ After reading this module (30), you will be able to:
 
 -   Identify some common JavaScript bugs.
 
-![](./assets/images/image353.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image353.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Errors are common while writing programs. These errors or flaws are
 bugs. If your JavaScript does not function the way you want it to, there
 is a high possibility that you have a bug in your code. Therefore, we
 use debugging, which identifies and fixes bugs in your code.
 
-![](./assets/images/image354.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image354.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In computer programming and engineering, debugging is essential to
 software development. It is necessary to remove bugs that occur
@@ -6069,8 +6401,12 @@ one module can cause more bugs to appear in another. There can be more
 challenges involved in debugging such a program, than coding a single
 program.
 
-![](./assets/images/image355.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image355.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let\'s try to understand why bugs occur in JavaScript. If your script
 isn\'t working, first check the punctuation. Ensure there is a closing
@@ -6078,8 +6414,12 @@ bracket for every opening bracket. Second, check the character string.
 Always enclose the text in quotation marks when working on JavaScript.
 You can either use single or double quotation marks to enclose the text.
 
-![](./assets/images/image356.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image356.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Now that you know why bugs occur in JavaScript and how to prevent them,
 let's explore the debugging process. Debugging JavaScript in a
@@ -6096,8 +6436,12 @@ steps. These are:
 
 -   Adjusting test scenarios and trying again.
 
-![](./assets/images/image357.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image357.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's discuss each step in detail. The first step in debugging is to
 replicate the circumstances. In most programming languages, it is
@@ -6111,8 +6455,12 @@ test. Development and staging environments are breakable without
 affecting end users, therefore, you should always try to break your code
 in a safe environment.
 
-![](./assets/images/image358.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image358.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Next, you need to log more data to diagnose the problem. You can observe
 everything before and after the issue arises. The issues you are facing
@@ -6122,8 +6470,12 @@ and replicating them in a non-production environment can be difficult
 due to time constraints or other factors. Return to the first step and
 try it all over again.
 
-![](./assets/images/image359.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image359.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Now that you know how to debug JavaScript errors, let's discuss the
 importance of debugging. Errors can occur while writing codes, and it is
@@ -6136,9 +6488,12 @@ product. Debugging allows you to stop your code when it reaches a point
 where you suspect a logic or implementation problem and investigate
 whether it is doing what you expected. You can achieve the same result
 by including printouts in your code.
-
-![](./assets/images/image360.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image360.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Debugging offers various benefits. It immediately reports an error
 condition. As a result, the error is found early, ensuring the software
@@ -6147,9 +6502,12 @@ about data structures and facilitates interpretation. It helps the
 developer reduce unnecessary and distracting information. It allows the
 developer to avoid writing complex one-time testing codes, saving time
 and energy required for software development.
-
-![](./assets/images/image361.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image361.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's explore some reasons for JavaScript bugs in your code. These
 include: Incorrect data types, Incorrect use of assignment operators,
@@ -6157,8 +6515,12 @@ Incorrect use of quotation marks, Incorrect use of brackets, Incorrect
 Indexing, Misspelling of function and variable names, and Incorrect use
 of variable assignment. Let's discuss each reason in detail.
 
-![](./assets/images/image362.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image362.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The interaction of variables of different types can result in many bugs
 in your code. For example, if you use a string with a number. It is
@@ -6169,8 +6531,12 @@ equal. In JavaScript, you can use different quotation marks to enclose
 quotation marks within quotation marks. You may face issues if you use
 double quotations.
 
-![](./assets/images/image363.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image363.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Another error that we see quite often is the incorrect use of brackets.
 There must be an opening bracket and a closing bracket for the script.
@@ -6179,8 +6545,12 @@ an array by using index zero. As the result is off by one, this
 frequently results in an \"index out of range\" reference error in
 JavaScript.
 
-![](./assets/images/image364.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image364.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Missing letters and wrong capitalization also lead to bugs in the code.
 Coders can use code editors to reduce misspelled function names and
@@ -6191,8 +6561,12 @@ variables is that creating global variables is outside. Its usage can be
 everywhere, whereas local variables are created inside a function. Its
 usage is by function.
 
-![](./assets/images/image365.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image365.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (30), you learned about:
 
@@ -6206,13 +6580,21 @@ In this module (30), you learned about:
 
 # 31. Basic Debugging Concepts
 
-![](./assets/images/image366.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image366.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to "Basic Debugging Concepts."
 
-![](./assets/images/image367.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image367.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (31), you will be able to:
 
@@ -6222,8 +6604,12 @@ After reading this module (31), you will be able to:
 
 -   Explain the terminologies used in debugging.
 
-![](./assets/images/image368.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image368.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 If your program does not generate the desired output, there is a high
 possibility that your code contains errors. This is why debugging is a
@@ -6231,8 +6617,12 @@ crucial step in the software development process, as it identifies and
 fixes bugs. A major part of the debugging process involves identifying
 the cause based on the symptoms.
 
-![](./assets/images/image369.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image369.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Different strategies can be employed to localize the error, as there is
 no best method for doing it. Each strategy is suited to a different
@@ -6240,9 +6630,12 @@ situation; therefore, it is beneficial to be aware of these strategies.
 Some of these include: Incremental development, Debuggers, Binary
 search, Instrumentation, Assertions, Backtracking, Simplify,
 Error-finding tools, and Hypotheses.
-
-![](./assets/images/image370.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image370.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's review each of them in detail. In this strategy, the program is
 developed progressively, with frequent testing performed as each new
@@ -6255,8 +6648,12 @@ generating voluminous difficult-to-read log files by observing program
 expressions, setting program breakpoints, and analyzing the memory
 content at selected points during execution.
 
-![](./assets/images/image371.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image371.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 This strategy places a check halfway through a large piece of code.
 
@@ -6269,8 +6666,12 @@ when the amount of information grows significantly. In this case,
 automated scripts can be used to sort through the data and provide
 pertinent portions in a more concise style.
 
-![](./assets/images/image372.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image372.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 This strategy is used to verify that the program maintains the
 properties or invariants on which your code is based. The point at which
@@ -6282,8 +6683,12 @@ The next strategy is backtracking. This involves starting at the
 problem\'s origin and working your way back through the code to
 determine how it occurred.
 
-![](./assets/images/image373.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image373.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 This strategy involves removing the sections of the code irrelevant to
 the bug and simplifying the code in the body of the buggy function. As
@@ -6295,8 +6700,12 @@ identify violations of particular classes of errors using error-finding
 tools. For example, tools that check safety properties. Error-finding
 tools use either static analysis or dynamic analysis.
 
-![](./assets/images/image374.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image374.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 This strategy involves a few steps. First, review the test case results.
 Next, develop a hypothesis that fits the data, and then create and
@@ -6304,16 +6713,24 @@ execute a simple test to refute the hypothesis. If the hypothesis is
 rejected, generate another one and repeat the process. Finding the
 simplest hypotheses and associated test cases is an effective strategy.
 
-![](./assets/images/image375.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image375.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's now explore different types of bugs. A program may contain bugs
 even after meticulous planning and defensive programming. There are
 different types of errors that one may experience. These are: Type
 errors, Minor errors, Implementation errors, and Conceptual errors.
 
-![](./assets/images/image376.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image376.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's discuss each type of error in detail. The compiler always detects
 and reports such errors via error messages. An error message typically
@@ -6323,9 +6740,12 @@ notifications typically provide sufficient details of the nature of the
 issue and what needs to be done. Errors such as typos or other simple
 errors may escape detection by the type checker or other compiler
 checks. These are simple to fix after they are identified.
-
-![](./assets/images/image377.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image377.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 While a program\'s high-level algorithm may follow the correct logic,
 some low-level, tangible data structures may be mishandled, violating
@@ -6337,15 +6757,23 @@ cases. One must carefully consider the algorithm and attempt to develop
 a justification for its effectiveness. If the algorithm is too complex,
 it may be better to redo it from scratch and create a cleaner design.
 
-![](./assets/images/image378.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image378.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's now discuss some important terminologies used in debugging. These
 are: Application log, Debugger, Stepping, Stack, Breakpoints, and
 Current Line.
 
-![](./assets/images/image379.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image379.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 It's a passage of text that describes an action that occurs in an
 application. Logs are important to verify what the program did right
@@ -6358,9 +6786,12 @@ debugger to the script. The browser pauses execution on that line and
 displays the source of the code currently being executed if the
 developer tools console is opened. The browser will now provide
 debugging methods and tools for debugging.
-
-![](./assets/images/image380.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image380.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The action of telling the debugger to run through the program one line
 at a time is called stepping. A computer program comprises of many small
@@ -6370,8 +6801,12 @@ program enters more and more \"functions.\" For your software, this
 serves as a \"trail\" of function calls. This allows you to see how
 "calling" one function affects the "current" function.
 
-![](./assets/images/image381.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image381.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Breakpoints instruct the debugger where to \"stop\" your program\'s
 execution so that you can see what\'s happening. This enables you to
@@ -6382,8 +6817,12 @@ when running your program. The control of the program typically flows
 from the current line to the next line down the screen, to the following
 line, and so on.
 
-![](./assets/images/image382.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image382.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (31), you learned about:
 
@@ -6394,14 +6833,21 @@ In this module (31), you learned about:
 -   Important debugging terminologies.
 
 # 32. Introduction to Debugging Tools
-
-![](./assets/images/image383.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image383.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to "Introduction to Debugging Tools."
 
-![](./assets/images/image384.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image384.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (32), you will be able to:
 
@@ -6409,8 +6855,12 @@ After reading this module (32), you will be able to:
 
 -   Identify a few common debugging tools.
 
-![](./assets/images/image385.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image385.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Browsers today are equipped with a variety of web development tools
 referred to as add-ons or extensions. These are commonly used for web
@@ -6427,8 +6877,12 @@ In this module, we will
 
 -   Assess a web page\'s accessibility.
 
-![](./assets/images/image386.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image386.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 A debugging tool is a software program that enables you to debug a
 program without having to recompile it or modify its source code.
@@ -6438,16 +6892,24 @@ attempt a fix without changing the source code. Debugging tools can also
 be used for troubleshooting issues with other applications, such as web
 browsers and operating systems.
 
-![](./assets/images/image387.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image387.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Some of the common debugging tools include Chrome Developer Tools,
 Firefox developer tools, Safari Develop Menu, React Developer Tools,
 console debugging, and Integrated Development Environment (IDE)/Visual
 Studio Code.
 
-![](./assets/images/image388.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image388.png"
+  alt="Chrome developer tools built directly into the Chrome browser."
+  style="width:500px;"/>
+</p>
 
 Let's discuss each in detail. Chrome developer tools are a set of tools
 for web developers which is built directly into the Chrome browser.
@@ -6458,15 +6920,23 @@ tools for network and performance monitoring and security features. The
 Console and Network activity tabs are where most JavaScript debugging
 happens.
 
-![](./assets/images/image389.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image389.png"
+  alt="Keyboard shortcuts to open console in Google Chrome."
+  style="width:500px;"/>
+</p>
 
 The keyboard shortcuts mentioned here can be used to open the developer
 console in Google Chrome: macOS \`CMD\`+\`OPT\`+\`I\` Windows
 \`CTRL\`+\`SHIFT\`+\`I\`
 
-![](./assets/images/image390.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image390.png"
+  alt="Firefox developer tools."
+  style="width:500px;"/>
+</p>
 
 In the past, Firefox users relied on Firebug, an extension that provided
 them with a set of competitive developer tools. The functionality of
@@ -6474,16 +6944,24 @@ firebug was incorporated into the Firefox Developer Tools available in
 the latest versions of Firefox. This put Google Chrome and the Firefox
 browser's integrated toolkit on an equal level.
 
-![](./assets/images/image391.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image391.png"
+  alt="Steps to access the Firefox developer tools in Mozilla Firefox."
+  style="width:500px;"/>
+</p>
 
 To access the developer tools in Mozilla Firefox, open the browser,
 click the Firefox menu in the upper right corner, and click \"More
 Tools.\" Next, select \"Web Developer Tools.\" Finally, click
 \"Console.\"
 
-![](./assets/images/image392.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image392.png"
+  alt="Safari develop menu."
+  style="width:500px;"/>
+</p>
 
 There are options in the Develop menu to display the JavaScript console,
 a network, a debugger, a page element inspector, and a network traffic
@@ -6492,8 +6970,12 @@ comparable to the developer tools in Safari. All browser developer tools
 are progressively getting better as they become better equipped to
 fulfill developers\' demands.
 
-![](./assets/images/image393.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image393.png"
+  alt="Safari develop menu - steps to enable."
+  style="width:500px;"/>
+</p>
 
 To utilize Safari's built-in developer tools, users must enable the
 Safari Develop menu. - First click the \"Safari\" tab and then click
@@ -6501,8 +6983,13 @@ Safari Develop menu. - First click the \"Safari\" tab and then click
 Develop menu in the menu bar.\" The Develop menu will appear in the menu
 bar.
 
-![](./assets/images/image394.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image394.png"
+  alt="React developer tools: Is a chrome DevTools extension and Displays props and stats 
+  values for any element you click."
+  style="width:500px;"/>
+</p>
 
 React Developer Tools, an extension of Chrome DevTools, is a great
 source of help if you need to inspect the props or state values in your
@@ -6510,17 +6997,23 @@ React-built application. If you visit a website created using React
 after adding the extension, a React tab will be added to the developer
 console, displaying properties and state values for any element you
 click.
-
-![](./assets/images/image395.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image395.png"
+  alt="Console debugging: most common."
+  style="width:500px;"/>
+</p>
 
 This is the most commonly used JavaScript console method. Error handling
 or throwing are not done using this method. Instead, it is employed to
 print statements in the console. There is console.log() which is the
 most common one you\'ll see.
-
-![](./assets/images/image396.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image396.png"
+  alt="IDE/Visual studio code (microsoft POS)."
+  style="width:500px;"/>
+</p>
 
 When debugging Java applications, you do not always need to use an IDE.
 Visual Studio Code, Microsoft\'s cross-platform source code editor, also
@@ -6531,8 +7024,12 @@ Visual Studio Code provides sufficient features for a quick debugging
 session of your Java application despite all the complex debugging
 features that IDE's debuggers provide.
 
-![](./assets/images/image397.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image397.png"
+  alt="In this module (32), you learned that browsers are equipped with a variety of web dev tools, among other."
+  style="width:500px;"/>
+</p>
 
 In this module (32), you learned that:
 
@@ -6546,13 +7043,21 @@ In this module (32), you learned that:
 
 # 33. Troubleshooting with Chrome DevTools
 
-![](./assets/images/image398.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image398.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to Troubleshooting with Chrome DevTools!
 
-![](./assets/images/image399.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image399.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (33), you will be able to:
 
@@ -6560,16 +7065,24 @@ After reading this module (33), you will be able to:
 
 -   Determine how to access some of the panels\' features.
 
-![](./assets/images/image400.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image400.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Explain how to use Chrome DevTools to debug HTML and CSS The Google
 Chrome browser includes built-in developer tools, also known
 as DevTools, that allow developers to edit code directly in the browser,
 add breakpoints to detect issues, and debug their code quickly.
 
-![](./assets/images/image401.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image401.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 There are eleven panels in the DevTools UI. Here\'s a quick listing of
 what each panel oversees.
@@ -6590,8 +7103,12 @@ panel: Helps you can record the checkout flow once and measure it
 regularly Performance Insights panel: Highlights the key insights in the
 Insights pane, with actionable feedback on how to fix issues.
 
-![](./assets/images/image402.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image402.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let\'s first try to understand how to access Chrome DevTools. To access
 Chrome DevTools: Right-click on any website and select \"inspect." The
@@ -6599,23 +7116,35 @@ DevTools will open the Elements panel and highlight the selected DOM
 element. To open the console panel, use the keyboard shortcut CMD +
 Option + J on Mac or CTRL + SHIFT + J on Windows.
 
-![](./assets/images/image403.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image403.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let\'s now learn how to access the elements panel. To access the
 elements panel: Right-click any element on the page and select
 \"inspect\" or Click on the elements panel inside Chrome DevTools. That
 element should now be highlighted in the DOM tree.
 
-![](./assets/images/image404.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image404.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 To select another element on the page: Hover over an element on the page
 and Click once on the highlighted area that corresponds to the element
 you want to inspect.
 
-![](./assets/images/image405.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image405.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Now that we know how to access the Elements panel let\'s look at how to
 use it to edit HTML and CSS. We will first look at how to edit HTML.
@@ -6624,9 +7153,12 @@ presented with a text field in which you can fully edit the HTML content
 that comprises that element. This is useful if you want to change the
 behavior of an element by adding or removing HTML elements inside or
 around any element on the page.
-
-![](./assets/images/image406.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image406.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Since these changes aren\'t saved in your application\'s source code,
 they\'re ideal for quickly testing a new HTML structure without adding
@@ -6634,8 +7166,12 @@ and deleting these elements in your code. Simply refreshing the page
 allows you to edit the same component multiple times. You can easily
 delete and reorder elements in addition to editing them.
 
-![](./assets/images/image407.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image407.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's now look at how to edit CSS. The Styles panel is useful for
 debugging CSS and understanding how CSS works. The styles panel allows
@@ -6643,16 +7179,24 @@ you to preview changes without affecting the appearance of your website
 for other visitors. It is not necessary to refresh your browser to see
 the changes because they are updated in real-time.
 
-![](./assets/images/image408.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image408.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In fact, if you refresh your browser after making changes, the browser
 will reload the unmodified version of your website, wiping out your
 changes. Using the styles panel for live CSS testing ensures that the
 actual code of your live website is not altered.
 
-![](./assets/images/image409.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image409.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let\'s now understand the process of setting a breakpoint in your codes.
 To create a breakpoint: Click on the side of the file near the line
@@ -6663,16 +7207,24 @@ by hovering over the variables you want to examine. This is essential
 for debugging because quickly viewing your app's current state at any
 point will provide you with valuable insight into how it works.
 
-![](./assets/images/image410.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image410.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Another way to trigger a breakpoint is to simply add the following code
 line to a Javascript program: debugger; When the code reaches this line,
 the debugger is triggered in the same way that a breakpoint would be set
 in that line.
 
-![](./assets/images/image411.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image411.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's now look at the logging function. The code has a console.log
 function that can be used to output variables or data to the console.
@@ -6682,40 +7234,64 @@ open console to see for (let i = 0; i \< 5; i++)
 DevTools Console panel or press Esc while in another panel. This opens
 the console at the bottom of the screen.
 
-![](./assets/images/image412.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image412.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's now learn how to find properties in an object. The grep.js snippet
 searches an object and its prototypical chain for properties that match
 a set of criteria.
 
-![](./assets/images/image413.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image413.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 For example, this instruction will look for all properties in the
 document object that match get: grep(document, \'get\');
 
-![](./assets/images/image414.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image414.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 When you switch to developer mode in Chrome, it renders a half-sized
 version of your webpage. Fortunately, Chrome DevTools allows you to
 switch between different mobile screen types and versions in addition to
 changing the screen size of a webpage.
 
-![](./assets/images/image415.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image415.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 To access that option: First, toggle on the Inspect mode.
 
-![](./assets/images/image416.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image416.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Next, select Responsive from the drop-down menu in the top-left corner
 of the DevTools. Lastly, choose your preferred mobile device.
 
-![](./assets/images/image417.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image417.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The webpage is then rendered and adjusted to fit the size of the mobile
 device you chose. Aside from debugging JavaScript, Chrome DevTools
@@ -6725,8 +7301,12 @@ these steps: In the DevTools window, select the Lighthouse option. Next,
 choose the parameters you want to test. Select either Mobile or Desktop
 to see how your website performs on different platforms.
 
-![](./assets/images/image418.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image418.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this video, you learned that:
 
@@ -6748,14 +7328,20 @@ In this video, you learned that:
     and versions in addition to changing the screen size of a webpage.
 
 # 34. Monitoring your Website
-
-![](./assets/images/image419.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image419.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to "Monitoring your Website."
-
-![](./assets/images/image420.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image420.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (34), you will be able to:
 
@@ -6767,8 +7353,12 @@ After reading this module (34), you will be able to:
 
 -   Define popular website monitoring metrics.
 
-![](./assets/images/image421.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image421.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Website monitoring implies evaluating a website or web service for
 functionality, performance, or availability. Website monitoring service
@@ -6777,8 +7367,12 @@ access and interact with it as intended. Continuous monitoring helps
 organizations prevent downtime and proactively respond to potential
 errors that could have a negative impact.
 
-![](./assets/images/image422.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image422.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 One of the main advantages of monitoring websites is increased website
 uptime. Regular monitoring makes it easier to identify and fix issues
@@ -6793,14 +7387,22 @@ revenue. Monitoring helps send alerts when your search, forms, or logins
 go wrong. Website monitoring helps prevent these issues and keeps
 revenue flowing.
 
-![](./assets/images/image423.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image423.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Website monitoring can be done in two ways: automated monitoring and
 real user monitoring.
 
-![](./assets/images/image424.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image424.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's discuss each of them in detail. Automated monitoring means
 monitoring the performance and availability of a web application by
@@ -6810,8 +7412,12 @@ monitoring. This checkpoint network communicates with a website or
 service to confirm that it performs as intended. The checkpoint performs
 various steps to complete the process of web monitoring.
 
-![](./assets/images/image425.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image425.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's discuss each step in detail. The first step that the checkpoint
 performs is configuration. The checkpoint initiates a connection with
@@ -6825,8 +7431,12 @@ Real Browser Monitoring (RBM). The checkpoint loads the content into a
 real browser. RBM launches a browser and monitors a web application,
 mimicking the user\'s interaction with the site.
 
-![](./assets/images/image426.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image426.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After real browser monitoring is completed, the checkpoint collects the
 data on the website\'s performance and availability and stores it in a
@@ -6841,8 +7451,12 @@ Finally, the checkpoint reports its findings to the monitoring service
 and uses the information to resolve any issues and improve the
 website\'s performance and availability.
 
-![](./assets/images/image427.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image427.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's now discuss the other way of website monitoring, which is Real
 User Monitoring (RUM). It is a method of monitoring the performance and
@@ -6854,8 +7468,12 @@ rates, and user actions. Script files, agents, cookies, and server-side
 code track the website's performance as each site visitor accesses the
 site.
 
-![](./assets/images/image428.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image428.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 There are several types of website monitoring that indicate a \"larger
 picture\" of the website's performance.
@@ -6863,16 +7481,23 @@ picture\" of the website's performance.
 These include: Availability monitoring, Performance monitoring, and
 Functionality monitoring.
 
-![](./assets/images/image429.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image429.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's explore each type in detail. Availability monitoring or uptime
 monitoring checks if a website is available and accessible to users,
 ensuring that the website is running and can always be used by users. It
 checks the availability of web services, domains, and pages.
-
-![](./assets/images/image430.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image430.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Performance monitoring checks the speed of a website or service. The
 frontend and backend connection tracks the browser load time by
@@ -6880,8 +7505,12 @@ performance monitors. Performance monitors may use RUM technology or
 synthetic monitoring. RUM and the Full-Page Check provide the most
 comprehensive performance data set.
 
-![](./assets/images/image431.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image431.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The third type is functionality monitoring.
 
@@ -6894,8 +7523,12 @@ interact with a web application in the same way as regular users, and an
 alert is sent to the supporting staff in case of any error or downtime
 faced.
 
-![](./assets/images/image432.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image432.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 We will now explore some of the popular website monitoring metrics.
 These include:
@@ -6903,8 +7536,12 @@ These include:
 Page Speed, Time to Title, Time to Start Render, Time to Interact, DNS
 Lookup Speed, Bounce Rate, and Requests Per Second.
 
-![](./assets/images/image433.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image433.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's discuss each of them. A page\'s speed is determined by its loading
 time and consists of three different metrics: Server response time,
@@ -6912,8 +7549,12 @@ which is the time the server takes to respond and is also called time to
 first byte (TTFB); Transfer time, which is the time taken to download an
 HTML web page; and Time taken to render a web page in a browser.
 
-![](./assets/images/image434.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image434.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Time to title is the time that a website's title takes to appear in a
 browser. Time to Start Render is the time the content takes to begin
@@ -6922,8 +7563,12 @@ request. Time to Interact measures the time taken before users are able
 to click links, type in text fields, scroll, or interact with a website
 in other ways.
 
-![](./assets/images/image435.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image435.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 DNS Lookup Speed is the time the Domain Name System (DNS) provider takes
 to translate a domain name into an IP address. A slow DNS provider
@@ -6937,8 +7582,12 @@ looking for. Requests Per Second refers to the number of requests the
 server receives every second. It is also referred to as "Throughput" or
 "Average Load."
 
-![](./assets/images/image436.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image436.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (34), you learned about:
 
@@ -6959,14 +7608,21 @@ In this module (34), you learned about:
 -   Some popular website monitoring metrics.
 
 # 35. Popular Monitoring Tools
-
-![](./assets/images/image437.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image437.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to Popular Monitoring Tools!
 
-![](./assets/images/image438.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image438.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (35), you will be able to:
 
@@ -6974,8 +7630,12 @@ After reading this module (35), you will be able to:
 
 -   Identify some of the most popular monitoring tools.
 
-![](./assets/images/image439.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image439.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Your website\'s effectiveness directly impacts your business, so
 choosing the best website monitoring service is essential. Monitoring
@@ -6983,9 +7643,12 @@ tools run regular tests and notify you when your site is down, making
 identifying and resolving problems easier. There are numerous options
 available, ranging from simple uptime or transaction monitoring
 solutions to complex web performance monitoring solutions.
-
-![](./assets/images/image440.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image440.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Certain factors need to be considered when selecting the best monitoring
 tool. These include: Live performance monitoring capability, Monitoring
@@ -6995,8 +7658,12 @@ a free trial or demo that allows for an evaluation prior to the
 purchase, and Additional capabilities for monitoring other assets, such
 as physical servers and network devices.
 
-![](./assets/images/image441.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image441.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's now explore some of the most popular monitoring tools. They
 include:
@@ -7004,8 +7671,12 @@ include:
 Pingdom, Uptime Robot, Datadog Synthetics, Site24x7, Uptrends, Uptimia,
 and New Relic.
 
-![](./assets/images/image442.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image442.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let\'s discuss each in detail. Pingdom is a paid uptime monitoring
 service that sends detailed alerts whenever an application or website
@@ -7013,8 +7684,12 @@ goes down. It provides a wide range of capabilities, including SSL
 certificate monitoring and website performance monitoring, and has an
 easy-to-use interface and a low price.
 
-![](./assets/images/image443.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image443.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Pingdom offers real-time user monitoring solutions that track real-time
 visits to your website and allows you to improve your performance using
@@ -7022,8 +7697,12 @@ data collected from actual people. Geographical performance is also
 monitored to ensure that your website performs optimally regardless of
 where users access it.
 
-![](./assets/images/image444.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image444.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Uptime Robot is the best option if you are looking for a simple tool
 that will notify you when your services are down. The free account
@@ -7033,8 +7712,12 @@ website and APIs every 5 minutes from 12 locations worldwide and sends
 alerts via various integrations with tools such as Slack, Pagerduty,
 OpsGenie, Telegram, and VictorOps.
 
-![](./assets/images/image445.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image445.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Datadog Synthetics tests allow you to proactively monitor your API
 endpoints and send alerts based on predefined parameters. You\'ll be
@@ -7044,8 +7727,12 @@ into your CI pipeline to ensure early problem detection, allowing you to
 evaluate the state of your production environment after each deployment
 and minimize downtime by eliminating errors before your users see them.
 
-![](./assets/images/image446.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image446.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 With Datadog Synthetics, you can monitor all of your critical
 transactions without writing a single line of code using the web
@@ -7055,8 +7742,12 @@ End-user screenshots and step-by-step waterfall visualizations are
 combined with an intelligent system that identifies elements even after
 UI changes, resulting in fewer broken tests.
 
-![](./assets/images/image447.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image447.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Site 24x7 provides website performance monitoring via periodic checks
 from 90 locations worldwide. A subscription is required to use this
@@ -7066,14 +7757,22 @@ errors in your website\'s code. DNS fetches, connection establishment
 times, first-byte time, download time, and SSL handshake time are all
 included in performance timings.
 
-![](./assets/images/image448.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image448.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Some of the features include: Monitoring bundles, SaaS platform, 90 test
 launch locations, DNS checks, and SSL certificate verification.
 
-![](./assets/images/image449.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image449.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Uptrends is a website monitoring service that also monitors network and
 internet performance. As a remote server, it can access your web
@@ -7082,9 +7781,12 @@ even test your competitors\' websites and tell you how theirs performs
 compared to yours. DNS records and DNS fetch times are some other checks
 performed by Uptime. It also monitors SSL certificates to ensure that
 they do not become outdated.
-
-![](./assets/images/image450.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image450.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 It also monitors the performance of FTP servers for download delivery.
 The monitor also tracks user journeys through a site and records load
@@ -7096,8 +7798,12 @@ console displays real-time test results, which can also be exported to a
 PDF or Excel format. Uptrends stores test results for two years to allow
 for historical analysis.
 
-![](./assets/images/image451.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image451.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Uptimia provides monitoring services for both small and large
 businesses, including uptime and speed monitoring, transaction
@@ -7105,8 +7811,12 @@ monitoring, and real-time user monitoring. The company provides a
 free-forever plan that allows you to monitor one website in five-minute
 increments. The free plan only includes uptime monitoring.
 
-![](./assets/images/image452.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image452.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 New Relic is an observability platform that helps you in monitoring,
 debugging, and enhancing your stack. It enables developers to create
@@ -7120,8 +7830,12 @@ tools for monitoring, analytics, and optimization. Key features include:
 
 -   Applied intelligence with quick incident response.
 
-![](./assets/images/image453.png){width="5.0in"
-height="2.8429483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image453.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (35), you learned that:
 
@@ -7218,8 +7932,12 @@ In case you are having issues with the Lab environment, you can view the
 lab by clicking this
 [link](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-WD0231EN-SkillsNetwork/labs/FinalProject/02-Instructions.md.html).
 
-![](./assets/images/image454.png){width="3.0in"
-height="2.2817311898512687in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image454.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 This course uses a third-party app, Final Project: Interest Rate
 Calculator, to enhance your learning experience. The app will reference
