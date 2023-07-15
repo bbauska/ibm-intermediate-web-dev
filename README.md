@@ -3046,7 +3046,7 @@ some practices become obsolete or even unacceptable over time. The
 following are some of the most important and current SEO \"do\'s and
 don\'ts\" to keep in mind when developing your online strategy.
 
-| <b>Do's<b>                        | <b>Don'ts</b>                    |
+| <b>Do's<b>                      | <b>Don'ts</b>                      |
 | :------------------------------ | :--------------------------------- |
 | <b>Do include meta descriptions | <b>Don't use all of your keywords  |
 | and title tags.</b>             | on the same page.</b>              |
@@ -3060,9 +3060,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 | clicks on your content in the   | about.                             |
 | search results. Use titles that |                                    |
 | pique users\' interest.         |                                    |
-
-| ------------------------------- | ---------------------------------- |
-
+|:--------------------------------|:-----------------------------------|
 | <b>Do include keywords that are | <b>Don't overuse keywords.</b>     |
 | pertinent to the page.</b>      |                                    |
 |                                 | Search engines do prefer content   |
@@ -3122,7 +3120,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 | The most convenient way to      |                                    |
 | track your metrics is to use a  |                                    |
 | tool like Google Analytics.     |                                    |
-| ------------------------------- | ---------------------------------- |
+|---------------------------------|------------------------------------|
 |                                 | <b>Don\'t skip user search</b>     |
 |                                 | <b>intention.</b>                  |
 |                                 |                                    |
@@ -3143,7 +3141,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 |                                 |     query, make sure you own the   |
 |                                 |     navigational query for your    |
 |                                 |     own brand.                     |
-| ------------------------------- | ---------------------------------- |
+|---------------------------------|------------------------------------|
 |                                 | <b>Don\'t link to external websites|
 |                                 | too frequently.</b>                |
 |                                 |                                    |
