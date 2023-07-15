@@ -1779,7 +1779,7 @@ In this week (01), you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image092.png"
-  alt=""
+  alt="2-08. Introduction to Search Engine Optimization (SEO)"
   style="width:500px;"/>
 </p>
 
@@ -1788,7 +1788,7 @@ Welcome to "Introduction to Search Engine Optimization (SEO)."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image093.png"
-  alt=""
+  alt="SEO (08): Describe SEO and its types, and Identify the benefits of using SEO (and all the time wasted)."
   style="width:500px;"/>
 </p>
 
@@ -1801,7 +1801,7 @@ After reading this module (08), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image094.png"
-  alt=""
+  alt="SEO refers to techniques that help a website rank higher, and which make it more visible."
   style="width:500px;"/>
 </p>
 
@@ -1821,7 +1821,7 @@ or phrase.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image095.png"
-  alt=""
+  alt="How a search engine works (according to Google and other deuschebags)"
   style="width:500px;"/>
 </p>
 
@@ -1840,7 +1840,7 @@ results if it is done.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image096.png"
-  alt=""
+  alt="Types of SEO: Technical, On-page, Off-page."
   style="width:500px;"/>
 </p>
 
@@ -1851,7 +1851,8 @@ Let's discuss each of them in detail.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image097.png"
-  alt=""
+  alt="Technical SEO: Settings that need to be set to facilitate the task of search engine 
+  crawlers. On-page SEO: Concerned with content."
   style="width:500px;"/>
 </p>
 
@@ -1870,7 +1871,7 @@ usability and credibility.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image098.png"
-  alt=""
+  alt="Off-page SEO: Actions taken away to influence rankings on SEO Pages (SERPs).  Uses backlinks to determine quality of website."
   style="width:500px;"/>
 </p>
 
@@ -1885,7 +1886,7 @@ fewer backlinks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image099.png"
-  alt=""
+  alt="Benefits of using SEO and best practices."
   style="width:500px;"/>
 </p>
 
@@ -1900,7 +1901,7 @@ website to earn the users' trust.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image100.png"
-  alt=""
+  alt="Additional benefits of using SEO."
   style="width:500px;"/>
 </p>
 
@@ -1919,7 +1920,7 @@ sales.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image101.png"
-  alt=""
+  alt="SEO Summary (08)."
   style="width:500px;"/>
 </p>
 
@@ -1945,7 +1946,7 @@ In this module (08), you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image102.png"
-  alt=""
+  alt="2-09. Popular SEO Tools"
   style="width:500px;"/>
 </p>
 
@@ -1954,7 +1955,7 @@ Welcome to "Popular SEO Tools."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image103.png"
-  alt=""
+  alt="Summary popular SEO tools, how to select a tool, benefits of SEO and some free/paid tools."
   style="width:500px;"/>
 </p>
 
@@ -1971,7 +1972,7 @@ After reading this module (09), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image104.png"
-  alt=""
+  alt="SEO tools enable business owners to know their websites' overall health and success."
   style="width:500px;"/>
 </p>
 
@@ -1987,7 +1988,7 @@ allowing you to identify what works and what doesn\'t.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image105.png"
-  alt=""
+  alt="Factors when selecting the best SEO software."
   style="width:500px;"/>
 </p>
 
@@ -1998,7 +1999,7 @@ curve Cost, and Support.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image106.png"
-  alt=""
+  alt="Detailed factors when selecting the best SEO software."
   style="width:500px;"/>
 </p>
 
@@ -2016,7 +2017,7 @@ important role.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image107.png"
-  alt=""
+  alt="More detailed factors when selecting the best SEO software."
   style="width:500px;"/>
 </p>
 
@@ -2034,7 +2035,7 @@ direct support channels such as email, chat, and phone.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image108.png"
-  alt=""
+  alt="Benefits of using the best SEO tools."
   style="width:500px;"/>
 </p>
 
@@ -2045,7 +2046,7 @@ higher-quality website traffic.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image109.png"
-  alt=""
+  alt="Detailed benefits of using the best SEO tools."
   style="width:500px;"/>
 </p>
 
@@ -2070,7 +2071,7 @@ leads, which results in higher-quality website traffic.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image110.png"
-  alt=""
+  alt="Best free SEO tools available: Google Analytics, Google Search Console, and Bing Webmaster."
   style="width:500px;"/>
 </p>
 
@@ -2091,7 +2092,7 @@ track your Bing account in real time.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image111.png"
-  alt=""
+  alt="PageSpeed Insights and Google Keyword Planner."
   style="width:500px;"/>
 </p>
 
@@ -2107,7 +2108,7 @@ applications.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image112.png"
-  alt=""
+  alt="Best Paid SEO Tools."
   style="width:500px;"/>
 </p>
 
@@ -2129,7 +2130,7 @@ audits, and employs keyword tools.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image113.png"
-  alt=""
+  alt="Serpstat and SpyFu."
   style="width:500px;"/>
 </p>
 
@@ -2144,7 +2145,7 @@ uncover.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image114.png"
-  alt=""
+  alt="In this module (09) you learned about SEO tools, how to select, and which is best (paid and free)."
   style="width:500px;"/>
 </p>
 
@@ -2168,7 +2169,7 @@ In this module (09), you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image115.png"
-  alt=""
+  alt="2-10. SEO Strategies"
   style="width:500px;"/>
 </p>
 
@@ -2177,7 +2178,7 @@ Welcome to SEO Strategies.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image116.png"
-  alt=""
+  alt="In this module (10), you will learn SEO strategies and steps to develop an SEO strategy."
   style="width:500px;"/>
 </p>
 
@@ -2190,7 +2191,7 @@ After reading this module (10), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image117.png"
-  alt=""
+  alt="SEO strategy is a plan of action for a company to optimize its website and rank higher in google search results."
   style="width:500px;"/>
 </p>
 
@@ -2205,7 +2206,7 @@ strategy.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image118.png"
-  alt=""
+  alt="Developing an SEO strategy."
   style="width:500px;"/>
 </p>
 
@@ -2219,7 +2220,7 @@ Executing the improved strategy, and Monitoring the execution.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image119.png"
-  alt=""
+  alt="First step in SEO strategy: Evaluate current strategy and performance."
   style="width:500px;"/>
 </p>
 
@@ -2243,7 +2244,7 @@ need improvement for your next SEO strategy.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image120.png"
-  alt=""
+  alt="Analyze competitors' strategies and identify how well their keywords rank."
   style="width:500px;"/>
 </p>
 
@@ -2266,7 +2267,7 @@ boost your keyword rankings.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image121.png"
-  alt=""
+  alt="Analyze link profiles of your competitors' websites."
   style="width:500px;"/>
 </p>
 
@@ -2279,7 +2280,7 @@ backlink profile.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image122.png"
-  alt=""
+  alt="Set goals you wish to achieve."
   style="width:500px;"/>
 </p>
 
@@ -2291,7 +2292,7 @@ activity?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image123.png"
-  alt=""
+  alt="More about goals."
   style="width:500px;"/>
 </p>
 
@@ -2308,7 +2309,7 @@ time is crucial.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image124.png"
-  alt=""
+  alt="Now optimize your website using goals defined."
   style="width:500px;"/>
 </p>
 
@@ -2325,7 +2326,7 @@ create high-quality content.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image125.png"
-  alt=""
+  alt="Submit press releases."
   style="width:500px;"/>
 </p>
 
@@ -2344,7 +2345,7 @@ rank higher in search engines.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image126.png"
-  alt=""
+  alt="New trends and best practices?"
   style="width:500px;"/>
 </p>
 
@@ -2363,7 +2364,7 @@ experiments based on your findings.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image127.png"
-  alt=""
+  alt="In this module (10): SEO strategies and tips."
   style="width:500px;"/>
 </p>
 
@@ -2391,7 +2392,7 @@ In this module (10), you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image128.png"
-  alt=""
+  alt="2-11. Mobile Friendly SEO"
   style="width:500px;"/>
 </p>
 
@@ -2400,7 +2401,7 @@ Welcome to "Mobile friendly SEO."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image129.png"
-  alt=""
+  alt="Mobile friendly SEO (10) defines mobile SEO, difference with desktop, is it mobile friendly and best practices."
   style="width:500px;"/>
 </p>
 
@@ -2417,7 +2418,7 @@ After reading this module (11), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image130.png"
-  alt=""
+  alt="Mobile SEO is the process of optimizing websites for mobile devices such as smartphones and tables."
   style="width:500px;"/>
 </p>
 
@@ -2429,7 +2430,7 @@ available to search engine spiders.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image131.png"
-  alt=""
+  alt="Mobile SEO considers: How a user interacts with SERPS compared to desktop computer."
   style="width:500px;"/>
 </p>
 
@@ -2449,7 +2450,7 @@ and provide the best visual experience
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image132.png"
-  alt=""
+  alt="Most users access a website with mobile device."
   style="width:500px;"/>
 </p>
 
@@ -2467,7 +2468,7 @@ products or services.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image133.png"
-  alt=""
+  alt="Difference between mobile and desktop SEO."
   style="width:500px;"/>
 </p>
 
@@ -2494,7 +2495,7 @@ desktop screen has.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image134.png"
-  alt=""
+  alt="Best tool to determine if mobile-friendly is Google Search Console."
   style="width:500px;"/>
 </p>
 
@@ -2513,7 +2514,7 @@ do not adhere to Google\'s mobile-friendly guidelines.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image135.png"
-  alt=""
+  alt="Other mobile SEO tools."
   style="width:500px;"/>
 </p>
 
@@ -2523,7 +2524,7 @@ Other excellent mobile SEO tools include Google\'s Mobile-Friendly Test
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image136.png"
-  alt=""
+  alt="Page speed, CSS, JS, or image blocking, avoid popups and flash."
   style="width:500px;"/>
 </p>
 
@@ -2548,7 +2549,7 @@ want to create special effects.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image137.png"
-  alt=""
+  alt="Design for touch screen."
   style="width:500px;"/>
 </p>
 
@@ -2605,7 +2606,7 @@ In this module (11), you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image140.png"
-  alt=""
+  alt="2-12. Page Optimization for SEO"
   style="width:500px;"/>
 </p>
 
@@ -2830,7 +2831,7 @@ In this module (12), you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image153.png"
-  alt=""
+  alt="2-13. Running Campaigns and Tracking Results"
   style="width:500px;"/>
 </p>
 
@@ -3229,7 +3230,7 @@ In this module, you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image165.png"
-  alt=""
+  alt="3-15. Introduction to Web Build and Automated Tools"
   style="width:500px;"/>
 </p>
 
@@ -3485,7 +3486,7 @@ In this module (15), you learned about:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image179.png"
-  alt=""
+  alt="3-16. Introduction to Webpack"
   style="width:500px;"/>
 </p>
 
@@ -3625,7 +3626,7 @@ In this module (16), you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image187.png"
-  alt=""
+  alt="3-17. Eseential Concepts of Webpack"
   style="width:500px;"/>
 </p>
 
@@ -3794,7 +3795,7 @@ In this module (17), you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image199.png"
-  alt=""
+  alt="3-18. Working with Webpack"
   style="width:500px;"/>
 </p>
 
@@ -4013,7 +4014,7 @@ In this module (18), you learned about:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image214.png"
-  alt=""
+  alt="3-19. Setting up Production with Webpack"
   style="width:500px;"/>
 </p>
 
@@ -4179,7 +4180,7 @@ In this module (19), you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image225.png"
-  alt=""
+  alt="3-20. Using Webpack Tools"
   style="width:500px;"/>
 </p>
 
@@ -4400,16 +4401,16 @@ In this module (20), you learned that:
 -   Webpack Bundle Analyzer helps to acknowledge the contents of the
     bundle and discover large modules.
 
-<h1 id="ch3-21">21. Using Webpack with Frontend Frameworks</h1>
+<h1 id="ch3-21">21. Using Webpack with Front-end Frameworks</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image241.png"
-  alt=""
+  alt="3-21. Using Webpack with Front-end Frameworks"
   style="width:500px;"/>
 </p>
 
-Welcome to "Using Webpack with Frontend Frameworks.\"
+Welcome to "Using Webpack with Front-end Frameworks.\"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4706,7 +4707,7 @@ reference basic information like your name, email, and Coursera ID.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image257.png"
-  alt=""
+  alt="3-22. Webpack Best Practices"
   style="width:500px;"/>
 </p>
 
@@ -5056,7 +5057,7 @@ In this module (24), you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image270.png"
-  alt=""
+  alt="4-24. JavaScript Optimization"
   style="width:500px;"/>
 </p>
 
@@ -5239,7 +5240,7 @@ In this module (24), you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image280.png"
-  alt=""
+  alt="4-25. Popular Optimization Tools"
   style="width:500px;"/>
 </p>
 
@@ -5462,7 +5463,7 @@ In this module (25), you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image296.png"
-  alt=""
+  alt="4-26. Testing Frameworks"
   style="width:500px;"/>
 </p>
 
@@ -5668,7 +5669,7 @@ In this module (26), you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image308.png"
-  alt=""
+  alt="4-27. Testing Tools -- Mocha and Jasmine"
   style="width:500px;"/>
 </p>
 
@@ -5934,7 +5935,7 @@ In this module (27), you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image327.png"
-  alt=""
+  alt="4-28. Using Jasmine"
   style="width:500px;"/>
 </p>
 
@@ -6088,7 +6089,7 @@ In this module (28), you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image337.png"
-  alt=""
+  alt="4-29. Front-end Testing Best Practices"
   style="width:500px;"/>
 </p>
 
@@ -6369,8 +6370,8 @@ In this module, you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image351.png"
-  alt=""
   style="width:500px;"/>
+  alt="5-30. JavaScript Debugging"
 </p>
 
 Welcome to "JavaScript Debugging."
@@ -6601,6 +6602,7 @@ In this module (30), you learned about:
 <p align="center">
   <img src="./assets/images/image366.png"
   alt=""
+  alt="5-31. Basic Debugging Concepts"
   style="width:500px;"/>
 </p>
 
@@ -6853,7 +6855,7 @@ In this module (31), you learned about:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image383.png"
-  alt=""
+  alt="5-32. Introduction to Debugging Tools"
   style="width:500px;"/>
 </p>
 
@@ -7062,7 +7064,7 @@ In this module (32), you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image398.png"
-  alt=""
+  alt="5-33. Troubleshooting with Chrome DevTools"
   style="width:500px;"/>
 </p>
 
@@ -7347,7 +7349,7 @@ In this video, you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image419.png"
-  alt=""
+  alt="5-34. Monitory your Website"
   style="width:500px;"/>
 </p>
 
@@ -7627,7 +7629,7 @@ In this module (34), you learned about:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image437.png"
-  alt=""
+  alt="5-35. Popular Monitory Tools"
   style="width:500px;"/>
 </p>
 
@@ -7636,7 +7638,7 @@ Welcome to Popular Monitoring Tools!
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image438.png"
-  alt=""
+  alt="This module (35) describes how to select a website monitoring tool, and some of the most popular monitoring tools."
   style="width:500px;"/>
 </p>
 
@@ -7649,7 +7651,7 @@ After reading this module (35), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image439.png"
-  alt=""
+  alt="Website monitoring tools for: effectiveness, problem resolution, and performance."
   style="width:500px;"/>
 </p>
 
@@ -7662,22 +7664,24 @@ solutions to complex web performance monitoring solutions.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image440.png"
-  alt=""
+  alt="Factors when selecting best monitoring tools: live monitoring and free trial."
   style="width:500px;"/>
 </p>
 
 Certain factors need to be considered when selecting the best monitoring
-tool. These include: Live performance monitoring capability, Monitoring
-of full stack, including supporting services, Monitoring of uptime,
-Administrating the web server, Monitoring the page load time, Providing
-a free trial or demo that allows for an evaluation prior to the
-purchase, and Additional capabilities for monitoring other assets, such
-as physical servers and network devices.
+tool. These include: 
+  - Live performance monitoring capability, 
+  - Monitoring of full stack, including supporting services, 
+  - Monitoring of uptime,
+  - Administrating the web server, 
+  - Monitoring the page load time, 
+  - Providing a free trial or demo that allows for an evaluation prior to the purchase, and 
+  - Additional capabilities for monitoring other assets, such as physical servers and network devices.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image441.png"
-  alt=""
+  alt="Popular monitoring tools: Pingdom, Uptime Robot, Datadog Synthetics, Site24x7, Uptrends, Uptimia and New Relic."
   style="width:500px;"/>
 </p>
 
@@ -7690,7 +7694,7 @@ and New Relic.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image442.png"
-  alt=""
+  alt="Pingdon: PAID uptime monitoring service, sends alerts when apps go down, SSL certificate outdated and performance."
   style="width:500px;"/>
 </p>
 
@@ -7703,7 +7707,7 @@ easy-to-use interface and a low price.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image443.png"
-  alt=""
+  alt="Pingdom: Offers real-time user monitoring services.  Hands-on spies I guess."
   style="width:500px;"/>
 </p>
 
@@ -7716,7 +7720,8 @@ where users access it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image444.png"
-  alt=""
+  alt="Uptime Robot: FREE! Notifies users when services are unavailable, 
+  includes 50 monitors, 3 months log storage, and runs synthetic checks every 5 minutes."
   style="width:500px;"/>
 </p>
 
@@ -7731,13 +7736,14 @@ OpsGenie, Telegram, and VictorOps.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image445.png"
-  alt=""
+  alt="Datadog Synthetics: Allows proactive monitoring of API endpoints &amp; sends 
+  alerts, enables you to breakdown network timings, integrates directly into the CI pipeline."
   style="width:500px;"/>
 </p>
 
 Datadog Synthetics tests allow you to proactively monitor your API
 endpoints and send alerts based on predefined parameters. You\'ll be
-able to break down network timings, allowing you to find the underlying
+able to break down network timings, allowing you to find the underlying
 cause of your problems faster. These tests can be integrated directly
 into your CI pipeline to ensure early problem detection, allowing you to
 evaluate the state of your production environment after each deployment
@@ -7746,7 +7752,7 @@ and minimize downtime by eliminating errors before your users see them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image446.png"
-  alt=""
+  alt="Datadog Synthetics: Monitors critical transactions, screenshots &ampp; waterfall visualizations, and elements after UI changes."
   style="width:500px;"/>
 </p>
 
@@ -7754,18 +7760,18 @@ With Datadog Synthetics, you can monitor all of your critical
 transactions without writing a single line of code using the web
 recorder.
 
-End-user screenshots and step-by-step waterfall visualizations are
+End-user screenshots and step-by-step waterfall visualizations are
 combined with an intelligent system that identifies elements even after
 UI changes, resulting in fewer broken tests.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image447.png"
-  alt=""
+  alt="Site 24x7: Provides website performance monnitoring, is cloud-based, detects website code errors, and performance timing."
   style="width:500px;"/>
 </p>
 
-Site 24x7 provides website performance monitoring via periodic checks
+Site 24x7 provides website performance monitoring via periodic checks
 from 90 locations worldwide. A subscription is required to use this
 platform for cloud-based website monitoring. A Domain Expiry Monitor, an
 SSL/TLS Certificate Monitor, and a Website Defacement Monitor detect
@@ -7776,7 +7782,8 @@ included in performance timings.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image448.png"
-  alt=""
+  alt="Site 24x7: Key features: Monitor bundles, SaaS platform, 90 test launch 
+  locations, DNS checks &amp; SSL certificate verification."
   style="width:500px;"/>
 </p>
 
@@ -7786,13 +7793,13 @@ launch locations, DNS checks, and SSL certificate verification.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image449.png"
-  alt=""
+  alt="Uptrands: Monitoring service for network and internet performance, masquerades as a user to accesss web servers."
   style="width:500px;"/>
 </p>
 
 Uptrends is a website monitoring service that also monitors network and
-internet performance. As a remote server, it can access your web
-servers while masquerading as a user and report on its findings. It can
+internet performance. As a remote server, it can access your web
+servers while masquerading as a user and report on its findings. It can
 even test your competitors\' websites and tell you how theirs performs
 compared to yours. DNS records and DNS fetch times are some other checks
 performed by Uptime. It also monitors SSL certificates to ensure that
@@ -7800,7 +7807,7 @@ they do not become outdated.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image450.png"
-  alt=""
+  alt="Uptrends: Monitors performance of FTP servers and other shit."
   style="width:500px;"/>
 </p>
 
@@ -7817,7 +7824,7 @@ for historical analysis.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image451.png"
-  alt=""
+  alt="Uptimia: Monitoring service provider for small and large businesses.  Uptime monitoring is only service free."
   style="width:500px;"/>
 </p>
 
@@ -7830,7 +7837,7 @@ increments. The free plan only includes uptime monitoring.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image452.png"
-  alt=""
+  alt="New Relic: Helps you monitor, debug and enhance your stack. I question it's claims."
   style="width:500px;"/>
 </p>
 
@@ -7849,7 +7856,7 @@ tools for monitoring, analytics, and optimization. Key features include:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image453.png"
-  alt=""
+  alt="In this module (35), you learned about monitoring tools and tests, API endpoints, and so much more."
   style="width:500px;"/>
 </p>
 
@@ -7953,7 +7960,7 @@ lab by clicking this
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image454.png"
-  alt=""
+  alt="Semi-circle with 'We're starting up your lab environment now.'."
   style="width:500px;"/>
 </p>
 
@@ -8030,4 +8037,4 @@ and drop the file icon onto the window.*
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-<!-- July 14, 2023 3:09pm -->
+<!-- July 15, 2023 1:07pm -->
