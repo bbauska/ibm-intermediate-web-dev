@@ -2113,8 +2113,11 @@ Moz Pro monitors a website's ranking, analyses backlinks, performs site
 audits, and employs keyword tools.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image113.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image113.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Serpstat is a comprehensive tool that can help you analyze competitors
 perform SEO tasks, and manage your in-house SEO team.
@@ -2125,8 +2128,11 @@ of services you sign up for, you will have access to all the data they
 uncover.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image114.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image114.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (09), you learned that:
 
@@ -2146,14 +2152,20 @@ In this module (09), you learned that:
 # 10. SEO Strategies
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image115.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image115.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to SEO Strategies.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image116.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image116.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (10), you will be able to:
 
@@ -2162,8 +2174,11 @@ After reading this module (10), you will be able to:
 -   Define the steps to develop an SEO strategy.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image117.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image117.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 An SEO strategy is a plan of action for a company to optimize its
 website and rank high in Google search results. It\'s a combination of
@@ -2174,8 +2189,11 @@ with your ideal audience, is an important part of developing an SEO
 strategy.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image118.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image118.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 There is no one-size-fits-all approach to developing an SEO strategy, as
 it greatly depends on the website, content, and audience. However, some
@@ -2185,8 +2203,11 @@ current SEO strategy, Analyzing the competition, Setting goals and KPIs,
 Executing the improved strategy, and Monitoring the execution.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image119.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image119.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The first step is to evaluate your current SEO strategy and its
 performance. You should assess your website\'s organic visibility,
@@ -2206,8 +2227,11 @@ previously heard of you. You\'ll also be able to identify areas that
 need improvement for your next SEO strategy.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image120.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image120.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After you\'ve assessed your current SEO strategy, you should analyze the
 competitors\' SEO strategies. This will give you a sense of what is and
@@ -2226,8 +2250,11 @@ keywords that you are not. This will help you identify opportunities to
 boost your keyword rankings.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image121.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image121.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Finally, you need to analyze the link profiles of your competitors\'
 websites. This will help you understand where their backlinks are coming
@@ -2236,8 +2263,11 @@ will enable you to develop your link-building strategy to build a strong
 backlink profile.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image122.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image122.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After your strategy is developed, you need to set goals you want to
 achieve. Like: What aspects of the company do you want to improve? and
@@ -2245,8 +2275,11 @@ Is there more traffic? How about more clicks or perhaps more down-funnel
 activity?
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image123.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image123.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Addressing these questions will help you consider what readers might be
 looking for that would persuade them to visit or interact with your
@@ -2259,8 +2292,11 @@ help optimize your strategy, which is why knowing your goals ahead of
 time is crucial.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image124.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image124.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After your goals are set, you should begin optimizing your website for
 positive page experience. Begin by brainstorming potential keywords and
@@ -2273,8 +2309,11 @@ your keywords while also providing a positive user experience if you
 create high-quality content.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image125.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image125.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Next, on a monthly or bimonthly basis, you should submit press releases
 on any company initiatives and contact popular blogs in your niche to
@@ -2289,8 +2328,11 @@ website and include relevant keywords in the file names, the images will
 rank higher in search engines.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image126.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image126.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Finally, you need to be on the lookout for new trends and best
 practices. Some of these include:
@@ -2305,8 +2347,11 @@ do not already have. Analyzing your metrics and making actionable
 experiments based on your findings.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image127.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image127.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (10), you learned that:
 
@@ -2330,14 +2375,20 @@ In this module (10), you learned that:
 # 11. Mobile Friendly SEO
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image128.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image128.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to "Mobile friendly SEO."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image129.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image129.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (11), you will be able to:
 
@@ -2350,8 +2401,11 @@ After reading this module (11), you will be able to:
 -   Identify the best practices.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image130.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image130.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Mobile SEO is the process of optimizing websites for mobile devices such
 as smartphones and tablets. This includes optimizing the
@@ -2359,8 +2413,11 @@ website\'s design and content, as well as making the website resources
 available to search engine spiders.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image131.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image131.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Mobile SEO considers:
 
@@ -2376,8 +2433,11 @@ and How to include usability best practices for mobile content access
 and provide the best visual experience
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image132.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image132.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Due to significant increase in mobile usage, most users access a
 website through a mobile device rather than a desktop. This makes mobile
@@ -2391,8 +2451,11 @@ your responsibility to be available when they are looking for your
 products or services.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image133.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image133.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's now discuss the significant differences between desktop and mobile
 SEO.
@@ -2415,8 +2478,11 @@ screens, search results have a fraction of the search space that a
 desktop screen has.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image134.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image134.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The best tool to use to determine whether your website is
 mobile-friendly is Google Search Console. Its search tools are extremely
@@ -2431,15 +2497,21 @@ feature that scans your site and displays a list of posts and pages that
 do not adhere to Google\'s mobile-friendly guidelines.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image135.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image135.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Other excellent mobile SEO tools include Google\'s Mobile-Friendly Test
 & Analytics, SEMrush, Ahrefs, ScreamingFrog, and SimilarWeb.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image136.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image136.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 If your site is already well optimized for search engines, there are
 only a few things to consider when optimizing for mobile devices. They
@@ -2460,8 +2532,11 @@ phone, causing them to miss out on all the fun. Use HTML5 instead if you
 want to create special effects.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image137.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image137.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Design for Touch screen - Touch screen navigation can result in
 accidental clicks if your buttons are too big, too small, or in the path
@@ -2476,8 +2551,11 @@ well as including your city and state name in the metadata of your
 website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image138.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image138.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Mobile site configuration - Choosing whether to use a responsive,
 dynamic serving, or separate site configuration is an important decision
@@ -2488,8 +2566,11 @@ site for mobile users. This enables you to create entirely unique
 content for mobile visitors.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image139.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image139.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (11), you learned that:
 
@@ -2508,14 +2589,20 @@ In this module (11), you learned that:
 # 12. Page Optimization for SEO
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image140.png){width="5.0in"
-height="2.8114315398075242in"}
+<p align="center">
+  <img src="./assets/images/image140.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to "Page optimization for SEO."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image141.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image141.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After finishing this module (12), you will be able to:
 
@@ -2524,8 +2611,11 @@ After finishing this module (12), you will be able to:
 -   Identify the various on-page SEO components.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image142.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image142.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Page Optimization for SEO, also known as on-page SEO or on-site SEO, is
 the process of improving a website\'s ranking and visibility in search
@@ -2537,8 +2627,11 @@ understands a website\'s content, the higher it will rank in the search
 results, resulting in a more organic traffic, conversions, and revenue.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image143.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image143.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 On-page SEO aims to make it easy for both search engines and users to:
 Understand the purpose of a website. Determine whether the page is
@@ -2548,8 +2641,11 @@ optimization by informing Google about how the website adds value to
 visitors and customers.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image144.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image144.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Text and HTML changes are required to optimize a website page fully. The
 following are the key components of on-page SEO. Content elements, HTML
@@ -2559,8 +2655,11 @@ include: Page URLs, Internal Linking, Mobile Responsiveness, and Site
 Speed.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image145.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image145.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's explore each in detail. The first type of on-page SEO component
 that we are going to discuss is Content elements. Content elements are
@@ -2569,8 +2668,11 @@ information about your website and business to both search engines and
 readers.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image146.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image146.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let\'s consider some guidelines for creating high-quality page content.
 Use short and long-tail keywords naturally Include visually appealing
@@ -2580,8 +2682,11 @@ compelling introductions. Clearly articulate both the problem and your
 solution.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image147.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image147.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Avoid using lengthy sentences and paragraphs. However, if you eliminate
 paragraphs entirely, your content will not flow properly. Break up
@@ -2590,8 +2695,11 @@ incorporate the target SEO keyword throughout the page copy. Match
 content to search intent, and always write with your readers in mind.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image148.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image148.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Another type of on-page SEO component is HTML elements. It refers to the
 elements in your source code. Let's discuss each of them in detail. One
@@ -2612,8 +2720,11 @@ page title. In your h1 and h2 headers, include your most important
 keywords.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image149.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image149.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Meta descriptions are the short page descriptions that appear beneath
 the title in search results. It can influence whether or not users click
@@ -2633,8 +2744,11 @@ responsible for the featured snippets, knowledge panels, and other
 content features that appear when you search for something on Google.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image150.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image150.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The last type of on-page SEO component is Site structure elements. It
 refers to the components of your website and site pages. Let's discuss
@@ -2655,8 +2769,11 @@ Google to learn more about your website and potentially rank it higher
 in search engine results pages.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image151.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image151.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Mobile responsiveness is important. Sites that are optimized for faster
 mobile speeds are now given preference by Google. It is critical to
@@ -2670,8 +2787,11 @@ unlikely to stick around if your site loads slowly or haphazardly.
 Moreover, site speed has an impact on conversions and ROI.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image152.png){width="5.0in"
-height="2.8322648731408573in"}
+<p align="center">
+  <img src="./assets/images/image152.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (12), you learned that:
 
@@ -2694,14 +2814,20 @@ In this module (12), you learned that:
 # 13. Running Campaigns and Tracking Results
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image153.png){width="5.0in"
-height="2.848290682414698in"}
+<p align="center">
+  <img src="./assets/images/image153.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to "Running Campaigns and Tracking Results."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image154.png){width="5.0in"
-height="2.848290682414698in"}
+<p align="center">
+  <img src="./assets/images/image154.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (13), you will be able to:
 
@@ -2712,8 +2838,11 @@ After reading this module (13), you will be able to:
 -   Identify the key SEO tracking tools.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image155.png){width="5.0in"
-height="2.848290682414698in"}
+<p align="center">
+  <img src="./assets/images/image155.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 An SEO campaign is a planned effort to raise a website\'s ranking in
 search results. This includes optimizing webpages for specific keywords,
@@ -2729,8 +2858,11 @@ sharing interesting articles and videos, so this is a great way to reach
 many people.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image156.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image156.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 SEO tracking is the process of assessing the effectiveness and
 development of a campaign. This step is used to establish specific and
@@ -2746,8 +2878,11 @@ generates. To track conversions and the conversion rate from organic
 traffic, create a relevant \"Goal\" in Google Analytics.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image157.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image157.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Keyword Rankings: Daily keyword tracking is an excellent way to stay on
 top of the overall direction of the SEO efforts and also provides a
@@ -2762,8 +2897,11 @@ friendliness, which includes having a way to identify and address common
 technical problems.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image158.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image158.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 When you use SEO in your content, you can increase organic traffic to
 your website. There are a few best practices that can assist you in
@@ -2773,8 +2911,11 @@ Monitoring website traffic, Tracking content's effectiveness, Tracking
 top-performing pages, and Monitoring paid campaigns.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image159.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image159.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Monitoring website traffic can help you make quick decisions and gain
 immediate insights. Unusual spikes or drops, for example, can be caused
@@ -2788,8 +2929,11 @@ pages are being visited will assist you in developing new content and
 optimizing what you already have.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image160.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image160.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 It\'s handy to have all of the data about individual page performance in
 one place. Entries and time on a page indicate how engaging your content
@@ -2800,16 +2944,22 @@ clear results and insights. Tagging campaign URLs correctly is a sure
 way to avoid cluttered reports and keep incoming visitors organized.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image161.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image161.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Now that you know the best practices for running an SEO campaign, here
 are two key SEO tracking tools to help you manage and track the results
 of your website. They are: Google Analytics and Google Search Console.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image162.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image162.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Google Analytics can be viewed as an SEO tracking tool for everything
 that happens after someone visits your website. This includes SEO
@@ -2826,8 +2976,11 @@ number of pages or screens per session. Event: This classifies a
 specific user interaction with your website or app as a conversion.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image163.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image163.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Google Search Console (GSC) is another free tool that lets you monitor
 your site\'s search traffic and performance, troubleshoot problems, and
@@ -2843,8 +2996,11 @@ you to identify \"quick wins\" by simply changing the title or meta
 description, resulting in a significant increase in traffic.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image164.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image164.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this section (13), you learned that:
 
@@ -3055,14 +3211,20 @@ In this module, you learned that:
 # 15. Introduction to Web Build and Automated Tools
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image165.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image165.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to \"Introduction to Web Build and Automated Tools."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image166.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image166.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (15), you will be able to:
 
@@ -3076,8 +3238,11 @@ After reading this module (15), you will be able to:
 -   Describe some popular web build tools and bundlers.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image167.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image167.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Build automation is the process of preparing the source code for
 production so that users can interact with it comfortably. It could
@@ -3094,8 +3259,11 @@ by an automated build and automated tests. Due to this regular
 integration, errors are identified quickly and easily.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image168.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image168.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Suppose you have a 300-line JavaScript script. You simply insert the old
 script tag into your page. We start adding more functionality to the
@@ -3116,8 +3284,11 @@ concatenation strategy. At this point, the functionality of an automated
 build tool and bundler comes into prominence.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image169.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image169.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let\'s quickly go through the functions of JavaScript tools. Using these
 build tools, your JavaScript and dependencies are prepared for use in a
@@ -3142,8 +3313,11 @@ steps or do them in exactly the same way. However, these are some of the
 core problems that most build tools address in one way or another.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image170.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image170.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Build automation offers five main benefits. These include increased
 productivity, accelerated delivery, enhanced quality, record
@@ -3152,8 +3326,11 @@ maintenance, and saving time and money.
 Let's discuss each of these benefits in detail.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image171.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image171.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 One of the major benefits of build automation is increased productivity.
 Build automation leads to quick feedback. This means that developers
@@ -3165,8 +3342,11 @@ automation eradicates unnecessary tasks and enables you to identify
 issues faster, which helps expedite the delivery process.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image172.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image172.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Enhanced quality is another important benefit of build automation. Build
 automation helps prevent bad builds by enabling you to identify and
@@ -3177,8 +3357,11 @@ maintain a complete history of files and changes made. Maintaining a
 complete history enables you to track issues back to their core.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image173.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image173.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The last benefit we will discuss in this session is saving time and
 money. As build automation ensures increased productivity, accelerated
@@ -3186,15 +3369,21 @@ delivery, and enhanced quality, it enables you to save time and money
 spent in delivering quality products and services.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image174.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image174.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Now, we will explore some popular web build tools and bundlers. These
 include: Grunt, Gulp, Browserify, Webpack, npm, and RequireJS.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image175.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image175.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's take a brief look at each of these tools.
 
@@ -3209,8 +3398,12 @@ which means piping the output derived from one task as an input for the
 next. Unlike Grunt, it deals with actual code rather than relying on
 plugin configuration.
 
-![](./assets/images/image176.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image176.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Browserify is a build tool that allows using Node.js modules directly in
 a browser. It allows you to bundle all your JavaScript modules into one
@@ -3228,8 +3421,11 @@ you to modify your build to suit certain circumstances and get around
 packages that don\'t function properly in difficult situations.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image177.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image177.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Node package manager (npm) functions as a package manager for
 JavaScript. It serves as the default package manager for the JavaScript
@@ -3248,10 +3444,12 @@ module loading and the ability to load layered dependencies. For a
 better user experience, it merges and minifies modules into a single
 script. It can compile JavaScript files from many modules and
 load several JavaScript files.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image178.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image178.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (15), you learned about:
 
@@ -3269,14 +3467,20 @@ In this module (15), you learned about:
 # 16. Introduction to Webpack 5
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image179.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image179.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to the "Introduction to Webpack 5."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image180.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image180.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (16), you will be able to:
 
@@ -3291,8 +3495,11 @@ After reading this module (16), you will be able to:
 -   Describe why to use Webpack 5.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image181.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image181.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Webpack 5 is a module bundler that assists, in handling the bundling of
 assets, modules, and dependencies into a single bundle while allowing
@@ -3301,8 +3508,11 @@ on online solutions, you can use Webpack 5 to build your own custom
 solutions or boilerplates.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image182.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image182.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Now that you understand what Webpack 5 is, let us see some of its
 advantages. Webpack 5 has the following advantages:
@@ -3316,8 +3526,11 @@ offers a development server for development, which can instantly update
 modules and styles as you save.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image183.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image183.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Now that you understand what Webpack 5 is and its advantages, let us
 discuss what it does.
@@ -3337,8 +3550,11 @@ Webpack 5:
 -   Supports live updates or hot module replacement during development.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image184.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image184.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Webpack 5 is a command line tool and essentially a module bundler that
 unifies all sources and module types to import everything in the
@@ -3348,8 +3564,11 @@ here. The output file that Webpack generates can be sent to the client's
 browser by a server.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image185.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image185.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 We will now explore the benefits of using Webpack 5. Webpack 5 is
 powerful and has unique plugin system. Its latest features have overcome
@@ -3364,8 +3583,11 @@ to cache assets as Webpack 5 allows each file\'s assets to have their
 own version.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image186.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image186.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (16), you learned that:
 
@@ -3384,13 +3606,21 @@ In this module (16), you learned that:
 
 # 17. Essential Concepts of Webpack
 
-![](./assets/images/image187.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image187.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to "Essentials Concepts of Webpack"
 
-![](./assets/images/image188.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image188.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (17), you will be able to:
 
@@ -3399,8 +3629,11 @@ After reading this module (17), you will be able to:
 -   Define components that optimize the functioning of Webpack.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image189.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image189.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let us start by discussing Webpack's role in combining modules into
 bundles. Webpack is a module bundler and allows you to create codes in
@@ -3413,8 +3646,11 @@ core concepts in detail. They are: Entry Output Loaders and Plugins In
 addition, we will touch upon some components related to Webpack.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image190.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image190.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The first concept is Entry. The initial point from which the frontend
 project\'s dependencies are gathered is known as an entry point. This is
@@ -3425,12 +3661,18 @@ modules through each dependency, and it repeats this procedure
 throughout the application. See example (above).
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image191.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image191.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image192.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image192.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The second concept is Output. The static and JavaScript files produced
 by the build process are gathered in Output. The default output folder
@@ -3441,8 +3683,11 @@ in a JavaScript file called My-Webpack.bundle.js in the same directory
 as Webpack.config.js.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image193.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image193.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let us now understand the third concept, Loader. As Webpack only
 understands JavaScript and JSON files, Loaders are used to process other
@@ -3452,14 +3697,20 @@ files before they're added to the dependency graph. They help Webpack
 deal with various file extensions.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image194.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image194.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let us look at an example (above).
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image195.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image195.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The last concept is Plugins. It allows Webpack to perform a wide range
 of tasks like bundle optimization, asset management, injection of
@@ -3467,15 +3718,21 @@ environment variables, and minifying files. They are third-party
 extensions that can alter how Webpack functions.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image196.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image196.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 For example, there are plugins for extracting HTML and CSS or setting up
 environment variables.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image197.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image197.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Along with these, there are some additional concepts that optimize the
 functioning of Webpack. Let us briefly touch upon them.
@@ -3495,8 +3752,11 @@ code is what we write and edit, whereas the distribution code is the
 optimized output that is finally loaded in the browser.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image198.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image198.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (17), you learned that:
 
@@ -3516,14 +3776,20 @@ In this module (17), you learned that:
 # 18. Working with Webpack
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image199.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image199.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to "Working with Webpack."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image200.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image200.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (18), you will be able to:
 
@@ -3538,6 +3804,11 @@ After reading this module (18), you will be able to:
 -   Describe the three main Webpack modes.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image200.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 ![](./assets/images/image201.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3550,6 +3821,11 @@ whether code should be compressed for quicker execution or packed with
 source maps for better error tracking.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image200.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 ![](./assets/images/image202.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3562,6 +3838,11 @@ The configuration JavaScript module belongs to CommonJS. Output from
 this file is an object that Webpack will consider.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image200.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 ![](./assets/images/image203.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3570,6 +3851,11 @@ project in development mode to include comments and non-minimized code
 in the output bundle while it is running.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image200.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 ![](./assets/images/image204.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3581,6 +3867,11 @@ with built-in asset modules. They allow you to use asset files without
 configuring additional loaders.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image200.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 ![](./assets/images/image205.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3592,6 +3883,11 @@ modules can incorporate any font through your build directory. Data can
 be incorporated in the form of JSON files, CSVs, TSVs, and XML.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image200.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 ![](./assets/images/image206.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3602,6 +3898,11 @@ main bundle size will speed up the initial load time and enable the
 users to engage with your application more quickly.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image200.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 ![](./assets/images/image207.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3615,7 +3916,11 @@ Code Splitting in Webpack 5 can be accomplished in three ways:
 3.  Dynamic imports: Split code using inline function calls within
     modules.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<p align="center">
+  <img src="./assets/images/image200.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 ![](./assets/images/image208.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3628,6 +3933,11 @@ event. These are the modules needed for current navigation and are
 loaded in parallel to the parent chunk.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image200.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 ![](./assets/images/image209.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3639,8 +3949,11 @@ be careful when employing it since improper configuration might result
 in poor performance.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image210.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image210.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Lastly, let's identify the three main configuration modes for Webpack. A
 mode configuration option instructs Webpack to make appropriate use of
@@ -3648,6 +3961,11 @@ its built-in optimizations. The three main configuration modes are:
 Development Production And none.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image210.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 ![](./assets/images/image211.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3658,6 +3976,11 @@ debugging simpler and speeds up the process of fixing bugs and errors in
 your code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image210.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 ![](./assets/images/image212.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3671,8 +3994,11 @@ building an application. In this mode, none of the default optimization
 options are applied.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image213.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image213.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (18), you learned about:
 
@@ -3691,14 +4017,20 @@ In this module (18), you learned about:
 # 19. Setting up Production with Webpack
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image214.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image214.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to "Setting up Production with Webpack."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image215.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image215.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (19), you will be able to:
 
@@ -3707,8 +4039,11 @@ After reading this module (19), you will be able to:
 -   Discuss the best practices related to Webpack in production.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image216.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image216.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 A mode configuration option instructs Webpack to make appropriate use of
 its built-in optimizations. You can set it to \"none\" to disable any
@@ -3725,6 +4060,11 @@ paradigm convention over configuration, you can basically acquire a
 useful configuration by simply setting the mode to production.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image210.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 ![](./assets/images/image217.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3737,6 +4077,11 @@ minifying the code. It is recommended to create distinct Webpack
 settings for each scenario.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image210.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 ![](./assets/images/image218.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3748,6 +4093,11 @@ source maps, and optimized assets to improve the load time. We still
 prefer a "common" configuration to make things uniform.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image210.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 ![](./assets/images/image219.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3759,8 +4109,11 @@ source maps, File hashing, and Cleanup of old assets. Let's discuss each
 of these practices in detail.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image220.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image220.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Minifying CSS means to remove unnecessary characters, such as comments,
 whitespaces, and indentation. Minifying your assets in production is a
@@ -3770,6 +4123,11 @@ minify your CSS files. Open your command line. Run npm install
 optimize-css-assets-Webpack-plugin. Finally, save dev.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image220.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 ![](./assets/images/image221.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3779,6 +4137,11 @@ location and help in debugging the code live. Webpack has built-in
 support for source map generation via the devtool property.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image220.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 ![](./assets/images/image222.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3790,6 +4153,11 @@ hashing is known as long-term caching, as the files could be cached
 forever.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image220.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 ![](./assets/images/image223.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3801,6 +4169,11 @@ plugin. Open your command line and run npm install clean-Webpack-plugin.
 Finally, save dev.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image220.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 ![](./assets/images/image224.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3824,14 +4197,20 @@ In this module (19), you learned that:
 # 20. Using Webpack Tools
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image225.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image225.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to "Using Webpack Tools."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image226.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image226.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (20), you will be able to:
 
@@ -3840,8 +4219,11 @@ After reading this module (20), you will be able to:
 -   Describe five popular Webpack bundle size tools.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image227.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image227.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Webpack is a module bundler used to bundle JavaScript files to be used
 in a browser. Bundle size is an important metric determining how fast a
@@ -3851,8 +4233,11 @@ bundle size results in an increase in download time and a bigger
 overhead in execution time during initialization.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image228.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image228.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's now discuss the benefits of reducing the build size. Reduced build
 size leads to the website loading quickly. JavaScript execution and
@@ -3862,8 +4247,11 @@ Developers use different Webpack tools to reduce the bundle size. Let's
 explore five such tools.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image229.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image229.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The five popular Webpack tools that we are going to explore in this
 session include:
@@ -3872,8 +4260,11 @@ Bundlephobia, Webpack Visualizer, Webpack Analyzer, Source Map Explorer,
 and Webpack Bundle Analyzer.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image230.png){width="5.0in"
-height="2.806089238845144in"}
+<p align="center">
+  <img src="./assets/images/image230.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Now, let's discuss each in detail.
 
@@ -3886,8 +4277,12 @@ beforehand and helps select the best option available. Bundlephobia also
 displays how this package will affect users and browsers when it is used
 in your application.
 
-![](./assets/images/image231.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image231.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 For example, it helps determine the download and render times. To use
 Bundlephobia as a website, upload the package.json file to the website.
@@ -3898,8 +4293,12 @@ following command:
 
 -   Npm -g bundle-phobia-cli
 
-![](./assets/images/image232.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image232.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Another popular Webpack tool is Webpack Visualizer. It is an analysis
 tool used to create a visual representation of your final bundle. This
@@ -3908,8 +4307,12 @@ which modules can be duplicated. It shows the visualized separation of
 components. It determines how much space they take up and their
 percentage allocation to the overall amount of the chunk.
 
-![](./assets/images/image233.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image233.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 There are two ways of using Webpack Visualizer. You can upload your
 stats.json file on chrisbateman.github.io/webpack-visualizer. Or you
@@ -3919,8 +4322,12 @@ could just install it using 
 
 and then import it to the webpack config file.
 
-![](./assets/images/image234.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image234.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The next popular Webpack tool we will explore is Webpack Analyzer. It is
 an interactive tool that helps you visualize your bundle sizes. Webpack
@@ -3928,14 +4335,22 @@ Analyzer offers a more detailed examination of your bundle by generating
 a dependency graph. Webpack Analyzer results display the warnings and
 errors from the Webpack build with suggestions on how to enhance it.
 
-![](./assets/images/image235.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image235.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 To use Webpack Analyzer, generate a stat file using the Webpack ---
 profile --- json \> stats.json command and upload it to the website.
 
-![](./assets/images/image236.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image236.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Source Map Explorer is another popular Webpack tool that offers a visual
 representation of any JavaScript bundle that has a source map. It
@@ -3945,15 +4360,23 @@ Explorer allows you to inspect your final bundle in a graphical manner.
 It provides a treemap visualization to help you debug where all the code
 is coming from.
 
-![](./assets/images/image237.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image237.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 To use Source Map Explorer: Install Source Map Explorer globally using
 npm. Then, try to generate a responsive treemap of your bundle using
 the bundle.js and bundle.js.map files.
 
-![](./assets/images/image238.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image238.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The last Webpack tool we will explore is Webpack Bundle Analyzer. It
 provides guidance on which modules may be trimmed and helps identify
@@ -3961,14 +4384,22 @@ modules used in your project. It also supports minified bundles. Webpack
 bundle Analyzer helps to identify modules that are large or can be
 removed.
 
-![](./assets/images/image239.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image239.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 To use this tool: Install the plugin, Create the Webpack stats JSON
 file, and Use the analyzer.
 
-![](./assets/images/image240.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image240.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (20), you learned that:
 
@@ -3991,13 +4422,21 @@ In this module (20), you learned that:
 
 # 21. Using Webpack with Frontend Frameworks
 
-![](./assets/images/image241.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image241.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to "Using Webpack with Frontend Frameworks.\"
 
-![](./assets/images/image242.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image242.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (21), you will be able to:
 
@@ -4005,24 +4444,36 @@ After reading this module (21), you will be able to:
 
 -   Describe how to configure Webpack with Angular, Vue, and React.
 
-![](./assets/images/image243.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image243.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's begin by understanding a front-end framework. A front-end
 framework is a pre-prepared library meant to be used for the development
 of a website. It is a collection of CSS, JavaScript, and other files
 designed to make building web applications faster and more consistent.
 
-![](./assets/images/image244.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image244.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Webpack is commonly used with frontend frameworks. It has several
 features that are useful for building and deploying web applications.
 Some of these features include: Code bundling, Module management, Code
 optimization, and Easy integration.
 
-![](./assets/images/image245.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image245.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's discuss each of these features in detail. The first feature is
 code bundling. Webpack can bundle all JavaScript and CSS files for a web
@@ -4043,8 +4494,12 @@ frameworks, making it a versatile tool for building web applications.
 These features make the development process more efficient and the final
 product robust.
 
-![](./assets/images/image246.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image246.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Now, let's discuss how to configure Webpack with Angular. However,
 before that, we need to understand what Angular is. Angular is a
@@ -4052,8 +4507,12 @@ JavaScript framework developed and maintained by Google. It is used to
 create Single-Page Applications (SPAs) that can dynamically update
 content without requiring a page refresh.
 
-![](./assets/images/image247.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image247.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Configuring Webpack with Angular involves a few steps. Let's explore
 these steps. First, you need to create an application folder and name
@@ -4072,8 +4531,12 @@ types (for example, TypeScript, HTML, and CSS) and plugins to perform
 other tasks, such as injecting generated JS bundles into an HTML
 template (html-webpack-plugin).
 
-![](./assets/images/image248.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image248.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Here are the remaining steps of configuring Webpack with Angular: Now,
 create a new component and a root module to define the entry point of
@@ -4092,16 +4555,24 @@ command, as shown here:
 
 \- to run the application.
 
-![](./assets/images/image249.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image249.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Now we will discuss the process of configuring Webpack with Vue. Before
 we proceed, let's try to understand what Vue.js is. Vue.js is an
 open-source JavaScript framework for building user interfaces. It is
 designed to be approachable and easy to learn.
 
-![](./assets/images/image250.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image250.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's talk about the steps of configuring Webpack with Vue in detail.
 First, create a new application folder. Note that all of your project
@@ -4112,8 +4583,12 @@ you need to install dependencies. For this, you can use the npm package
 manager. Now, you need to configure Webpack to use the Babel loader and
 the Vue loader.
 
-![](./assets/images/image251.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image251.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Here are the remaining steps of configuring Webpack with Vue: Write the
 code to start your server. This can be done in package.json using
@@ -4131,8 +4606,12 @@ are included, will appear. Also, you can use webpack-validator, a tool
 that will validate your Webpack configuration file and highlight any
 errors or potential issues.
 
-![](./assets/images/image252.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image252.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 And lastly, we will discuss the process of configuring Webpack with
 React. However, before that, we need to be aware of React. React is a
@@ -4140,8 +4619,12 @@ JavaScript library used to build user interfaces. It was developed and
 is maintained by Facebook. It focuses on the declarative approach to
 programming, making it easier to understand and debug code.
 
-![](./assets/images/image253.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image253.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Now let\'s explore the steps of configuring Webpack with React. The
 first step in this process is setting up React. To set react, perform
@@ -4164,8 +4647,12 @@ To set up git for your project, use this command:
 
 Create a new source folder and add HTML and JavaScript files.
 
-![](./assets/images/image254.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image254.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The second step of configuring Webpack with React is to install and set
 up Webpack. To install Webpack to our project, use the command as shown
@@ -4186,8 +4673,12 @@ the entry point for Webpack.
 The fourth step of configuring Webpack with React is to define the
 output path for the bundled file after the entry point is defined.
 
-![](./assets/images/image255.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image255.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Here are the remaining steps of configuring Webpack with React: Add the
 bundled JavaScript file to the HTML file. Install Babel, which is the
@@ -4197,8 +4688,12 @@ Babel.
 Now that a configuration file is created, you can build and run the
 application.
 
-![](./assets/images/image256.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image256.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (21), you learned about;
 
@@ -4229,13 +4724,21 @@ reference basic information like your name, email, and Coursera ID.
 
 # 22. Webpack Best Practices
 
-![](./assets/images/image257.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image257.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to "Webpack Best Practices."
 
-![](./assets/images/image258.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image258.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (22), you will be able to:
 
@@ -4244,16 +4747,24 @@ After reading this module (22), you will be able to:
 -   Describe the benefits of implementing some key best practices in
     Webpack.
 
-![](./assets/images/image259.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image259.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Webpack is a widely used module bundler that aids developers in building
 effective and optimized web applications. It is an excellent tool for
 creating applications; however, it can be challenging to get the most
 out of it.
 
-![](./assets/images/image260.png){width="5.0in"
-height="2.806089238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image260.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (22), we will learn about a few best practices for
 optimizing Webpack to ensure that your applications are optimized and
