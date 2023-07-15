@@ -1176,7 +1176,7 @@ part of your hosting package.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image061.png"
-  alt="."
+  alt="WordPress concepts: Plugins and Themes."
   style="width:500px;"/>
 </p>
 
@@ -1196,7 +1196,7 @@ the future of WordPress theming.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image062.png"
-  alt="."
+  alt="WordPress concepts: Hooks and Customization options."
   style="width:500px;"/>
 </p>
 
@@ -1214,7 +1214,7 @@ changes implemented by plugins.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image063.png"
-  alt="."
+  alt="WordPress concepts: Rest API."
   style="width:500px;"/>
 </p>
 
@@ -1225,7 +1225,7 @@ other programming languages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image064.png"
-  alt="."
+  alt="Module 06a Getting Started with WordPress."
   style="width:500px;"/>
 </p>
 
@@ -1257,7 +1257,7 @@ In this module (06a), you learned:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image065.png"
-  alt="."
+  alt="Welcome to Getting Started with WordPress - Part 2."
   style="width:500px;"/>
 </p>
 
@@ -1266,7 +1266,7 @@ Welcome to "Getting started with WordPress -- Part 2."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image066.png"
-  alt="."
+  alt="Module 06b summary - WordPress - Part 2."
   style="width:500px;"/>
 </p>
 
@@ -1285,7 +1285,7 @@ you how to create a website using WordPress.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image067.png"
-  alt="."
+  alt="Steps to create a website using WordPress."
   style="width:500px;"/>
 </p>
 
@@ -1308,7 +1308,7 @@ The steps to create a website using WordPress include the following:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image068.png"
-  alt="."
+  alt="First Step: select domain name."
   style="width:500px;"/>
 </p>
 
@@ -1324,7 +1324,7 @@ GoDaddy and Google Domains.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image069.png"
-  alt="."
+  alt="Next step: setting up web hosting."
   style="width:500px;"/>
 </p>
 
@@ -1338,7 +1338,7 @@ per month.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image070.png"
-  alt="."
+  alt="Next: install wordpress software."
   style="width:500px;"/>
 </p>
 
@@ -1353,7 +1353,7 @@ software immediately.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image071.png"
-  alt="."
+  alt="Next: select a theme."
   style="width:500px;"/>
 </p>
 
@@ -1372,7 +1372,7 @@ stays current.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image072.png"
-  alt="."
+  alt="Next: design the homepage and additional pages of your website."
   style="width:500px;"/>
 </p>
 
@@ -1389,7 +1389,7 @@ page, and so on.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image073.png"
-  alt="."
+  alt="Installing plugins."
   style="width:500px;"/>
 </p>
 
@@ -1406,7 +1406,7 @@ vulnerable to cyberattacks. Hence, research before you install one.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image074.png"
-  alt="."
+  alt="Creating navigation menus."
   style="width:500px;"/>
 </p>
 
@@ -1419,7 +1419,7 @@ WordPress theme uses to display menus.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image075.png"
-  alt="."
+  alt="Social media and the website."
   style="width:500px;"/>
 </p>
 
@@ -1432,9 +1432,10 @@ YouTube, and others. It also allows you to post online or redirect users
 to your social media profiles. You must be familiar with specific tools
 to begin working with WordPress development and website design.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image076.png"
-  alt="."
+  alt="Skills required for enhancing WordPress; HTML, CSS, PHP, JS, and MySQL."
   style="width:500px;"/>
 </p>
 
@@ -1603,8 +1604,11 @@ to a website, including web form builders, analytics, SEO meta tags,
 payment gateways, and shopping carts.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image085.png){width="5.0in"
-height="2.8173075240594927in"}
+<p align="center">
+  <img src="./assets/images/image085.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 If you're a lucky owner of WordPress, Joomla, or Drupal websites,
 installing a plugin will be the most viable way to add e-commerce
@@ -1616,16 +1620,22 @@ to your CMS: WordPress and WooCommerce, Joomla and Hikashop, Drupal and
 Drupal Commerce, and Wix and Wix Stores.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image086.png){width="5.0in"
-height="2.8173075240594927in"}
+<p align="center">
+  <img src="./assets/images/image086.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Online marketplaces are beneficial to all. The buyer finds e-commerce
 platforms convenient and secure places to purchase goods immediately.
 The seller is attracted to marketplaces by potential customers.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image087.png){width="5.0in"
-height="2.8173075240594927in"}
+<p align="center">
+  <img src="./assets/images/image087.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's discuss some easy ways to include marketplaces on your website.
 WooCommerce, WP e-commerce, and BigCommerce are service providers that
@@ -1644,8 +1654,11 @@ dollars monthly and requires little effort to integrate into the
 existing website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image088.png){width="5.0in"
-height="2.8173075240594927in"}
+<p align="center">
+  <img src="./assets/images/image088.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Here are the steps to add the Shopify Buy button to your website. Add
 the Buy Button sales channel. Select the plus button next to the Sales
@@ -1656,8 +1669,11 @@ go to the Buy Button. Select Create a Buy Button. Select the Product Buy
 Button.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image089.png){width="5.0in"
-height="2.8173075240594927in"}
+<p align="center">
+  <img src="./assets/images/image089.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 An e-commerce store has two parts: the front-end store and the back-end
 dashboard. The former is what everyone sees when they visit your site,
@@ -1667,8 +1683,11 @@ You need to find an e-commerce partner that enables you to have an
 attractive e-commerce store and an intuitive back-end dashboard.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image090.png){width="5.0in"
-height="2.8173075240594927in"}
+<p align="center">
+  <img src="./assets/images/image090.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 There are various options available for website builders. This session
 will discuss the popular platforms: Wix, Weebly, and Squarespace. Wix is
@@ -1683,8 +1702,11 @@ various templates to build and launch a customized online store and
 website in minutes.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image091.png){width="5.0in"
-height="2.8173075240594927in"}
+<p align="center">
+  <img src="./assets/images/image091.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (07), you learned that:
 
@@ -1741,14 +1763,20 @@ In this week (01), you learned that:
 # 08. Introduction to Search Engine Optimization (SEO)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image092.png){width="5.0in"
-height="2.8301279527559053in"}
+<p align="center">
+  <img src="./assets/images/image092.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to "Introduction to Search Engine Optimization (SEO)."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image093.png){width="5.0in"
-height="2.8301279527559053in"}
+<p align="center">
+  <img src="./assets/images/image093.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (08), you will be able to:
 
@@ -1757,8 +1785,11 @@ After reading this module (08), you will be able to:
 -   Identify the benefits of using SEO.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image094.png){width="5.0in"
-height="2.8301279527559053in"}
+<p align="center">
+  <img src="./assets/images/image094.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Search engine optimization (SEO) refers to techniques that help a
 website rank higher in organic search results, making it more visible to
@@ -1774,8 +1805,11 @@ search engine so that it appears when someone types a specific keyword
 or phrase.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image095.png){width="5.0in"
-height="2.8301279527559053in"}
+<p align="center">
+  <img src="./assets/images/image095.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's describe how a search engine works. A search engine needs an
 archive of available information to choose from to display results when
@@ -1790,16 +1824,22 @@ Indexing your website is essential as it will only appear in search
 results if it is done.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image096.png){width="5.0in"
-height="2.8344017935258092in"}
+<p align="center">
+  <img src="./assets/images/image096.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Now that you know how search engines work, let's explore the types of
 SEO. Some of these include technical SEO, on-page SEO, and off-page SEO.
 Let's discuss each of them in detail.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image097.png){width="5.0in"
-height="2.8344017935258092in"}
+<p align="center">
+  <img src="./assets/images/image097.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Technical SEO, as the name suggests, relates to the settings that need
 to be set up to facilitate the task of search engine crawlers. Note that
@@ -1814,8 +1854,11 @@ When done correctly, on-page SEO will improve a website\'s or blog\'s
 usability and credibility.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image098.png){width="5.0in"
-height="2.8344017935258092in"}
+<p align="center">
+  <img src="./assets/images/image098.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The last type of SEO we will discuss is off-page SEO. It refers to
 actions taken away from the website to influence the rankings on Search
@@ -1826,8 +1869,11 @@ backlinks usually ranks higher than an otherwise equal website with
 fewer backlinks.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image099.png){width="5.0in"
-height="2.8344017935258092in"}
+<p align="center">
+  <img src="./assets/images/image099.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Now, we will talk about the benefits of using SEO. Most users click one
 of the top five SERP suggestions. The website must rank among the top
@@ -1838,8 +1884,11 @@ in the top positions for the keywords the user searches for enables the
 website to earn the users' trust.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image100.png){width="5.0in"
-height="2.8344017935258092in"}
+<p align="center">
+  <img src="./assets/images/image100.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 There are additional benefits of using SEO. SEO is essential for the
 social promotion of a website. People who find a website through a
@@ -1854,8 +1903,11 @@ search-engine-optimized website will have more customers and make more
 sales.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image101.png){width="5.0in"
-height="2.8344017935258092in"}
+<p align="center">
+  <img src="./assets/images/image101.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 In this module (08), you learned that:
 
@@ -1877,14 +1929,20 @@ In this module (08), you learned that:
 # 09. Popular SEO Tools
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image102.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image102.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Welcome to "Popular SEO Tools."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image103.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image103.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 After reading this module (09), you will be able to:
 
@@ -1897,8 +1955,11 @@ After reading this module (09), you will be able to:
 -   Identify some free and paid SEO tools.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image104.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image104.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 SEO tools enable business owners to know their websites\' overall health
 and success. They: Help develop and implement an organic online search
@@ -1910,16 +1971,22 @@ competitors are doing, and Provide insights into industry niches,
 allowing you to identify what works and what doesn\'t.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image105.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image105.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 You need to consider a few factors when selecting the best SEO software.
 They are: Ongoing assistance Features and functionalities. Learning
 curve Cost, and Support.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image106.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image106.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's explore each in detail. The main factor to consider is whether you
 require ongoing SEO assistance. It is an effective method of increasing
@@ -1933,8 +2000,11 @@ analysis, backlink monitoring, and website audit functionality play an
 important role.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image107.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image107.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 The learning curve is another crucial factor to consider. The best SEO
 tools are usually so feature-rich that they require some learning. Some
@@ -1948,16 +2018,22 @@ quality of support available through online learning resources and
 direct support channels such as email, chat, and phone.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image108.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image108.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 We will now discuss the benefits of using the best SEO tools online.
 These include reporting, higher search ranking, improvements, and
 higher-quality website traffic.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image109.png){width="5.0in"
-height="2.8258552055993in"}
+<p align="center">
+  <img src="./assets/images/image109.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's explore each in detail.
 
@@ -1978,8 +2054,11 @@ connect to its target audience. This involves focusing on the right
 leads, which results in higher-quality website traffic.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image110.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image110.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Now, we\'ll discuss some of the best free SEO tools available.
 
@@ -1996,8 +2075,11 @@ address SEO strategy flaws, and a configurable notification system to
 track your Bing account in real time.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./assets/images/image111.png){width="5.0in"
-height="2.821581364829396in"}
+<p align="center">
+  <img src="./assets/images/image111.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 PageSpeed Insights is another useful tool that shows how your website
 performs on various devices. It is based on Google technology and easily
@@ -2008,8 +2090,12 @@ Google Keyword Planner. You can improve your keyword settings using this
 free tool as it integrates seamlessly into your Google suite of
 applications.
 
-![](./assets/images/image112.png){width="5.0in"
-height="2.821581364829396in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image112.png"
+  alt=""
+  style="width:500px;"/>
+</p>
 
 Let's now explore some of the best paid SEO tools available.
 
@@ -2026,6 +2112,7 @@ rankings and use this information to improve your SEO strategies.
 Moz Pro monitors a website's ranking, analyses backlinks, performs site
 audits, and employs keyword tools.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image113.png){width="5.0in"
 height="2.821581364829396in"}
 
@@ -2037,6 +2124,7 @@ legally spy on your competitors\' SEO practices. Regardless of what kind
 of services you sign up for, you will have access to all the data they
 uncover.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image114.png){width="5.0in"
 height="2.821581364829396in"}
 
@@ -2057,11 +2145,13 @@ In this module (09), you learned that:
 
 # 10. SEO Strategies
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image115.png){width="5.0in"
 height="2.8322648731408573in"}
 
 Welcome to SEO Strategies.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image116.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2071,6 +2161,7 @@ After reading this module (10), you will be able to:
 
 -   Define the steps to develop an SEO strategy.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image117.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2082,6 +2173,7 @@ Knowing what works best for you and your business, as well as connecting
 with your ideal audience, is an important part of developing an SEO
 strategy.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image118.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2092,6 +2184,7 @@ make your website more searchable online. These include: Assessing the
 current SEO strategy, Analyzing the competition, Setting goals and KPIs,
 Executing the improved strategy, and Monitoring the execution.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image119.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2112,6 +2205,7 @@ non-branded traffic allows you to acquire new users who may not have
 previously heard of you. You\'ll also be able to identify areas that
 need improvement for your next SEO strategy.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image120.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2131,6 +2225,7 @@ keyword rankings will tell you if your competitors are ranked for
 keywords that you are not. This will help you identify opportunities to
 boost your keyword rankings.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image121.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2140,6 +2235,7 @@ from and identify the link gap between their website and yours. This
 will enable you to develop your link-building strategy to build a strong
 backlink profile.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image122.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2148,6 +2244,7 @@ achieve. Like: What aspects of the company do you want to improve? and
 Is there more traffic? How about more clicks or perhaps more down-funnel
 activity?
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image123.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2161,6 +2258,7 @@ Each goal should be mapped to a unique tactic that you can employ to
 help optimize your strategy, which is why knowing your goals ahead of
 time is crucial.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image124.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2174,6 +2272,7 @@ indication of keyword relevance. You will be able to effectively rank
 your keywords while also providing a positive user experience if you
 create high-quality content.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image125.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2189,6 +2288,7 @@ and image results. If you have high-quality product images on your
 website and include relevant keywords in the file names, the images will
 rank higher in search engines.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image126.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2204,6 +2304,7 @@ building -- Focus on gaining authoritative links that your competitors
 do not already have. Analyzing your metrics and making actionable
 experiments based on your findings.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image127.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2228,11 +2329,13 @@ In this module (10), you learned that:
 
 # 11. Mobile Friendly SEO
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image128.png){width="5.0in"
 height="2.821581364829396in"}
 
 Welcome to "Mobile friendly SEO."
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image129.png){width="5.0in"
 height="2.821581364829396in"}
 
@@ -2246,6 +2349,7 @@ After reading this module (11), you will be able to:
 
 -   Identify the best practices.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image130.png){width="5.0in"
 height="2.821581364829396in"}
 
@@ -2254,6 +2358,7 @@ as smartphones and tablets. This includes optimizing the
 website\'s design and content, as well as making the website resources
 available to search engine spiders.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image131.png){width="5.0in"
 height="2.821581364829396in"}
 
@@ -2270,6 +2375,7 @@ such as bloated images and extra script,
 and How to include usability best practices for mobile content access
 and provide the best visual experience
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image132.png){width="5.0in"
 height="2.821581364829396in"}
 
@@ -2284,6 +2390,7 @@ smartphone users are more likely to purchase than desktop users. It is
 your responsibility to be available when they are looking for your
 products or services.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image133.png){width="5.0in"
 height="2.821581364829396in"}
 
@@ -2307,6 +2414,7 @@ Because mobile device screens are vertical and much smaller than desktop
 screens, search results have a fraction of the search space that a
 desktop screen has.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image134.png){width="5.0in"
 height="2.821581364829396in"}
 
@@ -2322,12 +2430,14 @@ your content. The Mobile Usability tool is another Google Search Console
 feature that scans your site and displays a list of posts and pages that
 do not adhere to Google\'s mobile-friendly guidelines.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image135.png){width="5.0in"
 height="2.821581364829396in"}
 
 Other excellent mobile SEO tools include Google\'s Mobile-Friendly Test
 & Analytics, SEMrush, Ahrefs, ScreamingFrog, and SimilarWeb.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image136.png){width="5.0in"
 height="2.821581364829396in"}
 
@@ -2349,6 +2459,7 @@ Avoid Popups and Flash - The plugin may not be available on your user\'s
 phone, causing them to miss out on all the fun. Use HTML5 instead if you
 want to create special effects.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image137.png){width="5.0in"
 height="2.821581364829396in"}
 
@@ -2364,6 +2475,7 @@ This includes standardizing your name, address, and phone number, as
 well as including your city and state name in the metadata of your
 website.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image138.png){width="5.0in"
 height="2.821581364829396in"}
 
@@ -2375,6 +2487,7 @@ create a separate mobile URL - Another option is to create a separate
 site for mobile users. This enables you to create entirely unique
 content for mobile visitors.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image139.png){width="5.0in"
 height="2.821581364829396in"}
 
@@ -2394,11 +2507,13 @@ In this module (11), you learned that:
 
 # 12. Page Optimization for SEO
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image140.png){width="5.0in"
 height="2.8114315398075242in"}
 
 Welcome to "Page optimization for SEO."
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image141.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2408,6 +2523,7 @@ After finishing this module (12), you will be able to:
 
 -   Identify the various on-page SEO components.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image142.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2420,6 +2536,7 @@ page matches a user\'s search intent. The better a search engine
 understands a website\'s content, the higher it will rank in the search
 results, resulting in a more organic traffic, conversions, and revenue.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image143.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2430,6 +2547,7 @@ useful enough to rank higher on a SERP, and Assist in website
 optimization by informing Google about how the website adds value to
 visitors and customers.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image144.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2440,6 +2558,7 @@ Alt-text, and Structured Markup. And Site structure elements which
 include: Page URLs, Internal Linking, Mobile Responsiveness, and Site
 Speed.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image145.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2449,6 +2568,7 @@ the elements of your website\'s copy and content. It provides
 information about your website and business to both search engines and
 readers.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image146.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2459,6 +2579,7 @@ Make content that people will want to share and link to. Create brief,
 compelling introductions. Clearly articulate both the problem and your
 solution.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image147.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2468,6 +2589,7 @@ sections that are longer than 300 words using subheadings. Naturally
 incorporate the target SEO keyword throughout the page copy. Match
 content to search intent, and always write with your readers in mind.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image148.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2489,6 +2611,7 @@ important keywords in your headers, but not the same ones as in your
 page title. In your h1 and h2 headers, include your most important
 keywords.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image149.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2509,6 +2632,7 @@ and understand different elements of the content. Structured markup is
 responsible for the featured snippets, knowledge panels, and other
 content features that appear when you search for something on Google.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image150.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2530,6 +2654,7 @@ more time Google has to crawl and index your site pages. This allows
 Google to learn more about your website and potentially rank it higher
 in search engine results pages.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image151.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2544,6 +2669,7 @@ concerned with the user experience first and foremost. Visitors are
 unlikely to stick around if your site loads slowly or haphazardly.
 Moreover, site speed has an impact on conversions and ROI.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image152.png){width="5.0in"
 height="2.8322648731408573in"}
 
@@ -2567,11 +2693,13 @@ In this module (12), you learned that:
 
 # 13. Running Campaigns and Tracking Results
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image153.png){width="5.0in"
 height="2.848290682414698in"}
 
 Welcome to "Running Campaigns and Tracking Results."
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image154.png){width="5.0in"
 height="2.848290682414698in"}
 
@@ -2583,6 +2711,7 @@ After reading this module (13), you will be able to:
 
 -   Identify the key SEO tracking tools.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image155.png){width="5.0in"
 height="2.848290682414698in"}
 
@@ -2599,6 +2728,7 @@ media platforms are excellent for promoting your content. People enjoy
 sharing interesting articles and videos, so this is a great way to reach
 many people.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image156.png){width="5.0in"
 height="2.821581364829396in"}
 
@@ -2615,6 +2745,7 @@ quality of organic traffic is to track the number of conversions it
 generates. To track conversions and the conversion rate from organic
 traffic, create a relevant \"Goal\" in Google Analytics.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image157.png){width="5.0in"
 height="2.821581364829396in"}
 
@@ -2630,6 +2761,7 @@ SEO Site Health: One important ranking factor is the site\'s SEO
 friendliness, which includes having a way to identify and address common
 technical problems.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image158.png){width="5.0in"
 height="2.821581364829396in"}
 
@@ -2640,6 +2772,7 @@ running an SEO campaign smoothly. They are as follows:
 Monitoring website traffic, Tracking content's effectiveness, Tracking
 top-performing pages, and Monitoring paid campaigns.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image159.png){width="5.0in"
 height="2.821581364829396in"}
 
@@ -2654,6 +2787,7 @@ customer\'s behavior and intent. Knowing your overall traffic and which
 pages are being visited will assist you in developing new content and
 optimizing what you already have.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image160.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -2665,6 +2799,7 @@ budget is spent strategically requires real-time feedback that provides
 clear results and insights. Tagging campaign URLs correctly is a sure
 way to avoid cluttered reports and keep incoming visitors organized.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image161.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -2672,6 +2807,7 @@ Now that you know the best practices for running an SEO campaign, here
 are two key SEO tracking tools to help you manage and track the results
 of your website. They are: Google Analytics and Google Search Console.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image162.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -2689,6 +2825,7 @@ engagement by identifying conversions as users who view more than a set
 number of pages or screens per session. Event: This classifies a
 specific user interaction with your website or app as a conversion.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image163.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -2705,6 +2842,7 @@ Another useful metric to track over time because it frequently allows
 you to identify \"quick wins\" by simply changing the title or meta
 description, resulting in a significant increase in traffic.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image164.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -2916,11 +3054,13 @@ In this module, you learned that:
 
 # 15. Introduction to Web Build and Automated Tools
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image165.png){width="5.0in"
 height="2.806089238845144in"}
 
 Welcome to \"Introduction to Web Build and Automated Tools."
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image166.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -2935,6 +3075,7 @@ After reading this module (15), you will be able to:
 
 -   Describe some popular web build tools and bundlers.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image167.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -2952,6 +3093,7 @@ repository multiple times in a period. The integration is then verified
 by an automated build and automated tests. Due to this regular
 integration, errors are identified quickly and easily.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image168.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -2973,6 +3115,7 @@ at which we could incorporate that mapping into our previous
 concatenation strategy. At this point, the functionality of an automated
 build tool and bundler comes into prominence.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image169.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -2998,6 +3141,7 @@ the feature like "hot" reloading. Note that not all tools do all these
 steps or do them in exactly the same way. However, these are some of the
 core problems that most build tools address in one way or another.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image170.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3007,6 +3151,7 @@ maintenance, and saving time and money.
 
 Let's discuss each of these benefits in detail.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image171.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3019,6 +3164,7 @@ Another benefit of build automation is accelerated delivery. Build
 automation eradicates unnecessary tasks and enables you to identify
 issues faster, which helps expedite the delivery process.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image172.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3030,6 +3176,7 @@ Furthermore, it records maintenance. Build automation enables you to
 maintain a complete history of files and changes made. Maintaining a
 complete history enables you to track issues back to their core.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image173.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3038,12 +3185,14 @@ money. As build automation ensures increased productivity, accelerated
 delivery, and enhanced quality, it enables you to save time and money
 spent in delivering quality products and services.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image174.png){width="5.0in"
 height="2.806089238845144in"}
 
 Now, we will explore some popular web build tools and bundlers. These
 include: Grunt, Gulp, Browserify, Webpack, npm, and RequireJS.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image175.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3078,6 +3227,7 @@ and plugins. It provides flexibility in resolving modules and enables
 you to modify your build to suit certain circumstances and get around
 packages that don\'t function properly in difficult situations.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image177.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3099,6 +3249,7 @@ better user experience, it merges and minifies modules into a single
 script. It can compile JavaScript files from many modules and
 load several JavaScript files.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image178.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3117,11 +3268,13 @@ In this module (15), you learned about:
 
 # 16. Introduction to Webpack 5
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image179.png){width="5.0in"
 height="2.806089238845144in"}
 
 Welcome to the "Introduction to Webpack 5."
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image180.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3137,6 +3290,7 @@ After reading this module (16), you will be able to:
 
 -   Describe why to use Webpack 5.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image181.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3146,6 +3300,7 @@ developers to concentrate on the development. Instead of being dependent
 on online solutions, you can use Webpack 5 to build your own custom
 solutions or boilerplates.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image182.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3160,6 +3315,7 @@ It allows the import of static assets into your JavaScript, and Also
 offers a development server for development, which can instantly update
 modules and styles as you save.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image183.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3180,6 +3336,7 @@ Webpack 5:
 
 -   Supports live updates or hot module replacement during development.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image184.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3190,6 +3347,7 @@ taking multiple files and combining them into one big file, as shown
 here. The output file that Webpack generates can be sent to the client's
 browser by a server.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image185.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3205,6 +3363,7 @@ bundles and generates them for development and consistency. It is simple
 to cache assets as Webpack 5 allows each file\'s assets to have their
 own version.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image186.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3239,6 +3398,7 @@ After reading this module (17), you will be able to:
 
 -   Define components that optimize the functioning of Webpack.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image189.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3252,6 +3412,7 @@ will bundle all the webpack modules. Considering this, we will learn the
 core concepts in detail. They are: Entry Output Loaders and Plugins In
 addition, we will touch upon some components related to Webpack.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image190.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3263,9 +3424,11 @@ configurable. Webpack can have multiple entry points that produce
 modules through each dependency, and it repeats this procedure
 throughout the application. See example (above).
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image191.png){width="5.0in"
 height="2.806089238845144in"}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image192.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3277,6 +3440,7 @@ this example (above), you are instructing Webpack to place the bundles
 in a JavaScript file called My-Webpack.bundle.js in the same directory
 as Webpack.config.js.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image193.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3287,11 +3451,13 @@ source code of non-JavaScript modules, allowing us to preprocess those
 files before they're added to the dependency graph. They help Webpack
 deal with various file extensions.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image194.png){width="5.0in"
 height="2.806089238845144in"}
 
 Let us look at an example (above).
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image195.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3300,12 +3466,14 @@ of tasks like bundle optimization, asset management, injection of
 environment variables, and minifying files. They are third-party
 extensions that can alter how Webpack functions.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image196.png){width="5.0in"
 height="2.806089238845144in"}
 
 For example, there are plugins for extracting HTML and CSS or setting up
 environment variables.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image197.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3326,6 +3494,7 @@ Bundles separate the source code from the distribution code. The source
 code is what we write and edit, whereas the distribution code is the
 optimized output that is finally loaded in the browser.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image198.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3346,11 +3515,13 @@ In this module (17), you learned that:
 
 # 18. Working with Webpack
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image199.png){width="5.0in"
 height="2.806089238845144in"}
 
 Welcome to "Working with Webpack."
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image200.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3366,6 +3537,7 @@ After reading this module (18), you will be able to:
 
 -   Describe the three main Webpack modes.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image201.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3377,6 +3549,7 @@ bundled to dist/main.js by default. Configuration helps to determine
 whether code should be compressed for quicker execution or packed with
 source maps for better error tracking.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image202.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3388,6 +3561,7 @@ screen.
 The configuration JavaScript module belongs to CommonJS. Output from
 this file is an object that Webpack will consider.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image203.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3395,6 +3569,7 @@ The configuration mentioned above instructs Webpack to create the
 project in development mode to include comments and non-minimized code
 in the output bundle while it is running.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image204.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3405,6 +3580,7 @@ assets. This is not needed in Webpack 5 because the new version comes
 with built-in asset modules. They allow you to use asset files without
 configuring additional loaders.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image205.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3415,6 +3591,7 @@ icons can be incorporated using built-in asset modules. The asset
 modules can incorporate any font through your build directory. Data can
 be incorporated in the form of JSON files, CSVs, TSVs, and XML.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image206.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3424,6 +3601,7 @@ smaller bundles and control resource load prioritization. The reduced
 main bundle size will speed up the initial load time and enable the
 users to engage with your application more quickly.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image207.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3436,6 +3614,7 @@ Code Splitting in Webpack 5 can be accomplished in three ways:
 
 3.  Dynamic imports: Split code using inline function calls within
     modules.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./assets/images/image208.png){width="5.0in"
 height="2.806089238845144in"}
@@ -3448,6 +3627,7 @@ browser to request a resource without interrupting the document's onload
 event. These are the modules needed for current navigation and are
 loaded in parallel to the parent chunk.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image209.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3458,6 +3638,7 @@ start loading after the parent chunk finishes loading. Developers must
 be careful when employing it since improper configuration might result
 in poor performance.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image210.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3466,6 +3647,7 @@ mode configuration option instructs Webpack to make appropriate use of
 its built-in optimizations. The three main configuration modes are:
 Development Production And none.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image211.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3475,6 +3657,7 @@ link your produced code to the original source code. This makes
 debugging simpler and speeds up the process of fixing bugs and errors in
 your code.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image212.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3487,6 +3670,7 @@ minification with the TerserWebpackPlugin. It is helpful at the time of
 building an application. In this mode, none of the default optimization
 options are applied.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image213.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3506,11 +3690,13 @@ In this module (18), you learned about:
 
 # 19. Setting up Production with Webpack
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image214.png){width="5.0in"
 height="2.806089238845144in"}
 
 Welcome to "Setting up Production with Webpack."
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image215.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3520,6 +3706,7 @@ After reading this module (19), you will be able to:
 
 -   Discuss the best practices related to Webpack in production.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image216.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3537,6 +3724,7 @@ comments. As a result of Webpack\'s adoption of the software engineering
 paradigm convention over configuration, you can basically acquire a
 useful configuration by simply setting the mode to production.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image217.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3548,6 +3736,7 @@ production mode, tries its best to optimize the build by automatically
 minifying the code. It is recommended to create distinct Webpack
 settings for each scenario.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image218.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3558,6 +3747,7 @@ case of production, the goal shifts to minified bundles, lighter-weight
 source maps, and optimized assets to improve the load time. We still
 prefer a "common" configuration to make things uniform.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image219.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3568,6 +3758,7 @@ to improve a website's performance include: Minifying CSS, Webpack
 source maps, File hashing, and Cleanup of old assets. Let's discuss each
 of these practices in detail.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image220.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3578,6 +3769,7 @@ Here are the steps to minify CSS: Add another plugin to help Webpack
 minify your CSS files. Open your command line. Run npm install
 optimize-css-assets-Webpack-plugin. Finally, save dev.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image221.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3586,6 +3778,7 @@ already. These maps let you trace back the minified code to its original
 location and help in debugging the code live. Webpack has built-in
 support for source map generation via the devtool property.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image222.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3596,6 +3789,7 @@ file even after the website is published. Adding hashing or content
 hashing is known as long-term caching, as the files could be cached
 forever.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image223.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3606,6 +3800,7 @@ folder. To install a cleanup plugin, follow these steps: Install a
 plugin. Open your command line and run npm install clean-Webpack-plugin.
 Finally, save dev.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image224.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3628,11 +3823,13 @@ In this module (19), you learned that:
 
 # 20. Using Webpack Tools
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image225.png){width="5.0in"
 height="2.806089238845144in"}
 
 Welcome to "Using Webpack Tools."
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image226.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3642,6 +3839,7 @@ After reading this module (20), you will be able to:
 
 -   Describe five popular Webpack bundle size tools.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image227.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3652,6 +3850,7 @@ bundle sizes, creating a problem for the developers. An increase in
 bundle size results in an increase in download time and a bigger
 overhead in execution time during initialization.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image228.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3662,6 +3861,7 @@ applications. Ultimately, the user\'s mobile data plan cost is reduced.
 Developers use different Webpack tools to reduce the bundle size. Let's
 explore five such tools.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image229.png){width="5.0in"
 height="2.806089238845144in"}
 
@@ -3671,6 +3871,7 @@ session include:
 Bundlephobia, Webpack Visualizer, Webpack Analyzer, Source Map Explorer,
 and Webpack Bundle Analyzer.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./assets/images/image230.png){width="5.0in"
 height="2.806089238845144in"}
 
