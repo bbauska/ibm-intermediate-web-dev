@@ -3060,7 +3060,8 @@ don\'ts\" to keep in mind when developing your online strategy.
 | clicks on your content in the   | about.                             |
 | search results. Use titles that |                                    |
 | pique users\' interest.         |                                    |
-| _______________________________ | __________________________________ |
+|    |    |
+| __________________________________ | ____________________________________ |
 | <b>Do include keywords that are | <b>Don't overuse keywords.</b>     |
 | pertinent to the page.</b>      |                                    |
 |                                 | Search engines do prefer content   |
@@ -3072,7 +3073,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 |                                 | content leads to a poor user       |
 |                                 | experience, it may result in your  |
 |                                 | website being ranked lower.        |
-| _______________________________ | __________________________________ |
+|_________________________________|____________________________________|
 | <b>Do allow other websites to   | <b>Don\'t copy large amounts of    |
 | link to your website, but do    | outside content.</b>               |
 | not link back to them.</b>      |                                    |
@@ -3085,7 +3086,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 | webmaster has a link trading    | way to present your content in a   |
 | network.                        | way that is more engaging to your  |
 |                                 | buyer.                             |
-| _______________________________ | __________________________________ |
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--|
 | <b>Do have a presence on        | <b>Don't ignore bad reviews.</b>   |
 | relevant social media           |                                    |
 | platforms.</b>                  | Responding to every comment,       |
@@ -3097,7 +3098,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 | correctly, social media can be  | happy and unhappy customers.       |
 | an extremely effective business |                                    |
 | tool.                           |                                    |
-| _______________________________ | __________________________________ |
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--|
 | <b>Do monitor site metrics.</b> | <b>Don\'t be alarmed if your</b>   |
 |                                 | <b>rankings appear to drop</b>     |
 | None of the other SEO do\'s and | <b>suddenly.</b>                   |
@@ -3120,7 +3121,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 | The most convenient way to      |                                    |
 | track your metrics is to use a  |                                    |
 | tool like Google Analytics.     |                                    |
-| _______________________________ | __________________________________ |
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--|
 |                                 | <b>Don\'t skip user search</b>     |
 |                                 | <b>intention.</b>                  |
 |                                 |                                    |
@@ -3141,7 +3142,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 |                                 |     query, make sure you own the   |
 |                                 |     navigational query for your    |
 |                                 |     own brand.                     |
-| _______________________________ | __________________________________ |
+|_________________________________|____________________________________|
 |                                 | <b>Don\'t link to external websites|
 |                                 | too frequently.</b>                |
 |                                 |                                    |
