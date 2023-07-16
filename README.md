@@ -3060,7 +3060,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 | clicks on your content in the   | about.                             |
 | search results. Use titles that |                                    |
 | pique users\' interest.         |                                    |
-| :--- | :--- |
+| _______________________________ | __________________________________ |
 | <b>Do include keywords that are | <b>Don't overuse keywords.</b>     |
 | pertinent to the page.</b>      |                                    |
 |                                 | Search engines do prefer content   |
@@ -3072,7 +3072,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 |                                 | content leads to a poor user       |
 |                                 | experience, it may result in your  |
 |                                 | website being ranked lower.        |
-| :--- | :--- |
+| _______________________________ | __________________________________ |
 | <b>Do allow other websites to   | <b>Don\'t copy large amounts of    |
 | link to your website, but do    | outside content.</b>               |
 | not link back to them.</b>      |                                    |
@@ -3085,7 +3085,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 | webmaster has a link trading    | way to present your content in a   |
 | network.                        | way that is more engaging to your  |
 |                                 | buyer.                             |
-| :--- | :--- |
+| _______________________________ | __________________________________ |
 | <b>Do have a presence on        | <b>Don't ignore bad reviews.</b>   |
 | relevant social media           |                                    |
 | platforms.</b>                  | Responding to every comment,       |
@@ -3097,7 +3097,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 | correctly, social media can be  | happy and unhappy customers.       |
 | an extremely effective business |                                    |
 | tool.                           |                                    |
-| :--- | :--- |
+| _______________________________ | __________________________________ |
 | <b>Do monitor site metrics.</b> | <b>Don\'t be alarmed if your</b>   |
 |                                 | <b>rankings appear to drop</b>     |
 | None of the other SEO do\'s and | <b>suddenly.</b>                   |
@@ -3120,7 +3120,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 | The most convenient way to      |                                    |
 | track your metrics is to use a  |                                    |
 | tool like Google Analytics.     |                                    |
-| :--- | :--- |
+| _______________________________ | __________________________________ |
 |                                 | <b>Don\'t skip user search</b>     |
 |                                 | <b>intention.</b>                  |
 |                                 |                                    |
@@ -3141,10 +3141,10 @@ don\'ts\" to keep in mind when developing your online strategy.
 |                                 |     query, make sure you own the   |
 |                                 |     navigational query for your    |
 |                                 |     own brand.                     |
-| :--- | :--- |
+| _______________________________ | __________________________________ |
 |                                 | <b>Don\'t link to external websites|
 |                                 | too frequently.</b>                |
-|   |    |
+|                                 |                                    |
 |                                 | The only drawback of having too    |
 |                                 | many outbound links today is that  |
 |                                 | it makes your content more         |
@@ -5943,7 +5943,7 @@ Welcome to Using Jasmine!
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image328.png"
-  alt=""
+  alt="Define Jasmine and it's fundamental concepts, and identify the steps to test code and React with Jasmine."
   style="width:500px;"/>
 </p>
 
@@ -5956,7 +5956,7 @@ After reading this module (28), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image329.png"
-  alt=""
+  alt="Jasmine: Open-source framework for unit testing JavaScript."
   style="width:500px;"/>
 </p>
 
@@ -5969,7 +5969,7 @@ non-technical people understand what is being tested.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image330.png"
-  alt=""
+  alt="Jasmine suite is a collection of test cases used to verify the behavior of a JS object or function."
   style="width:500px;"/>
 </p>
 
@@ -5989,7 +5989,7 @@ expectations within a spec are incorrect, the spec fails.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image331.png"
-  alt=""
+  alt="Jasmine: Expectation is an assertion that is True or False."
   style="width:500px;"/>
 </p>
 
@@ -6002,7 +6002,7 @@ the expectation is \"true\" or \"false."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image332.png"
-  alt=""
+  alt="Jasmine: Describe function is used to group related specs."
   style="width:500px;"/>
 </p>
 
@@ -6020,7 +6020,7 @@ represent.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image333.png"
-  alt=""
+  alt="Steps to begin testing in Jasmine."
   style="width:500px;"/>
 </p>
 
@@ -6032,7 +6032,7 @@ spec (test) file, and Make the source code available to your spec file.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image334.png"
-  alt=""
+  alt="Steps for testing React with Jasmine."
   style="width:500px;"/>
 </p>
 
@@ -6049,7 +6049,7 @@ to test React components in your preferred testing framework.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image335.png"
-  alt=""
+  alt="Structure of a React test in Jasmine."
   style="width:500px;"/>
 </p>
 
@@ -6068,7 +6068,7 @@ when users interact with your components.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image336.png"
-  alt=""
+  alt="Module 28 - Jasmine summary."
   style="width:500px;"/>
 </p>
 
@@ -6097,7 +6097,7 @@ Welcome to \"Front-end Testing Best Practices.\"
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image338.png"
-  alt=""
+  alt="Define front-end testing and its advantages, identify aspect, list best practices."
   style="width:500px;"/>
 </p>
 
