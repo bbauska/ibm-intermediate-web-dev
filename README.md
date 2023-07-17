@@ -1,7 +1,7 @@
 ---
 title: "IBM's Intermediate Web & Front-end Development"
 author: "bbauska"
-date last editted: "7/14/2023 4pm"
+date last editted: "7/16/2023 10+pm"
 output: 
   markdown:
     with_style
@@ -459,13 +459,13 @@ A WCMS enables a user to accomplish specific tasks. Some of these
 include:
 
 -   Creating web pages quickly with pre-set page layouts and content
-    blocks.
+    blocks,
 
--   Reviewing and approving the content before
+-   Reviewing and approving the content before it is published,
 
--   it is published. Automating the publishing process.
+-   Automating the publishing process,
 
--   Editing and formatting the content using simple drag-and-drop tools.
+-   Editing and formatting the content using simple drag-and-drop tools,
 
 -   Collaborating with different users to create and modify the content,
     and
@@ -486,13 +486,13 @@ include:
 Here are the additional tasks that a WCMS enables a user to accomplish:
 
 -   Managing the life cycle of a document, including creation,
-    revisions, publication, archive, and removal.
+    revisions, publication, archive, and removal,
 
--   Translating and publishing content in different languages easily.
+-   Translating and publishing content in different languages easily,
 
--   Saving and retrieving different versions of a web page.
+-   Saving and retrieving different versions of a web page,
 
--   Updating a web page as per the latest web standards quickly.
+-   Updating a web page as per the latest web standards quickly,
 
 -   Adding plugins to enhance the functionality of a web page, and
 
@@ -1539,21 +1539,21 @@ Welcome to "Adding E-commerce to Your Website."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image080.png"
-  alt="Summary 07 Adding E-commerce to your Website."
+  alt="Summary of Adding E-commerce to your Website."
   style="width:500px;"/>
 </p>
 
 After reading this module (07), you will be able to:
 
 -   Explain the benefits of adding e-commerce functionality to your
-    website,
+    website, and
 
 -   Describe how to add e-commerce functionality to your website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 > <p align="center">
 >  <img src="./assets/images/image081.png"
->  alt="."
+>  alt="Why add e-commerce functionality?"
 >  style="width:500px;"/>
 > </p>
 
@@ -1571,7 +1571,7 @@ website, adding e-commerce functionality is simple.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image082.png"
-  alt="Why add e-commerce functionality"
+  alt="Why add e-commerce functionality?"
   style="width:500px;"/>
 </p>
 
@@ -1586,24 +1586,24 @@ every day.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image083.png"
-  alt=""
+  alt="Strategies to add e-commerce functionality"
   style="width:500px;"/>
 </p>
 
 Adding e-commerce features to a website requires a certain degree of
 technical knowledge. Here are some ways to add e-commerce to your
 website, depending on your platform's complexity level, business needs,
-and the available budget. Start selling products online. For new
-sellers, marketplaces are accessible, affordable options. Add a "Sell"
-button to your website. You can create buttons online or quickly add a
-shopping basket to your website. Using drag-and-drop website builder
+and the available budget. Start selling products online. For new
+sellers, marketplaces are accessible, affordable options. Add a "Sell"
+button to your website. You can create buttons online or quickly add a
+shopping basket to your website. Using drag-and-drop website builder
 software will help you easily create high-converting landing pages, web
 pages, and blog posts.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image084.png"
-  alt=""
+  alt="Adding e-commerce features to CMS."
   style="width:500px;"/>
 </p>
 
@@ -1618,7 +1618,7 @@ payment gateways, and shopping carts.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image085.png"
-  alt=""
+  alt="Adding e-commerce features to CMS."
   style="width:500px;"/>
 </p>
 
@@ -1634,7 +1634,7 @@ Drupal Commerce, and Wix and Wix Stores.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image086.png"
-  alt=""
+  alt="Selling on online marketplaces."
   style="width:500px;"/>
 </p>
 
@@ -1645,7 +1645,7 @@ The seller is attracted to marketplaces by potential customers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image087.png"
-  alt=""
+  alt="Adding marketplaces to your website."
   style="width:500px;"/>
 </p>
 
@@ -1668,7 +1668,7 @@ existing website.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image088.png"
-  alt=""
+  alt="Steps to add the Shopify Buy button."
   style="width:500px;"/>
 </p>
 
@@ -1683,7 +1683,7 @@ Button.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image089.png"
-  alt=""
+  alt="Drag-and-drop website builder software."
   style="width:500px;"/>
 </p>
 
@@ -1697,7 +1697,7 @@ attractive e-commerce store and an intuitive back-end dashboard.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image090.png"
-  alt=""
+  alt="Wix, Weebly, Squarespace."
   style="width:500px;"/>
 </p>
 
@@ -1716,7 +1716,7 @@ website in minutes.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image091.png"
-  alt=""
+  alt="Adding E-commerce to your Website."
   style="width:500px;"/>
 </p>
 
@@ -2568,7 +2568,7 @@ website.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image138.png"
-  alt=""
+  alt="Best practices for mobile SEO."
   style="width:500px;"/>
 </p>
 
@@ -2583,7 +2583,7 @@ content for mobile visitors.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image139.png"
-  alt=""
+  alt="Summary module (11): mobile SEO."
   style="width:500px;"/>
 </p>
 
@@ -2615,7 +2615,7 @@ Welcome to "Page optimization for SEO."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image141.png"
-  alt=""
+  alt="Define ono-page SEO and Identify on-page SEO components."
   style="width:500px;"/>
 </p>
 
@@ -2628,7 +2628,7 @@ After finishing this module (12), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image142.png"
-  alt=""
+  alt="What is page optimization for SEO?"
   style="width:500px;"/>
 </p>
 
@@ -2644,7 +2644,7 @@ results, resulting in a more organic traffic, conversions, and revenue.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image143.png"
-  alt=""
+  alt="The importance of on-page SEO.  Make it easy for search engines and users."
   style="width:500px;"/>
 </p>
 
@@ -2658,7 +2658,7 @@ visitors and customers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image144.png"
-  alt=""
+  alt="Page optimization for SEO. Key components of on-page SEO."
   style="width:500px;"/>
 </p>
 
@@ -2672,7 +2672,7 @@ Speed.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image145.png"
-  alt=""
+  alt="Content elements."
   style="width:500px;"/>
 </p>
 
@@ -2685,7 +2685,7 @@ readers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image146.png"
-  alt=""
+  alt="More Content elements."
   style="width:500px;"/>
 </p>
 
@@ -2699,7 +2699,7 @@ solution.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image147.png"
-  alt=""
+  alt="Even more content elements."
   style="width:500px;"/>
 </p>
 
@@ -2712,7 +2712,7 @@ content to search intent, and always write with your readers in mind.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image148.png"
-  alt=""
+  alt="HTML elements: Page titles and Headers."
   style="width:500px;"/>
 </p>
 
@@ -2737,7 +2737,7 @@ keywords.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image149.png"
-  alt=""
+  alt="HTML elements: Meta description, image alt-text, and structured markup."
   style="width:500px;"/>
 </p>
 
@@ -2761,7 +2761,7 @@ content features that appear when you search for something on Google.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image150.png"
-  alt=""
+  alt="Site structure elements: Page URLs and Internal linking."
   style="width:500px;"/>
 </p>
 
@@ -2786,7 +2786,7 @@ in search engine results pages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image151.png"
-  alt=""
+  alt="Site structure elements: Mobile responsiveness and Site speed."
   style="width:500px;"/>
 </p>
 
@@ -2804,7 +2804,7 @@ Moreover, site speed has an impact on conversions and ROI.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image152.png"
-  alt=""
+  alt="Summary module 12, On-page SEO to improve a websites ranking."
   style="width:500px;"/>
 </p>
 
@@ -2840,7 +2840,7 @@ Welcome to "Running Campaigns and Tracking Results."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image154.png"
-  alt=""
+  alt="Module 13: Define SEO campaign and tracking, Best practices, and Identify key SEO tracking tools."
   style="width:500px;"/>
 </p>
 
@@ -2855,7 +2855,7 @@ After reading this module (13), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image155.png"
-  alt=""
+  alt="What is a SEO campaign? Keywords, Quality content, Backlinks, and Social media."
   style="width:500px;"/>
 </p>
 
@@ -2875,7 +2875,7 @@ many people.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image156.png"
-  alt=""
+  alt="What is SEO tracking?  Organic traffic and Organic conversions."
   style="width:500px;"/>
 </p>
 
@@ -2895,7 +2895,7 @@ traffic, create a relevant \"Goal\" in Google Analytics.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image157.png"
-  alt=""
+  alt="What is SEO tracking?  Keyword rankings, Competitor analysis, and SEO site health."
   style="width:500px;"/>
 </p>
 
@@ -2914,7 +2914,7 @@ technical problems.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image158.png"
-  alt=""
+  alt="Best practices to run SEO campaigns."
   style="width:500px;"/>
 </p>
 
@@ -2928,7 +2928,7 @@ top-performing pages, and Monitoring paid campaigns.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image159.png"
-  alt=""
+  alt="Best practices to run SEO campaigns: Monitoring website traffic and Tracking content's effectiveness."
   style="width:500px;"/>
 </p>
 
@@ -2946,7 +2946,7 @@ optimizing what you already have.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image160.png"
-  alt=""
+  alt="Best practices to run SEO campaigns: Tracking top performing pages and Monitoring paid campaigns."
   style="width:500px;"/>
 </p>
 
@@ -2961,7 +2961,7 @@ way to avoid cluttered reports and keep incoming visitors organized.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image161.png"
-  alt=""
+  alt="SEO tracking tools: Google Analytics and Google Search Console."
   style="width:500px;"/>
 </p>
 
@@ -2972,7 +2972,7 @@ of your website. They are: Google Analytics and Google Search Console.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image162.png"
-  alt=""
+  alt="SEO tracking tools: Google Analytics."
   style="width:500px;"/>
 </p>
 
@@ -2993,7 +2993,7 @@ specific user interaction with your website or app as a conversion.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image163.png"
-  alt=""
+  alt="SEO tracking tools: Google Search Console."
   style="width:500px;"/>
 </p>
 
@@ -3013,7 +3013,7 @@ description, resulting in a significant increase in traffic.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image164.png"
-  alt=""
+  alt="Recap: SEO campaign, tracking, monitoring traffice, google analytics and google search console."
   style="width:500px;"/>
 </p>
 
@@ -3237,7 +3237,8 @@ Welcome to \"Introduction to Web Build and Automated Tools."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image166.png"
-  alt=""
+  alt="In this module (15) you will learn:  Define build automation, identify it's benefits, 
+  discuss it's uses, and describe popular web build tools."
   style="width:500px;"/>
 </p>
 
@@ -3255,7 +3256,7 @@ After reading this module (15), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image167.png"
-  alt=""
+  alt="Introduction to Build Automation."
   style="width:500px;"/>
 </p>
 
@@ -3276,7 +3277,7 @@ integration, errors are identified quickly and easily.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image168.png"
-  alt=""
+  alt="A scenario."
   style="width:500px;"/>
 </p>
 
@@ -3301,7 +3302,7 @@ build tool and bundler comes into prominence.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image169.png"
-  alt=""
+  alt="JavaScript build tools."
   style="width:500px;"/>
 </p>
 
@@ -3330,7 +3331,7 @@ core problems that most build tools address in one way or another.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image170.png"
-  alt=""
+  alt="Benefits of Build Automation."
   style="width:500px;"/>
 </p>
 
@@ -3343,7 +3344,7 @@ Let's discuss each of these benefits in detail.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image171.png"
-  alt=""
+  alt="Benefits of Build Automation: Increased productivity and Accelerated delivery."
   style="width:500px;"/>
 </p>
 
@@ -3359,7 +3360,7 @@ issues faster, which helps expedite the delivery process.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image172.png"
-  alt=""
+  alt="Benefits of Build Automation: Enhances quality and record maintenance."
   style="width:500px;"/>
 </p>
 
@@ -3374,7 +3375,7 @@ complete history enables you to track issues back to their core.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image173.png"
-  alt=""
+  alt="Benefits of Build Automation: Saving time and money."
   style="width:500px;"/>
 </p>
 
@@ -3386,7 +3387,7 @@ spent in delivering quality products and services.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image174.png"
-  alt=""
+  alt="Popular web build tools and bundlers."
   style="width:500px;"/>
 </p>
 
@@ -3396,7 +3397,7 @@ include: Grunt, Gulp, Browserify, Webpack, npm, and RequireJS.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image175.png"
-  alt=""
+  alt="Popular web build tools and bundlers: Grunt and Gulp."
   style="width:500px;"/>
 </p>
 
@@ -3416,7 +3417,7 @@ plugin configuration.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image176.png"
-  alt=""
+  alt="Popular web build tools and bundlers: Browserify and Webpack."
   style="width:500px;"/>
 </p>
 
@@ -3438,7 +3439,7 @@ packages that don\'t function properly in difficult situations.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image177.png"
-  alt=""
+  alt="Popular web build tools and bundlers: Node Package Manager (npm) and RequireJS."
   style="width:500px;"/>
 </p>
 
@@ -3462,7 +3463,7 @@ load several JavaScript files.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image178.png"
-  alt=""
+  alt="Recap (15): Introduction to Web Build and Automated Tools."
   style="width:500px;"/>
 </p>
 
@@ -3493,7 +3494,7 @@ Welcome to the "Introduction to Webpack 5."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image180.png"
-  alt=""
+  alt="Describe Webpack 5, it's advantages, functions, how it works and why its used."
   style="width:500px;"/>
 </p>
 
@@ -3512,7 +3513,7 @@ After reading this module (16), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image181.png"
-  alt=""
+  alt="Intro to Webpack 5."
   style="width:500px;"/>
 </p>
 
@@ -3525,7 +3526,7 @@ solutions or boilerplates.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image182.png"
-  alt=""
+  alt="Advantages of Webpack 5."
   style="width:500px;"/>
 </p>
 
@@ -3543,7 +3544,7 @@ modules and styles as you save.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image183.png"
-  alt=""
+  alt="What Webpack 5 does."
   style="width:500px;"/>
 </p>
 
@@ -3567,7 +3568,7 @@ Webpack 5:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image184.png"
-  alt=""
+  alt="How Webpack 5 works."
   style="width:500px;"/>
 </p>
 
@@ -3581,7 +3582,7 @@ browser by a server.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image185.png"
-  alt=""
+  alt="Why to use Webpack 5."
   style="width:500px;"/>
 </p>
 
@@ -3600,7 +3601,7 @@ own version.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image186.png"
-  alt=""
+  alt="Recap (16): Webpack 5."
   style="width:500px;"/>
 </p>
 
@@ -3633,7 +3634,7 @@ Welcome to "Essentials Concepts of Webpack"
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image188.png"
-  alt=""
+  alt="Explain 4 core concepts of Webpack and define components that optimize the functioning of Webpack."
   style="width:500px;"/>
 </p>
 
@@ -3646,7 +3647,7 @@ After reading this module (17), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image189.png"
-  alt=""
+  alt="Webpack: A module bunder: Webpack and Core Concepts."
   style="width:500px;"/>
 </p>
 
@@ -3663,7 +3664,7 @@ addition, we will touch upon some components related to Webpack.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image190.png"
-  alt=""
+  alt="First concepts: Entry."
   style="width:500px;"/>
 </p>
 
@@ -3678,15 +3679,13 @@ throughout the application. See example (above).
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image191.png"
-  alt=""
-  style="width:500px;"/>
-</p>
-
+  alt="Next concept: Output."
+  style="width:400px;"/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image192.png"
-  alt=""
-  style="width:500px;"/>
+  alt="Concept: Output: Example."
+  style="width:400px;"/>
 </p>
 
 The second concept is Output. The static and JavaScript files produced
@@ -8040,4 +8039,4 @@ and drop the file icon onto the window.*
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-<!-- July 15, 2023 1:07pm -->
+<!-- July 16, 2023 10:49pm -->
