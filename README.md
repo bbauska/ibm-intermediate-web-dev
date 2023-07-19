@@ -3221,7 +3221,21 @@ don\'ts\" to keep in mind when developing your online strategy.
 
 <p>cont'd</p>
 
-| <b>Do's<b>                      | <b>Don'ts</b>                      |
+<table style="width: 100%">
+    <colgroup>
+       <col span="1" style="width: 50%;">
+       <col span="1" style="width: 50%;">
+    </colgroup>
+    
+    <!-- Put <thead>, <tbody>, and <tr>'s here! -->
+    <tbody>
+        <tr>
+            <td style="background-color: #777">Do's</td>
+            <td style="background-color: #aaa">Don'ts</td>
+        </tr>
+    </tbody>
+</table>
+
 | :------------------------------ | :--------------------------------- |
 |                                 |                                    |
 |                                 | <b>Don\'t link to external websites</b>|
