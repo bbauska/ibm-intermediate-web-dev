@@ -1109,6 +1109,9 @@ After reading this module (06a), you will be able to:
 -   Define WordPress as a Content Management System (CMS) and
 
 -   Describe key concepts related to WordPress.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
