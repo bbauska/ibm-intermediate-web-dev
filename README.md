@@ -180,7 +180,6 @@ assess your knowledge, while the graded assessments prove what you\'ve
 learned, leading to a shareable badge and certificate that you can show
 prospective employers. We're here to support your success and are
 excited you're here. Let's get started!
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 id="ch1-02">02. Introduction to Content Management System (CMS)</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -926,11 +925,11 @@ After reading this module (05b), you will be able to:
   style="width:500px;"/>
 </p>
 
-Each page of a website plays a vital role in its functioning. For users
+<p>Each page of a website plays a vital role in its functioning. For users
 to easily navigate and access content, it is crucial that each page
-functions effectively and meets the user's needs. In this video, we will
-explore different types of pages of a website developed using a CMS.
-These include:
+functions effectively and meets the user's needs. In this module (05b), we will
+explore different types of pages of a website developed using a CMS.</p>
+<p>These include:</p>
 
 -   Front page,
 
@@ -7492,7 +7491,7 @@ to see how your website performs on different platforms.
   style="width:500px;"/>
 </p>
 
-In this video, you learned that:
+In this module (33), you learned that:
 
 -   DevTools allows developers to edit code directly in the browser, add
     breakpoints to detect issues, and debug their code more quickly.,
