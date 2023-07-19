@@ -1768,7 +1768,7 @@ In this week (01), you learned that:
 
 -   E-commerce enables businesses to sell more locally and globally.
 
-# Graded Quiz: CMS & eCommerce
+## Graded Quiz: CMS & eCommerce
 
 <!-- # [Week 2:]{.mark} -->
 
@@ -5014,7 +5014,7 @@ here's an overview of the process:
     communications. This key will remain valid for a limited time and
     only for that particular session.
 
-# Practice Quiz: Introduction to Web Build with Webpack
+## Practice Quiz: Introduction to Web Build with Webpack
 
 # Week 3 Summary: Introduction to Automated Build Tools (Webpack)
 
@@ -5044,7 +5044,7 @@ In this module (24), you learned that:
 
 -   Some best practices can be implemented to optimize Webpack.
 
-# Graded Quiz: Introduction to Web Build with Webpack
+## Graded Quiz: Introduction to Web Build with Webpack
 
 <!-- # [Week 4:]{.mark} -->
 
@@ -6307,7 +6307,7 @@ In this module (29), you learned that:
 -   Front-end testing tools ensure proper functionality of critical
     elements of a web page.
 
-# Hands-on Lab: Testing a React Application using Jasmine
+## Hands-on Lab: Testing a React Application using Jasmine
 
 ## Welcome to the **Testing a React Application using Jasmine** lab! 
 
@@ -6361,7 +6361,7 @@ In this module, you learned that:
 -   Front-end testing tools ensure proper functionality of the critical
     elements of a web page.
 
-# Graded Quiz: JavaScript Optimization and Testing Frameworks
+## Graded Quiz: JavaScript Optimization and Testing Frameworks
 
 <!-- # [Week 5:]{.mark} -->
 
@@ -7905,9 +7905,9 @@ Errors with Chrome Dev Tools, to enhance your learning experience. The
 app will reference basic information like your name, email, and Coursera
 ID.
 
-## Practice Quiz: Debugging and Monitoring Websites
+ Practice Quiz: Debugging and Monitoring Websites
 
-# Week 5 Summary: Debugging and Troubleshooting
+ Week 5 Summary: Debugging and Troubleshooting
 
 In week 5, you learned that:
 
@@ -7970,7 +7970,7 @@ This course uses a third-party app, Final Project: Interest Rate
 Calculator, to enhance your learning experience. The app will reference
 basic information like your name, email, and Coursera ID.
 
-# Peer-graded Assignment: Final Submission and Evaluation
+## Peer-graded Assignment: Final Submission and Evaluation
 
 There are 10 points for nine tasks in this final project. Your peers who
 will grade your final assignment are also completing this assignment
