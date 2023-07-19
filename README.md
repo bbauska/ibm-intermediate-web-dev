@@ -399,10 +399,11 @@ After reading this module (03), you will be able to:
 -   Identify the characteristics of the Web Content Management System,
     and
 
--   Explain Enterprise Content Management System (ECMS).
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Explain Enterprise Content Management System (ECMS).
 
 In today's digital world, an organization must manage and update its
 official website regularly. An organization needs to enable technical
@@ -1303,6 +1304,9 @@ After reading this module (06b), you will be able to:
 -   Identify the steps to create a website using WordPress, and
 
 -   Identify the skills required to enhance WordPress.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 WordPress is a user-friendly platform that enables you to develop a
 professional website without coding knowledge. This module will teach
@@ -1989,10 +1993,11 @@ After reading this module (09), you will be able to:
 
 -   Explain the benefits of using SEO tools, and
 
--   Identify some free and paid SEO tools.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Identify some free and paid SEO tools.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2442,10 +2447,11 @@ After reading this module (11), you will be able to:
 
 -   Describe how to check if a website is mobile friendly, and
 
--   Identify the best practices.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Identify the best practices.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2885,10 +2891,11 @@ After reading this module (13), you will be able to:
 
 -   Explain the best practices for running an SEO campaign, and
 
--   Identify the key SEO tracking tools.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Identify the key SEO tracking tools.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3101,6 +3108,11 @@ don\'ts\" to keep in mind when developing your online strategy.
 |                                 |                                    |
 | <b>Do include keywords that are</b> | <b>Don't overuse keywords.</b> |
 | <b>pertinent to the page.</b>   |                                    |
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 |                                 | Search engines do prefer content   |
 | The keywords in your content    | with a clear theme, but overusing  |
 | should be related to the title  | a keyword tends to put off         |
@@ -3124,6 +3136,11 @@ don\'ts\" to keep in mind when developing your online strategy.
 | network.                        | way that is more engaging to your  |
 |                                 | buyer.                             |
 |                                 |                                    |
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 | <b>Do have a presence on</b>    | <b>Don't ignore bad reviews.</b>   |
 | <b>relevant social media</b>    |                                    |
 | <b>platforms.</b>               | Responding to every comment,       |
@@ -3150,6 +3167,11 @@ don\'ts\" to keep in mind when developing your online strategy.
 |   - Traffic flow                |                                    |
 |                                 |                                    |
 |   - Conversion rate             |                                    |
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 |                                 |                                    |
 |   - Bounce rate                 |                                    |
 |                                 |                                    |
@@ -3179,6 +3201,11 @@ don\'ts\" to keep in mind when developing your online strategy.
 |                                 |     query, make sure you own the   |
 |                                 |     navigational query for your    |
 |                                 |     own brand.                     |
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 |                                 |                                    |
 |                                 | <b>Don\'t link to external websites</b>|
 |                                 | <b>too frequently.</b>             |
@@ -3189,10 +3216,6 @@ don\'ts\" to keep in mind when developing your online strategy.
 |                                 | difficult to read. This leads to   |
 |                                 | higher bounce rates, which search  |
 |                                 | engines will notice.               |
-
-<div align="right">
-  <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
 
 ## Conclusion 
 
@@ -3290,12 +3313,12 @@ After reading this module (15), you will be able to:
 
 -   Identify the benefits of build automation,
 
--   Discuss the use of automated web build tools and bundlers in a given
-    situation, and
-
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Discuss the use of automated web build tools and bundlers in a given
+    situation, and
 
 -   Describe some popular web build tools and bundlers.
 
@@ -3550,11 +3573,11 @@ After reading this module (16), you will be able to:
 
 -   Explain some advantages of Webpack 5,
 
--   Explain the functions of Webpack 5,
-
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Explain the functions of Webpack 5,
 
 -   Explain how Webpack 5 works, and
 
@@ -3865,11 +3888,11 @@ After reading this module (18), you will be able to:
 
 -   Identify how assets are handled in a configuration file,
 
--   Discuss code splitting and the three ways to accomplish it,
-
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Discuss code splitting and the three ways to accomplish it,
 
 -   Explain Preload and Prefetch for resource navigation, and
 
@@ -5558,10 +5581,11 @@ After reading this module (26), you will be able to:
 
 -   List the key benefits of testing a framework, and
 
--   Identify the popular JavaScript testing frameworks.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Identify the popular JavaScript testing frameworks.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5767,10 +5791,11 @@ After reading this module (27), you'll be able to:
 
 -   List their advantages and disadvantages, and
 
--   Recognize the differences between the two frameworks.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Recognize the differences between the two frameworks.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6194,10 +6219,11 @@ After reading this module (29), you will be able to:
 -   Identify what aspect of an application\'s front end should be
     tested, and
 
--   List some of the best front-end testing practices.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   List some of the best front-end testing practices.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6481,11 +6507,11 @@ After reading this module (30), you will be able to:
 
 -   Describe the process of debugging JavaScript,
 
--   Explain the benefits of debugging, and
-
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Explain the benefits of debugging, and
 
 -   Identify some common JavaScript bugs.
 
@@ -6717,10 +6743,11 @@ After reading this module (31), you will be able to:
 
 -   Identify the types of bugs, and
 
--   Explain the terminologies used in debugging.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Explain the terminologies used in debugging.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6973,10 +7000,11 @@ After reading this module (32), you will be able to:
 
 -   Describe debugging tools, and
 
--   Identify a few common debugging tools.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Identify a few common debugging tools.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7478,11 +7506,11 @@ After reading this module (34), you will be able to:
 
 -   Describe automated website monitoring,
 
--   Discuss the types of website monitoring, and
-
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Discuss the types of website monitoring, and
 
 -   Define popular website monitoring metrics.
 
