@@ -1303,10 +1303,11 @@ After reading this module (06b), you will be able to:
 
 -   Identify the steps to create a website using WordPress, and
 
--   Identify the skills required to enhance WordPress.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Identify the skills required to enhance WordPress.
 
 WordPress is a user-friendly platform that enables you to develop a
 professional website without coding knowledge. This module will teach
@@ -1991,11 +1992,11 @@ After reading this module (09), you will be able to:
 
 -   Describe how to select an SEO tool,
 
--   Explain the benefits of using SEO tools, and
-
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Explain the benefits of using SEO tools, and
 
 -   Identify some free and paid SEO tools.
 
@@ -2445,11 +2446,11 @@ After reading this module (11), you will be able to:
 
 -   Differentiate between mobile and desktop SEO,
 
--   Describe how to check if a website is mobile friendly, and
-
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Describe how to check if a website is mobile friendly, and
 
 -   Identify the best practices.
 
@@ -3113,6 +3114,10 @@ don\'ts\" to keep in mind when developing your online strategy.
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+<p>cont'd</p>
+
+| <b>Do's<b>                      | <b>Don'ts</b>                      |
+| :------------------------------ | :--------------------------------- |
 |                                 | Search engines do prefer content   |
 | The keywords in your content    | with a clear theme, but overusing  |
 | should be related to the title  | a keyword tends to put off         |
@@ -3141,6 +3146,10 @@ don\'ts\" to keep in mind when developing your online strategy.
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+<p>cont'd</p>
+
+| <b>Do's<b>                      | <b>Don'ts</b>                      |
+| :------------------------------ | :--------------------------------- |
 | <b>Do have a presence on</b>    | <b>Don't ignore bad reviews.</b>   |
 | <b>relevant social media</b>    |                                    |
 | <b>platforms.</b>               | Responding to every comment,       |
@@ -3172,6 +3181,10 @@ don\'ts\" to keep in mind when developing your online strategy.
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+<p>cont'd</p>
+
+| <b>Do's<b>                      | <b>Don'ts</b>                      |
+| :------------------------------ | :--------------------------------- |
 |                                 |                                    |
 |   - Bounce rate                 |                                    |
 |                                 |                                    |
@@ -3206,6 +3219,10 @@ don\'ts\" to keep in mind when developing your online strategy.
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+<p>cont'd</p>
+
+| <b>Do's<b>                      | <b>Don'ts</b>                      |
+| :------------------------------ | :--------------------------------- |
 |                                 |                                    |
 |                                 | <b>Don\'t link to external websites</b>|
 |                                 | <b>too frequently.</b>             |
