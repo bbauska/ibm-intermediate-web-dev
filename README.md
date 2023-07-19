@@ -1768,7 +1768,7 @@ In this week (01), you learned that:
 
 -   E-commerce enables businesses to sell more locally and globally.
 
-## Graded Quiz: CMS & eCommerce
+# Graded Quiz: CMS & eCommerce
 
 <!-- # [Week 2:]{.mark} -->
 
@@ -5014,7 +5014,7 @@ here's an overview of the process:
     communications. This key will remain valid for a limited time and
     only for that particular session.
 
-## Practice Quiz: Introduction to Web Build with Webpack
+# Practice Quiz: Introduction to Web Build with Webpack
 
 # Week 3 Summary: Introduction to Automated Build Tools (Webpack)
 
@@ -5044,7 +5044,7 @@ In this module (24), you learned that:
 
 -   Some best practices can be implemented to optimize Webpack.
 
-## Graded Quiz: Introduction to Web Build with Webpack
+# Graded Quiz: Introduction to Web Build with Webpack
 
 <!-- # [Week 4:]{.mark} -->
 
@@ -6307,7 +6307,7 @@ In this module (29), you learned that:
 -   Front-end testing tools ensure proper functionality of critical
     elements of a web page.
 
-## Hands-on Lab: Testing a React Application using Jasmine
+# Hands-on Lab: Testing a React Application using Jasmine
 
 ## Welcome to the **Testing a React Application using Jasmine** lab! 
 
@@ -6361,7 +6361,7 @@ In this module, you learned that:
 -   Front-end testing tools ensure proper functionality of the critical
     elements of a web page.
 
-## Graded Quiz: JavaScript Optimization and Testing Frameworks
+# Graded Quiz: JavaScript Optimization and Testing Frameworks
 
 <!-- # [Week 5:]{.mark} -->
 
@@ -6672,7 +6672,7 @@ content at selected points during execution.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image371.png"
-  alt=""
+  alt="Debugging strategies: Binary search and Instrumentation."
   style="width:500px;"/>
 </p>
 
@@ -6690,7 +6690,7 @@ pertinent portions in a more concise style.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image372.png"
-  alt=""
+  alt="Debugging strategies: Assertions and Backtracking."
   style="width:500px;"/>
 </p>
 
@@ -6707,7 +6707,7 @@ determine how it occurred.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image373.png"
-  alt=""
+  alt="Debugging strategies: Simplify and Error finding tools."
   style="width:500px;"/>
 </p>
 
@@ -6724,7 +6724,7 @@ tools use either static analysis or dynamic analysis.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image374.png"
-  alt=""
+  alt="Debugging strategies: Hypotheses."
   style="width:500px;"/>
 </p>
 
@@ -6737,7 +6737,7 @@ simplest hypotheses and associated test cases is an effective strategy.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image375.png"
-  alt=""
+  alt="Type of bugs: Types of erros one may experience; Type errors, Minor errors, Implementation errors, and Conceptual errors."
   style="width:500px;"/>
 </p>
 
@@ -6749,7 +6749,7 @@ errors, Minor errors, Implementation errors, and Conceptual errors.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image376.png"
-  alt=""
+  alt="Types of bugs: Type erros and Minor errors."
   style="width:500px;"/>
 </p>
 
@@ -6764,7 +6764,7 @@ checks. These are simple to fix after they are identified.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image377.png"
-  alt=""
+  alt="Types of bugs: Implementation erros and Conceptual errors."
   style="width:500px;"/>
 </p>
 
@@ -6781,7 +6781,7 @@ it may be better to redo it from scratch and create a cleaner design.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image378.png"
-  alt=""
+  alt="Summary Debugging terminologies; Application log, Debugger, Stepping, Stack, Breakpoints, and Current line."
   style="width:500px;"/>
 </p>
 
@@ -6792,7 +6792,7 @@ Current Line.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image379.png"
-  alt=""
+  alt="Debugging terminologies; Application log, Debugger."
   style="width:500px;"/>
 </p>
 
@@ -6810,7 +6810,7 @@ debugging methods and tools for debugging.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image380.png"
-  alt=""
+  alt="Debugging terminologies; Stepping and Stack."
   style="width:500px;"/>
 </p>
 
@@ -6825,7 +6825,7 @@ serves as a \"trail\" of function calls. This allows you to see how
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image381.png"
-  alt=""
+  alt="Debugging terminologies; Breakpoints and Current line."
   style="width:500px;"/>
 </p>
 
@@ -6841,7 +6841,7 @@ line, and so on.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image382.png"
-  alt=""
+  alt="Summary module 31; Debugging strategies, Types of errors, and Important debugging terminologies."
   style="width:500px;"/>
 </p>
 
@@ -6866,11 +6866,13 @@ Welcome to "Introduction to Debugging Tools."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image384.png"
-  alt=""
+  alt="Summary module 32; Explain web development tools, Describe debugging tools, and Identify a few common debugging tools."
   style="width:500px;"/>
 </p>
 
 After reading this module (32), you will be able to:
+
+-   Explain web development tools,
 
 -   Describe debugging tools, and
 
@@ -6879,7 +6881,7 @@ After reading this module (32), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image385.png"
-  alt=""
+  alt="Introduction to web development tools."
   style="width:500px;"/>
 </p>
 
@@ -6901,7 +6903,7 @@ In this module, we will
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image386.png"
-  alt=""
+  alt="What a debugging tool does."
   style="width:500px;"/>
 </p>
 
@@ -6916,7 +6918,7 @@ browsers and operating systems.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image387.png"
-  alt=""
+  alt="Common debugging tools."
   style="width:500px;"/>
 </p>
 
@@ -7048,7 +7050,7 @@ features that IDE's debuggers provide.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image397.png"
-  alt="In this module (32), you learned that browsers are equipped with a variety of web dev tools, among other."
+  alt="In this module (32), you learned that browsers are equipped with a variety of web dev tools, among others."
   style="width:500px;"/>
 </p>
 
@@ -7075,7 +7077,7 @@ Welcome to Troubleshooting with Chrome DevTools!
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image399.png"
-  alt=""
+  alt="Summary module 33; Define/describe DevTools and how to access some of the panels' features."
   style="width:500px;"/>
 </p>
 
@@ -7088,7 +7090,7 @@ After reading this module (33), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image400.png"
-  alt=""
+  alt="Chrome DevTools; Edit codes, add breakpoints, and debug code quickly."
   style="width:500px;"/>
 </p>
 
@@ -7100,7 +7102,7 @@ add breakpoints to detect issues, and debug their code quickly.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image401.png"
-  alt=""
+  alt="Chrome DevTools panels; Elements, Console, Sources, Network, Performance, and six more."
   style="width:500px;"/>
 </p>
 
@@ -7126,7 +7128,7 @@ Insights pane, with actionable feedback on how to fix issues.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image402.png"
-  alt=""
+  alt="How to access Chrome DevTools."
   style="width:500px;"/>
 </p>
 
@@ -7139,7 +7141,7 @@ Option + J on Mac or CTRL + SHIFT + J on Windows.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image403.png"
-  alt=""
+  alt="How to access elements panel, right-click, element panel, highlighted in the DOM tree."
   style="width:500px;"/>
 </p>
 
@@ -7151,7 +7153,7 @@ element should now be highlighted in the DOM tree.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image404.png"
-  alt=""
+  alt="How to access elements panel, Hover and click."
   style="width:500px;"/>
 </p>
 
@@ -7162,7 +7164,7 @@ you want to inspect.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image405.png"
-  alt=""
+  alt="Editing HTML."
   style="width:500px;"/>
 </p>
 
@@ -7176,7 +7178,7 @@ around any element on the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image406.png"
-  alt=""
+  alt="More Editing HTML and CSS."
   style="width:500px;"/>
 </p>
 
@@ -7189,7 +7191,7 @@ delete and reorder elements in addition to editing them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image407.png"
-  alt=""
+  alt="Editing CSS."
   style="width:500px;"/>
 </p>
 
@@ -7202,7 +7204,7 @@ the changes because they are updated in real-time.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image408.png"
-  alt=""
+  alt="Editing HTML and CSS."
   style="width:500px;"/>
 </p>
 
@@ -7214,13 +7216,13 @@ actual code of your live website is not altered.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image409.png"
-  alt=""
+  alt="Setting breakpoints."
   style="width:500px;"/>
 </p>
 
-Let\'s now understand the process of setting a breakpoint in your codes.
-To create a breakpoint: Click on the side of the file near the line
-number and Run the code that will trigger the breakpoint. The
+Let\'s now understand the process of setting a breakpoint in your codes.
+To create a breakpoint: Click on the side of the file near the line
+number and Run the code that will trigger the breakpoint. The
 highlighted line of code indicates that the code has paused execution on
 that line. So, at this point, you can inspect specific data in the code
 by hovering over the variables you want to examine. This is essential
@@ -7230,7 +7232,7 @@ point will provide you with valuable insight into how it works.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image410.png"
-  alt=""
+  alt="Setting programmatic breakpoints."
   style="width:500px;"/>
 </p>
 
@@ -7242,7 +7244,7 @@ in that line.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image411.png"
-  alt=""
+  alt="Using logging function."
   style="width:500px;"/>
 </p>
 
@@ -7257,7 +7259,7 @@ the console at the bottom of the screen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image412.png"
-  alt=""
+  alt="Searching an object for properties."
   style="width:500px;"/>
 </p>
 
@@ -7268,7 +7270,7 @@ a set of criteria.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image413.png"
-  alt=""
+  alt="Searching an object for properties."
   style="width:500px;"/>
 </p>
 
@@ -7278,7 +7280,7 @@ document object that match get: grep(document, \'get\');
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image414.png"
-  alt=""
+  alt="Visualizing the website on devices."
   style="width:500px;"/>
 </p>
 
@@ -7290,11 +7292,11 @@ changing the screen size of a webpage.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image415.png"
-  alt=""
+  alt="Visualizing the website on devices; switch between different mobile screen types and versions."
   style="width:500px;"/>
 </p>
 
-To access that option: First, toggle on the Inspect mode.
+To access that option: First, toggle on the Inspect mode.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7491,7 +7493,7 @@ site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image428.png"
-  alt=""
+  alt="Summary: Type of website monitoring; Availability, Performance, and Functionality."
   style="width:500px;"/>
 </p>
 
@@ -7504,7 +7506,7 @@ Functionality monitoring.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image429.png"
-  alt=""
+  alt="First type of website monitoring: Availability monitoring."
   style="width:500px;"/>
 </p>
 
@@ -7515,7 +7517,7 @@ checks the availability of web services, domains, and pages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image430.png"
-  alt=""
+  alt="Second type of website monitoring: Performance monitoring."
   style="width:500px;"/>
 </p>
 
@@ -7528,7 +7530,7 @@ comprehensive performance data set.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image431.png"
-  alt=""
+  alt="Third type of website monitoring: Functionality monitoring."
   style="width:500px;"/>
 </p>
 
@@ -7546,7 +7548,7 @@ faced.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image432.png"
-  alt=""
+  alt="Summary: Popular website monitoring metrics."
   style="width:500px;"/>
 </p>
 
@@ -7559,7 +7561,7 @@ Lookup Speed, Bounce Rate, and Requests Per Second.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image433.png"
-  alt=""
+  alt="Popular website monitoring metrics: A page's speed."
   style="width:500px;"/>
 </p>
 
@@ -7572,21 +7574,23 @@ HTML web page; and Time taken to render a web page in a browser.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image434.png"
-  alt=""
+  alt="Popular website monitoring metrics: Time to title, Time to start render, Time to interact."
   style="width:500px;"/>
 </p>
 
-Time to title is the time that a website's title takes to appear in a
-browser. Time to Start Render is the time the content takes to begin
+Time to Title is the time that a website's title takes to appear in a
+browser. 
+Time to Start Render is the time the content takes to begin
 loading, even if it doesn\'t fully load after an individual makes a
-request. Time to Interact measures the time taken before users are able
+request. 
+Time to Interact measures the time taken before users are able
 to click links, type in text fields, scroll, or interact with a website
 in other ways.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image435.png"
-  alt=""
+  alt="Popular website monitoring metrics: DNS lookup speed, Bounce rate, and Requests per second."
   style="width:500px;"/>
 </p>
 
@@ -7605,7 +7609,7 @@ server receives every second. It is also referred to as "Throughput" or
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image436.png"
-  alt=""
+  alt="In this Module (34): Website monitoring, Website monitors, Steps to automated monitoring, types of website monitoring."
   style="width:500px;"/>
 </p>
 
@@ -7905,9 +7909,9 @@ Errors with Chrome Dev Tools, to enhance your learning experience. The
 app will reference basic information like your name, email, and Coursera
 ID.
 
- Practice Quiz: Debugging and Monitoring Websites
+## Practice Quiz: Debugging and Monitoring Websites
 
- Week 5 Summary: Debugging and Troubleshooting
+# Week 5 Summary: Debugging and Troubleshooting
 
 In week 5, you learned that:
 
@@ -7970,7 +7974,7 @@ This course uses a third-party app, Final Project: Interest Rate
 Calculator, to enhance your learning experience. The app will reference
 basic information like your name, email, and Coursera ID.
 
-## Peer-graded Assignment: Final Submission and Evaluation
+# Peer-graded Assignment: Final Submission and Evaluation
 
 There are 10 points for nine tasks in this final project. Your peers who
 will grade your final assignment are also completing this assignment
