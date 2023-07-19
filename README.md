@@ -28,8 +28,10 @@ output:
 >### 1.02 [**Introduction to Content Management Systems (CMS)**](#ch1-02)
 >### 1.03 [**Features of Web CMS**](#ch1-03)
 >### 1.04 [**Popular CMS Platforms/Tools**](#ch1-04)
->### 1.05 [**Web Development with CMS**](#ch1-05)
->### 1.06 [**Getting Started with WordPress**](#ch1-06)
+>### 1.05a [**Web Development with CMS part 1**](#ch1-05a)
+>### 1.05b [**Web Development with CMS part 2**](#ch1-05b)
+>### 1.06a [**Getting Started with WordPress part 1**](#ch1-06a)
+>### 1.06b [**Getting Started with WordPress part 2**](#ch1-06b)
 >### 1.07 [**Adding E-Commerce to your Website**](#ch1-07)
 
 ## [**Week 2: Search Engine Optimization (SEO)**](#ch2)
@@ -398,7 +400,6 @@ After reading this module (03), you will be able to:
     and
 
 -   Explain Enterprise Content Management System (ECMS).
-
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -557,6 +558,10 @@ After reading this module (04), you will be able to:
 -   Explain Headless Content Management System (CMS), and
 
 -   Identify popular CMS platforms and tools.
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1496,7 +1501,7 @@ relies on it to retrieve all its data.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image078.png"
-  alt="."
+  alt="Summary module 06b; Wordpress, part 2."
   style="width:500px;"/>
 </p>
 
@@ -1549,6 +1554,10 @@ After reading this module (07), you will be able to:
     website, and
 
 -   Describe how to add e-commerce functionality to your website.
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 > <p align="center">
@@ -1798,6 +1807,10 @@ After reading this module (08), you will be able to:
 
 -   Identify the benefits of using SEO.
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image094.png"
@@ -1968,6 +1981,9 @@ After reading this module (09), you will be able to:
 -   Explain the benefits of using SEO tools, and
 
 -   Identify some free and paid SEO tools.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2187,6 +2203,10 @@ After reading this module (10), you will be able to:
 -   Define an SEO strategy, and
 
 -   Define the steps to develop an SEO strategy.
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2414,6 +2434,9 @@ After reading this module (11), you will be able to:
 -   Describe how to check if a website is mobile friendly, and
 
 -   Identify the best practices.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2624,6 +2647,9 @@ After finishing this module (12), you will be able to:
 -   Define on-page SEO and list its importance, and
 
 -   Identify the various on-page SEO components.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2851,6 +2877,9 @@ After reading this module (13), you will be able to:
 -   Explain the best practices for running an SEO campaign, and
 
 -   Identify the key SEO tracking tools.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3152,6 +3181,10 @@ don\'ts\" to keep in mind when developing your online strategy.
 |                                 | higher bounce rates, which search  |
 |                                 | engines will notice.               |
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Conclusion 
 
 These \"do\'s and don\'ts\" are a good starting point for SEO reviews.
@@ -3250,6 +3283,10 @@ After reading this module (15), you will be able to:
 
 -   Discuss the use of automated web build tools and bundlers in a given
     situation, and
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 -   Describe some popular web build tools and bundlers.
 
@@ -3506,6 +3543,10 @@ After reading this module (16), you will be able to:
 
 -   Explain the functions of Webpack 5,
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 -   Explain how Webpack 5 works, and
 
 -   Describe why to use Webpack 5.
@@ -3643,6 +3684,10 @@ After reading this module (17), you will be able to:
 -   Explain the four core concepts of Webpack,
 
 -   Define components that optimize the functioning of Webpack.
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3812,6 +3857,10 @@ After reading this module (18), you will be able to:
 -   Identify how assets are handled in a configuration file,
 
 -   Discuss code splitting and the three ways to accomplish it,
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 -   Explain Preload and Prefetch for resource navigation, and
 
@@ -4030,7 +4079,9 @@ After reading this module (19), you will be able to:
 -   Identify the different configuration modes in Webpack, and
 
 -   Discuss the best practices related to Webpack in production.
-
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image216.png"
@@ -4196,6 +4247,9 @@ After reading this module (20), you will be able to:
 -   Explain the need for Webpack tools, and
 
 -   Describe five popular Webpack bundle size tools.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4422,6 +4476,9 @@ After reading this module (21), you will be able to:
 -   Explain the need for using Webpack with front-end frameworks, and
 
 -   Describe how to configure Webpack with Angular, Vue, and React.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4724,6 +4781,9 @@ After reading this module (22), you will be able to:
 
 -   Describe the benefits of implementing some key best practices in
     Webpack.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4961,6 +5021,9 @@ Many website hosting providers and other services will offer TLS/SSL
 certificates for a fee. These certificates will often be shared amongst
 many customers. More expensive certificates are available, which can be
 individually registered to particular web properties.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## What is an SSL Certificate?
 
@@ -5073,6 +5136,9 @@ optimization and JavaScript, explain how web optimization impacts
 website success factors, identify some popular web performance
 optimization methods, and define how JavaScript can improve a web
 application's performance.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5253,9 +5319,12 @@ Welcome to Popular Optimization Tools!
 
 After reading this module (25), you'll be able to:
 
--   Identify the various approaches to web optimization
+-   Identify the various approaches to web optimization, and
 
--   and list the key optimization tools used in each approach.
+-   List the key optimization tools used in each approach.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5481,6 +5550,9 @@ After reading this module (26), you will be able to:
 -   List the key benefits of testing a framework, and
 
 -   Identify the popular JavaScript testing frameworks.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5687,6 +5759,9 @@ After reading this module (27), you'll be able to:
 -   List their advantages and disadvantages, and
 
 -   Recognize the differences between the two frameworks.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5951,6 +6026,9 @@ After reading this module (28), you will be able to:
 -   Define Jasmine and its fundamental concepts, and
 
 -   Identify the steps to test code and React with Jasmine.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6108,6 +6186,9 @@ After reading this module (29), you will be able to:
     tested, and
 
 -   List some of the best front-end testing practices.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6393,6 +6474,10 @@ After reading this module (30), you will be able to:
 
 -   Explain the benefits of debugging, and
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 -   Identify some common JavaScript bugs.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6624,6 +6709,9 @@ After reading this module (31), you will be able to:
 -   Identify the types of bugs, and
 
 -   Explain the terminologies used in debugging.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6877,6 +6965,9 @@ After reading this module (32), you will be able to:
 -   Describe debugging tools, and
 
 -   Identify a few common debugging tools.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7086,6 +7177,9 @@ After reading this module (33), you will be able to:
 -   Describe Chrome DevTools and its various panels, and
 
 -   Determine how to access some of the panels\' features.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7349,6 +7443,10 @@ In this video, you learned that:
 -   Chrome DevTools helps switch between different mobile screen types
     and versions in addition to changing the screen size of a webpage.
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 <h1 id="ch5-34">34. Monitoring your Website</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7372,6 +7470,10 @@ After reading this module (34), you will be able to:
 -   Describe automated website monitoring,
 
 -   Discuss the types of website monitoring, and
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 -   Define popular website monitoring metrics.
 
@@ -7653,6 +7755,9 @@ After reading this module (35), you will be able to:
 -   Describe how to select a website monitoring tool, and
 
 -   Identify some of the most popular monitoring tools.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -8043,4 +8148,4 @@ and drop the file icon onto the window.*
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-<!-- July 16, 2023 10:49pm -->
+<!-- July 19, 2023 2:12am -->
