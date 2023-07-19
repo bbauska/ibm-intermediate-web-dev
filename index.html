@@ -1,185 +1,32 @@
 <!DOCTYPE html>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!-- index.html for ibm-intermediate-web-dev -->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ index.html for ibm-intermediate-web-dev ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
-  <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
+  <link rel="shortcut icon" type="image/jpg" href="./images/favicon.ico">
+  <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
+  <meta charset="utf-8" >
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <link rel="canonical" href="https://ibm-intermediate-web-dev.bauska.org">
+  <meta name="description" content="Are you interested in learning how to optimize your website for search engines? Or do you want to learn how to increase the visibility of your website?">
+  <meta name=”robots” content="all">
   <meta name="author" content="bbauska" />
   <title>IBM’s Intermediate Web &amp; Front-end Development</title>
-  <style>
-    html {
-      color: #1a1a1a;
-      background-color: #fdfdfd;
-    }
-    body {
-      margin: 0 auto;
-      max-width: 36em;
-      padding-left: 50px;
-      padding-right: 50px;
-      padding-top: 50px;
-      padding-bottom: 50px;
-      hyphens: auto;
-      overflow-wrap: break-word;
-      text-rendering: optimizeLegibility;
-      font-kerning: normal;
-    }
-    @media (max-width: 600px) {
-      body {
-        font-size: 0.9em;
-        padding: 12px;
-      }
-      h1 {
-        font-size: 1.8em;
-      }
-    }
-    @media print {
-      html {
-        background-color: white;
-      }
-      body {
-        background-color: transparent;
-        color: black;
-        font-size: 12pt;
-      }
-      p, h2, h3 {
-        orphans: 3;
-        widows: 3;
-      }
-      h2, h3, h4 {
-        page-break-after: avoid;
-      }
-    }
-    p {
-      margin: 1em 0;
-    }
-    a {
-      color: #1a1a1a;
-    }
-    a:visited {
-      color: #1a1a1a;
-    }
-    img {
-      max-width: 100%;
-    }
-    h1, h2, h3, h4, h5, h6 {
-      margin-top: 1.4em;
-    }
-    h5, h6 {
-      font-size: 1em;
-      font-style: italic;
-    }
-    h6 {
-      font-weight: normal;
-    }
-    ol, ul {
-      padding-left: 1.7em;
-      margin-top: 1em;
-    }
-    li > ol, li > ul {
-      margin-top: 0;
-    }
-    blockquote {
-      margin: 1em 0 1em 1.7em;
-      padding-left: 1em;
-      border-left: 2px solid #e6e6e6;
-      color: #606060;
-    }
-    code {
-      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
-      font-size: 85%;
-      margin: 0;
-      hyphens: manual;
-    }
-    pre {
-      margin: 1em 0;
-      overflow: auto;
-    }
-    pre code {
-      padding: 0;
-      overflow: visible;
-      overflow-wrap: normal;
-    }
-    .sourceCode {
-     background-color: transparent;
-     overflow: visible;
-    }
-    hr {
-      background-color: #1a1a1a;
-      border: none;
-      height: 1px;
-      margin: 1em 0;
-    }
-    table {
-      margin: 1em 0;
-      border-collapse: collapse;
-      width: 100%;
-      overflow-x: auto;
-      display: block;
-      font-variant-numeric: lining-nums tabular-nums;
-    }
-    table caption {
-      margin-bottom: 0.75em;
-    }
-    tbody {
-      margin-top: 0.5em;
-      border-top: 1px solid #1a1a1a;
-      border-bottom: 1px solid #1a1a1a;
-    }
-    th {
-      border-top: 1px solid #1a1a1a;
-      padding: 0.25em 0.5em 0.25em 0.5em;
-    }
-    td {
-      padding: 0.125em 0.5em 0.25em 0.5em;
-    }
-    header {
-      margin-bottom: 4em;
-      text-align: center;
-    }
-    #TOC li {
-      list-style: none;
-    }
-    #TOC ul {
-      padding-left: 1.3em;
-    }
-    #TOC > ul {
-      padding-left: 0;
-    }
-    #TOC a:not(:hover) {
-      text-decoration: none;
-    }
-    code{white-space: pre-wrap;}
-    span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    /* The extra [class] is a hack that increases specificity enough to
-       override a similar rule in reveal.js */
-    ul.task-list[class]{list-style: none;}
-    ul.task-list li input[type="checkbox"] {
-      font-size: inherit;
-      width: 0.8em;
-      margin: 0 0.8em 0.2em -1.6em;
-      vertical-align: middle;
-    }
-    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
-  </style>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
 </head>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <body>
 <header id="title-block-header">
 <h1 class="title">IBM’s Intermediate Web &amp; Front-end
 Development</h1>
 <p class="author">bbauska</p>
 </header>
-<!-- [IBM's Intermediate Web and Front-End Development by Coursera](https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction) -->
+<!-- [IBM's Intermediate Web and Front-End Development by Coursera]
+(https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction) -->
 <!-- https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction -->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<!--~~~~~~~~~~~~~~~~~~~ 01. intermediate web and front-end development (01) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image001.png" 
   alt="Intermediate Web &amp; Front-end Development" 
@@ -347,7 +194,7 @@ These improve testing speed and efficiency, test accuracy, and reduce
 test maintenance costs and risks. Learning the fundamentals presented
 here is the first step towards a long and rewarding career as a web
 developer.
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. course requirements (05) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image002.png"
   alt="To complete this course, you should be familiar with the following knowledge."
@@ -368,7 +215,7 @@ following:</p>
 <p>This course is part of a series of IBM courses designed to help you
 improve your skills as a front-end developer and understand the
 technical aspect of web and front-end application development.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. what you will learn (05) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image003.png"
   alt="When you complete this course, you will be able to:"
@@ -376,6 +223,7 @@ technical aspect of web and front-end application development.</p>
 </p>
 <!-- {width="5.0in" height="2.8327996500437447in"} -->
 <p>When you complete this course, you will be able to:</p>
+
 <ul>
 <li><p>Identify how to work with content management systems
 (CMSs)</p></li>
@@ -406,7 +254,7 @@ excited you’re here. Let’s get started!</p>
 <ol start="2" type="1">
 <li>Introduction to Content Management System (CMS)
 </h1>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 04. intro to content management system (06) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image004.png"
 alt="Introduction to Content Management System (CMS)."
@@ -416,13 +264,13 @@ width="500" />
 </ol>
 <!-- <https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/zjLwk/introduction-to-content-management-system-cms> -->
 <p>Welcome to “Introduction to Content Management System (CMS)”</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center">
-<img src="./assets/images/image005.png"
-    alt="After reading, you will be able to: Define CMS, List several CMS platforms and Recognize the benefits of using CMS."
-    width="500" />
-</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~ 05. module 02 - what you will learn: cms (07) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./assets/images/image005.png"
+  alt="After reading, you will be able to: Define CMS, List several CMS platforms and Recognize the benefits of using CMS."
+  style="width:500px;" >
 <!-- {width="5.0in" height="2.5576924759405073in"} -->
+
 <p>After reading this module (02), you will be able to:</p>
 <ul>
 <li><p>Define Content Management Systems (CMSs),</p></li>
@@ -432,6 +280,7 @@ width="500" />
 <div data-align="right">
 <p><b><a href="#table-of-contents">↥ Back To Top</a></b></p>
 </div>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. what you will learn (05) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image006.png"
