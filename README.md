@@ -1,7 +1,7 @@
 ---
 title: "IBM's Intermediate Web & Front-end Development"
 author: "bbauska"
-date last editted: "7/16/2023 10+pm"
+date last editted: "7/19/2023 2+am"
 output: 
   markdown:
     with_style
@@ -725,6 +725,9 @@ After reading this module (05a), you will be able to:
 -   Explain important elements of a web development plan, and
 
 -   Define best practices for a successful business website.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -911,6 +914,9 @@ After reading this module (05b), you will be able to:
 -   Identify the types of pages of a website, and
 
 -   Explain the features of a CMS.
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -8148,4 +8154,4 @@ and drop the file icon onto the window.*
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-<!-- July 19, 2023 2:12am -->
+<!-- July 19, 2023 2:16am -->
