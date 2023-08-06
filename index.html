@@ -5197,12 +5197,7 @@ Mocha, Cypress, Jasmine, and Puppeteer.</p></li>
 <ul>
 <li><p>Define Mocha and Jasmine testing frameworks,</p></li>
 <li><p>List their advantages and disadvantages, and</p></li>
-</ul>
-<div data-align="right">
-<p><b><a href="#table-of-contents">↥ Back To Top</a></b></p>
-</div>
-<ul>
-<li>Recognize the differences between the two frameworks.</li>
+<li><p>Recognize the differences between the two frameworks.</p></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5355,6 +5350,7 @@ tests similarly.</p>
 It supports asynchronous testing. It marks the use of spies for applying
 test doubles.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 323. disadvantages of using jasmine (209) ~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image323.png"
   alt=""
@@ -5364,9 +5360,10 @@ test doubles.</p>
 Asynchronous testing is difficult. All test files must have a specific
 suffix.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~ 324. comparison between jasmine and mocha testing tools, #1 (209) ~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image324.png"
-  alt=""
+  alt="Comparison between Jasmine and Mocha testing tools, page 1."
   style="width:500px;"/>
 </p>
 <p>Now that we've learned about the Mocha and Jasmine frameworks, let's
@@ -5377,9 +5374,10 @@ karma-jasmine-html-reporter or jasmine-pretty-html-reporter, whereas
 Mocha creates mocha-simple-html-reporter and mochawesome. Jasmine and
 Mocha both have documentation and forum support.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~ 325. comparison between jasmine and mocha testing tools, #2 (210) ~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image325.png"
-  alt=""
+  alt="Comparison between Jasmine and Mocha testing tools, page 2."
   style="width:500px;"/>
 </p>
 <p>Jasmine does not include built-in support for rerunning a failed
@@ -5389,69 +5387,73 @@ testing is challenging in Jasmine but simple in Mocha. Jasmine and Mocha
 both support parallel execution. Jasmine's plug-in support and
 extensibility are limited, whereas Mocha's are good.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 326. ch4-27 recap on mocha (210) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image326.png"
-  alt=""
+  alt="Recap module 27, mocha."
   style="width:500px;"/>
 </p>
 <p>In this module (27), you learned that:</p>
+
 <ul>
-<li><p>Mocha is a NodeJS-based open-source JavaScript testing
-framework,</p></li>
-<li><p>It is compatible with assertion libraries like Chai, Sinon,
-Express.js, and Should.js,</p></li>
-<li><p>It uses code and assertions to determine a pass or fail
-status,</p></li>
-<li><p>Jasmine is an open-source JavaScript framework that can test any
-JavaScript application,</p></li>
-<li><p>It is fast, has low overhead, has no external dependencies,
-and</p></li>
-<li><p>Slow tests can be highlighted in Jasmine using
-jasmine-slow-reporter, whereas Mocha has it built-in.</p></li>
+  <li><p>Mocha is a NodeJS-based open-source JavaScript testing framework,</p></li>
+  <li><p>It is compatible with assertion libraries like Chai, Sinon, Express.js, 
+    and Should.js,</p></li>
+  <li><p>It uses code and assertions to determine a pass or fail status,</p></li>
+  <li><p>Jasmine is an open-source JavaScript framework that can test any 
+    JavaScript application,</p></li>
+  <li><p>It is fast, has low overhead, has no external dependencies, and</p></li>
+  <li><p>Slow tests can be highlighted in Jasmine using jasmine-slow-reporter, 
+    whereas Mocha has it built-in.</p></li>
 </ul>
+
 <h1 id="ch4-28">
 <ol start="28" type="1">
-<li>Using Jasmine
-</h1></li>
+  <li>Using Jasmine</li>
 </ol>
+</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 327. ch4-28 using jasmine (211) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image327.png"
-  alt="4-28. Using Jasmine"
+  alt="4-28. Using Jasmine."
   style="width:500px;"/>
 </p>
 <p>Welcome to Using Jasmine!</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 328. define jasmine and test (211) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image328.png"
   alt="Define Jasmine and it's fundamental concepts, and identify the steps to test code and React with Jasmine."
   style="width:500px;"/>
 </p>
 <p>After reading this module (28), you will be able to:</p>
+
 <ul>
-<li><p>Define Jasmine and its fundamental concepts, and</p></li>
-<li><p>Identify the steps to test code and React with Jasmine.</p>
-<div data-align="right">
-<p><b><a href="#table-of-contents">↥ Back To Top</a></b></p>
-</div></li>
+  <li><p>Define Jasmine and its fundamental concepts, and</p></li>
+  <li><p>Identify the steps to test code and React with Jasmine.</p></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 329. jasmine is open-source javascript unit tester (212) ~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image329.png"
   alt="Jasmine: Open-source framework for unit testing JavaScript."
   style="width:500px;"/>
 </p>
-Jasmine is an open-source framework for unit testing JavaScript that is
+
+<p>Jasmine is an open-source framework for unit testing JavaScript that is
 readily accessible in a variety of formats, including stand-alone, ruby
 gem, Node.js, and so on. It is simple to set up and easy to write tests.
 JS Spec, Rspec, and Jspec have a significant impact on Jasmine. It makes
 an attempt to describe tests in a human-readable format so that
-non-technical people understand what is being tested.
+non-technical people understand what is being tested.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 330. jasmine suite is a collection of test cases (212) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image330.png"
   alt="Jasmine suite is a collection of test cases used to verify the behavior of a JS object or function."
-  style="width:500px;"/>
+  style="width:500px;height:284;"/>
 </p>
 <p>Let’s look at the fundamental concepts of Jasmine. A Jasmine suite is
 a collection of test cases that can be used to verify the behavior of a
@@ -5466,6 +5468,8 @@ represents a statement that can be true or false. To pass the spec, all
 of the expectations within the spec must be met. If one or more
 expectations within a spec are incorrect, the spec fails.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 331.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image331.png"
   alt="Jasmine: Expectation is an assertion that is True or False."
@@ -5476,6 +5480,8 @@ false. Expectations are described as "expect" within the function that
 takes a value, which is referred to as the "toBe" value. Matchers is a
 comparison between the actual value and the expected value, either if
 the expectation is "true" or "false.”</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 337.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image332.png"
@@ -5493,6 +5499,8 @@ objects that are created to represent or mimic the real thing. Mocks are
 required to avoid the overhead cost of creating the actual object they
 represent.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 337.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image333.png"
   alt="Steps to begin testing in Jasmine."
@@ -5503,6 +5511,8 @@ Jasmine (standalone version). Give Jasmine access to your code by
 manually downloading it or using a package manager. Initialize Jasmine.
 Create a spec (test) file, and Make the source code available to your
 spec file.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 337.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image334.png"
@@ -5518,6 +5528,7 @@ React that Jasmine runs must be included in the JS bundle.</p>
 <p>The next step is to leverage Test Utils. ReactTestUtils makes it
 simple to test React components in your preferred testing framework.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 337.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image335.png"
   alt="Structure of a React test in Jasmine."
@@ -5534,6 +5545,7 @@ utilities.</p>
 on to using React event simulation and Jasmine spies to see what happens
 when users interact with your components.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 337.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image336.png"
   alt="Module 28 - Jasmine summary."
@@ -5550,19 +5562,22 @@ expectations, describe functions, and spies, and</p></li>
 <li><p>There are five steps to testing codes and React with
 Jasmine.</p></li>
 </ul>
+
 <h1 id="ch4-29">
 <ol start="29" type="1">
-<li>Front-end Testing Best Practices
+  <li>Front-end Testing Best Practices</li>
+</ol>
 </h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 337.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image337.png"
   alt="4-29. Front-end Testing Best Practices"
   style="width:500px;"/>
-</p></li>
-</ol>
+</p>
 <p>Welcome to "Front-end Testing Best Practices."</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 338.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image338.png"
   alt="Define front-end testing and its advantages, identify aspect, list best practices."
@@ -5581,6 +5596,7 @@ tested, and</p></li>
 <li>List some of the best front-end testing practices.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 339.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image339.png"
   alt="What is front-end testing?  Test usability and functioning of an app's GUI, 
@@ -5597,6 +5613,7 @@ architecture. Clients, servers, and information systems or resources are
 all included. The client is part of the presentation layer. This layer
 is tested by front-end testers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 340.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image340.png"
   alt="Advantages of front-end testing; provides accurate interactions, offers accessibility to all users."
@@ -5612,6 +5629,7 @@ should be accessible to all users, particularly those with disabilities.
 Accessibility testing is a required component of front-end testing and
 must be completed prior to the deployment of a website.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 341.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image341.png"
   alt="Front-end testing ensures consistent behavior and protects application from regression."
@@ -5626,6 +5644,7 @@ complex features, but it crashes another part of the application that
 you were unaware of. Front-end testing ensures that the code is
 consistent and that the front-end functionality is intact.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 342.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image342.png"
   alt="Front-end testing fixes bugs and keeps well-maintained test codes."
@@ -5638,6 +5657,7 @@ explanation of the test's functionality is necessary when writing tests.
 Front-end testing helps in keeping well-maintained tests which is
 beneficial as they serve as live documentation.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 343.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image343.png"
   alt="What should be tested in front-end testing? Cross-broser &amp; platform 
@@ -5654,6 +5674,7 @@ the application. End-to-end checks are required for checking and
 confirming the application's back-end to front-end workflow by
 simulating real-world actions that users are likely to take.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 344.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
   src="./assets/images/image344.png"
   alt="Additional tests; image analysis testing and Cascade Style Sheet (CSS) testing."
@@ -5667,6 +5688,7 @@ important CSS elements: syntax and display. While syntax is more of a
 developer's day-to-day responsibility, displayed views must be tested
 for regression after changes to specific parts of the app.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 345.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image345.png"
   alt="Best practices of front-end testing"
@@ -5679,6 +5701,7 @@ devices, Performing deterministic tests, striving for coverage and not
 Keeping tests independent, and Testing a variety of input
 parameters.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 346.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image346.png"
   alt="Focus on front-end elements.  Use actual browsers and devices."
@@ -5693,6 +5716,7 @@ real browsers and devices instead of emulators and simulators to save
 time and money and enhance the reliability of your software testing
 results.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 347.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image347.png"
   alt="Perform deterministic tests. Striving for coverage and not 100% code coverage."
@@ -5708,6 +5732,7 @@ However, it doesn't work in practice. A high level of test coverage
 provides a false sense of security. Good tests are simple to maintain
 and provide you with the confidence to make changes to your code.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 348.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image348.png"
   alt="Encouraging shorter and more readable unit tests. Keep test independent. Test a variety of
@@ -5725,6 +5750,7 @@ all possible code paths through the code under test. You must be
 confident that the deployed code can handle the full range of inputs
 that a user may enter.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 349.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image349.png"
   alt="Common best and most used front-end testing tools."
@@ -5736,6 +5762,7 @@ list of some of the best and most widely used front-end testing tools.
 Jest, Selenium WebDriver, Cypress, WebDriverIO, WebDriverJS, and
 Jasmine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 350.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image350.png"
   alt="Module 29 educates you on Front-end testing and tools."
@@ -6706,16 +6733,15 @@ Welcome to “Monitoring your Website.”
   style="width:500px;"/>
 </p>
 <p>After reading this module (34), you will be able to:</p>
+
 <ul>
-<li><p>Explain website monitoring and its advantages,</p></li>
-<li><p>Describe automated website monitoring,</p></li>
+  <li><p>Explain website monitoring and its advantages,</p></li>
+  <li><p>Describe automated website monitoring,</p></li>
 </ul>
-<div data-align="right">
-<p><b><a href="#table-of-contents">↥ Back To Top</a></b></p>
-</div>
+
 <ul>
-<li><p>Discuss the types of website monitoring, and</p></li>
-<li><p>Define popular website monitoring metrics.</p></li>
+  <li><p>Discuss the types of website monitoring, and</p></li>
+  <li><p>Define popular website monitoring metrics.</p></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6954,9 +6980,6 @@ monitoring,</p></li>
 <ul>
 <li><p>Describe how to select a website monitoring tool, and</p></li>
 <li><p>Identify some of the most popular monitoring tools.</p>
-<div data-align="right">
-<p><b><a href="#table-of-contents">↥ Back To Top</a></b></p>
-</div></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7290,9 +7313,6 @@ directory, upload a screenshot of it from Cloud IDE and save it as
 solution along with source, and save it as 09-final-output. (2
 pts)</p></li>
 </ol>
-<div data-align="right">
-<p><b><a href="#table-of-contents">↥ Back To Top</a></b></p>
-</div>
-<!-- July 19, 2023 2:16am -->
+<!-- Aug 6, 2023 2:24pm -->
 </body>
 </html>
