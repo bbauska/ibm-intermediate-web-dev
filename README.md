@@ -1,7 +1,7 @@
 ---
 title: "IBM's Intermediate Web & Front-end Development"
 author: "bbauska"
-date last editted: "7/19/2023 12+pm"
+date last editted: "8/6/2023 5+pm"
 output: 
   markdown:
     with_style
@@ -55,7 +55,7 @@ output:
 >### 3.23 [**HTTPS &amp; SSL Certificates**](#ch3-23)
 
 ## [**Week 4: Optimization &amp; Testing**](#ch4)
->### 4.24 [**JavaScript Ootimization**](#ch4-24)
+>### 4.24 [**JavaScript Optimization**](#ch4-24)
 >### 4.25 [**Popular Optimization Tools**](#ch4-25)
 >### 4.26 [**Testing Frameworks**](#ch4-26)
 >### 4.27 [**Testing Tools – Mocha and Jasmine**](#ch4-27)
@@ -8215,4 +8215,4 @@ and drop the file icon onto the window.*
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-<!-- July 19, 2023 2:16am -->
+<!-- Aug 6, 2023 5:10pm -->
