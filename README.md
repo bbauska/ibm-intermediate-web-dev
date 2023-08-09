@@ -1,7 +1,7 @@
 ---
 title: "IBM's Intermediate Web & Front-end Development"
 author: "bbauska"
-date last editted: "8/6/2023 5+pm"
+date last editted: "8/8/2023 7+pm"
 output: 
   markdown:
     with_style
@@ -1759,8 +1759,6 @@ In this module (07), you learned that:
 -   Wix, Weebly, and Squarespace are popular platforms for website
     building.
 
-## Practice Quiz: CMS & eCommerce
-
 # Week 1 Summary: Content Management Systems (CMS)
 
 ## **Content Management Systems (CMSs)**
@@ -1789,8 +1787,6 @@ In this week (01), you learned that:
     create a professional website without any coding knowledge.
 
 -   E-commerce enables businesses to sell more locally and globally.
-
-# Graded Quiz: CMS & eCommerce
 
 <!-- # [Week 2:]{.mark} -->
 
@@ -3280,8 +3276,6 @@ This course uses a third-party app, Hands-on Lab: Optimizing a Website
 for Search Ranking, to enhance your learning experience. The app will
 reference basic information like your name, email, and Coursera ID.
 
-## Practice Quiz: Search Engine Optimization (SEO)
-
 # Week 2 Summary: Search Engine Optimization (SEO)
 
 ## **Search Engine Optimization (SEO)**
@@ -3311,8 +3305,6 @@ In this module, you learned that:
 
 -   SEO tracking is the process of evaluating a campaign\'s
     effectiveness and development.
-
-## Graded Quiz: Search Engine Optimization (SEO)
 
 <!-- # [Week 3:]{.mark} -->
 
@@ -5139,8 +5131,6 @@ here's an overview of the process:
     communications. This key will remain valid for a limited time and
     only for that particular session.
 
-# Practice Quiz: Introduction to Web Build with Webpack
-
 # Week 3 Summary: Introduction to Automated Build Tools (Webpack)
 
 In this module (24), you learned that:
@@ -5168,8 +5158,6 @@ In this module (24), you learned that:
     applications.
 
 -   Some best practices can be implemented to optimize Webpack.
-
-# Graded Quiz: Introduction to Web Build with Webpack
 
 <!-- # [Week 4:]{.mark} -->
 
@@ -6474,8 +6462,6 @@ This course uses a third-party app, Hands-on Lab: Testing a React
 Application using Jasmine, to enhance your learning experience. The app
 will reference basic information like your name, email, and Coursera ID.
 
-# Practice Quiz: JavaScript Optimization and Testing Frameworks
-
 # Week 4 Summary: Cross-Browser JavaScript Optimization and Testing Frameworks
 
 In this module, you learned that:
@@ -6506,8 +6492,6 @@ In this module, you learned that:
 
 -   Front-end testing tools ensure proper functionality of the critical
     elements of a web page.
-
-# Graded Quiz: JavaScript Optimization and Testing Frameworks
 
 <!-- # [Week 5:]{.mark} -->
 
@@ -6753,7 +6737,6 @@ In this module (30), you learned about:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image366.png"
-  alt=""
   alt="5-31. Basic Debugging Concepts"
   style="width:500px;"/>
 </p>
@@ -6763,7 +6746,7 @@ Welcome to "Basic Debugging Concepts."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image367.png"
-  alt=""
+  alt="Module 31: Describe debugging strategies, identify types of bugs, and explain terminologies used in debugging."
   style="width:500px;"/>
 </p>
 
@@ -6782,7 +6765,7 @@ After reading this module (31), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image368.png"
-  alt=""
+  alt="Introduction to debugging."
   style="width:500px;"/>
 </p>
 
@@ -6795,7 +6778,7 @@ the cause based on the symptoms.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image369.png"
-  alt=""
+  alt="Debugging strategies: 9 useful strategies."
   style="width:500px;"/>
 </p>
 
@@ -6808,7 +6791,7 @@ Error-finding tools, and Hypotheses.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image370.png"
-  alt=""
+  alt="Debugging strategies: Incremental development and Debuggers."
   style="width:500px;"/>
 </p>
 
@@ -7462,7 +7445,7 @@ To access that option: First, toggle on the Inspect mode.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image416.png"
-  alt=""
+  alt="Visualizing websites on different mobile screen types."
   style="width:500px;"/>
 </p>
 
@@ -7472,7 +7455,7 @@ of the DevTools. Lastly, choose your preferred mobile device.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image417.png"
-  alt=""
+  alt="Monitoring resources using devtools."
   style="width:500px;"/>
 </p>
 
@@ -7487,7 +7470,7 @@ to see how your website performs on different platforms.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image418.png"
-  alt=""
+  alt="Recap module 33; devtools."
   style="width:500px;"/>
 </p>
 
@@ -7526,7 +7509,7 @@ Welcome to "Monitoring your Website."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image420.png"
-  alt=""
+  alt="Module 34; Explain, describe, discuss and define website monitoring."
   style="width:500px;"/>
 </p>
 
@@ -7547,7 +7530,7 @@ After reading this module (34), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image421.png"
-  alt=""
+  alt="Introduction to website monitoring."
   style="width:500px;"/>
 </p>
 
@@ -7561,7 +7544,7 @@ errors that could have a negative impact.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image422.png"
-  alt=""
+  alt="Advantages of website monitoring."
   style="width:500px;"/>
 </p>
 
@@ -7581,7 +7564,7 @@ revenue flowing.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image423.png"
-  alt=""
+  alt="Methods of website monitoring."
   style="width:500px;"/>
 </p>
 
@@ -7591,7 +7574,7 @@ real user monitoring.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image424.png"
-  alt=""
+  alt="Automated monitoring."
   style="width:500px;"/>
 </p>
 
@@ -7606,7 +7589,7 @@ various steps to complete the process of web monitoring.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image425.png"
-  alt=""
+  alt="Steps to automated website monitoring."
   style="width:500px;"/>
 </p>
 
@@ -7625,7 +7608,7 @@ mimicking the user\'s interaction with the site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image426.png"
-  alt=""
+  alt="Additional steps to automated website monitoring."
   style="width:500px;"/>
 </p>
 
@@ -7645,7 +7628,7 @@ website\'s performance and availability.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image427.png"
-  alt=""
+  alt="Real User Monitoring."
   style="width:500px;"/>
 </p>
 
@@ -8081,8 +8064,6 @@ Errors with Chrome Dev Tools, to enhance your learning experience. The
 app will reference basic information like your name, email, and Coursera
 ID.
 
-## Practice Quiz: Debugging and Monitoring Websites
-
 # Week 5 Summary: Debugging and Troubleshooting
 
 In week 5, you learned that:
@@ -8115,8 +8096,6 @@ In week 5, you learned that:
 -   By providing various tools, monitoring tools enable developers to
     create compelling software.
 
-## Graded Quiz: Debugging and Troubleshooting
-
 <!-- # [Week 6:]{.mark} -->
 
 <h1 id="ch6">WEEK 6</h1>
@@ -8131,22 +8110,21 @@ Network Privacy policy, your Username and Email will be passed to Skills
 Network Labs and will only be used for communicating important
 information to enhance your learning experience.
 
-In case you are having issues with the Lab environment, you can view the
-lab by clicking this
-[link](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-WD0231EN-SkillsNetwork/labs/FinalProject/02-Instructions.md.html).
+In case you are having issues with the Lab environment, <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-WD0231EN-SkillsNetwork/labs/FinalProject/02-Instructions.md.html">you can view the
+lab by clicking this Lab Link</a>.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center">
-  <img src="./assets/images/image454.png"
-  alt="Semi-circle with 'We're starting up your lab environment now.'."
-  style="width:500px;"/>
-</p>
+<!-- <p align="center"> -->
+<!--   <img src="./assets/images/image454.png" -->
+<!--  alt="Semi-circle with 'We're starting up your lab environment now.'." -->
+<!--  style="width:500px;"/> -->
+<!-- </p> -->
 
 This course uses a third-party app, Final Project: Interest Rate
 Calculator, to enhance your learning experience. The app will reference
 basic information like your name, email, and Coursera ID.
 
-# Peer-graded Assignment: Final Submission and Evaluation
+# Assignment: Summary and Evaluation
 
 There are 10 points for nine tasks in this final project. Your peers who
 will grade your final assignment are also completing this assignment
@@ -8215,4 +8193,4 @@ and drop the file icon onto the window.*
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-<!-- Aug 6, 2023 5:10pm -->
+<!-- Aug 8, 2023 7:26pm -->
