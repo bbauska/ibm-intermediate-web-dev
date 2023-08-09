@@ -5168,7 +5168,7 @@ In this module (24), you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image270.png"
-  alt="4-24. JavaScript Optimization"
+  alt="4-24. JavaScript Optimization."
   style="width:500px;"/>
 </p>
 
@@ -5177,7 +5177,8 @@ Welcome to JavaScript Optimization.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image271.png"
-  alt=""
+  alt="Module 24; define, explain and identify web optimization. Then define how JS can 
+    improve performance."
   style="width:500px;"/>
 </p>
 
@@ -5193,7 +5194,7 @@ application's performance.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image272.png"
-  alt=""
+  alt="What is javascript and web optimization?"
   style="width:500px;"/>
 </p>
 
@@ -5209,7 +5210,7 @@ interactive as possible.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image273.png"
-  alt=""
+  alt="Key factors of web optimization."
   style="width:500px;"/>
 </p>
 
@@ -5229,7 +5230,7 @@ website behaves, the happier the end users are.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image274.png"
-  alt=""
+  alt="Web performance optimization tips."
   style="width:500px;"/>
 </p>
 
@@ -5251,7 +5252,7 @@ programs for data compression and decompression.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image275.png"
-  alt=""
+  alt="Web performance optimization tips."
   style="width:500px;"/>
 </p>
 
@@ -5271,7 +5272,7 @@ videos or replaced with an HTML5 video tag.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image276.png"
-  alt=""
+  alt="Web performance optimization tips."
   style="width:500px;"/>
 </p>
 
@@ -5291,7 +5292,7 @@ a single package. Only use third-party frameworks when necessary.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image277.png"
-  alt=""
+  alt="Javascript optimizatoin tips."
   style="width:500px;"/>
 </p>
 
@@ -5311,7 +5312,7 @@ and time lag and improving overall application performance.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image278.png"
-  alt=""
+  alt="Javascipt optimization tips."
   style="width:500px;"/>
 </p>
 
@@ -5329,7 +5330,7 @@ faster.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image279.png"
-  alt=""
+  alt="Recap module 24; Web site performance."
   style="width:500px;"/>
 </p>
 
@@ -5363,7 +5364,7 @@ Welcome to Popular Optimization Tools!
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image281.png"
-  alt=""
+  alt="Module 25; Identify approaches to web optimization and list tools to be used."
   style="width:500px;"/>
 </p>
 
@@ -5379,7 +5380,8 @@ After reading this module (25), you'll be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image282.png"
-  alt=""
+  alt="Approach to web optimization; make website appealing, determine what's wrong with current site 
+    and select tools for potential problems."
   style="width:500px;"/>
 </p>
 
@@ -5393,7 +5395,7 @@ available software tools to look for potential issues.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image283.png"
-  alt=""
+  alt="Approach to web optimization."
   style="width:500px;"/>
 </p>
 
@@ -5406,7 +5408,7 @@ website.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image284.png"
-  alt=""
+  alt="Page Speed Optimization.  Assess what is slowing the page down."
   style="width:500px;"/>
 </p>
 
@@ -5421,17 +5423,17 @@ Caching content, and Using faster hosting servers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image285.png"
-  alt=""
+  alt="Page Speed Optimization Tools; PageSpeed insights, GTmetrix, Pingdom, and webpagetest."
   style="width:500px;"/>
 </p>
 
 Some of the popular page speed optimization tools include: PageSpeed
-Insights Gtmetrix Pingdom, and WebPageTest.
+Insights, Gtmetrix, Pingdom, and WebPageTest.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image286.png"
-  alt=""
+  alt="UX Optimization Tools."
   style="width:500px;"/>
 </p>
 
@@ -5447,11 +5449,11 @@ conducting user research.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image287.png"
-  alt=""
+  alt="Popular User Optimization tools include; Hotjar, UserTesting, TryMyUI, and UsabilityHub."
   style="width:500px;"/>
 </p>
 
-Some of the popular UX optimization tools include: Hotjar UserTesting
+Some of the popular UX optimization tools include: Hotjar, UserTesting, 
 TryMyUI, and UsabilityHub.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5531,7 +5533,9 @@ Some of the popular JavaScript optimization tools include: JS Minifier
 is a web-based tool to compress JavaScript code to make it as light as
 possible. JSMIN is a popular JavaScript minifier that removes
 unnecessary characters (such as spaces and tabs) and comments, reducing
-the file size of your script. Flow, which is a static type of JavaScript
+the file size of your script. 
+
+Flow, which is a static type of JavaScript
 code checker that works hard to increase your productivity, making your
 code faster, smarter, more confident, and more broadly applicable.
 
@@ -5633,6 +5637,7 @@ Front-end testing is a method of testing the Graphical User Interface
 (GUI), functionality, and usability of web applications or software. The
 goal of front-end testing is to ensure that the presentation layer of
 web applications or software is defect free with subsequent updates.
+
 Front-end testing is also performed for: CSS Regression Testing for
 minor CSS changes that break the front-end layout. JS file changes that
 render the front-end unusable. and performance evaluations.
@@ -5666,7 +5671,9 @@ Following that, we will learn about Integration testing. Testing units
 in isolation is valuable and necessary, but you must also test the
 integrations between both units, as well as between units and external
 dependencies, if you want to ensure that your application works as
-intended. Finally, let's learn about behavior-driven development (BBD).
+intended. 
+
+Finally, let's learn about behavior-driven development (BBD).
 BDD is not related to development. It's a collection of best practices.
 BDD enables you to write great test cases when those practices are
 applied to automation testing. It\'s written in an English-like language
@@ -5681,15 +5688,17 @@ intent and scope of automated tests.
   style="width:500px;"/>
 </p>
 
-Let\'s look at some of the benefits of the testing framework. The first
-benefit is that testing frameworks help to make the project more agile.
+Let\'s look at some of the benefits of the testing framework.
+
+The first benefit is that testing frameworks help to make the project more agile.
 When you add a new feature, you may need to change the old code.
 Changing previously tested code is both expensive and risky. Testing
 frameworks assist you in running unit tests on new code to ensure that
-it does not break any existing features. The next benefit is that it
-helps find bugs early. As a developer, you can use the testing framework
-to find and fix bugs on your own, which will improve code quality and
-make testing easier.
+it does not break any existing features. 
+
+The next benefit is that it helps find bugs early. As a developer, you can 
+use the testing framework to find and fix bugs on your own, which will 
+improve code quality and make testing easier.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5721,6 +5730,7 @@ frameworks. First, let's learn about Jest. The React development team
 officially supports Jest. Jest is a JavaScript testing framework that
 places an emphasis on simplicity. It is compatible with projects written
 in Babel, TypeScript, Node, React, Angular, Vue, and other languages.
+
 Next, we will learn about Playwright. Playwright is a web testing and
 automation framework. It enables the testing of Chromium, Firefox, and
 WebKit using a single API. Playwright is designed to enable
@@ -5738,7 +5748,9 @@ The next framework is Mocha. Mocha is a feature-rich JavaScript test
 framework that runs on Node.js and in the browser to make asynchronous
 testing easy and fun. Mocha tests are executed sequentially, allowing
 for flexible and accurate reporting while mapping undetected exceptions
-to the appropriate test cases. Let's now look at Cypress. Cypress is a
+to the appropriate test cases. 
+
+Let's now look at Cypress. Cypress is a
 JavaScript-based end-to-end testing framework built on Mocha that makes
 asynchronous testing simple and easy. To pair with any JavaScript
 testing framework, the Cypress testing library also employs a BDD/TDD
@@ -5755,7 +5767,9 @@ The next JavaScript framework that we will discuss is Jasmine. Jasmine
 is a behavior-driven development framework for JavaScript code testing.
 It is independent of any other JavaScript framework. It does not require
 the use of a DOM. It also has a clear syntax that makes it simple to
-write tests. The last framework that we will discuss is Puppeteer.
+write tests. 
+
+The last framework that we will discuss is Puppeteer.
 Puppeteer is a Node.js library that allows you to control
 Chrome/Chromium via the DevTools Protocol. Puppeteer is designed to run
 in headless mode by default, but it can also be configured to run in
