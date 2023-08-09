@@ -203,3 +203,7 @@ img {
     border-color: #778899;
     border-style: solid; 
   }
+p {
+  font-size: 13.5px;
+  font-family: Bahnschrift;
+}
