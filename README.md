@@ -1672,6 +1672,7 @@ The seller is attracted to marketplaces by potential customers.
 </p>
 
 Let's discuss some easy ways to include marketplaces on your website.
+
 WooCommerce, WP e-commerce, and BigCommerce are service providers that
 allow you to create an online store. If you have WordPress installed,
 enter the "marketplace" query on the official WordPress repository.
@@ -1694,13 +1695,15 @@ existing website.
   style="width:500px;"/>
 </p>
 
-Here are the steps to add the Shopify Buy button to your website. Add
-the Buy Button sales channel. Select the plus button next to the Sales
-channels heading in your Shopify admin. In the Add sales channel dialog
-box, select the Buy Button to learn more about the Sales channel. Select
-Add channel. To create a Buy button, go back to your Shopify admin and
-go to the Buy Button. Select Create a Buy Button. Select the Product Buy
-Button.
+Here are the steps to add the Shopify Buy button to your website. 
+  - Add the Buy Button sales channel. Select the plus button next to the Sales
+  channels heading in your Shopify admin. 
+  - In the Add sales channel dialog box, select the Buy Button to learn more about 
+  the Sales channel. 
+  - Select Add channel. 
+  - To create a Buy button, go back to your Shopify admin and go to the Buy Button. 
+  - Select Create a Buy Button.
+  - Select the Product Buy Button.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1724,16 +1727,19 @@ attractive e-commerce store and an intuitive back-end dashboard.
 </p>
 
 There are various options available for website builders. This session
-will discuss the popular platforms: Wix, Weebly, and Squarespace. Wix is
-one of the most popular website builders that cater to a wide range of
+will discuss the popular platforms: Wix, Weebly, and Squarespace. 
+
+Wix is one of the most popular website builders that cater to a wide range of
 users. You do not need programming skills to create a website on Wix. It
-provides various templates to customize your website. Weebly is a
-popular platform that has over forty million users. It has a no-frills
+provides various templates to customize your website. 
+
+Weebly is a popular platform that has over forty million users. It has a no-frills
 approach to website design. You can create a mobile-responsive website
 using their templates. Moreover, you can study your progress using their
-back-end metrics. Squarespace is another easy-to-use tool that offers
-various templates to build and launch a customized online store and
-website in minutes.
+back-end metrics. 
+
+Squarespace is another easy-to-use tool that offers various templates to build and 
+launch a customized online store and website in minutes.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1827,18 +1833,19 @@ After reading this module (08), you will be able to:
   style="width:500px;"/>
 </p>
 
-Search engine optimization (SEO) refers to techniques that help a
-website rank higher in organic search results, making it more visible to
-people looking for the product or service online. Search engines scan
-the Internet for text that matches certain criteria. This text, a
-crucial website element, is called a keyword. The titles, headings, and
-links that form the content of a webpage are also important factors that
-a search engine considers when ranking a website. SEO is a subset of
-Search Engine Marketing (SEM), a broad term that contains all search
-marketing strategies. Organic and paid searches are both included in
-SEM. Paid search requires you to pay to have your website listed on a
-search engine so that it appears when someone types a specific keyword
-or phrase.
+  - Search engine optimization (SEO) refers to techniques that help a
+  website rank higher in organic search results, making it more visible to
+  people looking for the product or service online. 
+
+  - Search engines scan the Internet for text that matches certain criteria. 
+  This text, a crucial website element, is called a keyword. 
+	- The titles, headings, and links that form the content of a webpage 
+	are also important factors that a search engine considers when ranking a website. 
+
+  - SEO is a subset of Search Engine Marketing (SEM), a broad term that contains all search 
+  marketing strategies. Organic and paid searches are both included in SEM. 
+	- Paid search requires you to pay to have your website listed on a search engine so 
+	that it appears when someone types a specific keyword or phrase.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1847,17 +1854,18 @@ or phrase.
   style="width:500px;"/>
 </p>
 
-Let's describe how a search engine works. A search engine needs an
-archive of available information to choose from to display results when
-someone types a query. Every search engine has proprietary methods to
-gather and prioritize website content, known as indexing. A search
-engine index is a data collection used to generate the final search
-result. Search engines scan the Internet and index all the information
-displayed to users when they enter a search query. Every search engine
-has bots, or crawlers, that crawl the web constantly, indexing websites
-for content and following links on each webpage to other web pages.
-Indexing your website is essential as it will only appear in search
-results if it is done.
+Let's describe how a search engine works;
+
+  - A search engine needs an archive of available information to choose from to display 
+  results when someone types a query. Every search engine has proprietary methods to
+  gather and prioritize website content, known as indexing. 
+  - A search engine index is a data collection used to generate the final search
+  result. 
+  - Search engines scan the Internet and index all the information displayed to users when 
+  they enter a search query. 
+  - Every search engine has bots, or crawlers, that crawl the web constantly, indexing 
+  websites for content and following links on each webpage to other web pages. 
+  - Indexing your website is essential as it will only appear in search results if it is done.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1880,15 +1888,15 @@ Let's discuss each of them in detail.
 
 Technical SEO, as the name suggests, relates to the settings that need
 to be set up to facilitate the task of search engine crawlers. Note that
-crawling and indexing issues can harm your rankings. Another type of SEO
-is on-page SEO, which is primarily concerned with the content and other
-elements found on a page. Unlike technical SEO, on-page SEO primarily
-aims to provide enough signals to search engine crawlers so that they
-can understand the meaning and context of the content. This is done
-using website structure, SEO keywords, title optimizations, headings,
-internal links, image SEO, structured data markup, and other techniques.
-When done correctly, on-page SEO will improve a website\'s or blog\'s
-usability and credibility.
+crawling and indexing issues can harm your rankings. 
+
+Another type of SEO is on-page SEO, which is primarily concerned with the content and 
+other elements found on a page. Unlike technical SEO, on-page SEO primarily aims to 
+provide enough signals to search engine crawlers so that they can understand the 
+meaning and context of the content. This is done using website structure, SEO 
+keywords, title optimizations, headings, internal links, image SEO, structured 
+data markup, and other techniques.  When done correctly, on-page SEO will improve 
+a website\'s or blog\'s usability and credibility.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
