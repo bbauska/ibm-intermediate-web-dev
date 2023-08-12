@@ -3239,6 +3239,9 @@ don\'ts\" to keep in mind when developing your online strategy.
     </tbody>
 </table>
 
+<p>cont'd</p>
+
+| <b>Do's<b>                      | <b>Don'ts</b>                      |
 | :------------------------------ | :--------------------------------- |
 |                                 |                                    |
 |                                 | <b>Don\'t link to external websites</b>|
