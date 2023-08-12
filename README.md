@@ -4846,23 +4846,26 @@ Welcome to "Webpack Best Practices."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image258.webp"
-  alt=""
+  alt="Webpack: Identify some best practices for optimizing Webpack."
   style="width:500px;"/>
 </p>
 
 After reading this module (22), you will be able to:
 
 -   Identify some important best practices for optimizing Webpack, and
+
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
 -   Describe the benefits of implementing some key best practices in
     Webpack.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image259.webp"
-  alt=""
+  alt="Webpack: Aids in building effective and optimized web apps, and is an excellent tool
+    for creating applications."
   style="width:500px;"/>
 </p>
 
@@ -4874,37 +4877,49 @@ out of it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image260.webp"
-  alt=""
+  alt="Optimizing Webpack."
   style="width:500px;"/>
 </p>
 
 In this module (22), we will learn about a few best practices for
 optimizing Webpack to ensure that your applications are optimized and
-efficient. The best practices we will explore in this session include:
-Production builds, Using source maps, Lazy loading modules, Exclusion
-and inclusion of files, Reusing modules, Splitting vendor bundles,
-Caching approach, and Tree shaking.
+efficient. 
+The best practices we will explore in this session include:
+
+  - Production builds, 
+  - Using source maps, 
+  - Lazy loading modules, 
+  - Exclusion and inclusion of files, 
+  - Reusing modules, 
+  - Splitting vendor bundles,
+  - Caching approach, and 
+  - Tree shaking.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image261.webp"
-  alt=""
+  alt="Production builds."
   style="width:500px;"/>
 </p>
 
 The first best practice that we will explore is using the production
-mode in Webpack. Using this mode has several benefits. It helps in
-performance optimization. Webpack implements a number of performance
+mode in Webpack. Using this mode has several benefits. 
+It helps in performance optimization. Webpack implements a number of performance
 improvements when used in the production mode, including code
 minification, tree shaking, and scope hoisting. These improvements
 accelerate the loading of your application and help reduce the size of
-the final output. Using the production mode also helps in debugging.
+the final output. 
+
+Using the production mode also helps in debugging.
 When running in the development mode, Webpack generates source maps that
-can trace back errors to their original source. The optimizations
-applied in the production mode can lead to a faster, more responsive
-user experience, as the application loads faster and runs more
-efficiently. To use the production mode in Webpack, you need to set the
-mode configuration option to \"production.\"
+can trace back errors to their original source. 
+
+The optimizations applied in the production mode can lead to a faster, more 
+responsive user experience, as the application loads faster and runs more
+efficiently.
+
+To use the production mode in Webpack, you need to set the mode configuration option 
+to \"production.\"
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image262.webp"
@@ -4912,14 +4927,17 @@ mode configuration option to \"production.\"
   style="width:500px;"/>
 </p>
 
-Another best practice related to using Webpack is the use of source
-maps. Webpack combines all the code in one or more bundles. These
-bundles can be difficult to debug as the code is minified, making it
-hard to read and understand. Source maps are a way to map the code back
-to its original source. This makes debugging simpler and effective as it
-enables developers to test their code in the same manner they would if
-it weren\'t bundled. Hence, source maps provide an easier way to debug
-and understand the code, especially in complex web development projects.
+Another best practice related to using Webpack is the use of source maps.
+Webpack combines all the code in one or more bundles. These bundles can be difficult 
+to debug as the code is minified, making it hard to read and understand. 
+
+Source maps are a way to map the code back to its original source. 
+
+This makes debugging simpler and effective as it enables developers to test their 
+code in the same manner they would if it weren\'t bundled. 
+
+Hence, source maps provide an easier way to debug and understand the code, 
+especially in complex web development projects.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4928,9 +4946,10 @@ and understand the code, especially in complex web development projects.
   style="width:500px;"/>
 </p>
 
-The third best practice is lazy loading. It is a technique of loading
-JavaScript modules only when they are needed, rather than loading them
-all at once when the application starts. After using the lazy-loaded
+The third best practice is lazy loading.
+
+It is a technique of loading JavaScript modules only when they are needed, 
+rather than loading them all at once when the application starts. After using the lazy-loaded
 modules, a large JavaScript file is divided into multiple small
 JavaScript files and the web page is loaded on demand. This accelerates
 the initial loading of the application and reduces its overall weight as
@@ -4943,14 +4962,18 @@ some blocks may never even be loaded.
   style="width:500px;"/>
 </p>
 
-Now, we will discuss the exclusion and inclusion of files. In Webpack,
-you can use the \"exclude\" and \"include\" options to specify which
+Now, we will discuss the exclusion and inclusion of files. 
+
+In Webpack, you can use the \"exclude\" and \"include\" options to specify which
 files should be included in the build output. The \"exclude\" option
-specifies the files not required to be compiled. For example: node
-modules. The \"include option\" specifies the files required to be
-compiled. For example: the src folder. By using the \"exclude\" and
-\"include\" options in Webpack, you can have greater control over which
-files are processed, which helps enhance compilation efficiency.
+specifies the files not required to be compiled. 
+
+For example: node modules. The \"include option\" specifies the files required to be
+compiled. 
+
+For example: the src folder. By using the \"exclude\" and \"include\" options in 
+Webpack, you can have greater control over which files are processed, which helps 
+enhance compilation efficiency.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4959,14 +4982,14 @@ files are processed, which helps enhance compilation efficiency.
   style="width:500px;"/>
 </p>
 
-The fifth best practice is reusing modules. Reusing modules in Webpack
-is a way to optimize your build by sharing common code between multiple
-parts of your application. This can help reduce the size of the final
-bundle, which makes it easier to maintain and debug. Reusing modules
-also helps save time and effort when building new projects.
-Additionally, by using pre-existing modules, programmers may ensure that
-their code complies with the latest standards and best practices related
-to improving the performance of your application.
+The fifth best practice is reusing modules. 
+
+Reusing modules in Webpack is a way to optimize your build by sharing common code 
+between multiple parts of your application. This can help reduce the size of the final
+bundle, which makes it easier to maintain and debug. Reusing modules also helps save 
+time and effort when building new projects. Additionally, by using pre-existing modules, 
+programmers may ensure that their code complies with the latest standards and best 
+practices related to improving the performance of your application.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4975,13 +4998,14 @@ to improving the performance of your application.
   style="width:500px;"/>
 </p>
 
-Next, we will discuss bundle splitting in Webpack. It is a way of
-breaking your application into smaller, independent chunks that can be
-loaded on demand, rather than loading the entire code of your
-application at once. A chunk is a group of modules that directly
-corresponds with the output bundle. Using SplitChunksPlugin, we can
-split up a chunk into smaller chunks. Bundle splitting is an effective
-way to optimize the performance of your Webpack builds and is
+Next, we will discuss bundle splitting in Webpack. 
+
+It is a way of breaking your application into smaller, independent chunks that can be
+loaded on demand, rather than loading the entire code of your application at once. A 
+chunk is a group of modules that directly corresponds with the output bundle. 
+
+Using SplitChunksPlugin, we can split up a chunk into smaller chunks. Bundle splitting 
+is an effective way to optimize the performance of your Webpack builds and is
 particularly useful for large applications with many dependencies. This
 helps reduce the size of the initial load, improving the performance of
 your application.
@@ -4993,18 +5017,21 @@ your application.
   style="width:500px;"/>
 </p>
 
-Another popular practice is caching. Caching in Webpack is a technique
-that allows the build process to save the results of previous builds so
-that future builds can be completed quickly. This helps improve
-performance by reducing the amount of time spent on loading resources
-and reducing the amount of bandwidth used. By employing caching
-techniques, developers can ensure that each bundle contains only the
-necessary files, thereby reducing the bundle size and accelerating
-builds. To implement caching strategies with Webpack, developers should
-use the webpack-bundle-analyzer plugin. Developers may use this plugin
-to examine their bundles and determine which files are duplicated or
-unnecessary. After these files are identified, developers can create an
-appropriate caching strategy for them.
+Another popular practice is caching.
+
+Caching in Webpack is a technique that allows the build process to save the results 
+of previous builds so that future builds can be completed quickly. This helps improve
+performance by reducing the amount of time spent on loading resources and reducing the 
+amount of bandwidth used. By employing caching techniques, developers can ensure that 
+each bundle contains only the necessary files, thereby reducing the bundle size and 
+accelerating builds. 
+
+To implement caching strategies with Webpack, developers should use the 
+webpack-bundle-analyzer plugin. Developers may use this plugin to examine their 
+bundles and determine which files are duplicated or unnecessary. 
+
+After these files are identified, developers can create an appropriate 
+caching strategy for them.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5014,13 +5041,15 @@ appropriate caching strategy for them.
 </p>
 
 The last best practice to optimize Webpack that we are going to discuss
-is tree shaking. It is an optimization technique used in Webpack to
-eliminate unused code from the final bundle. It analyzes the imported
-and exported modules in the code and removes the parts of the code not
-actually used by the application. This results in a smaller and more
-efficient bundle, which can improve performance and reduce the size of
-the application for the end user. In Webpack5, tree shaking is enabled
-by default in the production mode.
+is tree shaking. 
+
+It is an optimization technique used in Webpack to eliminate unused code from the 
+final bundle. It analyzes the imported and exported modules in the code and removes 
+the parts of the code not actually used by the application. This results in a smaller 
+and more efficient bundle, which can improve performance and reduce the size of
+the application for the end user. 
+
+In Webpack5, tree shaking is enabled by default in the production mode.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5048,7 +5077,7 @@ In this module (22), you learned that:
 -   Splitting vendor bundles is a method of dividing your application
     into smaller, self-contained chunks,
 
--   Caching enables the build process to save previous build results,
+-   Caching enables the build process to save previous build results, and
 
 -   Tree shaking removes unnecessary code from the final bundle.
 
@@ -5105,20 +5134,20 @@ SSL stands for Secure Sockets Layer, and, in short, it\'s the standard
 technology for keeping an internet connection secure and safeguarding
 any sensitive data that is being sent between two systems, preventing
 criminals from reading and modifying any information transferred,
-including potential personal details. The two systems can be a server
-and a client (for example, a shopping website and browser) or server to
-server (for example, an application with personal identifiable
+including potential personal details. 
+
+The two systems can be a server and a client (for example, a shopping website and 
+browser) or server to server (for example, an application with personal identifiable
 information or with payroll information).
 
-It does this by making sure that any data transferred between users and
-sites or between two systems remain impossible to read. It uses
-encryption algorithms to scramble data in transit, preventing hackers
-from reading it as it is sent over the connection. This information
-could be anything sensitive or personal which can include credit card
-numbers and other financial information, names, and addresses.
+It does this by making sure that any data transferred between users and sites or 
+between two systems remain impossible to read. It uses encryption algorithms to 
+scramble data in transit, preventing hackers from reading it as it is sent over 
+the connection. This information could be anything sensitive or personal which 
+can include credit card numbers and other financial information, names, and 
+addresses.
 
-TLS (Transport Layer Security) is just an updated, more secure version
-of SSL.
+TLS (Transport Layer Security) is just an updated, more secure version of SSL.
 
 ## How Does an SSL Certificate Work?
 
@@ -5135,17 +5164,17 @@ To give a better understanding of how those encryption techniques work,
 here's an overview of the process:
 
 -   First, a website owner purchases an SSL certificate from a
-    Certificate Authority (CA) and installs it on their site.
+    Certificate Authority (CA) and installs it on their site,
 
 -   When a visitor navigates through the website, the browser and the
-    web server establish an SSL connection using a method called **SSL
-    handshake**.
+    web server establish an SSL connection using a method called <b>SSL
+    handshake</b>,
 
 -   During the SSL handshake, the browser asks the server for its SSL
-    certificate and public key to prove its validity.
+    certificate and public key to prove its validity,
 
 -   Once the certificate is verified, the browser and web server
-    exchange private and public keys to create a symmetric session key.
+    exchange private and public keys to create a symmetric session key, and
 
 -   Both parties then use this symmetric key to encrypt all
     communications. This key will remain valid for a limited time and
@@ -5205,9 +5234,11 @@ Welcome to JavaScript Optimization.
 After reading this module (24), you will be able to: 
   - Define web optimization and JavaScript, 
   - Explain how web optimization impacts website success factors, 
+
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
   - Identify some popular web performance optimization methods, and 
   - Define how JavaScript can improve a web application's performance.
 
@@ -5220,10 +5251,13 @@ After reading this module (24), you will be able to:
 
 Web optimization determines how quickly a website loads and becomes
 responsive and interactive and how smoothly the content is presented
-when users interact with it. JavaScript is capable of producing highly
-interactive websites that actively engage the user. However, increased
-engagement levels can negatively impact a website's usability. It is
-important to minimize loading and response times and add additional
+when users interact with it. 
+
+JavaScript is capable of producing highly interactive websites that actively engage 
+the user. However, increased engagement levels can negatively impact a website's 
+usability. 
+
+It is important to minimize loading and response times and add additional
 features to conceal inactivity by making the experience as available and
 interactive as possible.
 
@@ -5235,17 +5269,22 @@ interactive as possible.
 </p>
 
 Web optimization impacts the crucial factors that determine website
-success. The first factor is conversion rate. This metric is crucial for
+success. 
+
+The first factor is conversion rate. This metric is crucial for
 a business\'s success as it indicates that the target audience completes
 the actions you want them to perform, such as purchasing a product,
 subscribing to a newsletter, registering for a webinar, or downloading a
 step-by-step guide. The higher the conversion rate, the faster the
-loading time. Another important factor is visibility. Page speed is a
+loading time. 
+
+Another important factor is visibility. Page speed is a
 critical ranking factor. A low-performing website with poor user
 experience and long loading times will be penalized by search engines
-and have a lower SERP ranking. The last factor is website usability,
-which helps to increase or establish customer loyalty. The better the
-website behaves, the happier the end users are.
+and have a lower SERP ranking. 
+
+The last factor is website usability, which helps to increase or establish customer 
+loyalty. The better the website behaves, the happier the end users are.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5256,14 +5295,17 @@ website behaves, the happier the end users are.
 
 Let's now talk about a few web performance optimization methods.
 
-Content delivery networks (CDNs) were created to address the issues
-associated with network communication delays. A version of the content
-is stored in various geographical locations by CDN. By handling the
-performance middle mile, a CDN brings the user closer to resources. The
-number of trips the server makes is significantly reduced, resulting in
+<b><i>Content delivery networks (CDNs)</i></b> 
+
+CDNs were created to address the issues associated with network communication delays. 
+A version of the content is stored in various geographical locations by CDN. By 
+handling the performance middle mile, a CDN brings the user closer to resources. 
+The number of trips the server makes is significantly reduced, resulting in
 a faster loading process.
 
-File Compression The HTML, JS, and CSS code files are the foundation of
+<b><i>File Compression</i></b>
+
+The HTML, JS, and CSS code files are the foundation of
 every website. The longer it takes to load a page, the more complex it
 is. These large code files should be compressed to their original size
 to improve site responsiveness. You can use GZip and other well-known
@@ -5276,13 +5318,18 @@ programs for data compression and decompression.
   style="width:500px;"/>
 </p>
 
-Resource minification Resource minification removes unnecessary code
+<b><i>Resource minification</i></b>
+
+Resource minification removes unnecessary code
 redundancy from CSS, HTML, and JavaScript, resulting in smaller page
 sizes. Reducing the amount of code that needs to be fetched from the
 server speeds up front-end loading. The tool used to generate minified
 codes for JavaScript is JSMin, CSS is cssmin and YUI Compressor, and for
-HTML is PageSpeed Insights. Optimize Images and videos. High-resolution
-images and videos significantly slow down the rendering process.
+HTML is PageSpeed Insights.
+
+<b><i>Optimize Images and videos</i></b>
+
+High-resolution images and videos significantly slow down the rendering process.
 Compressing images without sacrificing quality is possible with tools
 like Compressor.io, JPEGmini, and TinyPNG. HTML responsive images and
 attributes can also be used as it adjusts image size based on the
@@ -5296,14 +5343,19 @@ videos or replaced with an HTML5 video tag.
   style="width:500px;"/>
 </p>
 
-Use caching When a user visits a website, the elements are saved in a
+<b><i>Use caching</i></b>
+
+When a user visits a website, the elements are saved in a
 temporary hard drive storage area known as a cache. Caching saves a copy
 of the latest version of the website on the hosting server and allows
 the user to access the cached copy rather than the original copy later.
 This practice enables the pages to load faster. There are various types
 of caching, such as browser cache, cache server, memory cache, and disc
-cache, that help to increase delivery speed. Minimize HTTP Requests If
-your website makes a lot of HTTP requests, the web pages will take
+cache, that help to increase delivery speed. 
+
+<b><i>Minimize HTTP Requests</i></b>
+
+If your website makes a lot of HTTP requests, the web pages will take
 longer to load. Determine the number of HTTP requests and then use some
 techniques to reduce the number of requests. Avoid using extra plugins,
 images, JavaScript, and CSS. Combine your JavaScript and CSS files into
@@ -5312,22 +5364,30 @@ a single package. Only use third-party frameworks when necessary.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image277.webp"
-  alt="Javascript optimizatoin tips."
+  alt="Javascript optimization tips."
   style="width:500px;"/>
 </p>
 
 JavaScript is becoming a popular language for creating web applications.
 Here are some important points on how JavaScript can improve the
-performance of your web application. Asynchronous programming The
-async.js feature of JavaScript aids in the efficient management of
+performance of your web application. 
+
+<b><i>Asynchronous programming</i></b>
+
+The async.js feature of JavaScript aids in the efficient management of
 asynchronous codes. As a result, async code is pushed to an event queue,
-where it executes after all other code has been completed. Light and
-small code files Keeping the code light and small reduces latency and
-increases speed. Multiple JS files can be combined into one to improve
-application performance. Gzip compression Most clients and servers use
-Gzip as a compression and decompression software application. It
-compresses large JavaScript files and saves bandwidth, reducing latency
-and time lag and improving overall application performance.
+where it executes after all other code has been completed.
+
+<b><i>Light and small code files</i></b>
+
+Keeping the code light and small reduces latency and increases speed. Multiple JS 
+files can be combined into one to improve application performance. 
+
+<b><i>Gzip compression</i></b>
+
+Most clients and servers use Gzip as a compression and decompression software 
+application. It compresses large JavaScript files and saves bandwidth, reducing 
+latency and time lag and improving overall application performance.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5336,16 +5396,23 @@ and time lag and improving overall application performance.
   style="width:500px;"/>
 </p>
 
-Utilize HTTP/2 HTTP/2 uses multiplexing, allowing multiple responses and
+<b><i>Utilize HTTP/2</i></b>
+
+HTTP/2 uses multiplexing, allowing multiple responses and
 requests to be sent simultaneously. It improves not only JavaScript
-performance but also website speed. Avoid Unnecessary Loops Unnecessary
-looping is unfavorable. Try to do as much work as possible outside of
+performance but also website speed.
+
+<b><i>Avoid Unnecessary Loops</i></b>
+
+Unnecessary looping is unfavorable. Try to do as much work as possible outside of
 loops because the faster the loops get, the less you loop. Loops place
 additional strain on the browser and slow down the entire process.
-Placement of Scripts JavaScript should be placed at the bottom of the
-page to improve both rendering progress and download parallelization. It
-will save the total amount of code required and make the page load
-faster.
+
+<b><i>Placement of Scripts</i></b>
+
+JavaScript should be placed at the bottom of the page to improve both rendering 
+progress and download parallelization. It will save the total amount of code 
+required and make the page load faster.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
