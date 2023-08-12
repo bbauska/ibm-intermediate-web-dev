@@ -1,7 +1,7 @@
 ---
 title: "IBM's Intermediate Web & Front-end Development"
 author: "bbauska"
-date last editted: "8/9/2023 12+pm"
+date last editted: "8/11/2023 7+pm"
 output: 
   markdown:
     with_style
@@ -12,7 +12,7 @@ output:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image001.png" 
+  <img src="./assets/images/image001.webp" 
   alt="Intermediate Web &amp; Front-end Development" 
   style="border: 2px solid  gray;" 
   width="500" />
@@ -117,7 +117,7 @@ here is the first step towards a long and rewarding career as a web
 developer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image002.png"
+  <img src="./assets/images/image002.webp"
   alt="To complete this course, you should be familiar with the following knowledge."
   width="500" />
 </p>
@@ -144,7 +144,7 @@ technical aspect of web and front-end application development.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image003.png"
+  <img src="./assets/images/image003.webp"
   alt="When you complete this course, you will be able to:"
   width="500" />
 </p>
@@ -184,7 +184,7 @@ excited you're here. Let's get started!
 <h1 id="ch1-02">02. Introduction to Content Management System (CMS)</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image004.png"
+  <img src="./assets/images/image004.webp"
     alt="Introduction to Content Management System (CMS)."
     width="500" />
 </p>
@@ -196,7 +196,7 @@ Welcome to "Introduction to Content Management System (CMS)"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image005.png"
+  <img src="./assets/images/image005.webp"
     alt="After reading, you will be able to: Define CMS, List several CMS platforms and Recognize the benefits of using CMS."
     width="500" />
 </p>
@@ -216,7 +216,7 @@ After reading this module (02), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image006.png"
+  <img src="./assets/images/image006.webp"
     alt="What is Content Management System?"
     style="width:500px;"/>
 </p>
@@ -238,7 +238,7 @@ and makes it visible to website visitors.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image007.png"
+  <img src="./assets/images/image007.webp"
     alt="There are 3 common typoe of CMS;  Web CMS, Digital CMS, and Enterprise CMS."
     style="width:500px;"/>
 </p>
@@ -258,14 +258,14 @@ time.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image008.png"
-    alt="Examples of proprietary and open-source CMS software." style="width:350px;"/>
-  <img src="./assets/images/image009.png"
-    alt="More examples of proprietary and open-source CMS software." style="width:350px;"/>
+  <img src="./assets/images/image008.webp"
+    alt="Examples of proprietary and open-source CMS software."
+	style="width:350px;"/>
+  <img src="./assets/images/image009.webp"
+    alt="More examples of proprietary and open-source CMS software."
+	style="width:350px;"/>
 </p>
-<!-- ![](./assets/images/image008.png){width="3.0in" -->
-<!-- height="1.6705129046369205in"}![](./assets/images/image009.png){width="3.0in" -->
-<!-- height="1.6756408573928259in"} -->
+<!-- {width="3.0in" height="1.6705129046369205in"}! -->
 
 There is both proprietary and open-source CMS software. Some examples
 are WordPress, Drupal, Joomla, Magento, Squarespace, Wix, and HubSpot.
@@ -276,7 +276,7 @@ software are available, depending on how developers want to use them.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image010.png"
+  <img src="./assets/images/image010.webp"
   alt="Benefits of CMS Software." 
   style="width:500px;"/>
 </p>
@@ -301,7 +301,7 @@ managed by a smaller group or by a person, reducing the website\'s cost.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image011.png"
+  <img src="./assets/images/image011.webp"
   alt="Additional Benefits of CMS Software." 
   style="width:500px;"/>
 </p>
@@ -316,7 +316,7 @@ customize the website and extend its capabilities.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image012.png"
+  <img src="./assets/images/image012.webp"
   alt="Choosing a CMS." 
   style="width:500px;"/>
 </p>
@@ -341,7 +341,7 @@ CMS for you and your website!
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image013.png"
+  <img src="./assets/images/image013.webp"
   alt="Module Summary (02)." 
   style="width:500px;"/>
 </p>
@@ -377,7 +377,7 @@ In this module (02), you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image014.png"
+  <img src="./assets/images/image014.webp"
   alt="Features of Web CMS." 
   style="width:500px;"/>
 </p>
@@ -386,7 +386,7 @@ Welcome to "Features of Web CMS."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image015.png"
+  <img src="./assets/images/image015.webp"
   alt="What you will learn in Module 03 - Features of Web CMS."
   style="width:500px;"/>
 </p>
@@ -411,7 +411,7 @@ website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image016.png"
+  <img src="./assets/images/image016.webp"
   alt="What is WCMS - Web Content Management System?" 
   style="width:500px;"/>
 </p>
@@ -424,7 +424,7 @@ using programming languages like XML and .Net.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image017.png"
+  <img src="./assets/images/image017.webp"
   alt="Types of WCMSs: No-code and Code." 
   style="width:500px;"/>
 </p>
@@ -448,10 +448,10 @@ essential characteristics of WCMS.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image018.png"
+  <img src="./assets/images/image018.webp"
     alt="A WCMS enables a user to accomplish the following tasks." 
 	style="width:350px;"/>
-  <img src="./assets/images/image019.png"
+  <img src="./assets/images/image019.webp"
     alt="More tasks accomplised with WCMS software."
 	style="width:350px;"/>
 </p>
@@ -476,10 +476,10 @@ include:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image020.png"
+  <img src="./assets/images/image020.webp"
     alt="WCMS enables a user to accomplish the following additional tasks." 
 	style="width:350px;"/>
-  <img src="./assets/images/image021.png"
+  <img src="./assets/images/image021.webp"
     alt="WCMS enables a user to accomplish the following additional tasks." 
 	style="width:350px;"/>
 </p>
@@ -501,7 +501,7 @@ Here are the additional tasks that a WCMS enables a user to accomplish:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image022.png"
+  <img src="./assets/images/image022.webp"
   alt="Enterprise CMS: Manage content throughout the lifecycle intelligently." 
   style="width:500px;"/>
 </p>
@@ -515,7 +515,7 @@ strategy and aligns with its routine business operations.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image023.png"
+  <img src="./assets/images/image023.webp"
   alt="Module 3 Summary: WCMS." 
   style="width:500px;"/>
 </p>
@@ -539,7 +539,7 @@ In this module (03), you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image024.png"
+  <img src="./assets/images/image024.webp"
   alt="Welcome to Popular CMS Platofrms/Tools (04)." 
   style="width:500px;"/>
 </p>
@@ -548,7 +548,7 @@ Welcome to "Popular CMS platforms/tools."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image025.png"
+  <img src="./assets/images/image025.webp"
   alt="Summary Module 04: Explain Headless CMS and Identify popular CMS Platforms and Tools."
   style="width:500px;"/>
 </p>
@@ -565,7 +565,7 @@ After reading this module (04), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image026.png"
+  <img src="./assets/images/image026.webp"
   alt="Headless CMSs: True Integration." 
   style="width:500px;"/>
 </p>
@@ -587,7 +587,7 @@ matters. This is the power that a headless CMS has.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image027.png"
+  <img src="./assets/images/image027.webp"
   alt="Headless CMS: to deliever content to the different channels." 
   style="width:500px;"/>
 </p>
@@ -605,7 +605,7 @@ from the front end.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image028.png"
+  <img src="./assets/images/image028.webp"
   alt="WordPress and Joomla CMS Platforms."
   style="width:500px;"/>
 </p>
@@ -624,7 +624,7 @@ options and constant feature updates.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image029.png"
+  <img src="./assets/images/image029.webp"
   alt="Squarespace &amp; WIX CMS Platforms." 
   style="width:500px;"/>
 </p>
@@ -646,7 +646,7 @@ based on your requirement.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image030.png"
+  <img src="./assets/images/image030.webp"
   alt="Shopify CMS Platform."
   style="width:500px;"/>
 </p>
@@ -664,7 +664,7 @@ managing products.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image031.png"
+  <img src="./assets/images/image031.webp"
   alt="Drupal and Adobe Commerce CMS Platforms."
   style="width:500px;"/>
 </p>
@@ -686,7 +686,7 @@ its ability to create a progressive web app (PWA) for your online store.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image032.png"
+  <img src="./assets/images/image032.webp"
   alt="Module 04: What you Laerned."
   style="width:500px;"/>
 </p>
@@ -706,7 +706,7 @@ In this module (04), you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image033.png"
+  <img src="./assets/images/image033.webp"
   alt="Welcome to Web development with CMS - Part 1"
   style="width:500px;"/>
 </p>
@@ -715,7 +715,7 @@ Welcome to "Web development with CMS - Part 1."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image034.png"
+  <img src="./assets/images/image034.webp"
   alt="Explain important elements of a web development plan and define best practices for a sucessful business website."
   style="width:500px;"/>
 </p>
@@ -731,7 +731,7 @@ After reading this module (05a), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image035.png"
+  <img src="./assets/images/image035.webp"
   alt="Web development plan and it's elements."
   style="width:500px;"/>
 </p>
@@ -743,7 +743,7 @@ for the website starts. A web development plan needs to be in place.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image036.png"
+  <img src="./assets/images/image036.webp"
   alt="Web development plan and it's 5 elements."
   style="width:500px;"/>
 </p>
@@ -764,7 +764,7 @@ These include:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image037.png"
+  <img src="./assets/images/image037.webp"
   alt="Elements of a Web development plan: Developing a web strategy."
   style="width:500px;"/>
 </p>
@@ -795,7 +795,7 @@ designers and developers create functions as per your business goals.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image038.png"
+  <img src="./assets/images/image038.webp"
   alt="Elements of a Web development plan: Adopting a global approach."
   style="width:500px;"/>
 </p>
@@ -812,7 +812,7 @@ page if your website needs an update.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image039.png"
+  <img src="./assets/images/image039.webp"
   alt="Elements of a Web development plan: Creating page templates."
   style="width:500px;"/>
 </p>
@@ -829,7 +829,7 @@ regularly.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image040.png"
+  <img src="./assets/images/image040.webp"
   alt="Elements of a Web development plan: focusing on Personalization."
   style="width:500px;"/>
 </p>
@@ -847,7 +847,7 @@ recommendations personalize every visitor's digital experience.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image041.png"
+  <img src="./assets/images/image041.webp"
   alt="Elements of a Web Development Plan: Leveraging user and group roles."
   style="width:500px;"/>
 </p>
@@ -862,7 +862,7 @@ roles and build new ones to suit their user base.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image042.png"
+  <img src="./assets/images/image042.webp"
   alt="Best practices for creating a successful business website."
   style="width:500px;"/>
 </p>
@@ -880,7 +880,7 @@ functionality. Use CSS to style the graphics and text on your website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image043.png"
+  <img src="./assets/images/image043.webp"
   alt="05a Web Development with CMS - Part 1."
   style="width:500px;"/>
 </p>
@@ -895,7 +895,7 @@ In this module (05a), you learned about:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image044.png"
+  <img src="./assets/images/image044.webp"
   alt="Welcome to 05b Web Development with CMS - Part 2."
   style="width:500px;"/>
 </p>
@@ -904,7 +904,7 @@ Welcome to "Web development with CMS -- Part 2 (05b)."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image045.png"
+  <img src="./assets/images/image045.webp"
   alt="Module 05b Summary: Identify types of website pages and features of a CMS."
   style="width:500px;"/>
 </p>
@@ -920,7 +920,7 @@ After reading this module (05b), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image046.png"
+  <img src="./assets/images/image046.webp"
   alt="Summary of Different Page types of a web site."
   style="width:500px;"/>
 </p>
@@ -945,7 +945,7 @@ explore different types of pages of a website developed using a CMS.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image047.png"
+  <img src="./assets/images/image047.webp"
   alt="Website Page Types: Front Page and Post Page."
   style="width:500px;"/>
 </p>
@@ -964,7 +964,7 @@ informational page about a person, group, event, product, and so on.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image048.png"
+  <img src="./assets/images/image048.webp"
   alt="Website Page Types: List or Category Page and Search Page."
   style="width:500px;"/>
 </p>
@@ -986,7 +986,7 @@ can be integrated or merged with the list or category page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image049.png"
+  <img src="./assets/images/image049.webp"
   alt="Types of pages of a website: User/author profile and user's home or dashboard."
   style="width:500px;"/>
 </p>
@@ -1007,7 +1007,7 @@ optional or irrelevant for others.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image050.png"
+  <img src="./assets/images/image050.webp"
   alt="Features of a CMS."
   style="width:500px;"/>
 </p>
@@ -1019,7 +1019,7 @@ Some of these include: Page design, Blog content, and Content storage.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image051.png"
+  <img src="./assets/images/image051.webp"
   alt="Features of a CMS: Page design and Blog content."
   style="width:500px;"/>
 </p>
@@ -1046,7 +1046,7 @@ channels.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image052.png"
+  <img src="./assets/images/image052.webp"
   alt="Features of a CMS: Content storage."
   style="width:500px;"/>
 </p>
@@ -1061,7 +1061,7 @@ the content before publication.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image053.png"
+  <img src="./assets/images/image053.webp"
   alt="Summary Module 05b: CMS page types and features of a CMS."
   style="width:500px;"/>
 </p>
@@ -1090,7 +1090,7 @@ In this module (05b), you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image054.png"
+  <img src="./assets/images/image054.webp"
   alt="Getting Started with WordPress, Part 1."
   style="width:500px;"/>
 </p>
@@ -1099,7 +1099,7 @@ Welcome to "Getting started with WordPress - Part 1."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image055.png"
+  <img src="./assets/images/image055.webp"
   alt="06a. Define WordPress as CMS and describe key concepts related to WordPress."
   style="width:500px;"/>
 </p>
@@ -1115,7 +1115,7 @@ After reading this module (06a), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image056.png"
+  <img src="./assets/images/image056.webp"
   alt="WordPress: Website creation and mgmt, installation of plugins, greater flexibility and constant updates."
   style="width:500px;"/>
 </p>
@@ -1132,7 +1132,7 @@ website\'s design, content, and functionality.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image057.png"
+  <img src="./assets/images/image057.webp"
   alt="WordPress: Ease of customization, excellect performance and highly robust features."
   style="width:500px;"/>
 </p>
@@ -1144,7 +1144,7 @@ websites, including blogs, business, and e-commerce sites.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image058.png"
+  <img src="./assets/images/image058.webp"
   alt="WordPress.org and WordPress.com - summary."
   style="width:500px;"/>
 </p>
@@ -1172,7 +1172,7 @@ third-party host. You can install third-party plugins with
 WordPress.com\'s top-tier business plan.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image059.png"
+  <img src="./assets/images/image059.webp"
   alt="WordPress concepts: database, core, plugins, hooks, customization updates and rest API."
   style="width:500px;"/>
 </p>
@@ -1184,7 +1184,7 @@ and Rest API.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image060.png"
+  <img src="./assets/images/image060.webp"
   alt="WordPress concepts: Database supports MySQL and MariaDB.  WordPress Core explained."
   style="width:500px;"/>
 </p>
@@ -1201,7 +1201,7 @@ part of your hosting package.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image061.png"
+  <img src="./assets/images/image061.webp"
   alt="WordPress concepts: Plugins and Themes."
   style="width:500px;"/>
 </p>
@@ -1221,7 +1221,7 @@ the future of WordPress theming.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image062.png"
+  <img src="./assets/images/image062.webp"
   alt="WordPress concepts: Hooks and Customization options."
   style="width:500px;"/>
 </p>
@@ -1239,7 +1239,7 @@ changes implemented by plugins.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image063.png"
+  <img src="./assets/images/image063.webp"
   alt="WordPress concepts: Rest API."
   style="width:500px;"/>
 </p>
@@ -1250,7 +1250,7 @@ other programming languages.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image064.png"
+  <img src="./assets/images/image064.webp"
   alt="Module 06a Getting Started with WordPress."
   style="width:500px;"/>
 </p>
@@ -1282,7 +1282,7 @@ In this module (06a), you learned:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image065.png"
+  <img src="./assets/images/image065.webp"
   alt="Welcome to Getting Started with WordPress - Part 2."
   style="width:500px;"/>
 </p>
@@ -1291,7 +1291,7 @@ Welcome to "Getting started with WordPress -- Part 2."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image066.png"
+  <img src="./assets/images/image066.webp"
   alt="Module 06b summary - WordPress - Part 2."
   style="width:500px;"/>
 </p>
@@ -1314,7 +1314,7 @@ you how to create a website using WordPress.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image067.png"
+  <img src="./assets/images/image067.webp"
   alt="Steps to create a website using WordPress."
   style="width:500px;"/>
 </p>
@@ -1337,7 +1337,7 @@ The steps to create a website using WordPress include the following:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image068.png"
+  <img src="./assets/images/image068.webp"
   alt="First Step: select domain name."
   style="width:500px;"/>
 </p>
@@ -1353,7 +1353,7 @@ GoDaddy and Google Domains.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image069.png"
+  <img src="./assets/images/image069.webp"
   alt="Next step: setting up web hosting."
   style="width:500px;"/>
 </p>
@@ -1367,7 +1367,7 @@ per month.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image070.png"
+  <img src="./assets/images/image070.webp"
   alt="Next: install wordpress software."
   style="width:500px;"/>
 </p>
@@ -1382,7 +1382,7 @@ software immediately.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image071.png"
+  <img src="./assets/images/image071.webp"
   alt="Next: select a theme."
   style="width:500px;"/>
 </p>
@@ -1401,7 +1401,7 @@ stays current.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image072.png"
+  <img src="./assets/images/image072.webp"
   alt="Next: design the homepage and additional pages of your website."
   style="width:500px;"/>
 </p>
@@ -1418,7 +1418,7 @@ page, and so on.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image073.png"
+  <img src="./assets/images/image073.webp"
   alt="Installing plugins."
   style="width:500px;"/>
 </p>
@@ -1435,7 +1435,7 @@ vulnerable to cyberattacks. Hence, research before you install one.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image074.png"
+  <img src="./assets/images/image074.webp"
   alt="Creating navigation menus."
   style="width:500px;"/>
 </p>
@@ -1448,7 +1448,7 @@ WordPress theme uses to display menus.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image075.png"
+  <img src="./assets/images/image075.webp"
   alt="Social media and the website."
   style="width:500px;"/>
 </p>
@@ -1464,7 +1464,7 @@ to begin working with WordPress development and website design.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image076.png"
+  <img src="./assets/images/image076.webp"
   alt="Skills required for enhancing WordPress; HTML, CSS, PHP, JS, and MySQL."
   style="width:500px;"/>
 </p>
@@ -1488,7 +1488,7 @@ and CSS.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image077.png"
+  <img src="./assets/images/image077.webp"
   alt="."
   style="width:500px;"/>
 </p>
@@ -1513,7 +1513,7 @@ relies on it to retrieve all its data.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image078.png"
+  <img src="./assets/images/image078.webp"
   alt="Summary module 06b; Wordpress, part 2."
   style="width:500px;"/>
 </p>
@@ -1547,7 +1547,7 @@ In this module (06), you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image079.png"
+  <img src="./assets/images/image079.webp"
   alt="07. Welcome to Adding E-commerce to your Website."
   style="width:500px;"/>
 </p>
@@ -1556,7 +1556,7 @@ Welcome to "Adding E-commerce to Your Website."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image080.png"
+  <img src="./assets/images/image080.webp"
   alt="Summary of Adding E-commerce to your Website."
   style="width:500px;"/>
 </p>
@@ -1574,7 +1574,7 @@ After reading this module (07), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 > <p align="center">
->  <img src="./assets/images/image081.png"
+>  <img src="./assets/images/image081.webp"
 >  alt="Why add e-commerce functionality?"
 >  style="width:500px;"/>
 > </p>
@@ -1592,7 +1592,7 @@ website, adding e-commerce functionality is simple.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image082.png"
+  <img src="./assets/images/image082.webp"
   alt="Why add e-commerce functionality?"
   style="width:500px;"/>
 </p>
@@ -1607,7 +1607,7 @@ every day.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image083.png"
+  <img src="./assets/images/image083.webp"
   alt="Strategies to add e-commerce functionality"
   style="width:500px;"/>
 </p>
@@ -1624,7 +1624,7 @@ pages, and blog posts.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image084.png"
+  <img src="./assets/images/image084.webp"
   alt="Adding e-commerce features to CMS."
   style="width:500px;"/>
 </p>
@@ -1639,7 +1639,7 @@ payment gateways, and shopping carts.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image085.png"
+  <img src="./assets/images/image085.webp"
   alt="Adding e-commerce features to CMS."
   style="width:500px;"/>
 </p>
@@ -1655,7 +1655,7 @@ Drupal Commerce, and Wix and Wix Stores.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image086.png"
+  <img src="./assets/images/image086.webp"
   alt="Selling on online marketplaces."
   style="width:500px;"/>
 </p>
@@ -1666,7 +1666,7 @@ The seller is attracted to marketplaces by potential customers.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image087.png"
+  <img src="./assets/images/image087.webp"
   alt="Adding marketplaces to your website."
   style="width:500px;"/>
 </p>
@@ -1690,7 +1690,7 @@ existing website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image088.png"
+  <img src="./assets/images/image088.webp"
   alt="Steps to add the Shopify Buy button."
   style="width:500px;"/>
 </p>
@@ -1707,7 +1707,7 @@ Here are the steps to add the Shopify Buy button to your website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image089.png"
+  <img src="./assets/images/image089.webp"
   alt="Drag-and-drop website builder software."
   style="width:500px;"/>
 </p>
@@ -1721,7 +1721,7 @@ attractive e-commerce store and an intuitive back-end dashboard.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image090.png"
+  <img src="./assets/images/image090.webp"
   alt="Wix, Weebly, Squarespace."
   style="width:500px;"/>
 </p>
@@ -1743,7 +1743,7 @@ launch a customized online store and website in minutes.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image091.png"
+  <img src="./assets/images/image091.webp"
   alt="Adding E-commerce to your Website."
   style="width:500px;"/>
 </p>
@@ -1802,7 +1802,7 @@ In this week (01), you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image092.png"
+  <img src="./assets/images/image092.webp"
   alt="2-08. Introduction to Search Engine Optimization (SEO)"
   style="width:500px;"/>
 </p>
@@ -1811,7 +1811,7 @@ Welcome to "Introduction to Search Engine Optimization (SEO)."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image093.png"
+  <img src="./assets/images/image093.webp"
   alt="SEO (08): Describe SEO and its types, and Identify the benefits of using SEO (and all the time wasted)."
   style="width:500px;"/>
 </p>
@@ -1828,7 +1828,7 @@ After reading this module (08), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image094.png"
+  <img src="./assets/images/image094.webp"
   alt="SEO refers to techniques that help a website rank higher, and which make it more visible."
   style="width:500px;"/>
 </p>
@@ -1849,7 +1849,7 @@ After reading this module (08), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image095.png"
+  <img src="./assets/images/image095.webp"
   alt="How a search engine works (according to Google and other deuschebags)"
   style="width:500px;"/>
 </p>
@@ -1869,7 +1869,7 @@ Let's describe how a search engine works;
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image096.png"
+  <img src="./assets/images/image096.webp"
   alt="Types of SEO: Technical, On-page, Off-page."
   style="width:500px;"/>
 </p>
@@ -1880,7 +1880,7 @@ Let's discuss each of them in detail.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image097.png"
+  <img src="./assets/images/image097.webp"
   alt="Technical SEO: Settings that need to be set to facilitate the task of search engine 
   crawlers. On-page SEO: Concerned with content."
   style="width:500px;"/>
@@ -1900,7 +1900,7 @@ a website\'s or blog\'s usability and credibility.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image098.png"
+  <img src="./assets/images/image098.webp"
   alt="Off-page SEO: Actions taken away to influence rankings on SEO Pages (SERPs).  Uses backlinks to determine quality of website."
   style="width:500px;"/>
 </p>
@@ -1915,7 +1915,7 @@ fewer backlinks.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image099.png"
+  <img src="./assets/images/image099.webp"
   alt="Benefits of using SEO and best practices."
   style="width:500px;"/>
 </p>
@@ -1930,7 +1930,7 @@ website to earn the users' trust.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image100.png"
+  <img src="./assets/images/image100.webp"
   alt="Additional benefits of using SEO."
   style="width:500px;"/>
 </p>
@@ -1949,7 +1949,7 @@ sales.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image101.png"
+  <img src="./assets/images/image101.webp"
   alt="SEO Summary (08)."
   style="width:500px;"/>
 </p>
@@ -1975,7 +1975,7 @@ In this module (08), you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image102.png"
+  <img src="./assets/images/image102.webp"
   alt="2-09. Popular SEO Tools"
   style="width:500px;"/>
 </p>
@@ -1984,7 +1984,7 @@ Welcome to "Popular SEO Tools."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image103.png"
+  <img src="./assets/images/image103.webp"
   alt="Summary popular SEO tools, how to select a tool, benefits of SEO and some free/paid tools."
   style="width:500px;"/>
 </p>
@@ -2005,7 +2005,7 @@ After reading this module (09), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image104.png"
+  <img src="./assets/images/image104.webp"
   alt="SEO tools enable business owners to know their websites' overall health and success."
   style="width:500px;"/>
 </p>
@@ -2021,7 +2021,7 @@ allowing you to identify what works and what doesn\'t.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image105.png"
+  <img src="./assets/images/image105.webp"
   alt="Factors when selecting the best SEO software."
   style="width:500px;"/>
 </p>
@@ -2032,7 +2032,7 @@ curve Cost, and Support.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image106.png"
+  <img src="./assets/images/image106.webp"
   alt="Detailed factors when selecting the best SEO software."
   style="width:500px;"/>
 </p>
@@ -2050,7 +2050,7 @@ important role.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image107.png"
+  <img src="./assets/images/image107.webp"
   alt="More detailed factors when selecting the best SEO software."
   style="width:500px;"/>
 </p>
@@ -2068,7 +2068,7 @@ direct support channels such as email, chat, and phone.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image108.png"
+  <img src="./assets/images/image108.webp"
   alt="Benefits of using the best SEO tools."
   style="width:500px;"/>
 </p>
@@ -2079,7 +2079,7 @@ higher-quality website traffic.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image109.png"
+  <img src="./assets/images/image109.webp"
   alt="Detailed benefits of using the best SEO tools."
   style="width:500px;"/>
 </p>
@@ -2104,7 +2104,7 @@ leads, which results in higher-quality website traffic.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image110.png"
+  <img src="./assets/images/image110.webp"
   alt="Best free SEO tools available: Google Analytics, Google Search Console, and Bing Webmaster."
   style="width:500px;"/>
 </p>
@@ -2125,7 +2125,7 @@ track your Bing account in real time.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image111.png"
+  <img src="./assets/images/image111.webp"
   alt="PageSpeed Insights and Google Keyword Planner."
   style="width:500px;"/>
 </p>
@@ -2141,7 +2141,7 @@ applications.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image112.png"
+  <img src="./assets/images/image112.webp"
   alt="Best Paid SEO Tools."
   style="width:500px;"/>
 </p>
@@ -2163,7 +2163,7 @@ audits, and employs keyword tools.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image113.png"
+  <img src="./assets/images/image113.webp"
   alt="Serpstat and SpyFu."
   style="width:500px;"/>
 </p>
@@ -2178,7 +2178,7 @@ uncover.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image114.png"
+  <img src="./assets/images/image114.webp"
   alt="In this module (09) you learned about SEO tools, how to select, and which is best (paid and free)."
   style="width:500px;"/>
 </p>
@@ -2202,7 +2202,7 @@ In this module (09), you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image115.png"
+  <img src="./assets/images/image115.webp"
   alt="2-10. SEO Strategies"
   style="width:500px;"/>
 </p>
@@ -2211,7 +2211,7 @@ Welcome to SEO Strategies.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image116.png"
+  <img src="./assets/images/image116.webp"
   alt="In this module (10), you will learn SEO strategies and steps to develop an SEO strategy."
   style="width:500px;"/>
 </p>
@@ -2228,7 +2228,7 @@ After reading this module (10), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image117.png"
+  <img src="./assets/images/image117.webp"
   alt="SEO strategy is a plan of action for a company to optimize its website and rank higher in google search results."
   style="width:500px;"/>
 </p>
@@ -2243,7 +2243,7 @@ strategy.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image118.png"
+  <img src="./assets/images/image118.webp"
   alt="Developing an SEO strategy."
   style="width:500px;"/>
 </p>
@@ -2257,7 +2257,7 @@ Executing the improved strategy, and Monitoring the execution.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image119.png"
+  <img src="./assets/images/image119.webp"
   alt="First step in SEO strategy: Evaluate current strategy and performance."
   style="width:500px;"/>
 </p>
@@ -2281,7 +2281,7 @@ need improvement for your next SEO strategy.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image120.png"
+  <img src="./assets/images/image120.webp"
   alt="Analyze competitors' strategies and identify how well their keywords rank."
   style="width:500px;"/>
 </p>
@@ -2304,7 +2304,7 @@ boost your keyword rankings.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image121.png"
+  <img src="./assets/images/image121.webp"
   alt="Analyze link profiles of your competitors' websites."
   style="width:500px;"/>
 </p>
@@ -2317,7 +2317,7 @@ backlink profile.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image122.png"
+  <img src="./assets/images/image122.webp"
   alt="Set goals you wish to achieve."
   style="width:500px;"/>
 </p>
@@ -2329,7 +2329,7 @@ activity?
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image123.png"
+  <img src="./assets/images/image123.webp"
   alt="More about goals."
   style="width:500px;"/>
 </p>
@@ -2346,7 +2346,7 @@ time is crucial.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image124.png"
+  <img src="./assets/images/image124.webp"
   alt="Now optimize your website using goals defined."
   style="width:500px;"/>
 </p>
@@ -2363,7 +2363,7 @@ create high-quality content.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image125.png"
+  <img src="./assets/images/image125.webp"
   alt="Submit press releases."
   style="width:500px;"/>
 </p>
@@ -2382,7 +2382,7 @@ rank higher in search engines.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image126.png"
+  <img src="./assets/images/image126.webp"
   alt="New trends and best practices?"
   style="width:500px;"/>
 </p>
@@ -2401,7 +2401,7 @@ experiments based on your findings.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image127.png"
+  <img src="./assets/images/image127.webp"
   alt="In this module (10): SEO strategies and tips."
   style="width:500px;"/>
 </p>
@@ -2429,7 +2429,7 @@ In this module (10), you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image128.png"
+  <img src="./assets/images/image128.webp"
   alt="2-11. Mobile Friendly SEO"
   style="width:500px;"/>
 </p>
@@ -2438,7 +2438,7 @@ Welcome to "Mobile friendly SEO."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image129.png"
+  <img src="./assets/images/image129.webp"
   alt="Mobile friendly SEO (10) defines mobile SEO, difference with desktop, is it mobile friendly and best practices."
   style="width:500px;"/>
 </p>
@@ -2459,7 +2459,7 @@ After reading this module (11), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image130.png"
+  <img src="./assets/images/image130.webp"
   alt="Mobile SEO is the process of optimizing websites for mobile devices such as smartphones and tables."
   style="width:500px;"/>
 </p>
@@ -2471,7 +2471,7 @@ available to search engine spiders.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image131.png"
+  <img src="./assets/images/image131.webp"
   alt="Mobile SEO considers: How a user interacts with SERPS compared to desktop computer."
   style="width:500px;"/>
 </p>
@@ -2491,7 +2491,7 @@ and provide the best visual experience
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image132.png"
+  <img src="./assets/images/image132.webp"
   alt="Most users access a website with mobile device."
   style="width:500px;"/>
 </p>
@@ -2509,7 +2509,7 @@ products or services.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image133.png"
+  <img src="./assets/images/image133.webp"
   alt="Difference between mobile and desktop SEO."
   style="width:500px;"/>
 </p>
@@ -2536,7 +2536,7 @@ desktop screen has.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image134.png"
+  <img src="./assets/images/image134.webp"
   alt="Best tool to determine if mobile-friendly is Google Search Console."
   style="width:500px;"/>
 </p>
@@ -2555,7 +2555,7 @@ do not adhere to Google\'s mobile-friendly guidelines.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image135.png"
+  <img src="./assets/images/image135.webp"
   alt="Other mobile SEO tools."
   style="width:500px;"/>
 </p>
@@ -2565,7 +2565,7 @@ Other excellent mobile SEO tools include Google\'s Mobile-Friendly Test
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image136.png"
+  <img src="./assets/images/image136.webp"
   alt="Page speed, CSS, JS, or image blocking, avoid popups and flash."
   style="width:500px;"/>
 </p>
@@ -2590,7 +2590,7 @@ want to create special effects.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image137.png"
+  <img src="./assets/images/image137.webp"
   alt="Design for touch screen."
   style="width:500px;"/>
 </p>
@@ -2609,7 +2609,7 @@ website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image138.png"
+  <img src="./assets/images/image138.webp"
   alt="Best practices for mobile SEO."
   style="width:500px;"/>
 </p>
@@ -2624,7 +2624,7 @@ content for mobile visitors.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image139.png"
+  <img src="./assets/images/image139.webp"
   alt="Summary module (11): mobile SEO."
   style="width:500px;"/>
 </p>
@@ -2647,7 +2647,7 @@ In this module (11), you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image140.png"
+  <img src="./assets/images/image140.webp"
   alt="2-12. Page Optimization for SEO"
   style="width:500px;"/>
 </p>
@@ -2656,7 +2656,7 @@ Welcome to "Page optimization for SEO."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image141.png"
+  <img src="./assets/images/image141.webp"
   alt="Define ono-page SEO and Identify on-page SEO components."
   style="width:500px;"/>
 </p>
@@ -2672,7 +2672,7 @@ After finishing this module (12), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image142.png"
+  <img src="./assets/images/image142.webp"
   alt="What is page optimization for SEO?"
   style="width:500px;"/>
 </p>
@@ -2688,7 +2688,7 @@ results, resulting in a more organic traffic, conversions, and revenue.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image143.png"
+  <img src="./assets/images/image143.webp"
   alt="The importance of on-page SEO.  Make it easy for search engines and users."
   style="width:500px;"/>
 </p>
@@ -2702,7 +2702,7 @@ visitors and customers.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image144.png"
+  <img src="./assets/images/image144.webp"
   alt="Page optimization for SEO. Key components of on-page SEO."
   style="width:500px;"/>
 </p>
@@ -2716,7 +2716,7 @@ Speed.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image145.png"
+  <img src="./assets/images/image145.webp"
   alt="Content elements."
   style="width:500px;"/>
 </p>
@@ -2729,7 +2729,7 @@ readers.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image146.png"
+  <img src="./assets/images/image146.webp"
   alt="More Content elements."
   style="width:500px;"/>
 </p>
@@ -2743,7 +2743,7 @@ solution.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image147.png"
+  <img src="./assets/images/image147.webp"
   alt="Even more content elements."
   style="width:500px;"/>
 </p>
@@ -2756,7 +2756,7 @@ content to search intent, and always write with your readers in mind.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image148.png"
+  <img src="./assets/images/image148.webp"
   alt="HTML elements: Page titles and Headers."
   style="width:500px;"/>
 </p>
@@ -2781,7 +2781,7 @@ keywords.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image149.png"
+  <img src="./assets/images/image149.webp"
   alt="HTML elements: Meta description, image alt-text, and structured markup."
   style="width:500px;"/>
 </p>
@@ -2805,7 +2805,7 @@ content features that appear when you search for something on Google.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image150.png"
+  <img src="./assets/images/image150.webp"
   alt="Site structure elements: Page URLs and Internal linking."
   style="width:500px;"/>
 </p>
@@ -2830,7 +2830,7 @@ in search engine results pages.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image151.png"
+  <img src="./assets/images/image151.webp"
   alt="Site structure elements: Mobile responsiveness and Site speed."
   style="width:500px;"/>
 </p>
@@ -2848,7 +2848,7 @@ Moreover, site speed has an impact on conversions and ROI.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image152.png"
+  <img src="./assets/images/image152.webp"
   alt="Summary module 12, On-page SEO to improve a websites ranking."
   style="width:500px;"/>
 </p>
@@ -2875,7 +2875,7 @@ In this module (12), you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image153.png"
+  <img src="./assets/images/image153.webp"
   alt="2-13. Running Campaigns and Tracking Results"
   style="width:500px;"/>
 </p>
@@ -2884,7 +2884,7 @@ Welcome to "Running Campaigns and Tracking Results."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image154.png"
+  <img src="./assets/images/image154.webp"
   alt="Module 13: Define SEO campaign and tracking, Best practices, and Identify key SEO tracking tools."
   style="width:500px;"/>
 </p>
@@ -2903,7 +2903,7 @@ After reading this module (13), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image155.png"
+  <img src="./assets/images/image155.webp"
   alt="What is a SEO campaign? Keywords, Quality content, Backlinks, and Social media."
   style="width:500px;"/>
 </p>
@@ -2923,7 +2923,7 @@ many people.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image156.png"
+  <img src="./assets/images/image156.webp"
   alt="What is SEO tracking?  Organic traffic and Organic conversions."
   style="width:500px;"/>
 </p>
@@ -2943,7 +2943,7 @@ traffic, create a relevant \"Goal\" in Google Analytics.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image157.png"
+  <img src="./assets/images/image157.webp"
   alt="What is SEO tracking?  Keyword rankings, Competitor analysis, and SEO site health."
   style="width:500px;"/>
 </p>
@@ -2962,7 +2962,7 @@ technical problems.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image158.png"
+  <img src="./assets/images/image158.webp"
   alt="Best practices to run SEO campaigns."
   style="width:500px;"/>
 </p>
@@ -2976,7 +2976,7 @@ top-performing pages, and Monitoring paid campaigns.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image159.png"
+  <img src="./assets/images/image159.webp"
   alt="Best practices to run SEO campaigns: Monitoring website traffic and Tracking content's effectiveness."
   style="width:500px;"/>
 </p>
@@ -2994,7 +2994,7 @@ optimizing what you already have.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image160.png"
+  <img src="./assets/images/image160.webp"
   alt="Best practices to run SEO campaigns: Tracking top performing pages and Monitoring paid campaigns."
   style="width:500px;"/>
 </p>
@@ -3009,7 +3009,7 @@ way to avoid cluttered reports and keep incoming visitors organized.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image161.png"
+  <img src="./assets/images/image161.webp"
   alt="SEO tracking tools: Google Analytics and Google Search Console."
   style="width:500px;"/>
 </p>
@@ -3020,7 +3020,7 @@ of your website. They are: Google Analytics and Google Search Console.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image162.png"
+  <img src="./assets/images/image162.webp"
   alt="SEO tracking tools: Google Analytics."
   style="width:500px;"/>
 </p>
@@ -3041,7 +3041,7 @@ specific user interaction with your website or app as a conversion.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image163.png"
+  <img src="./assets/images/image163.webp"
   alt="SEO tracking tools: Google Search Console."
   style="width:500px;"/>
 </p>
@@ -3061,7 +3061,7 @@ description, resulting in a significant increase in traffic.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image164.png"
+  <img src="./assets/images/image164.webp"
   alt="Recap: SEO campaign, tracking, monitoring traffice, google analytics and google search console."
   style="width:500px;"/>
 </p>
@@ -3322,7 +3322,7 @@ In this module, you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image165.png"
+  <img src="./assets/images/image165.webp"
   alt="3-15. Introduction to Web Build and Automated Tools"
   style="width:500px;"/>
 </p>
@@ -3331,7 +3331,7 @@ Welcome to \"Introduction to Web Build and Automated Tools."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image166.png"
+  <img src="./assets/images/image166.webp"
   alt="In this module (15) you will learn:  Define build automation, identify it's benefits, 
   discuss it's uses, and describe popular web build tools."
   style="width:500px;"/>
@@ -3354,7 +3354,7 @@ After reading this module (15), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image167.png"
+  <img src="./assets/images/image167.webp"
   alt="Introduction to Build Automation."
   style="width:500px;"/>
 </p>
@@ -3375,7 +3375,7 @@ integration, errors are identified quickly and easily.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image168.png"
+  <img src="./assets/images/image168.webp"
   alt="A scenario."
   style="width:500px;"/>
 </p>
@@ -3400,7 +3400,7 @@ build tool and bundler comes into prominence.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image169.png"
+  <img src="./assets/images/image169.webp"
   alt="JavaScript build tools."
   style="width:500px;"/>
 </p>
@@ -3429,7 +3429,7 @@ core problems that most build tools address in one way or another.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image170.png"
+  <img src="./assets/images/image170.webp"
   alt="Benefits of Build Automation."
   style="width:500px;"/>
 </p>
@@ -3442,7 +3442,7 @@ Let's discuss each of these benefits in detail.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image171.png"
+  <img src="./assets/images/image171.webp"
   alt="Benefits of Build Automation: Increased productivity and Accelerated delivery."
   style="width:500px;"/>
 </p>
@@ -3458,7 +3458,7 @@ issues faster, which helps expedite the delivery process.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image172.png"
+  <img src="./assets/images/image172.webp"
   alt="Benefits of Build Automation: Enhances quality and record maintenance."
   style="width:500px;"/>
 </p>
@@ -3473,7 +3473,7 @@ complete history enables you to track issues back to their core.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image173.png"
+  <img src="./assets/images/image173.webp"
   alt="Benefits of Build Automation: Saving time and money."
   style="width:500px;"/>
 </p>
@@ -3485,7 +3485,7 @@ spent in delivering quality products and services.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image174.png"
+  <img src="./assets/images/image174.webp"
   alt="Popular web build tools and bundlers."
   style="width:500px;"/>
 </p>
@@ -3495,7 +3495,7 @@ include: Grunt, Gulp, Browserify, Webpack, npm, and RequireJS.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image175.png"
+  <img src="./assets/images/image175.webp"
   alt="Popular web build tools and bundlers: Grunt and Gulp."
   style="width:500px;"/>
 </p>
@@ -3515,7 +3515,7 @@ plugin configuration.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image176.png"
+  <img src="./assets/images/image176.webp"
   alt="Popular web build tools and bundlers: Browserify and Webpack."
   style="width:500px;"/>
 </p>
@@ -3537,7 +3537,7 @@ packages that don\'t function properly in difficult situations.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image177.png"
+  <img src="./assets/images/image177.webp"
   alt="Popular web build tools and bundlers: Node Package Manager (npm) and RequireJS."
   style="width:500px;"/>
 </p>
@@ -3561,7 +3561,7 @@ script. It can compile JavaScript files from many modules and
 load several JavaScript files.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image178.png"
+  <img src="./assets/images/image178.webp"
   alt="Recap (15): Introduction to Web Build and Automated Tools."
   style="width:500px;"/>
 </p>
@@ -3583,7 +3583,7 @@ In this module (15), you learned about:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image179.png"
+  <img src="./assets/images/image179.webp"
   alt="3-16. Introduction to Webpack"
   style="width:500px;"/>
 </p>
@@ -3592,7 +3592,7 @@ Welcome to the "Introduction to Webpack 5."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image180.png"
+  <img src="./assets/images/image180.webp"
   alt="Describe Webpack 5, it's advantages, functions, how it works and why its used."
   style="width:500px;"/>
 </p>
@@ -3615,7 +3615,7 @@ After reading this module (16), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image181.png"
+  <img src="./assets/images/image181.webp"
   alt="Intro to Webpack 5."
   style="width:500px;"/>
 </p>
@@ -3628,7 +3628,7 @@ solutions or boilerplates.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image182.png"
+  <img src="./assets/images/image182.webp"
   alt="Advantages of Webpack 5."
   style="width:500px;"/>
 </p>
@@ -3646,7 +3646,7 @@ modules and styles as you save.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image183.png"
+  <img src="./assets/images/image183.webp"
   alt="What Webpack 5 does."
   style="width:500px;"/>
 </p>
@@ -3670,7 +3670,7 @@ Webpack 5:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image184.png"
+  <img src="./assets/images/image184.webp"
   alt="How Webpack 5 works."
   style="width:500px;"/>
 </p>
@@ -3684,7 +3684,7 @@ browser by a server.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image185.png"
+  <img src="./assets/images/image185.webp"
   alt="Why to use Webpack 5."
   style="width:500px;"/>
 </p>
@@ -3703,7 +3703,7 @@ own version.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image186.png"
+  <img src="./assets/images/image186.webp"
   alt="Recap (16): Webpack 5."
   style="width:500px;"/>
 </p>
@@ -3727,7 +3727,7 @@ In this module (16), you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image187.png"
+  <img src="./assets/images/image187.webp"
   alt="3-17. Eseential Concepts of Webpack"
   style="width:500px;"/>
 </p>
@@ -3736,7 +3736,7 @@ Welcome to "Essentials Concepts of Webpack"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image188.png"
+  <img src="./assets/images/image188.webp"
   alt="Explain 4 core concepts of Webpack and define components that optimize the functioning of Webpack."
   style="width:500px;"/>
 </p>
@@ -3753,7 +3753,7 @@ After reading this module (17), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image189.png"
+  <img src="./assets/images/image189.webp"
   alt="Webpack: A module bunder: Webpack and Core Concepts."
   style="width:500px;"/>
 </p>
@@ -3770,7 +3770,7 @@ addition, we will touch upon some components related to Webpack.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image190.png"
+  <img src="./assets/images/image190.webp"
   alt="First concepts: Entry."
   style="width:500px;"/>
 </p>
@@ -3785,12 +3785,12 @@ throughout the application. See example (above).
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image191.png"
+  <img src="./assets/images/image191.webp"
   alt="Next concept: Output."
   style="width:400px;"/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image192.png"
+  <img src="./assets/images/image192.webp"
   alt="Concept: Output: Example."
   style="width:400px;"/>
 </p>
@@ -3805,7 +3805,7 @@ as Webpack.config.js.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image193.png"
+  <img src="./assets/images/image193.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -3819,7 +3819,7 @@ deal with various file extensions.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image194.png"
+  <img src="./assets/images/image194.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -3828,7 +3828,7 @@ Let us look at an example (above).
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image195.png"
+  <img src="./assets/images/image195.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -3840,7 +3840,7 @@ extensions that can alter how Webpack functions.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image196.png"
+  <img src="./assets/images/image196.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -3850,7 +3850,7 @@ environment variables.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image197.png"
+  <img src="./assets/images/image197.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -3874,7 +3874,7 @@ optimized output that is finally loaded in the browser.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image198.png"
+  <img src="./assets/images/image198.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -3898,7 +3898,7 @@ In this module (17), you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image199.png"
+  <img src="./assets/images/image199.webp"
   alt="3-18. Working with Webpack"
   style="width:500px;"/>
 </p>
@@ -3907,7 +3907,7 @@ Welcome to "Working with Webpack."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image200.png"
+  <img src="./assets/images/image200.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -3930,7 +3930,7 @@ After reading this module (18), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image201.png"
+  <img src="./assets/images/image201.webp"
   alt="Webpack: functions and how to configure."
   style="width:500px;"/>
 </p>
@@ -3945,7 +3945,7 @@ source maps for better error tracking.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image202.png"
+  <img src="./assets/images/image202.webp"
   alt="Webpack sample config file."
   style="width:500px;"/>
 </p>
@@ -3960,7 +3960,7 @@ this file is an object that Webpack will consider.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image203.png"
+  <img src="./assets/images/image203.webp"
   alt="Webpack creates project in development mode and includes comments and non-minimized code while running."
   style="width:500px;"/>
 </p>
@@ -3971,7 +3971,7 @@ in the output bundle while it is running.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image204.png"
+  <img src="./assets/images/image204.webp"
   alt="How to manage assets in Webpack 5.  Now built-in.  No additional configuration required."
   style="width:500px;"/>
 </p>
@@ -3985,7 +3985,7 @@ configuring additional loaders.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image205.png"
+  <img src="./assets/images/image205.webp"
   alt="How each asset type is handled in Webpack's config file."
   style="width:500px;"/>
 </p>
@@ -3999,7 +3999,7 @@ be incorporated in the form of JSON files, CSVs, TSVs, and XML.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image206.png"
+  <img src="./assets/images/image206.webp"
   alt="Code splitting in Webpack for resource load prioritization."
   style="width:500px;"/>
 </p>
@@ -4012,7 +4012,7 @@ users to engage with your application more quickly.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image207.png"
+  <img src="./assets/images/image207.webp"
   alt="Code Splitting in Webpack 5 can be accomplished in 3 ways: Entry points, Prevent duplication &amp; Dynamic imports."
   style="width:500px;"/>
 </p>
@@ -4028,7 +4028,7 @@ Code Splitting in Webpack 5 can be accomplished in three ways:
     modules.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image208.png"
+  <img src="./assets/images/image208.webp"
   alt="Preload is declarative request which enables the browser to request resource without interrupting onload events."
   style="width:500px;"/>
 </p>
@@ -4043,7 +4043,7 @@ loaded in parallel to the parent chunk.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image209.png"
+  <img src="./assets/images/image209.webp"
   alt="Prefetch for future navigation."
   style="width:500px;"/>
 </p>
@@ -4057,7 +4057,7 @@ in poor performance.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image210.png"
+  <img src="./assets/images/image210.webp"
   alt="Three main config modes for Webpack 5: Development, Production, none."
   style="width:500px;"/>
 </p>
@@ -4069,7 +4069,7 @@ Development, Production, And none.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image211.png"
+  <img src="./assets/images/image211.webp"
   alt="Development mode is used specifically in the development phase of an 
   application.  Source maps are used to link produced code to original source code."
   style="width:500px;"/>
@@ -4083,7 +4083,7 @@ your code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image212.png"
+  <img src="./assets/images/image212.webp"
   alt="Production is the default mode value and is used to deliver the final code for production."
   style="width:500px;"/>
 </p>
@@ -4099,7 +4099,7 @@ options are applied.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image213.png"
+  <img src="./assets/images/image213.webp"
   alt="Webpack 5 is a module bundler for web applications.  Among other things."
   style="width:500px;"/>
 </p>
@@ -4122,7 +4122,7 @@ In this module (18), you learned about:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image214.png"
+  <img src="./assets/images/image214.webp"
   alt="3-19. Setting up Production with Webpack"
   style="width:500px;"/>
 </p>
@@ -4131,7 +4131,7 @@ Welcome to "Setting up Production with Webpack."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image215.png"
+  <img src="./assets/images/image215.webp"
   alt="Configuration modes in Webpack and best practices."
   style="width:500px;"/>
 </p>
@@ -4146,7 +4146,7 @@ After reading this module (19), you will be able to:
 </div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image216.png"
+  <img src="./assets/images/image216.webp"
   alt="Mode configuration option instructs Webpack to make appropriate use of built-in optimizations."
   style="width:500px;"/>
 </p>
@@ -4167,7 +4167,7 @@ useful configuration by simply setting the mode to production.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image217.png"
+  <img src="./assets/images/image217.webp"
   alt="Production mode encourages Webpack to optimize."
   style="width:500px;"/>
 </p>
@@ -4182,7 +4182,7 @@ settings for each scenario.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image218.png"
+  <img src="./assets/images/image218.webp"
   alt="Development mode encourages strong source mapping."
   style="width:500px;"/>
 </p>
@@ -4196,7 +4196,7 @@ prefer a "common" configuration to make things uniform.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image219.png"
+  <img src="./assets/images/image219.webp"
   alt="Best practices with Webpack in production."
   style="width:500px;"/>
 </p>
@@ -4210,7 +4210,7 @@ of these practices in detail.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image220.png"
+  <img src="./assets/images/image220.webp"
   alt="Minifying CSS in production to improve load time."
   style="width:500px;"/>
 </p>
@@ -4224,7 +4224,7 @@ optimize-css-assets-Webpack-plugin. Finally, save dev.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image221.png"
+  <img src="./assets/images/image221.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4236,7 +4236,7 @@ support for source map generation via the devtool property.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image222.png"
+  <img src="./assets/images/image222.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4250,7 +4250,7 @@ forever.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image223.png"
+  <img src="./assets/images/image223.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4264,7 +4264,7 @@ Finally, save dev.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image224.png"
+  <img src="./assets/images/image224.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4290,7 +4290,7 @@ In this module (19), you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image225.png"
+  <img src="./assets/images/image225.webp"
   alt="3-20. Using Webpack Tools"
   style="width:500px;"/>
 </p>
@@ -4299,7 +4299,7 @@ Welcome to "Using Webpack Tools."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image226.png"
+  <img src="./assets/images/image226.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4315,7 +4315,7 @@ After reading this module (20), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image227.png"
+  <img src="./assets/images/image227.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4329,7 +4329,7 @@ overhead in execution time during initialization.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image228.png"
+  <img src="./assets/images/image228.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4343,7 +4343,7 @@ explore five such tools.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image229.png"
+  <img src="./assets/images/image229.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4356,7 +4356,7 @@ and Webpack Bundle Analyzer.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image230.png"
+  <img src="./assets/images/image230.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4374,7 +4374,7 @@ in your application.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image231.png"
+  <img src="./assets/images/image231.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4390,7 +4390,7 @@ following command:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image232.png"
+  <img src="./assets/images/image232.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4404,7 +4404,7 @@ percentage allocation to the overall amount of the chunk.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image233.png"
+  <img src="./assets/images/image233.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4419,7 +4419,7 @@ and then import it to the webpack config file.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image234.png"
+  <img src="./assets/images/image234.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4432,7 +4432,7 @@ errors from the Webpack build with suggestions on how to enhance it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image235.png"
+  <img src="./assets/images/image235.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4442,7 +4442,7 @@ profile --- json \> stats.json command and upload it to the website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image236.png"
+  <img src="./assets/images/image236.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4457,7 +4457,7 @@ is coming from.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image237.png"
+  <img src="./assets/images/image237.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4468,7 +4468,7 @@ the bundle.js and bundle.js.map files.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image238.png"
+  <img src="./assets/images/image238.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4481,7 +4481,7 @@ removed.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image239.png"
+  <img src="./assets/images/image239.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4491,7 +4491,7 @@ file, and Use the analyzer.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image240.png"
+  <img src="./assets/images/image240.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4519,7 +4519,7 @@ In this module (20), you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image241.png"
+  <img src="./assets/images/image241.webp"
   alt="3-21. Using Webpack with Front-end Frameworks"
   style="width:500px;"/>
 </p>
@@ -4528,7 +4528,7 @@ Welcome to "Using Webpack with Front-end Frameworks.\"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image242.png"
+  <img src="./assets/images/image242.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4544,7 +4544,7 @@ After reading this module (21), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image243.png"
+  <img src="./assets/images/image243.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4556,7 +4556,7 @@ designed to make building web applications faster and more consistent.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image244.png"
+  <img src="./assets/images/image244.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4568,7 +4568,7 @@ optimization, and Easy integration.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image245.png"
+  <img src="./assets/images/image245.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4594,7 +4594,7 @@ product robust.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image246.png"
+  <img src="./assets/images/image246.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4607,7 +4607,7 @@ content without requiring a page refresh.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image247.png"
+  <img src="./assets/images/image247.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4631,7 +4631,7 @@ template (html-webpack-plugin).
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image248.png"
+  <img src="./assets/images/image248.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4655,7 +4655,7 @@ command, as shown here:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image249.png"
+  <img src="./assets/images/image249.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4667,7 +4667,7 @@ designed to be approachable and easy to learn.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image250.png"
+  <img src="./assets/images/image250.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4683,7 +4683,7 @@ the Vue loader.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image251.png"
+  <img src="./assets/images/image251.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4706,7 +4706,7 @@ errors or potential issues.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image252.png"
+  <img src="./assets/images/image252.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4719,7 +4719,7 @@ programming, making it easier to understand and debug code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image253.png"
+  <img src="./assets/images/image253.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4747,7 +4747,7 @@ Create a new source folder and add HTML and JavaScript files.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image254.png"
+  <img src="./assets/images/image254.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4773,7 +4773,7 @@ output path for the bundled file after the entry point is defined.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image255.png"
+  <img src="./assets/images/image255.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4788,7 +4788,7 @@ application.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image256.png"
+  <img src="./assets/images/image256.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4823,7 +4823,7 @@ reference basic information like your name, email, and Coursera ID.
 <h1 id="ch3-22">22. Webpack Best Practices</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image257.png"
+  <img src="./assets/images/image257.webp"
   alt="3-22. Webpack Best Practices"
   style="width:500px;"/>
 </p>
@@ -4832,7 +4832,7 @@ Welcome to "Webpack Best Practices."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image258.png"
+  <img src="./assets/images/image258.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4849,7 +4849,7 @@ After reading this module (22), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image259.png"
+  <img src="./assets/images/image259.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4861,7 +4861,7 @@ out of it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image260.png"
+  <img src="./assets/images/image260.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4875,7 +4875,7 @@ Caching approach, and Tree shaking.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image261.png"
+  <img src="./assets/images/image261.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4895,7 +4895,7 @@ efficiently. To use the production mode in Webpack, you need to set the
 mode configuration option to \"production.\"
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image262.png"
+  <img src="./assets/images/image262.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4911,7 +4911,7 @@ and understand the code, especially in complex web development projects.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image263.png"
+  <img src="./assets/images/image263.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4926,7 +4926,7 @@ some blocks may never even be loaded.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image264.png"
+  <img src="./assets/images/image264.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4942,7 +4942,7 @@ files are processed, which helps enhance compilation efficiency.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image265.png"
+  <img src="./assets/images/image265.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4958,7 +4958,7 @@ to improving the performance of your application.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image266.png"
+  <img src="./assets/images/image266.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4976,7 +4976,7 @@ your application.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image267.png"
+  <img src="./assets/images/image267.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -4996,7 +4996,7 @@ appropriate caching strategy for them.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image268.png"
+  <img src="./assets/images/image268.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5012,7 +5012,7 @@ by default in the production mode.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image269.png"
+  <img src="./assets/images/image269.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5175,7 +5175,7 @@ In this module (24), you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image270.png"
+  <img src="./assets/images/image270.webp"
   alt="4-24. JavaScript Optimization."
   style="width:500px;"/>
 </p>
@@ -5184,7 +5184,7 @@ Welcome to JavaScript Optimization.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image271.png"
+  <img src="./assets/images/image271.webp"
   alt="Module 24; define, explain and identify web optimization. Then define how JS can 
     improve performance."
   style="width:500px;"/>
@@ -5201,7 +5201,7 @@ application's performance.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image272.png"
+  <img src="./assets/images/image272.webp"
   alt="What is javascript and web optimization?"
   style="width:500px;"/>
 </p>
@@ -5217,7 +5217,7 @@ interactive as possible.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image273.png"
+  <img src="./assets/images/image273.webp"
   alt="Key factors of web optimization."
   style="width:500px;"/>
 </p>
@@ -5237,7 +5237,7 @@ website behaves, the happier the end users are.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image274.png"
+  <img src="./assets/images/image274.webp"
   alt="Web performance optimization tips."
   style="width:500px;"/>
 </p>
@@ -5259,7 +5259,7 @@ programs for data compression and decompression.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image275.png"
+  <img src="./assets/images/image275.webp"
   alt="Web performance optimization tips."
   style="width:500px;"/>
 </p>
@@ -5279,7 +5279,7 @@ videos or replaced with an HTML5 video tag.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image276.png"
+  <img src="./assets/images/image276.webp"
   alt="Web performance optimization tips."
   style="width:500px;"/>
 </p>
@@ -5299,7 +5299,7 @@ a single package. Only use third-party frameworks when necessary.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image277.png"
+  <img src="./assets/images/image277.webp"
   alt="Javascript optimizatoin tips."
   style="width:500px;"/>
 </p>
@@ -5319,7 +5319,7 @@ and time lag and improving overall application performance.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image278.png"
+  <img src="./assets/images/image278.webp"
   alt="Javascipt optimization tips."
   style="width:500px;"/>
 </p>
@@ -5337,7 +5337,7 @@ faster.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image279.png"
+  <img src="./assets/images/image279.webp"
   alt="Recap module 24; Web site performance."
   style="width:500px;"/>
 </p>
@@ -5362,7 +5362,7 @@ In this module (24), you learned that:
 <h1 id="ch4-25">25. Popular Optimization Tools</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image280.png"
+  <img src="./assets/images/image280.webp"
   alt="4-25. Popular Optimization Tools"
   style="width:500px;"/>
 </p>
@@ -5371,7 +5371,7 @@ Welcome to Popular Optimization Tools!
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image281.png"
+  <img src="./assets/images/image281.webp"
   alt="Module 25; Identify approaches to web optimization and list tools to be used."
   style="width:500px;"/>
 </p>
@@ -5387,7 +5387,7 @@ After reading this module (25), you'll be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image282.png"
+  <img src="./assets/images/image282.webp"
   alt="Approach to web optimization; make website appealing, determine what's wrong with current site 
     and select tools for potential problems."
   style="width:500px;"/>
@@ -5402,7 +5402,7 @@ available software tools to look for potential issues.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image283.png"
+  <img src="./assets/images/image283.webp"
   alt="Approach to web optimization."
   style="width:500px;"/>
 </p>
@@ -5415,7 +5415,7 @@ website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image284.png"
+  <img src="./assets/images/image284.webp"
   alt="Page Speed Optimization.  Assess what is slowing the page down."
   style="width:500px;"/>
 </p>
@@ -5430,7 +5430,7 @@ Caching content, and Using faster hosting servers.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image285.png"
+  <img src="./assets/images/image285.webp"
   alt="Page Speed Optimization Tools; PageSpeed insights, GTmetrix, Pingdom, and webpagetest."
   style="width:500px;"/>
 </p>
@@ -5440,7 +5440,7 @@ Insights, Gtmetrix, Pingdom, and WebPageTest.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image286.png"
+  <img src="./assets/images/image286.webp"
   alt="UX Optimization Tools."
   style="width:500px;"/>
 </p>
@@ -5456,7 +5456,7 @@ conducting user research.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image287.png"
+  <img src="./assets/images/image287.webp"
   alt="Popular User Optimization tools include; Hotjar, UserTesting, TryMyUI, and UsabilityHub."
   style="width:500px;"/>
 </p>
@@ -5466,7 +5466,7 @@ TryMyUI, and UsabilityHub.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image288.png"
+  <img src="./assets/images/image288.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5482,7 +5482,7 @@ optimization is to your business.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image289.png"
+  <img src="./assets/images/image289.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5493,7 +5493,7 @@ PageSpeed Insights Google Search Console Google Analytics, and
 WebPageTest.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image290.png"
+  <img src="./assets/images/image290.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5509,7 +5509,7 @@ inclusive.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image291.png"
+  <img src="./assets/images/image291.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5519,7 +5519,7 @@ EqualWeb, and Functional Accessibility Evaluator.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image292.png"
+  <img src="./assets/images/image292.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5532,7 +5532,7 @@ browser takes to analyze and compile the code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image293.png"
+  <img src="./assets/images/image293.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5549,7 +5549,7 @@ code faster, smarter, more confident, and more broadly applicable.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image294.png"
+  <img src="./assets/images/image294.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5561,7 +5561,7 @@ that are immediately invoked or are likely to be invoked in parentheses.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image295.png"
+  <img src="./assets/images/image295.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5591,7 +5591,7 @@ In this module (25), you learned that:
 <h1 id="ch4-26">26. Testing Frameworks</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image296.png"
+  <img src="./assets/images/image296.webp"
   alt="4-26. Testing Frameworks"
   style="width:500px;"/>
 </p>
@@ -5600,7 +5600,7 @@ Welcome to Testing Frameworks.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image297.png"
+  <img src="./assets/images/image297.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5619,7 +5619,7 @@ After reading this module (26), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image298.png"
+  <img src="./assets/images/image298.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5634,7 +5634,7 @@ guidelines.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image299.png"
+  <img src="./assets/images/image299.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5651,7 +5651,7 @@ minor CSS changes that break the front-end layout. JS file changes that
 render the front-end unusable. and performance evaluations.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image300.png"
+  <img src="./assets/images/image300.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5670,7 +5670,7 @@ testing libraries.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image301.png"
+  <img src="./assets/images/image301.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5691,7 +5691,7 @@ intent and scope of automated tests.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image302.png"
+  <img src="./assets/images/image302.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5710,7 +5710,7 @@ improve code quality and make testing easier.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image303.png"
+  <img src="./assets/images/image303.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5728,7 +5728,7 @@ fewer resources while still providing the necessary functionality.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image304.png"
+  <img src="./assets/images/image304.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5747,7 +5747,7 @@ up-to-date, reliable, and fast.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image305.png"
+  <img src="./assets/images/image305.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5766,7 +5766,7 @@ assertion library and a browser.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image306.png"
+  <img src="./assets/images/image306.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5785,7 +5785,7 @@ full (non-headless) Chrome/Chromium mode.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image307.png"
+  <img src="./assets/images/image307.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5811,7 +5811,7 @@ In this module (26), you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image308.png"
+  <img src="./assets/images/image308.webp"
   alt="4-27. Testing Tools -- Mocha and Jasmine"
   style="width:500px;"/>
 </p>
@@ -5820,7 +5820,7 @@ Welcome to \"Testing Tools -- Mocha and Jasmine.\"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image309.png"
+  <img src="./assets/images/image309.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5839,7 +5839,7 @@ After reading this module (27), you'll be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image310.png"
+  <img src="./assets/images/image310.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5853,7 +5853,7 @@ categorizing them into test suites and test cases.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image311.png"
+  <img src="./assets/images/image311.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5867,7 +5867,7 @@ error-prone software.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image312.png"
+  <img src="./assets/images/image312.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5884,7 +5884,7 @@ fails.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image313.png"
+  <img src="./assets/images/image313.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5896,7 +5896,7 @@ your tests run too long.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image314.png"
+  <img src="./assets/images/image314.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5910,7 +5910,7 @@ create custom reports.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image315.png"
+  <img src="./assets/images/image315.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5923,7 +5923,7 @@ configure re-running failed tests.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image316.png"
+  <img src="./assets/images/image316.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5937,7 +5937,7 @@ be confusing at times.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image317.png"
+  <img src="./assets/images/image317.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5951,7 +5951,7 @@ chai-jest-snapshot library.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image318.png"
+  <img src="./assets/images/image318.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5967,7 +5967,7 @@ Edge, as well as Node.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image319.png"
+  <img src="./assets/images/image319.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5979,7 +5979,7 @@ browser. It is compatible with other languages, such as Python and Ruby.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image320.png"
+  <img src="./assets/images/image320.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -5990,7 +5990,7 @@ expected results using natural language.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image321.png"
+  <img src="./assets/images/image321.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6004,7 +6004,7 @@ The coding is pretty similar to writing in natural language.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image322.png"
+  <img src="./assets/images/image322.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6015,7 +6015,7 @@ test doubles.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image323.png"
+  <img src="./assets/images/image323.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6026,7 +6026,7 @@ suffix.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image324.png"
+  <img src="./assets/images/image324.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6041,7 +6041,7 @@ Mocha both have documentation and forum support.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image325.png"
+  <img src="./assets/images/image325.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6055,7 +6055,7 @@ extensibility are limited, whereas Mocha\'s are good.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image326.png"
+  <img src="./assets/images/image326.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6081,7 +6081,7 @@ In this module (27), you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image327.png"
+  <img src="./assets/images/image327.webp"
   alt="4-28. Using Jasmine"
   style="width:500px;"/>
 </p>
@@ -6090,7 +6090,7 @@ Welcome to Using Jasmine!
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image328.png"
+  <img src="./assets/images/image328.webp"
   alt="Define Jasmine and it's fundamental concepts, and identify the steps to test code and React with Jasmine."
   style="width:500px;"/>
 </p>
@@ -6106,7 +6106,7 @@ After reading this module (28), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image329.png"
+  <img src="./assets/images/image329.webp"
   alt="Jasmine: Open-source framework for unit testing JavaScript."
   style="width:500px;"/>
 </p>
@@ -6119,7 +6119,7 @@ an attempt to describe tests in a human-readable format so that
 non-technical people understand what is being tested.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image330.png"
+  <img src="./assets/images/image330.webp"
   alt="Jasmine suite is a collection of test cases used to verify the behavior of a JS object or function."
   style="width:500px;"/>
 </p>
@@ -6139,7 +6139,7 @@ expectations within a spec are incorrect, the spec fails.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image331.png"
+  <img src="./assets/images/image331.webp"
   alt="Jasmine: Expectation is an assertion that is True or False."
   style="width:500px;"/>
 </p>
@@ -6152,7 +6152,7 @@ the expectation is \"true\" or \"false."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image332.png"
+  <img src="./assets/images/image332.webp"
   alt="Jasmine: Describe function is used to group related specs."
   style="width:500px;"/>
 </p>
@@ -6170,7 +6170,7 @@ represent.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image333.png"
+  <img src="./assets/images/image333.webp"
   alt="Steps to begin testing in Jasmine."
   style="width:500px;"/>
 </p>
@@ -6182,7 +6182,7 @@ spec (test) file, and Make the source code available to your spec file.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image334.png"
+  <img src="./assets/images/image334.webp"
   alt="Steps for testing React with Jasmine."
   style="width:500px;"/>
 </p>
@@ -6199,7 +6199,7 @@ to test React components in your preferred testing framework.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image335.png"
+  <img src="./assets/images/image335.webp"
   alt="Structure of a React test in Jasmine."
   style="width:500px;"/>
 </p>
@@ -6218,7 +6218,7 @@ when users interact with your components.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image336.png"
+  <img src="./assets/images/image336.webp"
   alt="Module 28 - Jasmine summary."
   style="width:500px;"/>
 </p>
@@ -6238,7 +6238,7 @@ In this module (28), you learned that:
 <h1 id="ch4-29">29. Front-end Testing Best Practices</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image337.png"
+  <img src="./assets/images/image337.webp"
   alt="4-29. Front-end Testing Best Practices"
   style="width:500px;"/>
 </p>
@@ -6247,7 +6247,7 @@ Welcome to \"Front-end Testing Best Practices.\"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image338.png"
+  <img src="./assets/images/image338.webp"
   alt="Define front-end testing and its advantages, identify aspect, list best practices."
   style="width:500px;"/>
 </p>
@@ -6267,7 +6267,7 @@ After reading this module (29), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image339.png"
+  <img src="./assets/images/image339.webp"
   alt="What is front-end testing?  Test usability and functioning of an app's GUI, 
   validate menus, forms, buttons and other app elements visible to users, and consists 
   of 3-tier architecture containing clients, servers, and information systems."
@@ -6284,7 +6284,7 @@ all included. The client is part of the presentation layer. This layer
 is tested by front-end testers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image340.png"
+  <img src="./assets/images/image340.webp"
   alt="Advantages of front-end testing; provides accurate interactions, offers accessibility to all users."
   style="width:500px;"/>
 </p>
@@ -6301,7 +6301,7 @@ must be completed prior to the deployment of a website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image341.png"
+  <img src="./assets/images/image341.webp"
   alt="Front-end testing ensures consistent behavior and protects application from regression."
   style="width:500px;"/>
 </p>
@@ -6317,7 +6317,7 @@ consistent and that the front-end functionality is intact.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image342.png"
+  <img src="./assets/images/image342.webp"
   alt="Front-end testing fixes bugs and keeps well-maintained test codes."
   style="width:500px;"/>
 </p>
@@ -6331,7 +6331,7 @@ beneficial as they serve as live documentation.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image343.png"
+  <img src="./assets/images/image343.webp"
   alt="What should be tested in front-end testing? Cross-broser &amp; platform 
   functionality, accessibility, and end-to-end checks."
   style="width:500px;"/>
@@ -6349,7 +6349,7 @@ workflow by simulating real-world actions that users are likely to take.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image344.png"
+  <img src="./assets/images/image344.webp"
   alt="Additional tests; image analysis testing and Cascade Style Sheet (CSS) testing."
   style="width:500px;"/>
 </p>
@@ -6364,7 +6364,7 @@ for regression after changes to specific parts of the app.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image345.png"
+  <img src="./assets/images/image345.webp"
   alt="Best practices of front-end testing"
   style="width:500px;"/>
 </p>
@@ -6377,7 +6377,7 @@ Keeping tests independent, and Testing a variety of input parameters.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image346.png"
+  <img src="./assets/images/image346.webp"
   alt="Focus on front-end elements.  Use actual browsers and devices."
   style="width:500px;"/>
 </p>
@@ -6393,7 +6393,7 @@ results.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image347.png"
+  <img src="./assets/images/image347.webp"
   alt="Perform deterministic tests. Striving for coverage and not 100% code coverage."
   style="width:500px;"/>
 </p>
@@ -6410,7 +6410,7 @@ and provide you with the confidence to make changes to your code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image348.png"
+  <img src="./assets/images/image348.webp"
   alt="Encouraging shorter and more readable unit tests. Keep test independent. Test a variety of
   input parameters."
   style="width:500px;"/>
@@ -6429,7 +6429,7 @@ that a user may enter.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image349.png"
+  <img src="./assets/images/image349.webp"
   alt="Common best and most used front-end testing tools."
   style="width:500px;"/>
 </p>
@@ -6441,7 +6441,7 @@ Jest, Selenium WebDriver, Cypress, WebDriverIO, WebDriverJS, and
 Jasmine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image350.png"
+  <img src="./assets/images/image350.webp"
   alt="Module 29 educates you on Front-end testing and tools."
   style="width:500px;"/>
 </p>
@@ -6523,7 +6523,7 @@ In this module, you learned that:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image351.png"
+  <img src="./assets/images/image351.webp"
   style="width:500px;"/>
   alt="5-30. JavaScript Debugging"
 </p>
@@ -6532,7 +6532,7 @@ Welcome to "JavaScript Debugging."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image352.png"
+  <img src="./assets/images/image352.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6553,7 +6553,7 @@ After reading this module (30), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image353.png"
+  <img src="./assets/images/image353.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6565,7 +6565,7 @@ use debugging, which identifies and fixes bugs in your code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image354.png"
+  <img src="./assets/images/image354.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6580,7 +6580,7 @@ program.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image355.png"
+  <img src="./assets/images/image355.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6593,7 +6593,7 @@ You can either use single or double quotation marks to enclose the text.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image356.png"
+  <img src="./assets/images/image356.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6615,7 +6615,7 @@ steps. These are:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image357.png"
+  <img src="./assets/images/image357.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6634,7 +6634,7 @@ in a safe environment.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image358.png"
+  <img src="./assets/images/image358.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6649,7 +6649,7 @@ try it all over again.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image359.png"
+  <img src="./assets/images/image359.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6667,7 +6667,7 @@ whether it is doing what you expected. You can achieve the same result
 by including printouts in your code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image360.png"
+  <img src="./assets/images/image360.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6681,7 +6681,7 @@ developer to avoid writing complex one-time testing codes, saving time
 and energy required for software development.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image361.png"
+  <img src="./assets/images/image361.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6694,7 +6694,7 @@ of variable assignment. Let's discuss each reason in detail.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image362.png"
+  <img src="./assets/images/image362.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6710,7 +6710,7 @@ double quotations.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image363.png"
+  <img src="./assets/images/image363.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6724,7 +6724,7 @@ JavaScript.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image364.png"
+  <img src="./assets/images/image364.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6740,7 +6740,7 @@ usage is by function.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image365.png"
+  <img src="./assets/images/image365.webp"
   alt=""
   style="width:500px;"/>
 </p>
@@ -6758,7 +6758,7 @@ In this module (30), you learned about:
 <h1 id="ch5-31">31. Basic Debugging Concepts</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image366.png"
+  <img src="./assets/images/image366.webp"
   alt="5-31. Basic Debugging Concepts"
   style="width:500px;"/>
 </p>
@@ -6767,7 +6767,7 @@ Welcome to "Basic Debugging Concepts."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image367.png"
+  <img src="./assets/images/image367.webp"
   alt="Module 31: Describe debugging strategies, identify types of bugs, and explain terminologies used in debugging."
   style="width:500px;"/>
 </p>
@@ -6786,7 +6786,7 @@ After reading this module (31), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image368.png"
+  <img src="./assets/images/image368.webp"
   alt="Introduction to debugging."
   style="width:500px;"/>
 </p>
@@ -6799,7 +6799,7 @@ the cause based on the symptoms.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image369.png"
+  <img src="./assets/images/image369.webp"
   alt="Debugging strategies: 9 useful strategies."
   style="width:500px;"/>
 </p>
@@ -6812,7 +6812,7 @@ search, Instrumentation, Assertions, Backtracking, Simplify,
 Error-finding tools, and Hypotheses.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image370.png"
+  <img src="./assets/images/image370.webp"
   alt="Debugging strategies: Incremental development and Debuggers."
   style="width:500px;"/>
 </p>
@@ -6830,7 +6830,7 @@ content at selected points during execution.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image371.png"
+  <img src="./assets/images/image371.webp"
   alt="Debugging strategies: Binary search and Instrumentation."
   style="width:500px;"/>
 </p>
@@ -6848,7 +6848,7 @@ pertinent portions in a more concise style.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image372.png"
+  <img src="./assets/images/image372.webp"
   alt="Debugging strategies: Assertions and Backtracking."
   style="width:500px;"/>
 </p>
@@ -6865,7 +6865,7 @@ determine how it occurred.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image373.png"
+  <img src="./assets/images/image373.webp"
   alt="Debugging strategies: Simplify and Error finding tools."
   style="width:500px;"/>
 </p>
@@ -6882,7 +6882,7 @@ tools use either static analysis or dynamic analysis.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image374.png"
+  <img src="./assets/images/image374.webp"
   alt="Debugging strategies: Hypotheses."
   style="width:500px;"/>
 </p>
@@ -6895,7 +6895,7 @@ simplest hypotheses and associated test cases is an effective strategy.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image375.png"
+  <img src="./assets/images/image375.webp"
   alt="Type of bugs: Types of erros one may experience; Type errors, Minor errors, Implementation errors, and Conceptual errors."
   style="width:500px;"/>
 </p>
@@ -6907,7 +6907,7 @@ errors, Minor errors, Implementation errors, and Conceptual errors.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image376.png"
+  <img src="./assets/images/image376.webp"
   alt="Types of bugs: Type erros and Minor errors."
   style="width:500px;"/>
 </p>
@@ -6922,7 +6922,7 @@ errors may escape detection by the type checker or other compiler
 checks. These are simple to fix after they are identified.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image377.png"
+  <img src="./assets/images/image377.webp"
   alt="Types of bugs: Implementation erros and Conceptual errors."
   style="width:500px;"/>
 </p>
@@ -6939,7 +6939,7 @@ it may be better to redo it from scratch and create a cleaner design.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image378.png"
+  <img src="./assets/images/image378.webp"
   alt="Summary Debugging terminologies; Application log, Debugger, Stepping, Stack, Breakpoints, and Current line."
   style="width:500px;"/>
 </p>
@@ -6950,7 +6950,7 @@ Current Line.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image379.png"
+  <img src="./assets/images/image379.webp"
   alt="Debugging terminologies; Application log, Debugger."
   style="width:500px;"/>
 </p>
@@ -6968,7 +6968,7 @@ developer tools console is opened. The browser will now provide
 debugging methods and tools for debugging.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image380.png"
+  <img src="./assets/images/image380.webp"
   alt="Debugging terminologies; Stepping and Stack."
   style="width:500px;"/>
 </p>
@@ -6983,7 +6983,7 @@ serves as a \"trail\" of function calls. This allows you to see how
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image381.png"
+  <img src="./assets/images/image381.webp"
   alt="Debugging terminologies; Breakpoints and Current line."
   style="width:500px;"/>
 </p>
@@ -6999,7 +6999,7 @@ line, and so on.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image382.png"
+  <img src="./assets/images/image382.webp"
   alt="Summary module 31; Debugging strategies, Types of errors, and Important debugging terminologies."
   style="width:500px;"/>
 </p>
@@ -7015,7 +7015,7 @@ In this module (31), you learned about:
 <h1 id="ch5-32">32. Introduction to Debugging Tools</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image383.png"
+  <img src="./assets/images/image383.webp"
   alt="5-32. Introduction to Debugging Tools"
   style="width:500px;"/>
 </p>
@@ -7024,7 +7024,7 @@ Welcome to "Introduction to Debugging Tools."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image384.png"
+  <img src="./assets/images/image384.webp"
   alt="Summary module 32; Explain web development tools, Describe debugging tools, and Identify a few common debugging tools."
   style="width:500px;"/>
 </p>
@@ -7043,7 +7043,7 @@ After reading this module (32), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image385.png"
+  <img src="./assets/images/image385.webp"
   alt="Introduction to web development tools."
   style="width:500px;"/>
 </p>
@@ -7065,7 +7065,7 @@ In this module, we will
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image386.png"
+  <img src="./assets/images/image386.webp"
   alt="What a debugging tool does."
   style="width:500px;"/>
 </p>
@@ -7080,7 +7080,7 @@ browsers and operating systems.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image387.png"
+  <img src="./assets/images/image387.webp"
   alt="Common debugging tools."
   style="width:500px;"/>
 </p>
@@ -7092,7 +7092,7 @@ Studio Code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image388.png"
+  <img src="./assets/images/image388.webp"
   alt="Chrome developer tools built directly into the Chrome browser."
   style="width:500px;"/>
 </p>
@@ -7108,7 +7108,7 @@ happens.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image389.png"
+  <img src="./assets/images/image389.webp"
   alt="Keyboard shortcuts to open console in Google Chrome."
   style="width:500px;"/>
 </p>
@@ -7119,7 +7119,7 @@ console in Google Chrome: macOS \`CMD\`+\`OPT\`+\`I\` Windows
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image390.png"
+  <img src="./assets/images/image390.webp"
   alt="Firefox developer tools."
   style="width:500px;"/>
 </p>
@@ -7132,7 +7132,7 @@ browser's integrated toolkit on an equal level.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image391.png"
+  <img src="./assets/images/image391.webp"
   alt="Steps to access the Firefox developer tools in Mozilla Firefox."
   style="width:500px;"/>
 </p>
@@ -7144,7 +7144,7 @@ Tools.\" Next, select \"Web Developer Tools.\" Finally, click
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image392.png"
+  <img src="./assets/images/image392.webp"
   alt="Safari develop menu."
   style="width:500px;"/>
 </p>
@@ -7158,7 +7158,7 @@ fulfill developers\' demands.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image393.png"
+  <img src="./assets/images/image393.webp"
   alt="Safari develop menu - steps to enable."
   style="width:500px;"/>
 </p>
@@ -7171,7 +7171,7 @@ bar.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image394.png"
+  <img src="./assets/images/image394.webp"
   alt="React developer tools: Is a chrome DevTools extension and Displays props and stats 
   values for any element you click."
   style="width:500px;"/>
@@ -7185,7 +7185,7 @@ console, displaying properties and state values for any element you
 click.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image395.png"
+  <img src="./assets/images/image395.webp"
   alt="Console debugging: most common."
   style="width:500px;"/>
 </p>
@@ -7196,7 +7196,7 @@ print statements in the console. There is console.log() which is the
 most common one you\'ll see.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image396.png"
+  <img src="./assets/images/image396.webp"
   alt="IDE/Visual studio code (microsoft POS)."
   style="width:500px;"/>
 </p>
@@ -7212,7 +7212,7 @@ features that IDE's debuggers provide.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image397.png"
+  <img src="./assets/images/image397.webp"
   alt="In this module (32), you learned that browsers are equipped with a variety of web dev tools, among others."
   style="width:500px;"/>
 </p>
@@ -7230,7 +7230,7 @@ In this module (32), you learned that:
 <h1 id="ch5-33">33. Troubleshooting with Chrome DevTools</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image398.png"
+  <img src="./assets/images/image398.webp"
   alt="5-33. Troubleshooting with Chrome DevTools"
   style="width:500px;"/>
 </p>
@@ -7239,7 +7239,7 @@ Welcome to Troubleshooting with Chrome DevTools!
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image399.png"
+  <img src="./assets/images/image399.webp"
   alt="Summary module 33; Define/describe DevTools and how to access some of the panels' features."
   style="width:500px;"/>
 </p>
@@ -7255,7 +7255,7 @@ After reading this module (33), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image400.png"
+  <img src="./assets/images/image400.webp"
   alt="Chrome DevTools; Edit codes, add breakpoints, and debug code quickly."
   style="width:500px;"/>
 </p>
@@ -7267,7 +7267,7 @@ add breakpoints to detect issues, and debug their code quickly.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image401.png"
+  <img src="./assets/images/image401.webp"
   alt="Chrome DevTools panels; Elements, Console, Sources, Network, Performance, and six more."
   style="width:500px;"/>
 </p>
@@ -7293,7 +7293,7 @@ Insights pane, with actionable feedback on how to fix issues.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image402.png"
+  <img src="./assets/images/image402.webp"
   alt="How to access Chrome DevTools."
   style="width:500px;"/>
 </p>
@@ -7306,7 +7306,7 @@ Option + J on Mac or CTRL + SHIFT + J on Windows.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image403.png"
+  <img src="./assets/images/image403.webp"
   alt="How to access elements panel, right-click, element panel, highlighted in the DOM tree."
   style="width:500px;"/>
 </p>
@@ -7318,7 +7318,7 @@ element should now be highlighted in the DOM tree.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image404.png"
+  <img src="./assets/images/image404.webp"
   alt="How to access elements panel, Hover and click."
   style="width:500px;"/>
 </p>
@@ -7329,7 +7329,7 @@ you want to inspect.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image405.png"
+  <img src="./assets/images/image405.webp"
   alt="Editing HTML."
   style="width:500px;"/>
 </p>
@@ -7343,7 +7343,7 @@ behavior of an element by adding or removing HTML elements inside or
 around any element on the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image406.png"
+  <img src="./assets/images/image406.webp"
   alt="More Editing HTML and CSS."
   style="width:500px;"/>
 </p>
@@ -7356,7 +7356,7 @@ delete and reorder elements in addition to editing them.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image407.png"
+  <img src="./assets/images/image407.webp"
   alt="Editing CSS."
   style="width:500px;"/>
 </p>
@@ -7369,7 +7369,7 @@ the changes because they are updated in real-time.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image408.png"
+  <img src="./assets/images/image408.webp"
   alt="Editing HTML and CSS."
   style="width:500px;"/>
 </p>
@@ -7381,7 +7381,7 @@ actual code of your live website is not altered.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image409.png"
+  <img src="./assets/images/image409.webp"
   alt="Setting breakpoints."
   style="width:500px;"/>
 </p>
@@ -7397,7 +7397,7 @@ point will provide you with valuable insight into how it works.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image410.png"
+  <img src="./assets/images/image410.webp"
   alt="Setting programmatic breakpoints."
   style="width:500px;"/>
 </p>
@@ -7409,7 +7409,7 @@ in that line.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image411.png"
+  <img src="./assets/images/image411.webp"
   alt="Using logging function."
   style="width:500px;"/>
 </p>
@@ -7424,7 +7424,7 @@ the console at the bottom of the screen.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image412.png"
+  <img src="./assets/images/image412.webp"
   alt="Searching an object for properties."
   style="width:500px;"/>
 </p>
@@ -7435,7 +7435,7 @@ a set of criteria.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image413.png"
+  <img src="./assets/images/image413.webp"
   alt="Searching an object for properties."
   style="width:500px;"/>
 </p>
@@ -7445,7 +7445,7 @@ document object that match get: grep(document, \'get\');
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image414.png"
+  <img src="./assets/images/image414.webp"
   alt="Visualizing the website on devices."
   style="width:500px;"/>
 </p>
@@ -7457,7 +7457,7 @@ changing the screen size of a webpage.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image415.png"
+  <img src="./assets/images/image415.webp"
   alt="Visualizing the website on devices; switch between different mobile screen types and versions."
   style="width:500px;"/>
 </p>
@@ -7466,7 +7466,7 @@ To access that option: First, toggle on the Inspect mode.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image416.png"
+  <img src="./assets/images/image416.webp"
   alt="Visualizing websites on different mobile screen types."
   style="width:500px;"/>
 </p>
@@ -7476,7 +7476,7 @@ of the DevTools. Lastly, choose your preferred mobile device.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image417.png"
+  <img src="./assets/images/image417.webp"
   alt="Monitoring resources using devtools."
   style="width:500px;"/>
 </p>
@@ -7491,7 +7491,7 @@ to see how your website performs on different platforms.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image418.png"
+  <img src="./assets/images/image418.webp"
   alt="Recap module 33; devtools."
   style="width:500px;"/>
 </p>
@@ -7522,7 +7522,7 @@ In this module (33), you learned that:
 <h1 id="ch5-34">34. Monitoring your Website</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image419.png"
+  <img src="./assets/images/image419.webp"
   alt="5-34. Monitory your Website"
   style="width:500px;"/>
 </p>
@@ -7530,7 +7530,7 @@ In this module (33), you learned that:
 Welcome to "Monitoring your Website."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image420.png"
+  <img src="./assets/images/image420.webp"
   alt="Module 34; Explain, describe, discuss and define website monitoring."
   style="width:500px;"/>
 </p>
@@ -7551,7 +7551,7 @@ After reading this module (34), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image421.png"
+  <img src="./assets/images/image421.webp"
   alt="Introduction to website monitoring."
   style="width:500px;"/>
 </p>
@@ -7565,7 +7565,7 @@ errors that could have a negative impact.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image422.png"
+  <img src="./assets/images/image422.webp"
   alt="Advantages of website monitoring."
   style="width:500px;"/>
 </p>
@@ -7585,7 +7585,7 @@ revenue flowing.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image423.png"
+  <img src="./assets/images/image423.webp"
   alt="Methods of website monitoring."
   style="width:500px;"/>
 </p>
@@ -7595,7 +7595,7 @@ real user monitoring.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image424.png"
+  <img src="./assets/images/image424.webp"
   alt="Automated monitoring."
   style="width:500px;"/>
 </p>
@@ -7610,7 +7610,7 @@ various steps to complete the process of web monitoring.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image425.png"
+  <img src="./assets/images/image425.webp"
   alt="Steps to automated website monitoring."
   style="width:500px;"/>
 </p>
@@ -7629,7 +7629,7 @@ mimicking the user\'s interaction with the site.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image426.png"
+  <img src="./assets/images/image426.webp"
   alt="Additional steps to automated website monitoring."
   style="width:500px;"/>
 </p>
@@ -7649,7 +7649,7 @@ website\'s performance and availability.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image427.png"
+  <img src="./assets/images/image427.webp"
   alt="Real User Monitoring."
   style="width:500px;"/>
 </p>
@@ -7666,7 +7666,7 @@ site.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image428.png"
+  <img src="./assets/images/image428.webp"
   alt="Summary: Type of website monitoring; Availability, Performance, and Functionality."
   style="width:500px;"/>
 </p>
@@ -7679,7 +7679,7 @@ Functionality monitoring.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image429.png"
+  <img src="./assets/images/image429.webp"
   alt="First type of website monitoring: Availability monitoring."
   style="width:500px;"/>
 </p>
@@ -7690,7 +7690,7 @@ ensuring that the website is running and can always be used by users. It
 checks the availability of web services, domains, and pages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image430.png"
+  <img src="./assets/images/image430.webp"
   alt="Second type of website monitoring: Performance monitoring."
   style="width:500px;"/>
 </p>
@@ -7703,7 +7703,7 @@ comprehensive performance data set.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image431.png"
+  <img src="./assets/images/image431.webp"
   alt="Third type of website monitoring: Functionality monitoring."
   style="width:500px;"/>
 </p>
@@ -7721,7 +7721,7 @@ faced.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image432.png"
+  <img src="./assets/images/image432.webp"
   alt="Summary: Popular website monitoring metrics."
   style="width:500px;"/>
 </p>
@@ -7734,7 +7734,7 @@ Lookup Speed, Bounce Rate, and Requests Per Second.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image433.png"
+  <img src="./assets/images/image433.webp"
   alt="Popular website monitoring metrics: A page's speed."
   style="width:500px;"/>
 </p>
@@ -7747,7 +7747,7 @@ HTML web page; and Time taken to render a web page in a browser.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image434.png"
+  <img src="./assets/images/image434.webp"
   alt="Popular website monitoring metrics: Time to title, Time to start render, Time to interact."
   style="width:500px;"/>
 </p>
@@ -7763,7 +7763,7 @@ in other ways.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image435.png"
+  <img src="./assets/images/image435.webp"
   alt="Popular website monitoring metrics: DNS lookup speed, Bounce rate, and Requests per second."
   style="width:500px;"/>
 </p>
@@ -7782,7 +7782,7 @@ server receives every second. It is also referred to as "Throughput" or
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image436.png"
+  <img src="./assets/images/image436.webp"
   alt="In this Module (34): Website monitoring, Website monitors, Steps to automated monitoring, types of website monitoring."
   style="width:500px;"/>
 </p>
@@ -7808,7 +7808,7 @@ In this module (34), you learned about:
 <h1 id="ch5-35">35. Popular Monitoring Tools</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image437.png"
+  <img src="./assets/images/image437.webp"
   alt="5-35. Popular Monitory Tools"
   style="width:500px;"/>
 </p>
@@ -7817,7 +7817,7 @@ Welcome to Popular Monitoring Tools!
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image438.png"
+  <img src="./assets/images/image438.webp"
   alt="This module (35) describes how to select a website monitoring tool, and some of the most popular monitoring tools."
   style="width:500px;"/>
 </p>
@@ -7833,7 +7833,7 @@ After reading this module (35), you will be able to:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image439.png"
+  <img src="./assets/images/image439.webp"
   alt="Website monitoring tools for: effectiveness, problem resolution, and performance."
   style="width:500px;"/>
 </p>
@@ -7846,7 +7846,7 @@ available, ranging from simple uptime or transaction monitoring
 solutions to complex web performance monitoring solutions.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image440.png"
+  <img src="./assets/images/image440.webp"
   alt="Factors when selecting best monitoring tools: live monitoring and free trial."
   style="width:500px;"/>
 </p>
@@ -7863,7 +7863,7 @@ tool. These include:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image441.png"
+  <img src="./assets/images/image441.webp"
   alt="Popular monitoring tools: Pingdom, Uptime Robot, Datadog Synthetics, Site24x7, Uptrends, Uptimia and New Relic."
   style="width:500px;"/>
 </p>
@@ -7876,7 +7876,7 @@ and New Relic.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image442.png"
+  <img src="./assets/images/image442.webp"
   alt="Pingdon: PAID uptime monitoring service, sends alerts when apps go down, SSL certificate outdated and performance."
   style="width:500px;"/>
 </p>
@@ -7889,7 +7889,7 @@ easy-to-use interface and a low price.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image443.png"
+  <img src="./assets/images/image443.webp"
   alt="Pingdom: Offers real-time user monitoring services.  Hands-on spies I guess."
   style="width:500px;"/>
 </p>
@@ -7902,7 +7902,7 @@ where users access it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image444.png"
+  <img src="./assets/images/image444.webp"
   alt="Uptime Robot: FREE! Notifies users when services are unavailable, 
   includes 50 monitors, 3 months log storage, and runs synthetic checks every 5 minutes."
   style="width:500px;"/>
@@ -7918,7 +7918,7 @@ OpsGenie, Telegram, and VictorOps.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image445.png"
+  <img src="./assets/images/image445.webp"
   alt="Datadog Synthetics: Allows proactive monitoring of API endpoints &amp; sends 
   alerts, enables you to breakdown network timings, integrates directly into the CI pipeline."
   style="width:500px;"/>
@@ -7934,7 +7934,7 @@ and minimize downtime by eliminating errors before your users see them.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image446.png"
+  <img src="./assets/images/image446.webp"
   alt="Datadog Synthetics: Monitors critical transactions, screenshots &ampp; waterfall visualizations, and elements after UI changes."
   style="width:500px;"/>
 </p>
@@ -7949,7 +7949,7 @@ UI changes, resulting in fewer broken tests.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image447.png"
+  <img src="./assets/images/image447.webp"
   alt="Site 24x7: Provides website performance monnitoring, is cloud-based, detects website code errors, and performance timing."
   style="width:500px;"/>
 </p>
@@ -7964,7 +7964,7 @@ included in performance timings.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image448.png"
+  <img src="./assets/images/image448.webp"
   alt="Site 24x7: Key features: Monitor bundles, SaaS platform, 90 test launch 
   locations, DNS checks &amp; SSL certificate verification."
   style="width:500px;"/>
@@ -7975,7 +7975,7 @@ launch locations, DNS checks, and SSL certificate verification.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image449.png"
+  <img src="./assets/images/image449.webp"
   alt="Uptrands: Monitoring service for network and internet performance, masquerades as a user to accesss web servers."
   style="width:500px;"/>
 </p>
@@ -7989,7 +7989,7 @@ performed by Uptime. It also monitors SSL certificates to ensure that
 they do not become outdated.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image450.png"
+  <img src="./assets/images/image450.webp"
   alt="Uptrends: Monitors performance of FTP servers and other shit."
   style="width:500px;"/>
 </p>
@@ -8006,7 +8006,7 @@ for historical analysis.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image451.png"
+  <img src="./assets/images/image451.webp"
   alt="Uptimia: Monitoring service provider for small and large businesses.  Uptime monitoring is only service free."
   style="width:500px;"/>
 </p>
@@ -8019,7 +8019,7 @@ increments. The free plan only includes uptime monitoring.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image452.png"
+  <img src="./assets/images/image452.webp"
   alt="New Relic: Helps you monitor, debug and enhance your stack. I question it's claims."
   style="width:500px;"/>
 </p>
@@ -8038,7 +8038,7 @@ tools for monitoring, analytics, and optimization. Key features include:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image453.png"
+  <img src="./assets/images/image453.webp"
   alt="In this module (35), you learned about monitoring tools and tests, API endpoints, and so much more."
   style="width:500px;"/>
 </p>
@@ -8137,7 +8137,7 @@ lab by clicking this Lab Link</a>.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- <p align="center"> -->
-<!--   <img src="./assets/images/image454.png" -->
+<!--   <img src="./assets/images/image454.webp" -->
 <!--  alt="Semi-circle with 'We're starting up your lab environment now.'." -->
 <!--  style="width:500px;"/> -->
 <!-- </p> -->
@@ -8215,4 +8215,4 @@ and drop the file icon onto the window.*
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-<!-- Aug 8, 2023 7:26pm -->
+<!-- Aug 11, 2023 7:06pm -->
