@@ -3243,7 +3243,8 @@ don\'ts\" to keep in mind when developing your online strategy.
 
 | <b>Do's<b>                      | <b>Don'ts</b>                      |
 | :------------------------------ | :--------------------------------- |
-| ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^|                                    |
+| ------------------------------- |                                    |
+| ______________________________  |                                    |
 |                                 | <b>Don\'t link to external websites</b>|
 |                                 | <b>too frequently.</b>             |
 |                                 |                                    |
