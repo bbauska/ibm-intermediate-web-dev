@@ -7,10 +7,12 @@
   <meta charset="utf-8" >
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <link rel="canonical" href="https://ibm-intermediate-web-dev.bauska.org">
+  <meta name="title" content="IBM's Intermediate Web &amp; Front-end Development">
   <meta name="description" content="Are you interested in learning how to optimize your 
     website for search engines? Or do you want to learn how to increase the visibility of your website?">
   <meta name=”robots” content="all">
   <meta name="author" content="bbauska" />
+
   <title>IBM’s Intermediate Web &amp; Front-end Development</title>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
@@ -18,6 +20,34 @@
 </head>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <body>
+<!-- not sure about the following -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ script function: scrollFunction() ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<script>
+  <!-- get the button -->
+  var mybutton = document.getElementById("myBtn");
+
+  <!-- when the user scrolls down 10px from the top of the document, show the button -->
+  window.onscroll = function() {scrollFunction()};
+
+  function scrollFunction() {
+    if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
+      mybutton.style.display = "block";
+    } else {
+      mybutton.style.display = "none";
+    }
+  }
+
+  <!-- when the user clicks on the button, scroll to the top of the document. 0,0 or to table of contents (approx ###), if applicable -->
+  function topFunction() {
+    document.body.scrollTop = 435;
+    document.documentElement.scrollTop = 445;
+  }
+</script>
+
 <header id="title-block-header">
 
 <h1 class="title">IBM’s Intermediate Web &amp; Front-end Development</h1>
@@ -5476,7 +5506,7 @@ takes a value, which is referred to as the "toBe" value. Matchers is a
 comparison between the actual value and the expected value, either if
 the expectation is "true" or "false.”</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 337.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 332.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image332.webp"
@@ -5494,7 +5524,7 @@ objects that are created to represent or mimic the real thing. Mocks are
 required to avoid the overhead cost of creating the actual object they
 represent.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 337.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 333.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image333.webp"
@@ -5507,7 +5537,7 @@ manually downloading it or using a package manager. Initialize Jasmine.
 Create a spec (test) file, and Make the source code available to your
 spec file.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 337.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 334.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image334.webp"
@@ -5523,7 +5553,7 @@ React that Jasmine runs must be included in the JS bundle.</p>
 <p>The next step is to leverage Test Utils. ReactTestUtils makes it
 simple to test React components in your preferred testing framework.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 337.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 335.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image335.webp"
   alt="Structure of a React test in Jasmine."
@@ -5540,7 +5570,7 @@ utilities.</p>
 on to using React event simulation and Jasmine spies to see what happens
 when users interact with your components.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 337.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 336.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image336.webp"
   alt="Module 28 - Jasmine summary."
@@ -6472,16 +6502,18 @@ features that IDE’s debuggers provide.</p>
   <li><p>Determine how to access some of the panels' features.</p></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 400. chrome devtools; how to use it (264) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image400.webp"
   alt="Chrome DevTools; Edit codes, add breakpoints, and debug code quickly."
   style="width:500px;"/>
 </p>
-<p>Explain how to use Chrome DevTools to debug HTML and CSS The Google
-Chrome browser includes built-in developer tools, also known
-as DevTools, that allow developers to edit code directly in the browser,
-add breakpoints to detect issues, and debug their code quickly.</p>
+<p>Explain how to use <b><i>Chrome DevTools</i></b> to debug HTML and CSS The Google
+Chrome browser includes built-in developer tools, also known as DevTools, that allow 
+developers to edit code directly in the browser, add breakpoints to detect issues, 
+and debug their code quickly.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 401. chrome devtools, cont'd (264) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image401.webp"
   alt="Chrome DevTools panels; Elements, Console, Sources, Network, Performance, and six more."
@@ -6504,6 +6536,7 @@ what each panel oversees.</p>
     Insights pane, with actionable feedback on how to fix issues.</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 402. chrome devtools; how to access (265) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image402.webp"
   alt="How to access Chrome DevTools."
@@ -6515,6 +6548,7 @@ The DevTools will open the Elements panel and highlight the selected DOM
 element. To open the console panel, use the keyboard shortcut CMD +
 Option + J on Mac or CTRL + SHIFT + J on Windows.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 403. how to access elements panel (266) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image403.webp"
   alt="How to access elements panel, right-click, element panel, highlighted in the DOM tree."
@@ -6525,6 +6559,7 @@ elements panel: Right-click any element on the page and select "inspect"
 or Click on the elements panel inside Chrome DevTools. That element
 should now be highlighted in the DOM tree.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 404. how to access elements panel, cont'd  (266) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image404.webp"
   alt="How to access elements panel, Hover and click."
@@ -6534,19 +6569,21 @@ should now be highlighted in the DOM tree.</p>
 page and Click once on the highlighted area that corresponds to the
 element you want to inspect.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 405. editing html (267) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image405.webp"
   alt="Editing HTML."
   style="width:500px;"/>
 </p>
-Now that we know how to access the Elements panel let's look at how to
-use it to edit HTML and CSS. We will first look at how to edit HTML.
-When you right-click on an element and choose "Edit as HTML," you are
+<p>Now that we know how to access the Elements panel let's look at how to
+use it to edit HTML and CSS. We will first look at how to edit HTML.</p>
+<p>When you right-click on an element and choose "Edit as HTML," you are
 presented with a text field in which you can fully edit the HTML content
 that comprises that element. This is useful if you want to change the
 behavior of an element by adding or removing HTML elements inside or
-around any element on the page.
+around any element on the page.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 406. more editing html &amp; css (267) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image406.webp"
   alt="More Editing HTML and CSS."
@@ -6558,6 +6595,7 @@ and deleting these elements in your code. Simply refreshing the page
 allows you to edit the same component multiple times. You can easily
 delete and reorder elements in addition to editing them.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 407. editing css (268) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image407.webp"
   alt="Editing CSS."
@@ -6569,6 +6607,7 @@ you to preview changes without affecting the appearance of your website
 for other visitors. It is not necessary to refresh your browser to see
 the changes because they are updated in real-time.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 408. editing html and css (268) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image408.webp"
   alt="Editing HTML and CSS."
@@ -6579,60 +6618,76 @@ browser will reload the unmodified version of your website, wiping out
 your changes. Using the styles panel for live CSS testing ensures that
 the actual code of your live website is not altered.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 409. setting breakpoints (269) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image409.webp"
   alt="Setting breakpoints."
   style="width:500px;"/>
 </p>
-<p>Let's now understand the process of setting a breakpoint in your
-codes. To create a breakpoint: Click on the side of the file near the
-line number and Run the code that will trigger the breakpoint. The
-highlighted line of code indicates that the code has paused execution on
-that line. So, at this point, you can inspect specific data in the code
+<p>Let's now understand the process of setting a breakpoint in your codes.</p>
+<p>To create a breakpoint:</p>
+<ul>
+  <li><p>Click on the side of the file near the line number,</p></li>
+  <li><p>Run the code that will trigger the breakpoint, </p></li>
+  <li><p>The highlighted line of code indicates that the code has paused execution 
+    on that line.</p></li>
+</ul>
+
+<p>So, at this point, you can inspect specific data in the code
 by hovering over the variables you want to examine. This is essential
 for debugging because quickly viewing your app’s current state at any
 point will provide you with valuable insight into how it works.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 410. setting programmatic breakpoints (269) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image410.webp"
   alt="Setting programmatic breakpoints."
   style="width:500px;"/>
 </p>
 <p>Another way to trigger a breakpoint is to simply add the following
-code line to a Javascript program: debugger; When the code reaches this
-line, the debugger is triggered in the same way that a breakpoint would
-be set in that line.</p>
+code line to a Javascript program:</p>
+<pre>debugger;</pre>
+<p>When the code reaches this line, the debugger is triggered in the same way that a 
+breakpoint would be set in that line.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 411. using logging function (270) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image411.webp"
   alt="Using logging function."
   style="width:500px;"/>
 </p>
-<p>Let’s now look at the logging function. The code has a console.log
-function that can be used to output variables or data to the console.
-For example, this code outputs the values from 0 to 4 to the console: //
-open console to see for (let i = 0; i &lt; 5; i++)
-{console.log("value,", i); } To see the output, either open the DevTools
-Console panel or press Esc while in another panel. This opens the
-console at the bottom of the screen.</p>
+<p>Let’s now look at the logging function. The code has a console.log
+function that can be used to output variables or data to the console.</p>
+<p>For example, this code outputs the values from 0 to 4 to the console:</p>
+
+<pre>// open console to see
+for (let i = 0; i &lt; 5; i++) {
+  console.log("value,", i);
+}</pre>
+
+<p>To see the output, either open the DevTools Console panel or press Esc while 
+in another panel. This opens the console at the bottom of the screen.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 412. searching an object for properties with grep (271) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image412.webp"
-  alt="Searching an object for properties."
+  alt="Searching an object for properties with grep."
   style="width:500px;"/>
 </p>
 <p>Let’s now learn how to find properties in an object. The grep.js
 snippet searches an object and its prototypical chain for properties
 that match a set of criteria.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~ 413. searching an object for properties with grep, cont'd (271) ~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image413.webp"
-  alt="Searching an object for properties."
+  alt="Searching an object for properties with grep, cont'd."
   style="width:500px;"/>
 </p>
 <p>For example, this instruction will look for all properties in the
-document object that match get: grep(document, 'get');</p>
+document object that match <b>get: grep(document, 'get');</b></p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 414. visualizing website using chrome devtools (272) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image414.webp"
   alt="Visualizing the website on devices."
@@ -6643,38 +6698,51 @@ version of your webpage. Fortunately, Chrome DevTools allows you to
 switch between different mobile screen types and versions in addition to
 changing the screen size of a webpage.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 415. visualizing website on devices (272) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image415.webp"
   alt="Visualizing the website on devices; switch between different mobile screen types and versions."
   style="width:500px;"/>
 </p>
-<p>To access that option: First, toggle on the Inspect mode.</p>
+<p>To access that option:</p>
+<ul>
+  <li><p>First, toggle on the Inspect mode.</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 416. monitoring resources; assess overall performance (273) ~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image416.webp"
   alt=""
   style="width:500px;"/>
 </p>
-<p>Next, select Responsive from the drop-down menu in the top-left
-corner of the DevTools. Lastly, choose your preferred mobile device.</p>
+
+<ul>
+  <li><p>Next, select Responsive from the drop-down menu in the top-left corner of 
+    the DevTools.</p></li>
+  <li><p>Lastly, choose your preferred mobile device.</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 417. monitoring resources; assess overall performance (273) ~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image417.webp"
-  alt=""
+  alt="Monitoring resources: assess overall performance."
   style="width:500px;"/>
 </p>
 <p>The webpage is then rendered and adjusted to fit the size of the
 mobile device you chose. Aside from debugging JavaScript, Chrome
 DevTools includes a feature that allows you to assess your website's
-overall performance based on specific parameters. To use that feature,
-follow these steps: In the DevTools window, select the Lighthouse
-option. Next, choose the parameters you want to test. Select either
-Mobile or Desktop to see how your website performs on different
-platforms.</p>
+overall performance based on specific parameters.<p>
+<p>To use that feature, follow these steps:</p>
+<ul>
+  <li><p>In the DevTools window, select the Lighthouse option,</p></li>
+  <li><p>Next, choose the parameters you want to test. Select either Mobile or 
+    Desktop to see how your website performs on different platforms.</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 418. 5-33. recap; monitoring resources (274) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image418.webp"
-  alt=""
+  alt="Module 33: recap; monitoring resources."
   style="width:500px;"/>
 </p>
 <p>In this module (33), you learned that:</p>
@@ -6700,6 +6768,7 @@ platforms.</p>
 </ol>
 </h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 419. 5-34. monitoring your website (275) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image419.webp"
   alt="5-34. Monitory your Website"
@@ -6707,6 +6776,7 @@ platforms.</p>
 </p>
 <p>Welcome to “Monitoring your Website.”</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 420. monitoring your website (275) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image420.webp"
   alt="Monitoring your website summary module (34)."
@@ -6721,6 +6791,7 @@ platforms.</p>
   <li><p>Define popular website monitoring metrics.</p></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 421. introduction to website monitoring (276) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image421.webp"
   alt="Introduction to website monitoring."
@@ -6738,6 +6809,7 @@ platforms.</p>
     impact.</p></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 422. advantages of website monitoring (276) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image422.webp"
   alt="Advantages of website monitoring."
@@ -6763,6 +6835,7 @@ platforms.</p>
     flowing.</p></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~ 423. methods of website monitoring; automated and real-user (277) ~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image423.webp"
   alt="Methods of website monitoring."
@@ -6771,6 +6844,7 @@ platforms.</p>
 <p>Website monitoring can be done in two ways: automated monitoring and
 real user monitoring.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~ 424. automated monitoring; monitoring performance &amp; availability (278) ~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image424.webp"
   alt="Automated monitoring."
@@ -6790,6 +6864,7 @@ of a web application by;</p>
     of web monitoring.</p></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 425. automated monitoring; steps performed by checkpoint (278) ~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image425.webp"
   alt="Automated website monitoring.  Steps performed by the checkpoint."
@@ -6808,9 +6883,10 @@ rates, page load times, and server resource utilization.</p>
 content into a real browser. RBM launches a browser and monitors a web 
 application, mimicking the user's interaction with the site.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 426. automated monitoring; additional checkpoint (279) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image426.webp"
-  alt="Automated website monitoring; additional steps performed by the checkpoint."
+  alt="Automated website monitoring; Additional steps performed by the checkpoint."
   style="width:500px;"/>
 </p>
 <p>After real browser monitoring is completed, the checkpoint collects
@@ -6829,6 +6905,7 @@ a database for analysis.</p>
 	performance and availability.</p></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 427. real user monitoring; real user monitoring (rum) (280) ~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image427.webp"
   alt="Real user monitoring (RUM)."
@@ -6843,6 +6920,7 @@ rates, and user actions. Script files, agents, cookies, and server-side
 code track the website’s performance as each site visitor accesses the
 site.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~ 428. types of monitoring; availability, performance, &amp; functionality (281) ~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image428.webp"
   alt="Summary: Type of website monitoring; Availability, Performance, and Functionality."
@@ -6853,41 +6931,45 @@ picture" of the website’s performance.</p>
 <p>These include: Availability monitoring, Performance monitoring, and
 Functionality monitoring.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 429. types of monitoring; availability monitoring (281) ~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image429.webp"
   alt="First type of website monitoring: Availability monitoring."
   style="width:500px;"/>
 </p>
-<p>Let’s explore each type in detail. Availability monitoring or uptime
-monitoring checks if a website is available and accessible to users,
+<p>Let’s explore each type in detail. <b><i>Availability monitoring or uptime
+monitoring</i></b> checks if a website is available and accessible to users,
 ensuring that the website is running and can always be used by users. It
 checks the availability of web services, domains, and pages.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 430. types of monitoring; performance monitoring (282) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image430.webp"
   alt="Second type of website monitoring: Performance monitoring."
   style="width:500px;"/>
 </p>
-<p>Performance monitoring checks the speed of a website or service. The
+<p><b><i>Performance monitoring</i></b> checks the speed of a website or service. The
 frontend and backend connection tracks the browser load time by
 performance monitors. Performance monitors may use RUM technology or
 synthetic monitoring. RUM and the Full-Page Check provide the most
 comprehensive performance data set.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 431. types of monitoring; functionality monitoring (282) ~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image431.webp"
   alt="Third type of website monitoring: Functionality monitoring."
   style="width:500px;"/>
 </p>
-<p>The third type is functionality monitoring.</p>
-<p>A web application monitor or transaction monitor tests the
-functionality of a website.</p>
+<p>The third type is <b><i>functionality monitoring.</i></b></p>
+<p>A web application monitor or transaction monitor tests the functionality of 
+a website.</p>
 <p>Script files are used by these monitors to interact with forms, site
 searches, shopping carts, and payment systems. The transaction monitors
 interact with a web application in the same way as regular users, and an
 alert is sent to the supporting staff in case of any error or downtime
 faced.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 432. website monitoring metrics; a listing (283) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image432.webp"
   alt="Summary: Popular website monitoring metrics."
@@ -6898,30 +6980,31 @@ These include:</p>
 <p>Page Speed, Time to Title, Time to Start Render, Time to Interact,
 DNS Lookup Speed, Bounce Rate, and Requests Per Second.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 433. website monitoring metric; a pages speed ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image433.webp"
   alt="Popular website monitoring metrics: A page's speed."
   style="width:500px;"/>
 </p>
-<p>Let’s discuss each of them. A page's speed is determined by its
-loading time and consists of three different metrics: Server response
-time, which is the time the server takes to respond and is also called
-time to first byte (TTFB); Transfer time, which is the time taken to
-download an HTML web page; and Time taken to render a web page in a
-browser.</p>
+<p>Let’s discuss each of them.</p>
+<p>A page's speed is determined by its loading time and consists of three different 
+metrics: Server response time, which is the time the server takes to respond and is 
+also called time to first byte (TTFB); Transfer time, which is the time taken to
+download an HTML web page; and Time taken to render a web page in a browser.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 434. time to title, time to start render and time to interact ~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image434.webp"
   alt="Popular website monitoring metrics: Time to title, Time to start render, Time to interact."
   style="width:500px;"/>
 </p>
-<p>Time to Title is the time that a website’s title takes to appear in a
-browser. Time to Start Render is the time the content takes to begin
-loading, even if it doesn't fully load after an individual makes a
-request. Time to Interact measures the time taken before users are able
-to click links, type in text fields, scroll, or interact with a website
-in other ways.</p>
+<p>Time to Title is the time that a website’s title takes to appear in a browser.</p>
+<p>Time to Start Render is the time the content takes to begin loading, even if it 
+doesn't fully load after an individual makes a request.</p>
+<p>Time to Interact measures the time taken before users are able to click links, 
+type in text fields, scroll, or interact with a website in other ways.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 435. dns lookup, bounce rate and requests per second ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image435.webp"
   alt="Popular website monitoring metrics: DNS lookup speed, Bounce rate, and Requests per second."
@@ -6934,13 +7017,15 @@ results in a slow DNS Lookup speed.</p>
 visitors who leave a website after only viewing a single page. A high
 bounce rate indicates that a large number of visitors are leaving the
 site quickly, potentially due to a poor user experience or not finding
-what they were looking for. Requests Per Second refers to the number of
-requests the server receives every second. It is also referred to as
-“Throughput” or “Average Load.”</p>
+what they were looking for.</p>
+<p>Requests Per Second refers to the number of requests the server receives every 
+second. It is also referred to as “Throughput” or “Average Load.”</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 436. module 34 recap; website monitoring ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image436.webp"
-  alt="In this Module (34): Website monitoring, Website monitors, Steps to automated monitoring, types of website monitoring."
+  alt="In this Module (34): Website monitoring, Website monitors, Steps to automated 
+    monitoring, types of website monitoring."
   style="width:500px;"/>
 </p>
 <p>In this module (34), you learned about:</p>
@@ -6952,7 +7037,7 @@ requests the server receives every second. It is also referred to as
     <ul>
       <li><p>availability monitoring,</p></li>
       <li><p>performance monitoring,</p></li>
-      <li><p>functionality monitoring, and</p></li>
+      <li><p>functionality monitoring,</p></li>
     </ul></li>
   <li><p>Some popular website monitoring metrics.</p></li>
 </ul>
@@ -6963,6 +7048,7 @@ requests the server receives every second. It is also referred to as
 </ol>
 </h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 437. 5-35. popular monitoring tools ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image437.webp"
   alt="5-35. Popular Monitory Tools"
@@ -6970,9 +7056,11 @@ requests the server receives every second. It is also referred to as
 </p>
 <p>Welcome to Popular Monitoring Tools!</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~ 438. how to select a monitoring tool &amp; some of the most popular tools ~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image438.webp"
-  alt="This module (35) describes how to select a website monitoring tool, and some of the most popular monitoring tools."
+  alt="This module (35) describes how to select a website monitoring tool and 
+    some of the most popular monitoring tools."
   style="width:500px;"/>
 </p>
 <p>After reading this module (35), you will be able to:</p>
@@ -6982,56 +7070,75 @@ requests the server receives every second. It is also referred to as
   <li><p>Identify some of the most popular monitoring tools.</p>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~ 439. monitoring tools for effectiveness, problem resolution and performance ~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image439.webp"
   alt="Website monitoring tools for: effectiveness, problem resolution, and performance."
   style="width:500px;"/>
 </p>
 <p>Your website's effectiveness directly impacts your business, so choosing
-the best website monitoring service is essential. Monitoring tools run
-regular tests and notify you when your site is down, making identifying
-and resolving problems easier. There are numerous options available,
-ranging from simple uptime or transaction monitoring solutions to
-complex web performance monitoring solutions.</p>
+the best website monitoring service is essential.</p>
+<p>Monitoring tools run regular tests and notify you when your site is down, making identifying
+and resolving problems easier.</p>
+<p>There are numerous options available, ranging from simple uptime or transaction 
+monitoring solutions to complex web performance monitoring solutions.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 440. monitoring tools factors in selection ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image440.webp"
   alt="Factors when selecting best monitoring tools: live monitoring and free trial."
   style="width:500px;"/>
 </p>
 <p>Certain factors need to be considered when selecting the best
-monitoring tool. These include: - Live performance monitoring
-capability, - Monitoring of full stack, including supporting services, -
-Monitoring of uptime, - Administrating the web server, - Monitoring the
-page load time, - Providing a free trial or demo that allows for an
-evaluation prior to the purchase, and - Additional capabilities for
-monitoring other assets, such as physical servers and network
-devices.</p>
+monitoring tool. These include:</p>
+
+<ul>
+  <li><p>Live performance monitoring capability,</p></li>
+  <li><p>Monitoring of full stack, including supporting services,</p></li>
+  <li><p>Monitoring of uptime,</p></li>
+  <li><p>Administrating the web server,</p></li>
+  <li><p>Monitoring the page load time,</p></li>
+  <li><p>Providing a free trial or demo that allows for an evaluation prior to the purchase, and</p></li>
+  <li><p>Additional capabilities for monitoring other assets, such as physical servers and network 
+    devices.</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 441. popular monitoring tools ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image441.webp"
-  alt="Popular monitoring tools: Pingdom, Uptime Robot, Datadog Synthetics, Site24x7, Uptrends, Uptimia and New Relic."
+  alt="Popular monitoring tools: Pingdom, Uptime Robot, Datadog Synthetics, Site24x7, 
+    Uptrends, Uptimia and New Relic."
   style="width:500px;"/>
 </p>
 <p>Let’s now explore some of the most popular monitoring tools. They
 include:</p>
-<p>Pingdom, Uptime Robot, Datadog Synthetics, Site24x7, Uptrends,
-Uptimia, and New Relic.</p>
+<ul>
+  <li><p>Pingdom,</p></li>
+  <li><p>Uptime Robot,</p></li>
+  <li><p>Datadog Synthetics,</p></li>
+  <li><p>Site24x7,</p></li>
+  <li><p>Uptrends,</p></li>
+  <li><p>Uptimia,</p></li> and
+  <li><p>New Relic.</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 442. pingdom - paid uptime monitoring service ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image442.webp"
-  alt="Pingdon: PAID uptime monitoring service, sends alerts when apps go down, SSL certificate outdated and performance."
+  alt="Pingdom: PAID uptime monitoring service, sends alerts when apps go down, SSL 
+    certificate outdated and performance."
   style="width:500px;"/>
 </p>
-<p>Let's discuss each in detail. Pingdom is a paid uptime monitoring
+<p>Let's discuss each in detail. <b><i>Pingdom</i></b> is a paid uptime monitoring
 service that sends detailed alerts whenever an application or website
 goes down. It provides a wide range of capabilities, including SSL
 certificate monitoring and website performance monitoring, and has an
 easy-to-use interface and a low price.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 443. pingdom, cont'd - real-time monitoring services ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image443.webp"
-  alt="Pingdom: Offers real-time user monitoring services.  Hands-on spies I guess."
+  alt="Pingdom, cont'd: Offers real-time user monitoring services.  Hands-on spies I guess."
   style="width:500px;"/>
 </p>
 <p>Pingdom offers real-time user monitoring solutions that track
@@ -7040,13 +7147,14 @@ performance using data collected from actual people. Geographical
 performance is also monitored to ensure that your website performs
 optimally regardless of where users access it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 444. uptime robot - notify users when services are unavailable ~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image444.webp"
   alt="Uptime Robot: FREE! Notifies users when services are unavailable, 
   includes 50 monitors, 3 months log storage, and runs synthetic checks every 5 minutes."
   style="width:500px;"/>
 </p>
-<p>Uptime Robot is the best option if you are looking for a simple tool
+<p><b><i>Uptime Robot</i></b> is the best option if you are looking for a simple tool
 that will notify you when your services are down. The free account
 includes 50 monitors, which is sufficient for most small websites or web
 apps, and 3 months of log storage. It can run synthetic checks on your
@@ -7054,24 +7162,27 @@ website and APIs every 5 minutes from 12 locations worldwide and sends
 alerts via various integrations with tools such as Slack, Pagerduty,
 OpsGenie, Telegram, and VictorOps.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 445. datadog synthetics - monitors proactively ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image445.webp"
   alt="Datadog Synthetics: Allows proactive monitoring of API endpoints &amp; sends 
   alerts, enables you to breakdown network timings, integrates directly into the CI pipeline."
   style="width:500px;"/>
 </p>
-<p>Datadog Synthetics tests allow you to proactively monitor your API
+<p><b><i>Datadog Synthetics</i></b> tests allow you to proactively monitor your API
 endpoints and send alerts based on predefined parameters. You'll be able
 to break down network timings, allowing you to find the underlying cause
 of your problems faster. These tests can be integrated directly into
 your CI pipeline to ensure early problem detection, allowing you to
 evaluate the state of your production environment after each deployment
-and minimize downtime by eliminating errors before your users see
+and minimize downtime by eliminating errors before your users see
 them.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 446. datadog synthetics, cont'd - monitors transactions ~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image446.webp"
-  alt="Datadog Synthetics: Monitors critical transactions, screenshots &ampp; waterfall visualizations, and elements after UI changes."
+  alt="Datadog Synthetics, cont'd: Monitors critical transactions, screenshots &ampp; 
+    waterfall visualizations, and elements after UI changes."
   style="width:500px;"/>
 </p>
 <p>With Datadog Synthetics, you can monitor all of your critical
@@ -7081,14 +7192,14 @@ recorder.</p>
 combined with an intelligent system that identifies elements even after
 UI changes, resulting in fewer broken tests.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 450. uptrends - monitors ftp server performance ~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 447. site 24x7 - performance monitoring ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image447.webp"
-  alt="Site 24x7: Provides website performance monnitoring, is cloud-based, detects website code errors, and performance timing."
+  alt="Site 24x7: Provides website performance monitoring, is cloud-based, 
+    detects website code errors, and performance timing."
   style="width:500px;"/>
 </p>
-<p>Site 24x7 provides website performance monitoring via periodic checks
+<p><b><i>Site 24x7</i></b> provides website performance monitoring via periodic checks
 from 90 locations worldwide. A subscription is required to use this
 platform for cloud-based website monitoring. A Domain Expiry Monitor, an
 SSL/TLS Certificate Monitor, and a Website Defacement Monitor detect
@@ -7097,7 +7208,6 @@ times, first-byte time, download time, and SSL handshake time are all
 included in performance timings.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~ 448. site 24x7 - monitors bundles, saas platforms, dns, ssl &amp; more ~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image448.webp"
   alt="Site 24x7: Key features: Monitor bundles, SaaS platform, 90 test launch 
@@ -7110,10 +7220,11 @@ test launch locations, DNS checks, and SSL certificate verification.</p>
 <!--~~~~~~~~~~~~~~~~ 449. uptrends - monitors internet and network performance ~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image449.webp"
-  alt="Uptrends: Monitoring service for network and internet performance, masquerades as a user to accesss web servers."
+  alt="Uptrends: Monitoring service for network and internet performance, 
+    masquerades as a user to accesss web servers."
   style="width:500px;"/>
 </p>
-<p>Uptrends is a website monitoring service that also monitors network and
+<p><b><i>Uptrends</i></b> is a website monitoring service that also monitors network and
 internet performance. As a remote server, it can access your web servers
 while masquerading as a user and report on its findings. It can even
 test your competitors' websites and tell you how theirs performs
@@ -7121,10 +7232,10 @@ compared to yours. DNS records and DNS fetch times are some other checks
 performed by Uptime. It also monitors SSL certificates to ensure that
 they do not become outdated.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 450. uptrends - monitors ftp server performance ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 450. uptrends, cont'd - monitors ftp server performance ~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image450.webp"
-  alt="Uptrends: Monitors performance of FTP servers and other shit."
+  alt="Uptrends, cont'd: Monitors performance of FTP servers and other shit."
   style="width:500px;"/>
 </p>
 <p>It also monitors the performance of FTP servers for download delivery. The monitor 
@@ -7138,10 +7249,11 @@ for historical analysis.</p>
 <!--~~~~~~~~~~ 451. uptimia - monitoring service provider for small/large businesses ~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image451.webp"
-  alt="Uptimia: Monitoring service provider for small and large businesses.  Uptime monitoring is only service free."
+  alt="Uptimia: Monitoring service provider for small and large businesses.  
+    Uptime monitoring is only service free."
   style="width:500px;"/>
 </p>
-<p>Uptimia provides monitoring services for both small and large
+<p><b><i>Uptimia</i></b> provides monitoring services for both small and large
 businesses, including uptime and speed monitoring, transaction
 monitoring, and real-time user monitoring. The company provides a
 free-forever plan that allows you to monitor one website in five-minute
@@ -7153,7 +7265,7 @@ increments. The free plan only includes uptime monitoring.</p>
   alt="New Relic: Helps you monitor, debug and enhance your stack. I question it's claims."
   style="width:500px;"/>
 </p>
-<p>New Relic is an observability platform that helps you in monitoring,
+<p><b><i>New Relic</i></b> is an observability platform that helps you in monitoring,
 debugging, and enhancing your stack. It enables developers to create
 more effective software by providing a diverse set of tools. It combines
 tools for monitoring, analytics, and optimization. Key features
@@ -7329,7 +7441,7 @@ drag and drop the file icon onto the window.</em></p>
     along with source, and save it as 09-final-output. (2 pts)</p></li>
 </ol>
 
-<!-- Aug 11, 2023 1:19pm -->
+<!-- Aug 12, 2023 1:31pm -->
 
 </body>
 </html>
