@@ -208,11 +208,11 @@ After reading this module (02), you will be able to:
 
 -   List several CMS software/platforms, and
 
--   Recognize the benefits of using a CMS.
-
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Recognize the benefits of using a CMS.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -395,12 +395,12 @@ After reading this module (03), you will be able to:
 
 -   Describe a Web Content Management System (WCMS) and its types,
 
--   Identify the characteristics of the Web Content Management System,
-    and
-
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Identify the characteristics of the Web Content Management System,
+    and
 
 -   Explain Enterprise Content Management System (ECMS).
 
@@ -557,11 +557,12 @@ After reading this module (04), you will be able to:
 
 -   Explain Headless Content Management System (CMS), and
 
--   Identify popular CMS platforms and tools.
-
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Identify popular CMS platforms and tools.
+
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -724,10 +725,11 @@ After reading this module (05a), you will be able to:
 
 -   Explain important elements of a web development plan, and
 
--   Define best practices for a successful business website.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Define best practices for a successful business website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1108,10 +1110,11 @@ After reading this module (06a), you will be able to:
 
 -   Define WordPress as a Content Management System (CMS) and
 
--   Describe key concepts related to WordPress.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Describe key concepts related to WordPress.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1300,11 +1303,11 @@ After reading this module (06b), you will be able to:
 
 -   Describe the popular website builder, WordPress,
 
--   Identify the steps to create a website using WordPress, and
-
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Identify the steps to create a website using WordPress, and
 
 -   Identify the skills required to enhance WordPress.
 
@@ -1566,25 +1569,26 @@ After reading this module (07), you will be able to:
 -   Explain the benefits of adding e-commerce functionality to your
     website, and
 
--   Describe how to add e-commerce functionality to your website.
-
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+-   Describe how to add e-commerce functionality to your website.
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-> <p align="center">
->  <img src="./assets/images/image081.webp"
->  alt="Why add e-commerce functionality?"
->  style="width:500px;"/>
-> </p>
+<p align="center">
+  <img src="./assets/images/image081.webp"
+  alt="Why add e-commerce functionality?"
+  style="width:500px;"/>
+</p>
 
 Businesses must adapt to the new online world to remain relevant and
 profitable. Those who depend on customers visiting a storefront must
 shift to an entirely new business model to survive. Suppose you run a
 business that sells physical products. In that case, it is possible to
 transition to an e-commerce business to keep things afloat in the coming
-months. And, for most businesses, adding an e-commerce store to its
+months. 
+And, for most businesses, adding an e-commerce store to its
 existing website is surprisingly easy. How you achieve this depends on
 how you build your website. However, like most businesses, if you\'re
 either using WordPress website or a website builder to create your
@@ -1599,11 +1603,11 @@ website, adding e-commerce functionality is simple.
 
 The global consultancy firm AT Kearney stated, \"e-commerce is the next
 frontier in global expansion. Global e-commerce has grown by thirteen
-percent over the last five years. As online sales skyrocket in
-developing markets, an online presence is a low-risk way to test new
-markets and complement existing store footprints." E-commerce is easy
-and affordable. It allows you to sell locally and globally every hour of
-every day.
+percent over the last five years. 
+As online sales skyrocket in developing markets, an online presence is a 
+low-risk way to test new markets and complement existing store footprints." 
+E-commerce is easy and affordable. It allows you to sell locally and globally every 
+hour of every day.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3143,7 +3147,6 @@ don\'ts\" to keep in mind when developing your online strategy.
 | webmaster has a link trading    | way to present your content in a   |
 | network.                        | way that is more engaging to your  |
 |                                 | buyer.                             |
-|                                 |                                    |
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -3164,7 +3167,6 @@ don\'ts\" to keep in mind when developing your online strategy.
 | correctly, social media can be  | happy and unhappy customers.       |
 | an extremely effective business |                                    |
 | tool.                           |                                    |
-|                                 |                                    |
 | <b>Do monitor site metrics.</b> | <b>Don\'t be alarmed if your</b>   |
 |                                 | <b>rankings appear to drop</b>     |
 | None of the other SEO do\'s and | <b>suddenly.</b>                   |
@@ -3175,9 +3177,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 | monitor site metrics that can   | a new algorithm.                   |
 | help you see where you can      |                                    |
 | improve, such as the following: |                                    |
-|                                 |                                    |
 |   - Traffic flow                |                                    |
-|                                 |                                    |
 |   - Conversion rate             |                                    |
 
 <div align="right">
@@ -3188,30 +3188,23 @@ don\'ts\" to keep in mind when developing your online strategy.
 
 | <b>Do's<b>                      | <b>Don'ts</b>                      |
 | :------------------------------ | :--------------------------------- |
-|                                 |                                    |
 |   - Bounce rate                 |                                    |
-|                                 |                                    |
 |   - Click-through rate          |                                    |
-|                                 |                                    |
 | The most convenient way to      |                                    |
 | track your metrics is to use a  |                                    |
 | tool like Google Analytics.     |                                    |
 |                                 |                                    |
 |                                 | <b>Don\'t skip user search</b>     |
 |                                 | <b>intention.</b>                  |
-|                                 |                                    |
 |                                 | Google\'s ultimate goal with       |
 |                                 | search results is to serve a       |
 |                                 | user\'s search intent.             |
-|                                 |                                    |
 |                                 |   - If the user wants information, |
 |                                 |     create content that provides   |
 |                                 |     it.                            |
-|                                 |                                    |
 |                                 |   - If they want to buy something, |
 |                                 |     direct them to your            |
 |                                 |     product/service page.          |
-|                                 |                                    |
 |                                 |   - If they want to navigate to a  |
 |                                 |     specific page via a search     |
 |                                 |     query, make sure you own the   |
@@ -3243,11 +3236,9 @@ don\'ts\" to keep in mind when developing your online strategy.
 
 | <b>Do's<b>                      | <b>Don'ts</b>                      |
 | :------------------------------ | :--------------------------------- |
-| ------------------------------- |                                    |
 | ______________________________  |                                    |
 |                                 | <b>Don\'t link to external websites</b>|
 |                                 | <b>too frequently.</b>             |
-|                                 |                                    |
 |                                 | The only drawback of having too    |
 |                                 | many outbound links today is that  |
 |                                 | it makes your content more         |
@@ -3364,14 +3355,14 @@ After reading this module (15), you will be able to:
 </p>
 
 Build automation is the process of preparing the source code for
-production so that users can interact with it comfortably. It could
-include compilation, database schema updates, creating an installer or
-executable file, etc. Automation helps to standardize builds, speed them
-up, and minimize mistakes done manually. It is a process where
-retrieving the source code is automated, the code is compiled into
-binary code, automated tests are executed, and the code is published
-into a shared, centralized repository. Build automation is essential for
-Continuous Integration (CI) to take place. Continuous Integration is a
+production so that users can interact with it comfortably. 
+It could include compilation, database schema updates, creating an installer or
+executable file, etc. 
+Automation helps to standardize builds, speed them up, and minimize mistakes done 
+manually. It is a process where retrieving the source code is automated, the code 
+is compiled into binary code, automated tests are executed, and the code is published
+into a shared, centralized repository. 
+Build automation is essential for Continuous Integration (CI) to take place. Continuous Integration is a
 practice that a developer follows to integrate code into a shared
 repository multiple times in a period. The integration is then verified
 by an automated build and automated tests. Due to this regular
@@ -3384,23 +3375,28 @@ integration, errors are identified quickly and easily.
   style="width:500px;"/>
 </p>
 
+Scenario
 Suppose you have a 300-line JavaScript script. You simply insert the old
-script tag into your page. We start adding more functionality to the
-page, and before you know it, your single script file contains 10000
-lines of code. It becomes difficult to manage all that amount of code
-with multiple people working on the same file. A natural solution is
-that you split the code in multiple scripts with different script tags.
+script tag into your page. 
+We start adding more functionality to the page, and before you know it, your single 
+script file contains 10000 lines of code.
+It becomes difficult to manage all that amount of code with multiple people working 
+on the same file. 
+
+A natural solution is that you split the code in multiple scripts with different 
+script tags.
 You have to put the smaller files in a particular order to ensure that
 the utility function is available. This is not an ideal situation if you
 need to keep making changes in the same file to ensure that the order
-remains unchanged. We can link all our files in a single script tag but
+remains unchanged. 
+We can link all our files in a single script tag but
 will still need to monitor the code updates and the order of the
 existing and additional files. Simply concatenating all the files in the
-right order would not be enough. A better strategy would be each file to
-indicate which other file it needs (its dependencies), which is a point
-at which we could incorporate that mapping into our previous
-concatenation strategy. At this point, the functionality of an automated
-build tool and bundler comes into prominence.
+right order would not be enough. 
+A better strategy would be each file to indicate which other file it needs 
+(its dependencies), which is a point at which we could incorporate that 
+mapping into our previous concatenation strategy. At this point, the 
+functionality of an automated build tool and bundler comes into prominence.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3414,19 +3410,19 @@ build tools, your JavaScript and dependencies are prepared for use in a
 browser. Some of the functions include transformation, bundling,
 minification, and serving.
 
-Transformation translates various forms of JavaScript/TypeScript (and
+<b><i>Transformation</i></b> translates various forms of JavaScript/TypeScript (and
 additional assets like HTML, CSS, and images) into browser-compatible,
 standard packages.
 
-Bundling implies compiling multiple source components into a few
+<b><i>Bundling</i></b> implies compiling multiple source components into a few
 browser-friendly JavaScript bundles. Certain build tools launched
 recently can avoid this step to enhance performance.
 
-Minification reduces the size of the JavaScript bundle by eliminating
+<b><i>Minification</i></b> reduces the size of the JavaScript bundle by eliminating
 redundant code, renaming variables, and adopting a variety of other
 optimization approaches.
 
-Serving provides the content to browsers in development mode, including
+<b><i>Serving</i></b> provides the content to browsers in development mode, including
 the feature like "hot" reloading. Note that not all tools do all these
 steps or do them in exactly the same way. However, these are some of the
 core problems that most build tools address in one way or another.
@@ -3438,9 +3434,13 @@ core problems that most build tools address in one way or another.
   style="width:500px;"/>
 </p>
 
-Build automation offers five main benefits. These include increased
-productivity, accelerated delivery, enhanced quality, record
-maintenance, and saving time and money.
+Build automation offers five main benefits:
+
+  - Increased productivity, 
+  - Accelerated delivery, 
+  - Enhanced quality, 
+  - Record maintenance, and 
+  - Saving time and money.
 
 Let's discuss each of these benefits in detail.
 
@@ -3451,12 +3451,12 @@ Let's discuss each of these benefits in detail.
   style="width:500px;"/>
 </p>
 
-One of the major benefits of build automation is increased productivity.
+One of the major benefits of build automation is <b><i>increased productivity</i></b>.
 Build automation leads to quick feedback. This means that developers
 spend less time dealing with tools or processes and invest more time in
 delivering value.
 
-Another benefit of build automation is accelerated delivery. Build
+Another benefit of build automation is <b><i>accelerated delivery</i></b>. Build
 automation eradicates unnecessary tasks and enables you to identify
 issues faster, which helps expedite the delivery process.
 
@@ -3467,11 +3467,11 @@ issues faster, which helps expedite the delivery process.
   style="width:500px;"/>
 </p>
 
-Enhanced quality is another important benefit of build automation. Build
+<b><i>Enhanced quality</i></b> is another important benefit of build automation. Build
 automation helps prevent bad builds by enabling you to identify and
 address issues faster. This results in enhanced quality of your product.
 
-Furthermore, it records maintenance. Build automation enables you to
+Furthermore, it <b><i>records maintenance</i></b>. Build automation enables you to
 maintain a complete history of files and changes made. Maintaining a
 complete history enables you to track issues back to their core.
 
@@ -3482,8 +3482,8 @@ complete history enables you to track issues back to their core.
   style="width:500px;"/>
 </p>
 
-The last benefit we will discuss in this session is saving time and
-money. As build automation ensures increased productivity, accelerated
+The last benefit we will discuss in this session is <b><i>saving time and
+money</i></b>. As build automation ensures increased productivity, accelerated
 delivery, and enhanced quality, it enables you to save time and money
 spent in delivering quality products and services.
 
@@ -3494,8 +3494,14 @@ spent in delivering quality products and services.
   style="width:500px;"/>
 </p>
 
-Now, we will explore some popular web build tools and bundlers. These
-include: Grunt, Gulp, Browserify, Webpack, npm, and RequireJS.
+Now, we will explore some popular web build tools and bundlers:
+
+  - Grunt, 
+  - Gulp, 
+  - Browserify, 
+  - Webpack, 
+  - npm, and 
+  - RequireJS.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3506,12 +3512,12 @@ include: Grunt, Gulp, Browserify, Webpack, npm, and RequireJS.
 
 Let's take a brief look at each of these tools.
 
-Grunt is the first well-known task runner for front-end developers. Its
+<b><i>Grunt</i></b> is the first well-known task runner for front-end developers. Its
 popularity was aided by the plugin architecture. As plugins are often
 complex, it might be challenging to comprehend what is happening
 whenever configuration increases.
 
-Gulp is another JavaScript task runner built on Node streams. What
+<b><i>Gulp</i></b> is another JavaScript task runner built on Node streams. What
 differentiates Gulp from others is that the former uses Node streams,
 which means piping the output derived from one task as an input for the
 next. Unlike Grunt, it deals with actual code rather than relying on
@@ -3524,14 +3530,14 @@ plugin configuration.
   style="width:500px;"/>
 </p>
 
-Browserify is a build tool that allows using Node.js modules directly in
+<b><i>Browserify</i></b> is a build tool that allows using Node.js modules directly in
 a browser. It allows you to bundle all your JavaScript modules into one
 file that can be referenced within a script tag. It can be connected to
 Gulp, and there are smaller transformation tools available that let you
 go beyond the fundamental uses. The Browserify ecosystem is composed of
 a lot of small modules.
 
-Webpack offers a core that provides more functionalities straight out of
+<b><i>Webpack</i></b> offers a core that provides more functionalities straight out of
 the box compared to Browserify\'s collection of several little tools.
 Therefore, it is claimed that Webpack offers a clearer strategy compared
 to Browserify. Webpack core can also be extended using specific loaders
@@ -3546,7 +3552,7 @@ packages that don\'t function properly in difficult situations.
   style="width:500px;"/>
 </p>
 
-Node package manager (npm) functions as a package manager for
+<b><i>Node package manager (npm)</i></b> functions as a package manager for
 JavaScript. It serves as the default package manager for the JavaScript
 runtime environment, also called node.js. It consists of a command line
 client and an online database of both free and paid private packages.
@@ -3556,7 +3562,7 @@ JSON-formatted metadata files in the npm registry. Both the packages
 installed globally and the local dependencies of specific objects can be
 managed by npm.
 
-RequireJS is a JavaScript library and file loader that manages the
+<b><i>RequireJS</i></b> is a JavaScript library and file loader that manages the
 dependencies between JavaScript files and modular programming. It
 enhances both the speed and quality. RequireJS offers asynchronous
 module loading and the ability to load layered dependencies. For a
@@ -3920,11 +3926,11 @@ After reading this module (18), you will be able to:
 
 -   Explain the importance of Webpack configuration,
 
--   Identify how assets are handled in a configuration file,
-
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Identify how assets are handled in a configuration file,
 
 -   Discuss code splitting and the three ways to accomplish it,
 
@@ -4144,10 +4150,11 @@ After reading this module (19), you will be able to:
 
 -   Identify the different configuration modes in Webpack, and
 
--   Discuss the best practices related to Webpack in production.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Discuss the best practices related to Webpack in production.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image216.webp"
@@ -4312,10 +4319,11 @@ After reading this module (20), you will be able to:
 
 -   Explain the need for Webpack tools, and
 
--   Describe five popular Webpack bundle size tools.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Describe five popular Webpack bundle size tools.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4541,10 +4549,11 @@ After reading this module (21), you will be able to:
 
 -   Explain the need for using Webpack with front-end frameworks, and
 
--   Describe how to configure Webpack with Angular, Vue, and React.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Describe how to configure Webpack with Angular, Vue, and React.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4844,12 +4853,11 @@ Welcome to "Webpack Best Practices."
 After reading this module (22), you will be able to:
 
 -   Identify some important best practices for optimizing Webpack, and
-
--   Describe the benefits of implementing some key best practices in
-    Webpack.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+-   Describe the benefits of implementing some key best practices in
+    Webpack.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5145,7 +5153,7 @@ here's an overview of the process:
 
 # Week 3 Summary: Introduction to Automated Build Tools (Webpack)
 
-In this module (24), you learned that:
+In this separate section, you learned that:
 
 -   Build automation is preparing the source code for production so that
     users can interact with it comfortably.
@@ -5194,14 +5202,14 @@ Welcome to JavaScript Optimization.
   style="width:500px;"/>
 </p>
 
-After reading this module (24), you will be able to: define web
-optimization and JavaScript, explain how web optimization impacts
-website success factors, identify some popular web performance
-optimization methods, and define how JavaScript can improve a web
-application's performance.
+After reading this module (24), you will be able to: 
+  - Define web optimization and JavaScript, 
+  - Explain how web optimization impacts website success factors, 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+  - Identify some popular web performance optimization methods, and 
+  - Define how JavaScript can improve a web application's performance.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5383,11 +5391,10 @@ Welcome to Popular Optimization Tools!
 After reading this module (25), you'll be able to:
 
 -   Identify the various approaches to web optimization, and
-
--   List the key optimization tools used in each approach.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+-   List the key optimization tools used in each approach.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5612,12 +5619,10 @@ Welcome to Testing Frameworks.
 After reading this module (26), you will be able to:
 
 -   Define testing frameworks and their components,
-
--   List the key benefits of testing a framework, and
-
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+-   List the key benefits of testing a framework, and
 
 -   Identify the popular JavaScript testing frameworks.
 
@@ -5833,11 +5838,11 @@ After reading this module (27), you'll be able to:
 
 -   Define Mocha and Jasmine testing frameworks,
 
--   List their advantages and disadvantages, and
-
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   List their advantages and disadvantages, and
 
 -   Recognize the differences between the two frameworks.
 
@@ -6103,10 +6108,11 @@ After reading this module (28), you will be able to:
 
 -   Define Jasmine and its fundamental concepts, and
 
--   Identify the steps to test code and React with Jasmine.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Identify the steps to test code and React with Jasmine.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6260,12 +6266,12 @@ After reading this module (29), you will be able to:
 
 -   Define front-end testing and its advantages,
 
--   Identify what aspect of an application\'s front end should be
-    tested, and
-
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+-   Identify what aspect of an application\'s front end should be
+    tested, and
 
 -   List some of the best front-end testing practices.
 
@@ -6528,8 +6534,8 @@ In this module, you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image351.webp"
-  style="width:500px;"/>
-  alt="5-30. JavaScript Debugging"
+  style="width:500px;"
+  alt="5-30. JavaScript Debugging" />
 </p>
 
 Welcome to "JavaScript Debugging."
@@ -6537,7 +6543,7 @@ Welcome to "JavaScript Debugging."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image352.webp"
-  alt=""
+  alt="Module 30; describe debugging, process of debugging, benefits and common bugs."
   style="width:500px;"/>
 </p>
 
