@@ -259,10 +259,10 @@ time.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image008.webp"
-  style="width:350px;"
+  style="width:400px;"
   alt="Examples of proprietary and open-source CMS software." />
 <img src="./assets/images/image009.webp"
-  style="width:350px;"
+  style="width:400px;"
   alt="More examples of proprietary and open-source CMS software." />
 
 <!-- {width="3.0in" height="1.6705129046369205in"}! -->
@@ -450,10 +450,10 @@ essential characteristics of WCMS.
 <p align="center">
   <img src="./assets/images/image018.webp"
     alt="A WCMS enables a user to accomplish the following tasks." 
-	style="width:350px;"/>
+	style="width:400px;"/>
   <img src="./assets/images/image019.webp"
     alt="More tasks accomplised with WCMS software."
-	style="width:350px;"/>
+	style="width:400px;"/>
 </p>
 
 A WCMS enables a user to accomplish specific tasks. Some of these
@@ -478,10 +478,10 @@ include:
 <p align="center">
   <img src="./assets/images/image020.webp"
     alt="WCMS enables a user to accomplish the following additional tasks." 
-	style="width:350px;"/>
+	style="width:400px;"/>
   <img src="./assets/images/image021.webp"
     alt="WCMS enables a user to accomplish the following additional tasks." 
-	style="width:350px;"/>
+	style="width:400px;"/>
 </p>
 
 Here are the additional tasks that a WCMS enables a user to accomplish:
