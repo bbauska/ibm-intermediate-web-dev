@@ -259,10 +259,10 @@ time.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image008.webp"
-  style="width:225px;"
+  style="width:350px;"
   alt="Examples of proprietary and open-source CMS software." />
 <img src="./assets/images/image009.webp"
-  style="width:225px;"
+  style="width:350px;"
   alt="More examples of proprietary and open-source CMS software." />
 
 <!-- {width="3.0in" height="1.6705129046369205in"}! -->
