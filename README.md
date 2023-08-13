@@ -257,13 +257,15 @@ correct content to targeted audiences, and archives files after a set
 time.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
 <img src="./assets/images/image008.webp"
-  style="float: left; width 35%; margin-right: 1%; margin-bottom: 0.5em;"
+  style="width:225px;"
   alt="Examples of proprietary and open-source CMS software." />
 <img src="./assets/images/image009.webp"
-  style="float: left; width 35%; margin-right: 1%; margin-bottom: 0.5em;"
+  style="width:225px;"
   alt="More examples of proprietary and open-source CMS software." />
-  -- {width="3.0in" height="1.6705129046369205in"}! -->
+
+<!-- {width="3.0in" height="1.6705129046369205in"}! -->
 
 There is both proprietary and open-source CMS software. Some examples
 are WordPress, Drupal, Joomla, Magento, Squarespace, Wix, and HubSpot.
