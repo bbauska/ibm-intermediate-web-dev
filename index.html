@@ -5085,7 +5085,7 @@ where test cases are created and stored. Unit testing, integration
 testing, end-to-end testing, and behavior-driven development are all
 examples of testing libraries.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~ 301.  (1xx) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 301. integration testing and bdd (1xx) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image301.webp"
   alt=""
@@ -5095,7 +5095,8 @@ examples of testing libraries.</p>
 units in isolation is valuable and necessary, but you must also test the
 integrations between both units, as well as between units and external
 dependencies, if you want to ensure that your application works as
-intended. Finally, let’s learn about behavior-driven development (BBD).
+intended.</p>
+<p>Finally, let’s learn about behavior-driven development (BBD).
 BDD is not related to development. It’s a collection of best practices.
 BDD enables you to write great test cases when those practices are
 applied to automation testing. It's written in an English-like language
@@ -5103,6 +5104,7 @@ that everyone can understand. It helps turn scenarios and expected
 behavior features into code. BDD allows code to be aligned with the
 intent and scope of automated tests.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 302. benefits of testing frameworks (20x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image302.webp"
   alt=""
@@ -5118,6 +5120,7 @@ helps find bugs early. As a developer, you can use the testing framework
 to find and fix bugs on your own, which will improve code quality and
 make testing easier.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 303. jasmine features (20x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image303.webp"
   alt=""
@@ -5133,6 +5136,7 @@ way to achieve the desired result is to use optimized code. Testing
 assists developers in optimizing their code so that their program uses
 fewer resources while still providing the necessary functionality.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 304. jasmine features (20x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image304.webp"
   alt=""
@@ -5149,6 +5153,7 @@ WebKit using a single API. Playwright is designed to enable
 cross-browser web automation and automation that is always
 up-to-date, reliable, and fast.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 305. jasmine features (20x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image305.webp"
   alt=""
@@ -5164,6 +5169,7 @@ asynchronous testing simple and easy. To pair with any JavaScript
 testing framework, the Cypress testing library also employs a BDD/TDD
 assertion library and a browser.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 306. jasmine features (20x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image306.webp"
   alt=""
@@ -5179,9 +5185,10 @@ Chrome/Chromium via the DevTools Protocol. Puppeteer is designed to run
 in headless mode by default, but it can also be configured to run in
 full (non-headless) Chrome/Chromium mode.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307. jasmine features (20x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image307.webp"
-  alt=""
+  alt="Recap (26): "
   style="width:400px;"/>
 </p>
 <p>In this module (26), you learned that:</p>
@@ -5200,16 +5207,18 @@ Mocha, Cypress, Jasmine, and Puppeteer.</p></li>
 
 <h1 id="ch4-27">4-27. Testing Tools – Mocha and Jasmine</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308. jasmine features (20x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image308.webp"
-  alt="4-27. Testing Tools -- Mocha and Jasmine"
+  alt="4-27. Testing Tools -- Mocha and Jasmine."
   style="width:400px;"/>
 </p>
 <p>Welcome to "Testing Tools – Mocha and Jasmine."</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 309. testing tools; mocha and jasmine (20x) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image309.webp"
-  alt=""
+  alt="Testing tools; Mocha and Jasmine; defined, listing advantages and disadvantages and differences."
   style="width:400px;"/>
 </p>
 <p>After reading this module (27), you’ll be able to:</p>
@@ -5219,165 +5228,224 @@ Mocha, Cypress, Jasmine, and Puppeteer.</p></li>
 <li><p>Recognize the differences between the two frameworks.</p></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. mocha testing framework (20x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image310.webp"
-  alt=""
+  alt="Mocha Testing Framework."
   style="width:400px;"/>
 </p>
-<p>Mocha is a NodeJS-based open-source JavaScript testing framework. It
-prioritizes core features and extensibility. Mocha tests are executed
-sequentially, allowing for flexible and accurate reporting while mapping
-uncaught exceptions to the appropriate test cases. Mocha allows you to
-write structured code to thoroughly test your applications,
-categorizing them into test suites and test cases.</p>
+<p>Mocha is a NodeJS-based open-source JavaScript testing framework;</p>
+<ul>
+  <li><p>It prioritizes core features and extensibility,</p></li>
+  <li><p>Mocha tests are executed sequentially, allowing for flexible and accurate 
+    reporting,</p></li>
+  <li><p>Mocha will map uncaught exceptions to the appropriate test cases,</p></li>
+  <li><p>Mocha allows you to write structured code to thoroughly test your applications,
+    categorizing them into test suites and test cases,</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 311. more mocha testing framework (20x) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image311.webp"
-  alt=""
+  alt="Mocha Testing Framework, cont'd."
   style="width:400px;"/>
 </p>
-<p>Mapping errors to corresponding test cases enables us to generate a
-test report following the run. Mocha supports a wide range of test
-interfaces, such as TSS, Exports, QUnit, and Require. The default
-interface is a BDD interface, which aims to assist developers in
-creating predictable and resilient to-change software rather than
-error-prone software.</p>
+<ul>
+  <li><p>Mapping errors to corresponding test cases enables us to generate a test 
+    report following the run,</p></li>
+  <li><p>Mocha supports a wide range of test interfaces, such as TSS, Exports, 
+    QUnit, and Require, and</p></li>
+  <li><p>The default interface is a BDD interface, which aims to assist developers in
+    creating predictable and resilient to-change software rather than 
+	error-prone software.</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 312. features of mocha test framework (20x) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image312.webp"
-  alt=""
+  alt="Features of Mocha testing framework."
   style="width:400px;"/>
 </p>
-<p>Mocha is a simple and adaptable framework that works with any
-assertion library. The most popular assertion libraries with Mocha are
-Chai, Sinon, Express.js, and Should.js. Mocha provides the framework for
-running your tests, whether they are low-level Unit tests against
-back-end services or JavaScript functions or full-stack tests focused on
-component integration. Mocha can be used to run any type of test within
-describe functions by including code and assertions to determine a pass
-or fail status. Mocha will report the test as failed if an assertion
-fails.</p>
+
+<ul>
+  <li><p>Mocha is a simple and adaptable framework that works with any assertion 
+    library. The most popular assertion libraries with Mocha are Chai, Sinon, 
+	Express.js, and Should.js,</p></li>
+  <li><p>Mocha provides the framework for running your tests, whether they are 
+    low-level Unit tests against back-end services or JavaScript functions or 
+	full-stack tests focused on component integration,</p></li>
+  <li><p>Mocha can be used to run any type of test within describe functions 
+    by including code and assertions to determine a pass or fail status,</p></li>
+  <li><p>Mocha will report the test as failed if an assertion fails,</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 313. more features of mocha test framework (20x) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image313.webp"
-  alt=""
+  alt="Features of Mocha testing framework, cont'd."
   style="width:400px;"/>
 </p>
-<p>If a code throws an exception, it is marked as failed as well. It
-will report a pass if everything runs smoothly and all assertions are
-valid. Because of Node's asynchronous behavior, Mocha can also notify
-you if your tests run too long.</p>
+
+<ul>
+  <li><p>If a code throws an exception, it is marked as failed as well,</p></li>
+  <li><p>It will report a pass if everything runs smoothly and all assertions are
+    valid, and</p></li>
+  <li><p>Because of Node's asynchronous behavior, Mocha can also notify you if your 
+    tests run too long.</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314. advantages of using mocha (20x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image314.webp"
-  alt=""
+  alt="Advantages of using Mocha testing framework."
   style="width:400px;"/>
 </p>
-<p>Let's take a look at some of the advantages of using the Mocha
-testing framework. It encourages Test Driven Development (TDD) and
-Behavior Driven Development (BDD). It runs tests serially, and the
-results are always accurate. It can be configured to run test cases in
-the web browser. It offers several ways to generate test reports and can
-even create custom reports.</p>
+
+<p>Let's take a look at some of the advantages of using the Mocha testing framework:</p>
+
+<ul>
+  <li><p>It encourages Test Driven Development (TDD) and Behavior Driven Development 
+    (BDD),</p></li>
+  <li><p>It runs tests serially, and the results are always accurate,</p></li>
+  <li><p>It can be configured to run test cases in the web browser, and</p></li>
+  <li><p>It offers several ways to generate test reports and can even create custom
+    reports.</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center">
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 315. more advantages of using mocha (20x) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center"
 <img src="./assets/images/image315.webp"
   alt=""
   style="width:400px;"/>
 </p>
-<p>It can be set up for either synchronous or asynchronous testing. It
-includes a wide variety of plugins that can be used to extend your
-framework. Following the test run, it highlights the slow-running tests.
-It supports the retry failed tests feature, which allows you to
-configure re-running failed tests.</p>
+
+<ul>
+  <li><p>It can be set up for either synchronous or asynchronous testing,</p></li>
+  <li><p>It includes a wide variety of plugins that can be used to extend your framework,</p></li>
+  <li><p>Following the test run, it highlights the slow-running tests,</p></li>
+  <li><p>It supports the retry failed tests feature, which allows you to configure 
+    re-running failed tests.</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 316. disadvantages of using mocha (20x) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image316.webp"
   alt=""
   style="width:400px;"/>
 </p>
-<p>The following are some of Mocha's drawbacks. The developer must spend
-time configuring the Mocha framework. Snapshot testing is not supported
-by default; you must rely on external libraries. Despite having good
-documentation, the search feature is not user-friendly. Since you need
-to integrate different frameworks for assertions, the test scripts can
-be confusing at times.</p>
+<p>The following are some of Mocha's drawbacks.</p>
+<ul>
+  <li><p>The developer must spend time configuring the Mocha framework,</p></li>
+  <li><p>Snapshot testing is not supported by default; you must rely on external 
+    libraries,</p></li>
+  <li><p>Despite having good documentation, the search feature is not user-friendly,</p></li>
+  <li><p>Since you need to integrate different frameworks for assertions, the test 
+    scripts can be confusing at times.</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 317. more disadvantages of using mocha (20x) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image317.webp"
-  alt=""
+  alt="Disadvantages of using Mocha."
   style="width:400px;"/>
 </p>
-<p>Mocha is slow to release new features and support developer tools.
-Mocha requires more configuration than other frameworks, making it less
-flexible. In the case of Mocha, if you cannot afford flexibility, you
-must explicitly select an assertion library. Mocha snapshot testing can
-be challenging. To do it correctly, you'll need to use the
-chai-jest-snapshot library.</p>
+
+<ul>
+  <li><p>Mocha is slow to release new features and support developer tools,</p></li>
+  <li><p>Mocha requires more configuration than other frameworks, making it less
+    flexible,</p></li>
+  <li><p>In the case of Mocha, if you cannot afford flexibility, you must explicitly 
+    select an assertion library, and</p></li>
+  <li><p>Mocha snapshot testing can be challenging. To do it correctly, you'll need 
+    to use the chai-jest-snapshot library.</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 318. jasmine testing framework (20x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image318.webp"
-  alt=""
+  alt="Jasmine Testing Framework."
   style="width:400px;"/>
 </p>
 <p>Jasmine is an open-source JavaScript framework that can test any
-JavaScript application. Jasmine uses the BDD procedure to ensure that
-each line of JavaScript code is unit tested. Instead of testing the
-entire application, it offers a small syntax to test the smallest unit
-of the application. It also includes utilities for running automated
-tests on both synchronous and asynchronous code. Jasmine is tested in a
-variety of browsers, including Safari, Chrome, Firefox, and Microsoft
-Edge, as well as Node.</p>
+JavaScript application.</p>
+
+<ul>
+  <li><p>Jasmine uses the BDD procedure to ensure that each line of JavaScript code 
+    is unit tested. Instead of testing the entire application,</p></li>
+  <li><p>It offers a small syntax to test the smallest unit of the application,</p></li>
+  <li><p>It also includes utilities for running automated tests on both synchronous 
+    and asynchronous code,</p></li>
+  <li><p>Jasmine is tested in a variety of browsers, including Safari, Chrome, 
+    Firefox, and Microsoft Edge, as well as Node.</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 319. jasmine features (20x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image319.webp"
-  alt=""
+  alt="Features of Jasmine Testing Framework."
   style="width:400px;"/>
 </p>
-<p>Jasmine has many features, including: It's fast, has low overhead,
-and has no external dependencies. It's a batteries-included library with
-everything you need to test your code. It is available for both Node and
-browser. It is compatible with other languages, such as Python and
-Ruby.</p>
+<p>Jasmine has many features, including:</p>
+<ul>
+  <li><p>It's fast, has low overhead, and has no external dependencies,</p></li>
+  <li><p>It's a batteries-included library with everything you need to test your code,</p></li>
+  <li><p>It is available for both Node and browser,</p></li>
+  <li><p>It is compatible with other languages, such as Python and Ruby,</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 320. more features of jasmine (20x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image320.webp"
-  alt=""
+  alt="More Features of Jasmine Testing Framework."
   style="width:400px;"/>
 </p>
-<p>It does not require the DOM. It has a clean and simple syntax as well
-as a rich and straightforward API. We can describe the tests and the
-expected results using natural language.</p>
+
+<ul>
+  <li><p>It does not require the DOM,</p></li>
+  <li><p>It has a clean and simple syntax as well as a rich and straightforward API, and</p></li>
+  <li><p>We can describe the tests and the expected results using natural language.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 321. advantages of using jasmine (20x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image321.webp"
-  alt=""
+  alt="Advantages of using Jasmine: Lower overhead, "
   style="width:400px;"/>
 </p>
-<p>The following are some of the advantages of using Jasmine: It has
-lower overhead due to no external dependencies. It proceeds with nearly
-every required tool by default. It maintains front-end and back-end
-tests similarly.</p>
-<p>The coding is pretty similar to writing in natural language.</p>
+<p>The following are some of the advantages of using Jasmine:</p>
+
+<ul>
+  <li><p>It has lower overhead due to no external dependencies,</p></li>
+  <li><p>It proceeds with nearly every required tool by default,</p></li>
+  <li><p>It maintains front-end and back-end tests similarly,</p></li>
+  <li><p>The coding is pretty similar to writing in natural language,</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 322. more advantages of using jasmine (20x) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image322.webp"
-  alt=""
+  alt="More advantages of using Jasmine; Provides wide documentation, supports 
+    asynchronous testing, and marks the use of spies for applying test doubles."
   style="width:400px;"/>
 </p>
-<p>It provides wide documentation for use with a variety of frameworks.
-It supports asynchronous testing. It marks the use of spies for applying
-test doubles.</p>
+
+<ul>
+  <li><p>It provides wide documentation for use with a variety of frameworks,</p></li>
+  <li><p>It supports asynchronous testing, and</p></li>
+  <li><p>It marks the use of spies for applying test doubles.</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~ 323. disadvantages of using jasmine (209) ~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 323. disadvantages of using jasmine (209) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image323.webp"
-  alt=""
+  alt="Disadvantages of using Jasmine; asynchronous testing is difficult and all test files must have a specific suffix."
   style="width:400px;"/>
 </p>
-<p>Now, let's look at the main disadvantages of using Jasmine they are:
-Asynchronous testing is difficult. All test files must have a specific
-suffix.</p>
+<p>Now, let's look at the main disadvantages of using Jasmine they are:</p>
+
+<ul>
+  <li><p>Asynchronous testing is difficult, and</p></li>
+  <li><p>All test files must have a specific suffix.</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~ 324. comparison between jasmine and mocha testing tools, #1 (209) ~~~~~~~~~~~~~-->
 <p align="center">
@@ -5386,12 +5454,16 @@ suffix.</p>
   style="width:400px;"/>
 </p>
 <p>Now that we've learned about the Mocha and Jasmine frameworks, let's
-compare them. Jasmine includes an assertion library, whereas Mocha must
-be combined with other assertion libraries. Jasmine and Mocha both have
-command-line test runners. For reporting, Jasmine creates
-karma-jasmine-html-reporter or jasmine-pretty-html-reporter, whereas
-Mocha creates mocha-simple-html-reporter and mochawesome. Jasmine and
-Mocha both have documentation and forum support.</p>
+compare them;</p>
+
+<ul>
+  <li><p>Jasmine includes an assertion library, whereas Mocha must be combined with 
+    other assertion libraries. Jasmine and Mocha both have command-line test runners,</p></li>
+  <li><p>For reporting, Jasmine creates karma-jasmine-html-reporter or 
+    jasmine-pretty-html-reporter, whereas Mocha creates mocha-simple-html-reporter 
+	and mochawesome,</p></li>
+  <li><p>Jasmine and Mocha both have documentation and forum support,</p></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~ 325. comparison between jasmine and mocha testing tools, #2 (210) ~~~~~~~~~~~~~-->
 <p align="center">
@@ -5399,17 +5471,20 @@ Mocha both have documentation and forum support.</p>
   alt="Comparison between Jasmine and Mocha testing tools, page 2."
   style="width:400px;"/>
 </p>
-<p>Jasmine does not include built-in support for rerunning a failed
-test, whereas Mocha does. Slow tests can be highlighted in Jasmine using
-jasmine-slow-reporter, whereas Mocha has built-in support. Asynchronous
-testing is challenging in Jasmine but simple in Mocha. Jasmine and Mocha
-both support parallel execution. Jasmine's plug-in support and
-extensibility are limited, whereas Mocha's are good.</p>
+
+<ul>
+  <li><p>Jasmine does not include built-in support for rerunning a failed test, whereas 
+    Mocha does,</p></li>
+  <li><p>Slow tests can be highlighted in Jasmine using jasmine-slow-reporter, whereas 
+    Mocha has built-in support,</p></li>
+  <li><p>Asynchronous testing is challenging in Jasmine but simple in Mocha,</p></li>
+  <li><p>Jasmine and Mocha both support parallel execution, and</p></li>
+  <li><p>Jasmine's plug-in support and extensibility are limited, whereas Mocha's are good.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 326. ch4-27 recap on mocha (210) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 326. ch4-27 recap on mocha vs jasmine (210) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image326.webp"
-  alt="Recap (27), Mocha and Jasmine."
+  alt="Recap (27), Mocha vs Jasmine."
   style="width:400px;"/>
 </p>
 <p>In this module (27), you learned that:</p>
