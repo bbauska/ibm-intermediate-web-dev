@@ -9,17 +9,13 @@
 p {
   font-size: 13.5px;
   font-family: Bahnschrift;
-  margin: 1em 0;
+  margin: 10px;
 }
     blockquote {
       margin: 1em 0 1em 1.7em;
       padding-left: 1em;
       border-left: 2px solid #e6e6e6;
       color: #606060;
-    }
-    .sourceCode {
-     background-color: transparent;
-     overflow: visible;
     }
     hr {
       background-color: #1a1a1a;
@@ -50,37 +46,6 @@ p {
     td {
       padding: 0.125em 0.5em 0.25em 0.5em;
     }
-    header {
-      margin-bottom: 4em;
-      text-align: center;
-    }
-    #TOC li {
-      list-style: none;
-    }
-    #TOC ul {
-      padding-left: 1.3em;
-    }
-    #TOC > ul {
-      padding-left: 0;
-    }
-    #TOC a:not(:hover) {
-      text-decoration: none;
-    }
-    code{white-space: pre-wrap;}
-    span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    /* The extra [class] is a hack that increases specificity enough to
-       override a similar rule in reveal.js */
-    ul.task-list[class]{list-style: none;}
-    ul.task-list li input[type="checkbox"] {
-      font-size: inherit;
-      width: 0.8em;
-      margin: 0 0.8em 0.2em -1.6em;
-      vertical-align: middle;
-    }
-    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
 
 #myBtn {
   display: none;
@@ -169,15 +134,6 @@ p {
 
   pre:hover, pre:focus { width: min-content; }
 
-  p.em1 {
-    margin-left: 1em; }
-  p.em2 {
-    margin-left: 2em; }
-  p.em3 {
-    margin-left: 3em; }
-  p.em4 {
-    margin-left: 4em; }
-
   div {
     float: left; }
 
@@ -194,22 +150,18 @@ p {
   h3 { 
     font-size: 14px;
     font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
-	margin-left: 10px;  
   }
   h4 { 
     font-size: 13px;
     font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
-	  margin-left: 10px;
   }
   h5 { 
     font-size: 12px;
     font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
-	  margin-left: 10px;
   }
   h6 { 
     font-size: 10px;
     font-family: Bahnschrift, Inter, Helvetic, sans-serif;
-	  margin-left: 10px;
   }
 
   details {
@@ -245,12 +197,3 @@ p {
 
   background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
 
-  body {
-    font-family: Bahnschrift, Inter, Helvetic, sans-serif;
-    font-size: 13.5px;
-    background-color: #eee;
-    color: #000000;
-    text-align: left;
-    padding: 10px;
-    margin-left: 10px;
-  }
