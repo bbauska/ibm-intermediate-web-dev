@@ -1,12 +1,6 @@
-  img {
+  img.displayed {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .displayed {
-    display: block;
-    margin: 0 auto; 
-  }
+    margin: 0 auto; }
   .border {
     border-width: 1px;
     border-color: #778899;
@@ -22,21 +16,6 @@ p {
       padding-left: 1em;
       border-left: 2px solid #e6e6e6;
       color: #606060;
-    }
-    code {
-      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
-      font-size: 85%;
-      margin: 0;
-      hyphens: manual;
-    }
-    pre {
-      margin: 1em 0;
-      overflow: auto;
-    }
-    pre code {
-      padding: 0;
-      overflow: visible;
-      overflow-wrap: normal;
     }
     .sourceCode {
      background-color: transparent;
@@ -112,15 +91,15 @@ p {
   font-size: 11px;
   border: none;
   outline: none;
-  background-color: #8b0000;  /* dark red */
-  color: #fdfeff;  /* very pale (mostly white) blue */
+  background-color: #8b0000;
+  color: #fdfeff;
   cursor: pointer;
   padding: 10px;
   border-radius: 1px;
 }
 
 #myBtn:hover {
-  background-color: #555;  /* very dark gray */
+  background-color: #555;
 }
 
   .dropbtn {
@@ -161,15 +140,8 @@ p {
   .dropdown:hover .dropbtn {background-color: #398e41;} /* dark moderate lime green */
 
   ol li { 
-    padding: 10px; 
+    padding: 5px;
   }
-  p { 
-    font-size: 13.5px;
-    font-family: Bahnschrift, Inter, Helvetic, sans-serif;
-    text-align: left; 
-    margin-left: 10px;
-  }
-
   pre, code {
     font-family: Consolas, monospace, monospace;
     font-size: 10px;
@@ -251,20 +223,20 @@ p {
 
   details > summary {
     padding: 2px 6px;
-    width: 15em;  /* 12em */
-  background-color: #eee;  /* very light gray */
+    width: 15em;
+  background-color: #eee;
   border: none;
-  box-shadow: 3px 3px 4px #00008b;  /* dark blue */
+  box-shadow: 3px 3px 4px #00008b;
     cursor: pointer;
     margin-left: 10px;
   }
 
   details > p {
     border-radius: 0 0 10px 10px;
-    background-color: #fff;  /* white */
+    background-color: #fff;
     padding: 2px 6px;
     margin: 0;
-    box-shadow: 3px 3px 4px #00008b;  /* dark blue*/
+    box-shadow: 3px 3px 4px #00008b;
   }
 
   details[open] > summary {
@@ -275,9 +247,9 @@ p {
 
   body {
     font-family: Bahnschrift, Inter, Helvetic, sans-serif;
-    font-size: 13.5px;  /* 1.2rem; */
-    background-color: #eee;  /* very light gray */
-    color: #000000;  /* black */
+    font-size: 13.5px;
+    background-color: #eee;
+    color: #000000;
     text-align: left;
     padding: 10px;
     margin-left: 10px;
