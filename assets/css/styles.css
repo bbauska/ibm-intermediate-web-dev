@@ -3,51 +3,6 @@ p {
   font-family: Bahnschrift;
   margin: 1em 0;
 }
-
-@media (min-width: 780px) {
-  #logo {
-    width: 385px !important;
-  }
-}
-
-@media (min-width: 780px) {
-  #slider-div {
-    margin-right: 85px;
-    margin-left: 85px;
-  }
-}
-
-@media (max-width: 576px) {
-  .big-img {
-    width: 300px !important;
-  }
-}
-
-@media (max-width: 576px) {
-  .big-text {
-    font-size: 18px !important;
-    margin-top: 20px;
-  }
-}
-
-@media (max-width: 576px) {
-  .small-text {
-    font-size: 18px !important;
-    padding: 0px !important;
-    text-align: center !important;
-  }
-}
-    @media (max-width: 600px) {
-      body {
-        font-size: 0.9em;
-        padding: 12px;
-      }
-      h1 {
-        font-size: 1.8em;
-      }
-    }
-    @media print {
-
     blockquote {
       margin: 1em 0 1em 1.7em;
       padding-left: 1em;
