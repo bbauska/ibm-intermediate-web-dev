@@ -1,5 +1,19 @@
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .displayed {
+    display: block;
+    margin: 0 auto; 
+  }
+  .border {
+    border-width: 1px;
+    border-color: #778899;
+    border-style: solid; 
+  }
 p {
-  font-size: 15px;
+  font-size: 13.5px;
   font-family: Bahnschrift;
   margin: 1em 0;
 }
@@ -89,20 +103,6 @@ p {
     }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
 
-  img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .displayed {
-    display: block;
-    margin: 0 auto; 
-  }
-  .border {
-    border-width: 1px;
-    border-color: #778899;
-    border-style: solid; 
-  }
 #myBtn {
   display: none;
   position: fixed;
@@ -220,17 +220,17 @@ p {
     padding: 10px;
   }
   h3 { 
-    font-size: 17px;
+    font-size: 14px;
     font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
 	margin-left: 10px;  
   }
   h4 { 
-    font-size: 16px;
+    font-size: 13px;
     font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
 	  margin-left: 10px;
   }
   h5 { 
-    font-size: 15px;
+    font-size: 12px;
     font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
 	  margin-left: 10px;
   }
