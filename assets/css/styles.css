@@ -11,8 +11,9 @@ p {
   font-family: Bahnschrift;
   margin: 10px;
 }
-    blockquote {
-      margin: 1em 0 1em 1.7em;
+/* margin: 1em 0 1em 1.7em; */
+  blockquote {
+      margin: .5em 0 .5em .85em;
       padding-left: 1em;
       border-left: 2px solid #e6e6e6;
       color: #606060;
@@ -140,7 +141,7 @@ p {
   h1 { 
     font-size: 21px;
     font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
-    margin: left;
+    text-align: left;
   }
   h2 { 
     font-size: 18px;
