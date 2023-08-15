@@ -142,7 +142,7 @@ p {
     font-size: 21px;
     font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
     text-align: left;
-    margin-left: 10px;
+    margin: 10px;
   }
   h2 { 
     font-size: 18px;
