@@ -10,3 +10,13 @@ body {
     background-color: purple;
   }
 }
+
+/* stop all animation */
+@media screen and (prefers-reduced-motion: reduce) {  
+  * {
+    /* Very short durations means JavaScript that relies on events still works */
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
