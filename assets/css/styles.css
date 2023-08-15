@@ -140,6 +140,7 @@ p {
   h1 { 
     font-size: 21px;
     font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
+    margin: left;
   }
   h2 { 
     font-size: 18px;
