@@ -1,3 +1,6 @@
+/* In the following snippet, we’re painting the body’s background purple when the   */
+/* viewport width is wider than 30em and narrower than 80em. If the viewport width  */
+/* does not match that range of values, then it will fallback to white.             */
 body {
   background-color: #fff;
 }
