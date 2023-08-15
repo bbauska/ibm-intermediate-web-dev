@@ -140,7 +140,6 @@ p {
   h1 { 
     font-size: 21px;
     font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
-    text-align: center;
   }
   h2 { 
     font-size: 18px;
@@ -148,7 +147,7 @@ p {
     padding: 10px;
   }
   h3 { 
-    font-size: 14px;
+    font-size: 16px;
     font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
   }
   h4 { 
@@ -165,11 +164,11 @@ p {
   }
 
   details {
-    font: 13px Inter, sans-serif, Bahnschrift, Calibri;
+    font: 13.5px Inter, sans-serif, Bahnschrift, Calibri;
     width: 65%;
   }
   summary {
-    font: 13px Inter, sans-serif, Bahnschrift, Calibri;
+    font: 13.5px Inter, sans-serif, Bahnschrift, Calibri;
     width: 65%;
   }
 
