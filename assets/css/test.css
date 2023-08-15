@@ -1,0 +1,9 @@
+body {
+  background-color: #fff;
+}
+
+@media (min-width: 30em) and (max-width: 80em) {
+  body {
+    background-color: purple;
+  }
+}
