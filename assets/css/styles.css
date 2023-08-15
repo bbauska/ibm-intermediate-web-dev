@@ -68,54 +68,15 @@ p {
   background-color: #555;
 }
 
-  .dropbtn {
-    background-color: #04006D;  /* very dark blue */
-    color: white;
-    padding: 11px;  /* 14px */
-    font-size: 11px;  /* 12px */
-    border: none;
-  }
-
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f1f1f1;  /* very light gray */
-  min-width: 20em;  /* 25rem 160px 30rem */
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  font-size: 10px;  /* 11px */
-  z-index: 1;
-}
-
-.dropdown-content a {
-  color: #00b300;  /* dark green */
-  padding: 8px 10px;  /* 12px 16px */
-  text-decoration: none;
-  font-size: 8px;  /* blank, 11px */
-  display: block;
-}
-
-  .dropdown-content a:hover {background-color: #d9ead3;}  /* light grayish green */
-
-  .dropdown:hover .dropdown-content {display: block;}
-
-  .dropdown:hover .dropbtn {background-color: #398e41;} /* dark moderate lime green */
-
   ol li { 
     padding: 5px;
-  }
-  pre, code {
-    font-family: Consolas, monospace, monospace;
-    font-size: 10px;
-    margin-left: 10px;
   }
 
   pre {
     overflow: auto;
+    font-family: Consolas, monospace, monospace;
+    font-size: 10px;
+    margin-left: 10px;
   }
 
   pre > code {
@@ -125,14 +86,17 @@ p {
     word-wrap: normal;
   }
 
-  a {
-    text-decoration: none; 
-  }
-
-  a[href]:hover {
-    text-decoration: underline; 
-  }
-
+a {
+  box-shadow: inset 0 0 0 0 #54b3d6;
+  color: #7fbf7f;
+  margin: 0 -.25rem;
+  padding: 0 .25rem;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+a:hover {
+  box-shadow: inset 100px 0 0 0 #7fbf7f;
+  color: white;
+}
   pre:hover, pre:focus { width: min-content; }
 
   div {
@@ -142,7 +106,7 @@ p {
     font-size: 21px;
     font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
     text-align: left;
-    margin: 10px;
+    margin-left: 10px;
   }
   h2 { 
     font-size: 18px;
@@ -152,6 +116,7 @@ p {
   h3 { 
     font-size: 16px;
     font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
+    margin-left: 10px;
   }
   h4 { 
     font-size: 13px;
@@ -165,37 +130,5 @@ p {
     font-size: 10px;
     font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   }
-
-  details {
-    font: 13.5px Inter, sans-serif, Bahnschrift, Calibri;
-    width: 65%;
-  }
-  summary {
-    font: 13.5px Inter, sans-serif, Bahnschrift, Calibri;
-    width: 65%;
-  }
-
-  details > summary {
-    padding: 2px 6px;
-    width: 15em;
-  background-color: #eee;
-  border: none;
-  box-shadow: 3px 3px 4px #00008b;
-    cursor: pointer;
-    margin-left: 10px;
-  }
-
-  details > p {
-    border-radius: 0 0 10px 10px;
-    background-color: #fff;
-    padding: 2px 6px;
-    margin: 0;
-    box-shadow: 3px 3px 4px #00008b;
-  }
-
-  details[open] > summary {
-    background-color: yellow;
-  }
-
   background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
 
