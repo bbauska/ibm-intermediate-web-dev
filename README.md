@@ -85,7 +85,7 @@ https://www.coursera.org/learn/intermediate-web-and-front-end-development/lectur
 
 <!-- # [Week 1:]{.mark} -->
 
-<h1 id="ch1-01">01. Introduction to Intermediate Web & Front-End Development</h1>
+<h1 id="ch1-01" style="margin:10px">01. Introduction to Intermediate Web & Front-End Development</h1>
 
 Hello and welcome to this course on Intermediate Web and Front-end
 Development. Are you interested in learning how to optimize your website
