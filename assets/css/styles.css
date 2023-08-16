@@ -9,7 +9,7 @@
 p {
   font-size: 13.5px;
   font-family: Bahnschrift;
-  margin: 10px;
+  margin-left: 30px;
 }
 /* margin: 1em 0 1em 1.7em; */
   blockquote {
@@ -72,9 +72,9 @@ ul, ol {
   line-height: 130%;
   padding-left: 30px;
 }
-  ul, ol li p { 
+  ul, ol li { 
     padding-left: 30px;
-    margin-left: 10px;
+    margin-left: 30px;
     line-height: 130%;
   }
 
