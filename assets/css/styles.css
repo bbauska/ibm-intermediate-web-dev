@@ -102,33 +102,30 @@ a:hover {
   div {
     float: left; }
 
+* {
+    font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
+}
   h1 { 
     font-size: 21px;
-    font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
     text-align: left;
     margin-left: 10px;
   }
   h2 { 
     font-size: 18px;
-    font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
     padding: 10px;
   }
   h3 { 
     font-size: 16px;
-    font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
     margin-left: 10px;
   }
   h4 { 
     font-size: 13px;
-    font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
   }
   h5 { 
     font-size: 12px;
-    font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
   }
   h6 { 
     font-size: 10px;
-    font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   }
   background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
 
