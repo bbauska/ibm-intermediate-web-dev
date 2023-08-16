@@ -68,12 +68,6 @@ p {
   background-color: #555;
 }
 
-  ol li { 
-    padding: 3px;
-  }
-  ul li { 
-    padding: 3px;
-  }
   ul, ol li { 
     padding: 5px;
   }
@@ -100,7 +94,7 @@ a {
   transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
 }
 a:hover {
-  box-shadow: inset 100px 0 0 0 #7fbf7f;
+  box-shadow: inset 400px 0 0 0 #7fbf7f;
   color: white;
 }
   pre:hover, pre:focus { width: min-content; }
