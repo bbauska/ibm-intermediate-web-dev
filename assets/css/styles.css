@@ -72,7 +72,7 @@ ul, ol {
   line-height: 130%;
   padding-left: 30px;
 }
-  ul, ol li { 
+  ul, ol li p { 
     padding-left: 30px;
     margin-left: 10px;
     line-height: 130%;
