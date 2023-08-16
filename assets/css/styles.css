@@ -69,12 +69,12 @@ p {
 }
 
 ul, ol {
-  line-height: 130%;
-  padding-left: 30px;
+  line-height: 1.6em;
+  padding-left: 10px;
 }
   ul, ol li { 
-    padding-left: 30px;
-    line-height: 130%;
+    padding: 10px;
+    line-height: 1.6em;
   }
 
   pre {
