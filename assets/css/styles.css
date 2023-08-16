@@ -74,7 +74,6 @@ ul, ol {
 }
   ul, ol li { 
     padding-left: 30px;
-    margin-left: 30px;
     line-height: 130%;
   }
 
@@ -95,12 +94,12 @@ a {
   text-decoration: none;
 }
 a.hover {
-    color: red;
+    color: yellow;
     text-decoration: underline;
 }
 
 a.hover:hover {
-    color: green;
+    color: yellow;
     text-decoration: underline;
 }
   div {
