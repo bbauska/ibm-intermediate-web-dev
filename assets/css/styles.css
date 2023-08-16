@@ -75,6 +75,7 @@ ul, ol {
   ul, ol li { 
     padding: 5px;
     margin-left: 10px;
+    line-height: 130%;
   }
 
   pre {
@@ -90,12 +91,16 @@ ul, ol {
     padding: 1rem;
     word-wrap: normal;
   }
+a {
+  text-decoration: none;
+}
 a.hover {
     color: red;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 a.hover:hover {
+    color: green;
     text-decoration: underline;
 }
   div {
