@@ -69,6 +69,12 @@ p {
 }
 
   ol li { 
+    padding: 3px;
+  }
+  ul li { 
+    padding: 3px;
+  }
+  ul, ol li { 
     padding: 5px;
   }
 
