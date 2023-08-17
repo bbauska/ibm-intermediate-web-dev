@@ -132,3 +132,12 @@ a.hover:hover {
   }
   background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
 
+body {
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
+  font-size: 13.5px;  /* 1.2rem; */
+  background-color: #eee;  /* very light gray */
+  color: #000000;  /* black */
+  text-align: left;
+  padding: 10px;
+  margin-left: 10px;
+}
