@@ -69,6 +69,7 @@ p {
 }
 
 ul, ol {
+  display: block;
   line-height: 1.2em;
 /*  background-color: yellow; */
   padding-left: 4.4em;
