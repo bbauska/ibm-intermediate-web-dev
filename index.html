@@ -39,15 +39,11 @@ body {
 </head>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <body>
-<!-- not sure about the following -->
-<!-- <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script> -->
+ <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ script function: scrollFunction() ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<script src="/js/highlight.min.js"></script>
-<script>hljs.highlightAll();</script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
 <script>
   <!-- get the button -->
   var mybutton = document.getElementById("myBtn");
@@ -66,23 +62,18 @@ body {
   <!-- when the user clicks on the button, scroll to the top of the document. 0,0 or -->
   <!-- to table of contents (approx ###), if applicable -->
   function topFunction() {
-    document.body.scrollTop = 340;
-    document.documentElement.scrollTop = 340;
+    document.body.scrollTop = 320;
+    document.documentElement.scrollTop = 320;
   }
 </script>
 
 <h1 style="text-align:center;">IBM’s Intermediate Web &amp; Front-end Development</h1>
-
-<!-- [IBM's Intermediate Web and Front-End Development by Coursera] -->
-<!-- (https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction) -->
-<!-- https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 01. intermediate web and front-end development (01) ~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
   src="./assets/images/image001.webp"
-  alt="Intermediate Web &amp; Front-end Development" 
+  alt="Intermediate Web &amp; Front-end Development."
   style="width:400px;" />
-<!--  style="border: 2px solid  gray; width:400" /> -->
 
 <h2 style="text-align:left" id="table-of-contents"><a href="#table-of-contents">Table of Contents</a></h2>
 
@@ -165,7 +156,7 @@ target="_blank" rel="noopener noreferrer">Coursera: IBM Intermediate Web &amp; F
 
 <!-- # [ 1:]{.mark} -->
 
-<h1 id="ch1-01">1-01. Introduction to Intermediate Web &amp; Front-End Development</h1>
+<h2 id="ch1-01">1-01. Introduction to Intermediate Web &amp; Front-End Development</h2>
 
 <p>Hello and welcome to this course on Intermediate Web and Front-end Development.</p>
 <p>Are you interested in learning how to optimize your website for search engines? Or 
@@ -198,10 +189,10 @@ step towards a long and rewarding career as a web developer.</p>
 following:</p>
 
 <ul>
-  <li><p>Basic knowledge of computer terminology,</p></li>
-  <li><p>Basic knowledge of website development,</p></li>
-  <li><p>Have a familiarity with the web development tools, and</p></li>
-  <li><p>Have a familiarity with the search engine elements.</p></li>
+  <li>Basic knowledge of computer terminology,</li>
+  <li>Basic knowledge of website development,</li>
+  <li>Have a familiarity with the web development tools, and</li>
+  <li>Have a familiarity with the search engine elements.</li>
 </ul>
 
 <p>This course is part of a series of IBM courses designed to help you
@@ -218,14 +209,14 @@ technical aspect of web and front-end application development.</p>
 <p>When you complete this course, you will be able to:</p>
 
 <ul>
-  <li><p>Identify how to work with content management systems (CMSs)</p></li>
-  <li><p>Identify how to improve a website's search engine ranking,</p></li>
-  <li><p>Discuss the importance of bundling code with a module bundler to deploy code 
-    faster,</p></li>
-  <li><p>Describe how automated testing frameworks assist in developing test cases 
-    that enhance a website's effectiveness and performance (efficacy), and</p></li>
-  <li><p>Demonstrate best practices for using debugging tools to find bugs in code 
-    by increasing visibility, analysis, and testing.</p></li>
+  <li>Identify how to work with content management systems (CMSs)</li>
+  <li>Identify how to improve a website's search engine ranking,</li>
+  <li>Discuss the importance of bundling code with a module bundler to deploy code 
+    faster,</li>
+  <li>Describe how automated testing frameworks assist in developing test cases 
+    that enhance a website's effectiveness and performance (efficacy), and</li>
+  <li>Demonstrate best practices for using debugging tools to find bugs in code 
+    by increasing visibility, analysis, and testing.</li>
 </ul>
 
 <p>This course is designed specifically for beginners, with guided
@@ -241,7 +232,7 @@ learned, leading to a shareable badge and certificate that you can show
 prospective employers. We’re here to support your success and are
 excited you’re here. Let’s get started!</p>
 
-<h1 id="ch1-02">1-02. Introduction to Content Management System (CMS)</h1>
+<h2 id="ch1-02">1-02. Introduction to Content Management System (CMS)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 04. intro to content management system (06) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -261,9 +252,9 @@ excited you’re here. Let’s get started!</p>
 <p>After reading this module (02), you will be able to:</p>
 
 <ul>
-  <li><p>Define Content Management Systems (CMS's),</p></li>
-  <li><p>List several CMS software/platforms, and</p></li>
-  <li><p>Recognize the benefits of using a CMS.</p></li>
+  <li>Define Content Management Systems (CMS's),</li>
+  <li>List several CMS software/platforms, and</li>
+  <li>Recognize the benefits of using a CMS.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 06. what is content management system? (07) ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -282,11 +273,11 @@ website.  Well-managed content makes a website more useful to visitors and
 valuable to the person or organization who owns the website.</p>
 <p>A CMS has two core parts:</p>
 <ol>
-  <li><p>The Content Management Application (CMA) is a software tool that enables 
-    developers to add and manage content on a website, and</p></li>
-  <li><p>The Content Delivery Application (CDA) is the back-end process that takes 
+  <li>The Content Management Application (CMA) is a software tool that enables 
+    developers to add and manage content on a website, and</li>
+  <li>The Content Delivery Application (CDA) is the back-end process that takes 
     the content you put into the CMA, stores it properly, and makes it visible to 
-	website visitors.</p></li>
+	website visitors.</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 07. three types of cms (08) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -297,16 +288,16 @@ valuable to the person or organization who owns the website.</p>
 
 <p>There are three common types of content management systems:</p>
 <ol>
-  <li><p>A <b><i>Web Content Management System (WCMS)</i></b> controls the content 
+  <li>A <b><i>Web Content Management System (WCMS)</i></b> controls the content 
     on many digital channels. It also manages and handles HTML documents and 
 	associated images. A WCMS enables developers to maintain an extensive collection of
-	web documents and materials,</p></li>
-  <li><p>A <b><i>Digital Asset Management System (DAMS)</i></b> focuses on the customer experience 
+	web documents and materials,</li>
+  <li>A <b><i>Digital Asset Management System (DAMS)</i></b> focuses on the customer experience 
     (CX).  It enables the correct delivery of content to the users and centralizes assets, 
-	content, workflows, and operations, and</p></li>
-  <li><p>An <b><i>Enterprise Content Management System (ECMS)</i></b> collects, stores, delivers, 
+	content, workflows, and operations, and</li>
+  <li>An <b><i>Enterprise Content Management System (ECMS)</i></b> collects, stores, delivers, 
     and manages unstructured data, enables delivery of the correct content to targeted 
-	audiences, and archives files after a set time.</p></li>
+	audiences, and archives files after a set time.</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~ 08. proprietary and open-source cms software (08) ~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 09. more examples of proprietary and open-source cms (08) ~~~~~~~~~~~~~~~~~~-->
@@ -372,11 +363,11 @@ development cycle, you'll consider what you need to help you create and
 manage a website. You'll ask:</p>
 
 <ul>
-  <li><p>How big does your website need to be to meet your organization's needs?</p></li>
-  <li><p>Who will be using your website?</p></li>
-  <li><p>What functionality do you and your users need to have?</p></li>
-  <li><p>What skills do you need to have to develop the website?  And,</p></li>
-  <li><p>Does your CMS need other technologies or software to work with it?</p></li>
+  <li>How big does your website need to be to meet your organization's needs?</li>
+  <li>Who will be using your website?</li>
+  <li>What functionality do you and your users need to have?</li>
+  <li>What skills do you need to have to develop the website?  And,</li>
+  <li>Does your CMS need other technologies or software to work with it?</li>
 </ul>
 
 <p>Once you've answered these questions, you’re ready to choose the best
@@ -391,28 +382,28 @@ CMS for you and your website!</p>
 <p>Recap (02), you learned that:</p>
 
 <ul>
-  <li><p>A Content Management System (or CMS) is a tool that helps developers build websites,</p></li>
-  <li><p>A Content Management Application (or CMA) allows developers to add and manage 
-    content on a website,</p></li>
-  <li><p>A Content Delivery Application (or CDA) manages the back-end process, including content 
-    in the CMA, storage, and visibility,</p></li>
-  <li><p>Three types of content management systems are:</p></li>
+  <li>A Content Management System (or CMS) is a tool that helps developers build websites,</li>
+  <li>A Content Management Application (or CMA) allows developers to add and manage 
+    content on a website,</li>
+  <li>A Content Delivery Application (or CDA) manages the back-end process, including content 
+    in the CMA, storage, and visibility,</li>
+  <li>Three types of content management systems are:</li>
 </ul>
 
 <ol type="1">
-  <li><p>Web content management systems,</p></li>
-  <li><p>Digital asset management systems, and</p></li>
-  <li><p>Enterprise content management systems.</p></li>
+  <li>Web content management systems,</li>
+  <li>Digital asset management systems, and</li>
+  <li>Enterprise content management systems.</li>
 </ol>
 
 <ul>
-  <li><p>CMS benefits include more accessible website publishing,
-    scheduling, affordability, and customization,</p></li>
-  <li><p>Some popular CMS platforms are WordPress, Drupal, Joomla,
-    Magento, Squarespace, and Wix.</p></li>
+  <li>CMS benefits include more accessible website publishing,
+    scheduling, affordability, and customization,</li>
+  <li>Some popular CMS platforms are WordPress, Drupal, Joomla,
+    Magento, Squarespace, and Wix.</li>
 </ul>
 
-<h1 id="ch1-03">1-03. Features of Web CMS</h1>
+<h2 id="ch1-03">1-03. Features of Web CMS</h2>
 
 <!-- <https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/BWeid/features-of-web-cms> -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -433,10 +424,10 @@ CMS for you and your website!</p>
 <p>After reading this module (03), you will be able to:</p>
 
 <ul>
-  <li><p>Describe a Web Content Management System (WCMS) and its types,</p></li>
-  <li><p>Identify the characteristics of the Web Content Management System, 
-    and</p></li>
-  <li><p>Explain Enterprise Content Management System (ECMS).</p></li>
+  <li>Describe a Web Content Management System (WCMS) and its types,</li>
+  <li>Identify the characteristics of the Web Content Management System, 
+    and</li>
+  <li>Explain Enterprise Content Management System (ECMS).</li>
 </ul>
 
 <p>In today’s digital world, an organization must manage and update its
@@ -493,12 +484,12 @@ essential characteristics of WCMS.</p>
 <p>A WCMS enables a user to accomplish specific tasks. Some of these include:</p>
 
 <ul>
-  <li><p>Creating web pages quickly with pre-set page layouts and content blocks,</p></li>
-  <li><p>Reviewing and approving the content before it is published,</p></li>
-  <li><p>Automating the publishing process,</p></li>
-  <li><p>Editing and formatting the content using simple drag-and-drop tools,</p></li>
-  <li><p>Collaborating with different users to create and modify the content, and</p></li>
-  <li><p>Scaling and implementing change to multiple domains easily and quickly.</p></li>
+  <li>Creating web pages quickly with pre-set page layouts and content blocks,</li>
+  <li>Reviewing and approving the content before it is published,</li>
+  <li>Automating the publishing process,</li>
+  <li>Editing and formatting the content using simple drag-and-drop tools,</li>
+  <li>Collaborating with different users to create and modify the content, and</li>
+  <li>Scaling and implementing change to multiple domains easily and quickly.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 20. additional characteristics of a wcms, pt 1 (15) ~~~~~~~~~~~~~~~~~~~~-->
@@ -516,13 +507,13 @@ essential characteristics of WCMS.</p>
 accomplish:</p>
 
 <ul>
-  <li><p>Managing the life cycle of a document, including creation, revisions, 
-    publication, archive, and removal,</p></li>
-  <li><p>Translating and publishing content in different languages easily,</p></li>
-  <li><p>Saving and retrieving different versions of a web page,</p></li>
-  <li><p>Updating a web page as per the latest web standards quickly,</p></li>
-  <li><p>Adding plugins to enhance the functionality of a web page, and</p></li>
-  <li><p>Managing user access to a particular page on a website.</p></li>
+  <li>Managing the life cycle of a document, including creation, revisions, 
+    publication, archive, and removal,</li>
+  <li>Translating and publishing content in different languages easily,</li>
+  <li>Saving and retrieving different versions of a web page,</li>
+  <li>Updating a web page as per the latest web standards quickly,</li>
+  <li>Adding plugins to enhance the functionality of a web page, and</li>
+  <li>Managing user access to a particular page on a website.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 22. enterprise wcms (15) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -532,13 +523,13 @@ accomplish:</p>
   style="width:400px;"/>
 
 <ul>
-  <li><p>Enterprise Content Management System (ECMS) allows businesses to manage 
-    content throughout their lifecycle intelligently.</p></li>
-  <li><p>A Web Content Management System (WCMS) is a subset of an Enterprise Content 
-    Management System. It primarily focuses on web content.</p></li>
-  <li><p>An Enterprise Content Management System integrates software tools with an 
-    organization’s strategy, and</p></li>
-  <li><p>ECMS aligns with a businesses routine operations.</p></li>
+  <li>Enterprise Content Management System (ECMS) allows businesses to manage 
+    content throughout their lifecycle intelligently.</li>
+  <li>A Web Content Management System (WCMS) is a subset of an Enterprise Content 
+    Management System. It primarily focuses on web content.</li>
+  <li>An Enterprise Content Management System integrates software tools with an 
+    organization’s strategy, and</li>
+  <li>ECMS aligns with a businesses routine operations.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 23. module 03 recap: wcms (16) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -550,18 +541,18 @@ accomplish:</p>
 <p>Recap (03), you learned that:</p>
 
 <ul>
-  <li><p>A WCMS enables users to create, manage, and modify content on a web page,</p></li>
-  <li><p>There are two kinds of WCMSs:</p>
+  <li>A WCMS enables users to create, manage, and modify content on a web page,</li>
+  <li>There are two kinds of WCMSs:</p>
   <ul>
-    <li><p>No code enables both technical and non-technical users to develop 
-      a website, and</p></li>
-    <li><p>Code enables a user to create customizable web pages.</p></li>
+    <li>No code enables both technical and non-technical users to develop 
+      a website, and</li>
+    <li>Code enables a user to create customizable web pages.</li>
   </ul></li>
-  <li><p>A WCMS has several features that an end user can use to create 
-    and manage the content on their website.</p></li>
+  <li>A WCMS has several features that an end user can use to create 
+    and manage the content on their website.</li>
 </ul>
 
-<h1 id="ch1-04">1-04. Popular CMS Platforms/Tools</h1>
+<h2 id="ch1-04">1-04. Popular CMS Platforms/Tools</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 24. module 04 : cms platforms/tools (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -580,8 +571,8 @@ accomplish:</p>
 <p>After reading this module (04), you will be able to:</p>
 
 <ul>
-  <li><p>Explain Headless Content Management System (CMS), and</p></li>
-  <li><p>Identify popular CMS platforms and tools.</p></li>
+  <li>Explain Headless Content Management System (CMS), and</li>
+  <li>Identify popular CMS platforms and tools.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 26. headless cms (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -709,14 +700,14 @@ store.</p>
 <p>Recap (04), you learned that:</p>
 
 <ul>
-  <li><p>Headless CMSs have become increasingly popular and are set to replace 
-    traditional CMSs,</p></li>
-  <li><p>WordPress offers the flexibility to build and run any type website, and</p></li>
-  <li><p>Joomla, Squarespace, Wix, Shopify, Drupal, and Adobe Commerce are all 
-    popular CMS platforms.</p></li>
+  <li>Headless CMSs have become increasingly popular and are set to replace 
+    traditional CMSs,</li>
+  <li>WordPress offers the flexibility to build and run any type website, and</li>
+  <li>Joomla, Squarespace, Wix, Shopify, Drupal, and Adobe Commerce are all 
+    popular CMS platforms.</li>
 </ul>
 
-<h1 id="ch1-05a">1-05a. Web Development with CMS - Part 1</h1>
+<h2 id="ch1-05a">1-05a. Web Development with CMS - Part 1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 33. web development with cms - part 1 (23) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -735,8 +726,8 @@ store.</p>
 <p>After reading this module (05a), you will be able to:</p>
 
 <ul>
-  <li><p>Explain important elements of a web development plan, and</p></li>
-  <li><p>Define best practices for a successful business website.</p></li>
+  <li>Explain important elements of a web development plan, and</li>
+  <li>Define best practices for a successful business website.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 35. web development plan and its elements (24) ~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -760,11 +751,11 @@ for the website starts. A web development plan needs to be in place.</p>
 <p>These include:</p>
 
 <ul>
-  <li><p>Developing a web strategy,</p></li>
-  <li><p>Adopting a global approach,</p></li>
-  <li><p>Creating page templates,</p></li>
-  <li><p>Focusing on personalization, and</p></li>
-  <li><p>Leveraging user and group roles.</p></li>
+  <li>Developing a web strategy,</li>
+  <li>Adopting a global approach,</li>
+  <li>Creating page templates,</li>
+  <li>Focusing on personalization, and</li>
+  <li>Leveraging user and group roles.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 37. developing a web strategy (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -780,11 +771,11 @@ design. It’s a comprehensive plan that takes into account various aspects.</p>
 <p>Some of these include:</p>
 
 <ul>
-  <li><p>Aims and objectives of the business,</p></li>
-  <li><p>Geographic reach,</p></li>
-  <li><p>Marketing goals,</p></li>
-  <li><p>Brand identity tone and essence, and</p></li>
-  <li><p>Financial targets.</p></li>
+  <li>Aims and objectives of the business,</li>
+  <li>Geographic reach,</li>
+  <li>Marketing goals,</li>
+  <li>Brand identity tone and essence, and</li>
+  <li>Financial targets.</li>
 </ul>
 
 <p>Having a web strategy ensures that:</p>
@@ -819,14 +810,14 @@ easy as possible. You will not have to edit every page if your website needs an 
 <p>The other important element of a web development plan is the creation
 of page templates;</p>
 <ul>
-  <li><p>A website template is a pre-defined layout that enables a developer to 
-    arrange a website’s content to make it appealing to users.</p></li>
-  <li><p>If you plan to develop a website using a template, you don’t need coding 
-    experience.</p></li>
-  <li><p>You need to select a template based on the nature and purpose of your website.</p></li>
-  <li><p>You can customize the template according to your business’s goals. This 
-    will help you save time, money, and effort.</p></li>
-  <li><p>A website developed using a template can be updated easily and regularly.</p></li>
+  <li>A website template is a pre-defined layout that enables a developer to 
+    arrange a website’s content to make it appealing to users.</li>
+  <li>If you plan to develop a website using a template, you don’t need coding 
+    experience.</li>
+  <li>You need to select a template based on the nature and purpose of your website.</li>
+  <li>You can customize the template according to your business’s goals. This 
+    will help you save time, money, and effort.</li>
+  <li>A website developed using a template can be updated easily and regularly.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 40. web development plan - focusing on personalization (27) ~~~~~~~~~~~~~~~~-->
@@ -891,11 +882,11 @@ too small or too big for some devices or browsers.</p>
 <p>Recap (05a), you learned about:</p>
 
 <ul>
-  <li><p>The important elements of a web development plan, and</p></li>
-  <li><p>Best practices to create a successful website.</p></li>
+  <li>The important elements of a web development plan, and</li>
+  <li>Best practices to create a successful website.</li>
 </ul>
 
-<h1 id="ch1-05b">1-05b. Web Development with CMS - Part 2</h1>
+<h2 id="ch1-05b">1-05b. Web Development with CMS - Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 44. web development with cms - part 2 (30) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -914,8 +905,8 @@ too small or too big for some devices or browsers.</p>
 <p>After reading this module (05b), you will be able to:</p>
 
 <ul>
-  <li><p>Identify the types of pages of a website, and</p></li>
-  <li><p>Explain the features of a CMS.</p></li>
+  <li>Identify the types of pages of a website, and</li>
+  <li>Explain the features of a CMS.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 46. page types of website (31) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -931,12 +922,12 @@ will explore different types of pages of a website developed using a
 CMS. These include:</p>
 
 <ul>
-  <li><p>Front page,</p></li>
-  <li><p>Post page,</p></li>
-  <li><p>List or category page,</p></li>
-  <li><p>Search page,</p></li>
-  <li><p>User or author profile, and</p></li>
-  <li><p>User home or dashboard.</p></li>
+  <li>Front page,</li>
+  <li>Post page,</li>
+  <li>List or category page,</li>
+  <li>Search page,</li>
+  <li>User or author profile, and</li>
+  <li>User home or dashboard.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 47. page types of website (31) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1010,9 +1001,9 @@ can create the content of your website using different CMS features.</p>
 <p>Some of these include:</p>
 
 <ul>
-  <li><p>Page design,</p></li>
-  <li><p>Blog content, and</p></li>
-  <li><p>Content storage.</p></li>
+  <li>Page design,</li>
+  <li>Blog content, and</li>
+  <li>Content storage.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 51. features: page design and blog content (34) ~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1069,18 +1060,18 @@ the content before publication.</p>
 include:</p>
 
 <ul>
-  <li><p>Front Page,</p></li>
-  <li><p>Post Page,</p></li>
-  <li><p>List or Category Page,</p></li>
-  <li><p>Search Page,</p></li>
-  <li><p>User or Author Profile, and</p></li>
-  <li><p>User Home or Dashboard, among others.</p></li>
+  <li>Front Page,</li>
+  <li>Post Page,</li>
+  <li>List or Category Page,</li>
+  <li>Search Page,</li>
+  <li>User or Author Profile, and</li>
+  <li>User Home or Dashboard, among others.</li>
 </ul>
 
 <p>Some of the features of a CMS include page design, blog content, and content 
 storage.</p>
 
-<h1 id="ch1-06a">1-06a. Getting Started with WordPress - Part 1</h1>
+<h2 id="ch1-06a">1-06a. Getting Started with WordPress - Part 1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 54. getting started with wordpress - part 1 (36) ~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -1099,8 +1090,8 @@ storage.</p>
 <p>After reading this module (06a), you will be able to:</p>
 
 <ul>
-  <li><p>Define WordPress as a Content Management System (CMS) and</p></li>
-  <li><p>Describe key concepts related to WordPress.</p></li>
+  <li>Define WordPress as a Content Management System (CMS) and</li>
+  <li>Describe key concepts related to WordPress.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 56. wordpress: features as a cms (37) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1129,10 +1120,10 @@ website's design, content, and functionality.</p>
 factors. These include;</p>
 
 <ul>
-  <li><p>Ease of customization,</p></li>
-  <li><p>Excellent performance, and</p></li>
-  <li><p>Highly robust features that allow a CMS to run a wide range of websites, 
-    including blogs, business, and e-commerce sites.</p></li>
+  <li>Ease of customization,</li>
+  <li>Excellent performance, and</li>
+  <li>Highly robust features that allow a CMS to run a wide range of websites, 
+    including blogs, business, and e-commerce sites.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 58. wordpress.org and wordpress.com summary (38) ~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1237,22 +1228,22 @@ languages.</p>
 <p>Recap (06a), you learned:</p>
 
 <ul>
-  <li><p>WordPress is a CMS that helps you build and manage your website,</p></li>
-  <li><p>Wordpress.org is a platform where you can download CMS, themes, and 
-    plugins,</p></li>
-  <li><p>Wordpress.com is a blogging platform that offers free and paid hosting 
-    options,</p></li>
-  <li><p>Plugins are pieces of code you can write yourself or download from 
-    places like the WordPress Plugin repository,</p></li>
-  <li><p>Themes enable you to personalize and control the visual aspects of 
-    your website,</p></li>
-  <li><p>Hooks are the foundation of how the WordPress core, themes, and plugins 
-    work, and lastly,</p></li>
-  <li><p>Customization options offer different approaches depending on the type 
-    of customization and functionality you want to add to your website.</p></li>
+  <li>WordPress is a CMS that helps you build and manage your website,</li>
+  <li>Wordpress.org is a platform where you can download CMS, themes, and 
+    plugins,</li>
+  <li>Wordpress.com is a blogging platform that offers free and paid hosting 
+    options,</li>
+  <li>Plugins are pieces of code you can write yourself or download from 
+    places like the WordPress Plugin repository,</li>
+  <li>Themes enable you to personalize and control the visual aspects of 
+    your website,</li>
+  <li>Hooks are the foundation of how the WordPress core, themes, and plugins 
+    work, and lastly,</li>
+  <li>Customization options offer different approaches depending on the type 
+    of customization and functionality you want to add to your website.</li>
 </ul>
 
-<h1 id="ch1-06b">1-06b. Getting Started with WordPress - Part 2</h1>
+<h2 id="ch1-06b">1-06b. Getting Started with WordPress - Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 65. getting started with wordpress (43) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -1271,9 +1262,9 @@ languages.</p>
 <p>After reading this module (06b), you will be able to:</p>
 
 <ul>
-  <li><p>Describe the popular website builder, WordPress,</p></li>
-  <li><p>Identify the steps to create a website using WordPress, and</p></li>
-  <li><p>Identify the skills required to enhance WordPress.</p></li>
+  <li>Describe the popular website builder, WordPress,</li>
+  <li>Identify the steps to create a website using WordPress, and</li>
+  <li>Identify the skills required to enhance WordPress.</li>
 </ul>
 
 <p>WordPress is a user-friendly platform that enables you to develop a
@@ -1290,13 +1281,13 @@ you how to create a website using WordPress.</p>
 following:</p>
 
 <ul>
-  <li><p>Selecting a domain name,</p></li>
-  <li><p>Setting up web hosting Installing WordPress,</p></li>
-  <li><p>Selecting a theme for your website,</p></li>
-  <li><p>Designing the homepage and creating additional web pages,</p></li>
-  <li><p>Installing plugins,</p></li>
-  <li><p>Creating navigation menus, and finally,</p></li>
-  <li><p>Integrating your social media with the website.</p></li>
+  <li>Selecting a domain name,</li>
+  <li>Setting up web hosting Installing WordPress,</li>
+  <li>Selecting a theme for your website,</li>
+  <li>Designing the homepage and creating additional web pages,</li>
+  <li>Installing plugins,</li>
+  <li>Creating navigation menus, and finally,</li>
+  <li>Integrating your social media with the website.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~ 68. steps to create a website using wordpress: select domain name (45) ~~~~~~~~~~~-->
@@ -1425,11 +1416,11 @@ to begin working with WordPress development and website design.</p>
 following skills are:</p>
 
 <ul>
-  <li><p>Hypertext Markup Language (HTML),</p></li>
-  <li><p>Cascading Style Sheets (CSS),</p></li>
-  <li><p>Hypertext Preprocessor (PHP),</p></li>
-  <li><p>JavaScript (JS), and</p></li>
-  <li><p>My structured Query Language (MySQL).</p></li>
+  <li>Hypertext Markup Language (HTML),</li>
+  <li>Cascading Style Sheets (CSS),</li>
+  <li>Hypertext Preprocessor (PHP),</li>
+  <li>JavaScript (JS), and</li>
+  <li>My structured Query Language (MySQL).</li>
 </ul>
 
 <p>HTML and CSS are the first two languages you should learn. No matter
@@ -1443,19 +1434,19 @@ and CSS.</p>
   style="width:400px;"/>
 
 <ul>
-  <li><p>HTML is responsible for giving a website its structure. This implies deciding 
+  <li>HTML is responsible for giving a website its structure. This implies deciding 
     what text should be a heading, what should be a list, what goes in the sidebar, 
-	and what goes in the header and footer.</p></li>
-  <li><p>CSS is used for adding styles to the HTML structure. You can define the 
+	and what goes in the header and footer.</li>
+  <li>CSS is used for adding styles to the HTML structure. You can define the 
     color of text, image alignment, paragraph spacing, border colors, border 
-	thickness, float properties, and other elements.</p></li>
-  <li><p>WordPress development requires a solid understanding of PHP as WordPress 
+	thickness, float properties, and other elements.</li>
+  <li>WordPress development requires a solid understanding of PHP as WordPress 
     and other content management systems are developed using the PHP programming 
-	language.</p></li>
-  <li><p>JavaScript is commonly used on websites for asynchronous loading and adding 
-    dynamic functionality to web pages.</p></li>
-  <li><p>MySQL is a database-access and data-management language. WordPress relies 
-    on it to retrieve all its data.</p></li>
+	language.</li>
+  <li>JavaScript is commonly used on websites for asynchronous loading and adding 
+    dynamic functionality to web pages.</li>
+  <li>MySQL is a database-access and data-management language. WordPress relies 
+    on it to retrieve all its data.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 78. recap (06b): steps to create a wordpress website (52) ~~~~~~~~~~~~~~~~~~~-->
@@ -1467,23 +1458,23 @@ and CSS.</p>
 <p>Recap (06b), you learned that:</p>
 
 <ul>
-  <li><p>WordPress is a user-friendly platform that enables you to develop a 
-    professional website without the knowledge of coding, and</p></li>
-  <li><p>The steps to create a website using WordPress include:</p>
+  <li>WordPress is a user-friendly platform that enables you to develop a 
+    professional website without the knowledge of coding, and</li>
+  <li>The steps to create a website using WordPress include:</p>
   <ul>
-    <li><p>Selecting a domain name,</p></li>
-    <li><p>Setting up web hosting,</p></li>
-    <li><p>Installing WordPress,</p></li>
-    <li><p>Selecting a theme for your website,</p></li>
-    <li><p>Designing the homepage and</p></li>
-    <li><p>Creating additional webpages,</p></li>
-    <li><p>Installing plugins,</p></li>
-    <li><p>Creating navigation menus, and</p></li>
-    <li><p>Integrating your social media with the website.</p></li>
+    <li>Selecting a domain name,</li>
+    <li>Setting up web hosting,</li>
+    <li>Installing WordPress,</li>
+    <li>Selecting a theme for your website,</li>
+    <li>Designing the homepage and</li>
+    <li>Creating additional webpages,</li>
+    <li>Installing plugins,</li>
+    <li>Creating navigation menus, and</li>
+    <li>Integrating your social media with the website.</li>
   </ul></li>
 </ul>
 
-<h1 id="ch1-07">1-07. Adding E-commerce to Your Website</h1>
+<h2 id="ch1-07">1-07. Adding E-commerce to Your Website</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 79. module 07. adding e-commerce to your website (53) ~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -1502,9 +1493,9 @@ and CSS.</p>
 <p>After reading this module (07), you will be able to:</p>
 
 <ul>
-  <li><p>Explain the benefits of adding e-commerce functionality to your 
-    website, and</p></li>
-  <li><p>Describe how to add e-commerce functionality to your website.</p></li>
+  <li>Explain the benefits of adding e-commerce functionality to your 
+    website, and</li>
+  <li>Describe how to add e-commerce functionality to your website.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 81. why add e-commerce functionality? (54) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1514,16 +1505,16 @@ and CSS.</p>
   style="width:400px;"/>
 
 <ul>
-  <li><p>Businesses must adapt to the new online world to remain relevant and 
+  <li>Businesses must adapt to the new online world to remain relevant and 
     profitable. Those who depend on customers visiting a storefront must shift 
 	to an entirely new business model to survive. Suppose you run a business 
 	that sells physical products. In that case, it is possible to transition 
-	to an e-commerce business to keep things afloat in the coming months.</p></li>
-  <li><p>For most businesses, adding an e-commerce store to its existing website 
-    is surprisingly easy.</p></li>
-  <li><p>How you achieve this depends on how you build your website. However, 
+	to an e-commerce business to keep things afloat in the coming months.</li>
+  <li>For most businesses, adding an e-commerce store to its existing website 
+    is surprisingly easy.</li>
+  <li>How you achieve this depends on how you build your website. However, 
     like most businesses, if you're either using WordPress website or a website 
-    builder to create your website, adding e-commerce functionality is simple.</p></li>
+    builder to create your website, adding e-commerce functionality is simple.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 82. why add e-commerce functionality, cont'd? (54) ~~~~~~~~~~~~~~~~~~~~~-->
@@ -1535,12 +1526,12 @@ and CSS.</p>
 <p>The global consultancy firm AT Kearney stated, "e-commerce is the
 next frontier in global expansion.</p>
 <ul>
-  <li><p>Global e-commerce has grown by thirteen percent over the last five 
-    years.</p></li>
-  <li><p>As online sales skyrocket in developing markets, an online presence 
+  <li>Global e-commerce has grown by thirteen percent over the last five 
+    years.</li>
+  <li>As online sales skyrocket in developing markets, an online presence 
     is a low-risk way to test new markets and complement existing store footprints.
 	E-commerce is easy and affordable. It allows you to sell locally, and
-  <li><p>Globally every hour of every day.</p></li>
+  <li>Globally every hour of every day.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 83. strategies to add e-commerce functionality (55) ~~~~~~~~~~~~~~~~~~~~-->
@@ -1628,15 +1619,15 @@ existing website.</p>
 
 <p>Here are the steps to add the Shopify Buy button to your website:<p>
 <ul>
-  <li><p>Add the Buy Button sales channel. Select the plus button next to the Sales
-    channels heading in your Shopify admin,</p></li>
-  <li><p>In the Add sales channel dialog box, select the Buy Button to learn more 
-    about the Sales channel,</p></li>
-  <li><p>Select Add channel,</p></li>
-  <li><p>To create a Buy button, go back to your Shopify admin and go to the Buy 
-    Button,</p></li>
-  <li><p>Select Create a Buy Button, and</p></li>
-  <li><p>Select the Product Buy Button.</p></li>
+  <li>Add the Buy Button sales channel. Select the plus button next to the Sales
+    channels heading in your Shopify admin,</li>
+  <li>In the Add sales channel dialog box, select the Buy Button to learn more 
+    about the Sales channel,</li>
+  <li>Select Add channel,</li>
+  <li>To create a Buy button, go back to your Shopify admin and go to the Buy 
+    Button,</li>
+  <li>Select Create a Buy Button, and</li>
+  <li>Select the Product Buy Button.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 89. drag-and-drop website builder software (59) ~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1682,14 +1673,14 @@ minutes.</p>
 <p>Recap (07), you learned that:</p>
 
 <ul>
-  <li><p>Having an online presence makes testing new markets and complementing 
-    existing store footprints less risky.</p></li>
-  <li><p>E-commerce allows you to sell more not only locally but also globally.</p></li>
-  <li><p>Installing a plugin is the most viable way to add e-commerce features 
-    to a website.</p></li>
-  <li><p>An e-commerce store has two parts: the front-end store and the back-end 
-    dashboard.</p></li>
-  <li><p>Wix, Weebly, and Squarespace are popular platforms for website building.</p></li>
+  <li>Having an online presence makes testing new markets and complementing 
+    existing store footprints less risky.</li>
+  <li>E-commerce allows you to sell more not only locally but also globally.</li>
+  <li>Installing a plugin is the most viable way to add e-commerce features 
+    to a website.</li>
+  <li>An e-commerce store has two parts: the front-end store and the back-end 
+    dashboard.</li>
+  <li>Wix, Weebly, and Squarespace are popular platforms for website building.</li>
 </ul>
 
 <h1>Week 1 Summary: Content Management Systems (CMS)</h1>
@@ -1699,28 +1690,28 @@ minutes.</p>
 <p>Recap Week 01, you learned that:</p>
 
 <ul>
-  <li><p>A content management system (CMS) aids developers in the creation
-    of websites.</p></li>
-  <li><p>A CMS's features include page design, blog content, and content 
-    storage.</p></li>
-  <li><p>Web content management systems (WCMS), digital asset management systems 
+  <li>A content management system (CMS) aids developers in the creation
+    of websites.</li>
+  <li>A CMS's features include page design, blog content, and content 
+    storage.</li>
+  <li>Web content management systems (WCMS), digital asset management systems 
     (DAMS), and enterprise content management systems are the three types of 
-	content management systems (ECMS).</p></li>
-  <li><p>A WCMS allows users to create, manage, and modify web page 
-    content.</p></li>
-  <li><p>A successful website is built with CMS, the optimizer tool, the 
-    insights tool, fonts, JavaScript, and CSS.</p></li>
-  <li><p>CMS platforms that are popular include Joomla, Squarespace, Wix, 
-    Shopify, Drupal, and Adobe Commerce.</p></li>
-  <li><p>WordPress is a user-friendly platform that allows web developers 
-    to create a professional website without any coding knowledge.</p></li>
-  <li><p>E-commerce enables businesses to sell more locally and globally.</p></li>
+	content management systems (ECMS).</li>
+  <li>A WCMS allows users to create, manage, and modify web page 
+    content.</li>
+  <li>A successful website is built with CMS, the optimizer tool, the 
+    insights tool, fonts, JavaScript, and CSS.</li>
+  <li>CMS platforms that are popular include Joomla, Squarespace, Wix, 
+    Shopify, Drupal, and Adobe Commerce.</li>
+  <li>WordPress is a user-friendly platform that allows web developers 
+    to create a professional website without any coding knowledge.</li>
+  <li>E-commerce enables businesses to sell more locally and globally.</li>
 </ul>
 
 <!-- # [ 2:]{.mark} -->
 <h1 id="ch2">WEEK 2</h1>
 
-<h1 id="ch2-08">2-08. Introduction to Search Engine Optimization (SEO)</h1>
+<h2 id="ch2-08">2-08. Introduction to Search Engine Optimization (SEO)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 92. introduction to search engine optimization (seo) (62) ~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -1740,8 +1731,8 @@ minutes.</p>
 <p>After reading this module (08), you will be able to:</p>
 
 <ul>
-  <li><p>Describe search engine optimization (SEO) and its types, and</p></li>
-  <li><p>Identify the benefits of using SEO.</p></li>
+  <li>Describe search engine optimization (SEO) and its types, and</li>
+  <li>Identify the benefits of using SEO.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 94. what is seo? (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1752,23 +1743,23 @@ minutes.</p>
   style="width:400px;"/>
 
 <ul>
-  <li><p>Search engine optimization (SEO) refers to techniques that help a website 
+  <li>Search engine optimization (SEO) refers to techniques that help a website 
     rank higher in organic search results, making it more visible to people looking 
-	for the product or service online.</p></li>
-  <li><p>Search engines scan the Internet for text that matches certain criteria. This 
+	for the product or service online.</li>
+  <li>Search engines scan the Internet for text that matches certain criteria. This 
     text, a crucial website element, is called a keyword.</p>
     <ul>
-      <li><p>The titles, headings, and links that form the content of a webpage 
+      <li>The titles, headings, and links that form the content of a webpage 
 	    are also important factors that a search engine considers when ranking 
-		a website.</p></li>
+		a website.</li>
     </ul></li>
-  <li><p>SEO is a subset of Search Engine Marketing (SEM), a broad term that 
+  <li>SEO is a subset of Search Engine Marketing (SEM), a broad term that 
     contains all search marketing strategies. Organic and paid searches are 
 	both included in SEM.</p>
     <ul>
-	  <li><p>Paid search requires you to pay to have your website listed on a
+	  <li>Paid search requires you to pay to have your website listed on a
 	    search engine so that it appears when someone types a specific keyword
-		or phrase.</p></li>
+		or phrase.</li>
 	</ul></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1780,18 +1771,18 @@ minutes.</p>
 
 <p>Let’s describe how a search engine works.</p>
 <ul>
-  <li><p>A search engine needs an archive of available information to choose from 
-    to display results when someone types a query.</p></li>
-  <li><p>Every search engine has proprietary methods to gather and prioritize website 
+  <li>A search engine needs an archive of available information to choose from 
+    to display results when someone types a query.</li>
+  <li>Every search engine has proprietary methods to gather and prioritize website 
     content, known as indexing. A search engine index is a data collection used to 
-	generate the final search result.</p></li>
-  <li><p>Search engines scan the Internet and index all the information displayed to 
-    users when they enter a search query.</p></li>
-  <li><p>Every search engine has bots, or crawlers, that crawl the web constantly, 
+	generate the final search result.</li>
+  <li>Search engines scan the Internet and index all the information displayed to 
+    users when they enter a search query.</li>
+  <li>Every search engine has bots, or crawlers, that crawl the web constantly, 
     indexing websites for content and following links on each webpage to other web 
-	pages, and</p></li>
-  <li><p>Indexing your website is essential as it will only appear in search results 
-    if it is done.</p></li>
+	pages, and</li>
+  <li>Indexing your website is essential as it will only appear in search results 
+    if it is done.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 96. types of seo (65) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1832,12 +1823,12 @@ and credibility.</p>
 <p>The 3rd and last type of SEO we will discuss is <b><i>off-page SEO</i></b>.</p>
 
 <ul>
-  <li><p>It refers to actions taken away from the website to influence the rankings on 
-    Search Engine Result Pages or (SERPs),</p></li>
-  <li><p>Off-page SEO is commonly associated with the creation of backlinks. Search 
-    engines use backlinks to determine the quality of the connected content, and</p></li>
-  <li><p>Website with many high-value backlinks usually ranks higher than an 
-    otherwise equal website with fewer backlinks.</p></li>
+  <li>It refers to actions taken away from the website to influence the rankings on 
+    Search Engine Result Pages or (SERPs),</li>
+  <li>Off-page SEO is commonly associated with the creation of backlinks. Search 
+    engines use backlinks to determine the quality of the connected content, and</li>
+  <li>Website with many high-value backlinks usually ranks higher than an 
+    otherwise equal website with fewer backlinks.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 99. beneifts of using seo and best practices (67) ~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1864,17 +1855,17 @@ keywords the user searches for enables the website to earn the users’ trust.</
 <p>There are additional benefits of using SEO.</p>
 
 <ul>
-  <li><p>SEO is essential for the social promotion of a website. People who find a 
+  <li>SEO is essential for the social promotion of a website. People who find a 
     website through a Google or Bing search are more likely to share it on 
-	Facebook, Twitter, or other social media platforms.</p></li>
-  <li><p>SEO enables the smooth operation of a large website. Websites with 
+	Facebook, Twitter, or other social media platforms.</li>
+  <li>SEO enables the smooth operation of a large website. Websites with 
     multiple authors can benefit from SEO directly and indirectly. The direct 
 	benefit is increased organic traffic, and the indirect benefit is a common 
 	structure or checklist to utilize before publishing content on the 
-	website.</p></li>
-  <li><p>SEO can help get a competitive edge. If two websites sell the same product, 
+	website.</li>
+  <li>SEO can help get a competitive edge. If two websites sell the same product, 
     the search-engine-optimized website will have more customers and make more
-	sales.</p></li>
+	sales.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 101. recap: benefits of seo (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1886,19 +1877,19 @@ keywords the user searches for enables the website to earn the users’ trust.</
 <p>Recap (08), you learned that:</p>
 
 <ul>
-  <li><p>SEO refers to techniques that assist a website in ranking higher
-    in search results,</p></li>
-  <li><p>Technical SEO involves configuring the settings of a website to make 
-    it easier for search engine crawlers,</p></li>
-  <li><p>On-page SEO provides signals to search engine crawlers so that they 
-    can understand the meaning and context behind the content,</p></li>
-  <li><p>Off-page SEO are actions taken away from the website to influence 
-    its rankings in SERPs, and</p></li>
-  <li><p>Good SEO practices also improve a website's user experience and
-    usability.</p></li>
+  <li>SEO refers to techniques that assist a website in ranking higher
+    in search results,</li>
+  <li>Technical SEO involves configuring the settings of a website to make 
+    it easier for search engine crawlers,</li>
+  <li>On-page SEO provides signals to search engine crawlers so that they 
+    can understand the meaning and context behind the content,</li>
+  <li>Off-page SEO are actions taken away from the website to influence 
+    its rankings in SERPs, and</li>
+  <li>Good SEO practices also improve a website's user experience and
+    usability.</li>
 </ul>
 
-<h1 id="ch2-09">2-09. Popular SEO Tools</h1>
+<h2 id="ch2-09">2-09. Popular SEO Tools</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 102. popular seo tools (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -1918,10 +1909,10 @@ keywords the user searches for enables the website to earn the users’ trust.</
 <p>After reading this module (09), you will be able to:</p>
 
 <ul>
-  <li><p>Define Search Engine Optimization (SEO) tools,</p></li>
-  <li><p>Describe how to select an SEO tool,</p></li>
-  <li><p>Explain the benefits of using SEO tools, and</p></li>
-  <li><p>Identify some free and paid SEO tools.</p></li>
+  <li>Define Search Engine Optimization (SEO) tools,</li>
+  <li>Describe how to select an SEO tool,</li>
+  <li>Explain the benefits of using SEO tools, and</li>
+  <li>Identify some free and paid SEO tools.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 104. what are seo tools? (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1933,14 +1924,14 @@ keywords the user searches for enables the website to earn the users’ trust.</
 <p>SEO tools enable business owners to know their websites' overall
 health and success. They:</p>
 <ul>
-  <li><p>Help develop and implement an organic online search strategy,</p></li>
-  <li><p>Assist in boosting a website’s search ranking,</p></li>
-  <li><p>Offer customers a comprehensive set of features and functionalities,</p></li>
-  <li><p>Provide users with powerful keyword research tools, backlink assistance, rank
-    tracking tools, and reports, among other things.</p></li>
-  <li><p>Enable you to research what your competitors are doing, and</p></li>
-  <li><p>Provide insights into industry niches, allowing you to identify what works 
-    and what doesn't.</p></li>
+  <li>Help develop and implement an organic online search strategy,</li>
+  <li>Assist in boosting a website’s search ranking,</li>
+  <li>Offer customers a comprehensive set of features and functionalities,</li>
+  <li>Provide users with powerful keyword research tools, backlink assistance, rank
+    tracking tools, and reports, among other things.</li>
+  <li>Enable you to research what your competitors are doing, and</li>
+  <li>Provide insights into industry niches, allowing you to identify what works 
+    and what doesn't.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 105. how to select the best seo tools (71) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2090,18 +2081,18 @@ uncover.</p>
 <p>Recap (09), you learned that:</p>
 
 <ul>
-  <li><p>SEO tools aid in the development and implementation of online search 
-    strategies,</p></li>
-  <li><p>When selecting an SEO tool, consider the assistance, features and
-    functionalities, learning curve, cost, and support factors,</p></li>
-  <li><p>Google Analytics, Google Search Console, Bing Webmaster Tools, 
+  <li>SEO tools aid in the development and implementation of online search 
+    strategies,</li>
+  <li>When selecting an SEO tool, consider the assistance, features and
+    functionalities, learning curve, cost, and support factors,</li>
+  <li>Google Analytics, Google Search Console, Bing Webmaster Tools, 
     PageSpeed Insights, and Google Keyword Planner are some of the best free
-	SEO tools available, and</p></li>
-  <li><p>SEMrush SEO Toolkit, Ahrefs, Moz Pro, Serpstat, and SpyFu are some 
-    of the best-paid SEO tools available.</p></li>
+	SEO tools available, and</li>
+  <li>SEMrush SEO Toolkit, Ahrefs, Moz Pro, Serpstat, and SpyFu are some 
+    of the best-paid SEO tools available.</li>
 </ul>
 
-<h1 id="ch2-10">2-10. SEO Strategies</h1>
+<h2 id="ch2-10">2-10. SEO Strategies</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 115. seo strategies (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -2120,8 +2111,8 @@ uncover.</p>
 <p>After reading this module (10), you will be able to:</p>
 
 <ul>
-  <li><p>Define an SEO strategy, and</p></li>
-  <li><p>Define the steps to develop an SEO strategy.</p></li>
+  <li>Define an SEO strategy, and</li>
+  <li>Define the steps to develop an SEO strategy.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 117. what is an seo strategy (79) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2150,11 +2141,11 @@ as it greatly depends on the website, content, and audience. However,
 some useful points should be considered before developing an SEO
 strategy to make your website more searchable online. These include:</p>
 <ul>
-  <li><p>Assessing the current SEO strategy,</p></li>
-  <li><p>Analyzing the competition,</p></li>
-  <li><p>Setting goals and KPIs,</p></li>
-  <li><p>Executing the improved strategy, and</p></li>
-  <li><p>Monitoring the execution.</p></li>
+  <li>Assessing the current SEO strategy,</li>
+  <li>Analyzing the competition,</li>
+  <li>Setting goals and KPIs,</li>
+  <li>Executing the improved strategy, and</li>
+  <li>Monitoring the execution.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 119. step 1 - assessing the current seo strategy (80) ~~~~~~~~~~~~~~~~~~~~-->
@@ -2298,20 +2289,20 @@ experiments based on your findings.</p>
 <p>Recap (10), you learned that:</p>
 
 <ul>
-  <li><p>SEO strategy assists in website optimization and ranking high in search 
-    results, and</p></li>
-  <li><p>There are five tips to consider when developing an SEO strategy:</p>
+  <li>SEO strategy assists in website optimization and ranking high in search 
+    results, and</li>
+  <li>There are five tips to consider when developing an SEO strategy:</p>
     <ul>
-      <li><p>Plan and assess the current SEO strategy and performance,</p></li>
-      <li><p>Analyze competitor’s SEO strategies to capitalize on and gain an 
-	    advantage,</p></li>
-      <li><p>Consider and set the types of goals to achieve,</p></li>
-      <li><p>Execute strategies and optimize the website for a positive experience, and</p></li>
-      <li><p>Monitor and be on the lookout for new trends and best practices.</p></li>
+      <li>Plan and assess the current SEO strategy and performance,</li>
+      <li>Analyze competitor’s SEO strategies to capitalize on and gain an 
+	    advantage,</li>
+      <li>Consider and set the types of goals to achieve,</li>
+      <li>Execute strategies and optimize the website for a positive experience, and</li>
+      <li>Monitor and be on the lookout for new trends and best practices.</li>
     </ul></li>
 </ul>
 
-<h1 id="ch2-11">2-11. Mobile Friendly SEO</h1>
+<h2 id="ch2-11">2-11. Mobile Friendly SEO</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 128. mobile friendly seo (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -2330,10 +2321,10 @@ experiments based on your findings.</p>
 
 <p>After reading this module (11), you will be able to:</p>
 <ul>
-  <li><p>Define mobile SEO and its importance,</p></li>
-  <li><p>Differentiate between mobile and desktop SEO,</p></li>
-  <li><p>Describe how to check if a website is mobile friendly, and</p></li>
-  <li><p>Identify the best practices.</p></li>
+  <li>Define mobile SEO and its importance,</li>
+  <li>Differentiate between mobile and desktop SEO,</li>
+  <li>Describe how to check if a website is mobile friendly, and</li>
+  <li>Identify the best practices.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 130. what is mobile friendly seo? (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2356,13 +2347,13 @@ available to search engine spiders.</p>
 
 <p>Mobile SEO considers:</p>
 <ul>
-  <li><p>How a user interacts with search engine results (SERPs) on a mobile device 
-    versus a desktop computer,</p></li>
-  <li><p>The differences in intent between desktop and mobile for the same query,</p></li>
-  <li><p>If the pages load quickly and do not contain data-sapping resources, such 
-    as bloated images and extra script, and</p></li>
-  <li><p>How to include usability best practices for mobile content access and 
-    provide the best visual experience.</p></li>
+  <li>How a user interacts with search engine results (SERPs) on a mobile device 
+    versus a desktop computer,</li>
+  <li>The differences in intent between desktop and mobile for the same query,</li>
+  <li>If the pages load quickly and do not contain data-sapping resources, such 
+    as bloated images and extra script, and</li>
+  <li>How to include usability best practices for mobile content access and 
+    provide the best visual experience.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 132. why is mobile seo important? (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2497,17 +2488,17 @@ content for mobile visitors.</p>
 <p>Recap (11), you learned that:</p>
 
 <ul>
-  <li><p>Mobile SEO is the process of optimizing websites for mobile devices such as 
-    smartphones and tablets,</p></li>
-  <li><p>SEO enables websites to reach customers at the ideal times and locations 
-    to give them the best experiences,</p></li>
-  <li><p>Best tool for determining whether a website is mobile-friendly is Google 
-    Search Console,</p></li>
-  <li><p>Creating a mobile-specific website allows you to create content that is 
-    completely unique for mobile viewers.</p></li>
+  <li>Mobile SEO is the process of optimizing websites for mobile devices such as 
+    smartphones and tablets,</li>
+  <li>SEO enables websites to reach customers at the ideal times and locations 
+    to give them the best experiences,</li>
+  <li>Best tool for determining whether a website is mobile-friendly is Google 
+    Search Console,</li>
+  <li>Creating a mobile-specific website allows you to create content that is 
+    completely unique for mobile viewers.</li>
 </ul>
 
-<h1 id="ch2-12">2-12. Page Optimization for SEO</h1>
+<h2 id="ch2-12">2-12. Page Optimization for SEO</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 140. page optimization (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -2526,8 +2517,8 @@ content for mobile visitors.</p>
 <p>After finishing this module (12), you will be able to:</p>
 
 <ul>
-  <li><p>Define on-page SEO and list its importance, and</p></li>
-  <li><p>Identify the various on-page SEO components.</p></li>
+  <li>Define on-page SEO and list its importance, and</li>
+  <li>Identify the various on-page SEO components.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 142. what is page opimization for seo? (95) ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2701,18 +2692,18 @@ Moreover, site speed has an impact on conversions and ROI.</p>
 <p>Recap (12), you learned that:</p>
 
 <ul>
-  <li><p>On-page SEO is the process of improving a website's ranking and visibility 
-    in search engines,</p></li>
-  <li><p>It helps Google understand website content for higher ranking in search 
-    results,</p></li>
-  <li><p>The key components of on-site SEO are: Content Elements, HTML Elements, 
-    and Site Structural Optimization,</p></li>
-  <li><p>Content elements are the elements of your website's copy and content,</p></li>
-  <li><p>HTML elements are the elements of your source code, and</p></li>
-  <li><p>Site structure elements are components of the website.</p></li>
+  <li>On-page SEO is the process of improving a website's ranking and visibility 
+    in search engines,</li>
+  <li>It helps Google understand website content for higher ranking in search 
+    results,</li>
+  <li>The key components of on-site SEO are: Content Elements, HTML Elements, 
+    and Site Structural Optimization,</li>
+  <li>Content elements are the elements of your website's copy and content,</li>
+  <li>HTML elements are the elements of your source code, and</li>
+  <li>Site structure elements are components of the website.</li>
 </ul>
 
-<h1 id="ch2-13">2-13. Running Campaigns and Tracking Results</h1>
+<h2 id="ch2-13">2-13. Running Campaigns and Tracking Results</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 153. running capaigns and tracking results (102) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -2731,9 +2722,9 @@ Moreover, site speed has an impact on conversions and ROI.</p>
 <p>After reading this module (13), you will be able to:</p>
 
 <ul>
-  <li><p>Define SEO campaign and SEO tracking,</p></li>
-  <li><p>Explain the best practices for running an SEO campaign, and</p></li>
-  <li><p>Identify the key SEO tracking tools.</p></li>
+  <li>Define SEO campaign and SEO tracking,</li>
+  <li>Explain the best practices for running an SEO campaign, and</li>
+  <li>Identify the key SEO tracking tools.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 155. what is a seo campaign? (103) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2858,14 +2849,14 @@ website events such as purchases, email signups, trial signups, and any
 other event you want to track.</p>
 <p>There are four types of custom goals to consider when creating one:</p>
 <ol>
-  <li><p>Destination: This goal considers a page view or screen view to be a conversion.</p></li>
-  <li><p>Duration: This metric measures user engagement by considering a conversion 
-    to be the minimum session duration.</p></li>
-  <li><p>Pages/screens per session: This metric assesses user engagement by 
+  <li>Destination: This goal considers a page view or screen view to be a conversion.</li>
+  <li>Duration: This metric measures user engagement by considering a conversion 
+    to be the minimum session duration.</li>
+  <li>Pages/screens per session: This metric assesses user engagement by 
     identifying conversions as users who view more than a set number of pages 
-	or screens per session.</p></li>
-  <li><p>Event: This classifies a specific user interaction with your website or 
-    app as a conversion.</p></li>
+	or screens per session.</li>
+  <li>Event: This classifies a specific user interaction with your website or 
+    app as a conversion.</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 163. seo tracking tools, part 3 (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2896,19 +2887,19 @@ description, resulting in a significant increase in traffic.</p>
 <p>Recap (13), you learned that:</p>
 
 <ul>
-  <li><p>SEO campaign is a strategic effort to improve a website's ranking in search 
-    results.</p></li>
-  <li><p>SEO tracking is the process of assessing the effectiveness and development 
-    of a campaign.</p></li>
-  <li><p>Monitoring website traffic helps in making quick decisions and gaining 
-    immediate insights,</p></li>
-  <li><p>Google Analytics keeps track of everything that happens after a user 
-    visits a website, and</p></li>
-  <li><p>Google Search Console monitors website's search traffic and performance, 
-    troubleshoots problems, and optimizes search results.</p></li>
+  <li>SEO campaign is a strategic effort to improve a website's ranking in search 
+    results.</li>
+  <li>SEO tracking is the process of assessing the effectiveness and development 
+    of a campaign.</li>
+  <li>Monitoring website traffic helps in making quick decisions and gaining 
+    immediate insights,</li>
+  <li>Google Analytics keeps track of everything that happens after a user 
+    visits a website, and</li>
+  <li>Google Search Console monitors website's search traffic and performance, 
+    troubleshoots problems, and optimizes search results.</li>
 </ul>
 
-<h1 id="ch2-14">2-14. Do’s and Don’ts of Search Engine Optimization</h1>
+<h2 id="ch2-14">2-14. Do’s and Don’ts of Search Engine Optimization</h2>
 
 <h2 id="introduction">Introduction</h2>
 
@@ -3139,27 +3130,27 @@ ID.</p>
 <p>Recap week 02, you learned that:</p>
 
 <ul>
-  <li><p>Search engine optimization (SEO) refers to techniques that help a website 
-    rank higher in search results.</p></li>
-  <li><p>A search engine index is a collection of data used to generate a search 
-    result.</p></li>
-  <li><p>SEO tools aid in the creation and execution of an online search strategy.</p></li>
-  <li><p>SEO strategy aids in website optimization and achieving high rankings in 
-    search results.</p></li>
-  <li><p>The process of optimizing websites for mobile devices such as smartphones 
-    and tablets is known as mobile SEO.</p></li>
-  <li><p>On-page SEO is the process of increasing a website's visibility and 
-    ranking in search engines.</p></li>
-  <li><p>An SEO campaign is a planned effort to boost a website's ranking in 
-    search results.</p></li>
-  <li><p>SEO tracking is the process of evaluating a campaign's effectiveness and 
-    development.</p></li>
+  <li>Search engine optimization (SEO) refers to techniques that help a website 
+    rank higher in search results.</li>
+  <li>A search engine index is a collection of data used to generate a search 
+    result.</li>
+  <li>SEO tools aid in the creation and execution of an online search strategy.</li>
+  <li>SEO strategy aids in website optimization and achieving high rankings in 
+    search results.</li>
+  <li>The process of optimizing websites for mobile devices such as smartphones 
+    and tablets is known as mobile SEO.</li>
+  <li>On-page SEO is the process of increasing a website's visibility and 
+    ranking in search engines.</li>
+  <li>An SEO campaign is a planned effort to boost a website's ranking in 
+    search results.</li>
+  <li>SEO tracking is the process of evaluating a campaign's effectiveness and 
+    development.</li>
 </ul>
 
 <!-- # [Week 3:]{.mark} -->
 <h1 id="ch3">WEEK 3</h1>
 
-<h1 id="ch3-15">3-15. Introduction to Web Build and Automated Tools</h1>
+<h2 id="ch3-15">3-15. Introduction to Web Build and Automated Tools</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 165. intro to web build and automated tools (113) ~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -3179,11 +3170,11 @@ ID.</p>
 <p>After reading this module (15), you will be able to:</p>
 
 <ul>
-  <li><p>Define build automation,</p></li>
-  <li><p>Identify the benefits of build automation,</p></li>
-  <li><p>Discuss the use of automated web build tools and bundlers in a given 
-    situation, and</p></li>
-  <li><p>Describe some popular web build tools and bundlers.</p></li>
+  <li>Define build automation,</li>
+  <li>Identify the benefits of build automation,</li>
+  <li>Discuss the use of automated web build tools and bundlers in a given 
+    situation, and</li>
+  <li>Describe some popular web build tools and bundlers.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 167. intro to build automation (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3397,14 +3388,14 @@ load several JavaScript files.
 <p>Recap (15), you learned about:</p>
 
 <ul>
-  <li><p>Build automation and its process,</p></li>
-  <li><p>The use of automated web build tools and bundlers in a given situation,</p></li>
-  <li><p>Some important functions of build JavaScript tools,</p></li>
-  <li><p>The five main benefits of Build automation, and</p></li>
-  <li><p>Some popular web build tools and bundlers used in web development.</p></li>
+  <li>Build automation and its process,</li>
+  <li>The use of automated web build tools and bundlers in a given situation,</li>
+  <li>Some important functions of build JavaScript tools,</li>
+  <li>The five main benefits of Build automation, and</li>
+  <li>Some popular web build tools and bundlers used in web development.</li>
 </ul>
 
-<h1 id="ch3-16">3-16. Introduction to Webpack 5</h1>
+<h2 id="ch3-16">3-16. Introduction to Webpack 5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 179. introduction to webpack 5 (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -3423,11 +3414,11 @@ load several JavaScript files.
 <p>After reading this module (16), you will be able to:</p>
 
 <ul>
-  <li><p>Describe Webpack 5,</p></li>
-  <li><p>Explain some advantages of Webpack 5,</p></li>
-  <li><p>Explain the functions of Webpack 5,</p></li>
-  <li><p>Explain how Webpack 5 works, and</p></li>
-  <li><p>Describe why to use Webpack 5.</p></li>
+  <li>Describe Webpack 5,</li>
+  <li>Explain some advantages of Webpack 5,</li>
+  <li>Explain the functions of Webpack 5,</li>
+  <li>Explain how Webpack 5 works, and</li>
+  <li>Describe why to use Webpack 5.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 181. define to webpack 5 (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3468,12 +3459,12 @@ discuss what it does.</p>
 <p>Webpack 5:</p>
 
 <ul>
-  <li><p>Helps assemble your resources,</p></li>
-  <li><p>Keeps track of modifications and reruns tasks,</p></li>
-  <li><p>Converts inline images into data URIs,</p></li>
-  <li><p>Uses require () for CSS files,</p></li>
-  <li><p>Runs a development web server,</p></li>
-  <li><p>Supports live updates or hot module replacement during development.</p></li>
+  <li>Helps assemble your resources,</li>
+  <li>Keeps track of modifications and reruns tasks,</li>
+  <li>Converts inline images into data URIs,</li>
+  <li>Uses require () for CSS files,</li>
+  <li>Runs a development web server,</li>
+  <li>Supports live updates or hot module replacement during development.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 184. how webpack 5 works (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3515,17 +3506,17 @@ version.</p>
 <p>Recap (16), you learned that:</p>
 
 <ul>
-  <li><p>Webpack 5 is a command line tool that assists in handling the bundling 
-    of assets, modules, and dependencies into a single bundle,</p></li>
-  <li><p>There are several advantages of using Webpack 5,</p></li>
-  <li><p>Numerous functions can be performed by Webpack 5,</p></li>
-  <li><p>Webpack 5 works by taking multiple files and combining them into one 
-    big file, and</p></li>
-  <li><p>Webpack 5 is powerful and has a unique plugin system as well as numerous 
-    other benefits.</p></li>
+  <li>Webpack 5 is a command line tool that assists in handling the bundling 
+    of assets, modules, and dependencies into a single bundle,</li>
+  <li>There are several advantages of using Webpack 5,</li>
+  <li>Numerous functions can be performed by Webpack 5,</li>
+  <li>Webpack 5 works by taking multiple files and combining them into one 
+    big file, and</li>
+  <li>Webpack 5 is powerful and has a unique plugin system as well as numerous 
+    other benefits.</li>
 </ul>
 
-<h1 id="ch3-17">3-17. Essential Concepts of Webpack</h1>
+<h2 id="ch3-17">3-17. Essential Concepts of Webpack</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 187. essential concepts of webpack (129) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -3544,8 +3535,8 @@ version.</p>
 <p>After reading this module (17), you will be able to:</p>
 
 <ul>
-  <li><p>Explain the four core concepts of Webpack, and</p></li>
-  <li><p>Define components that optimize the functioning of Webpack.</p></li>
+  <li>Explain the four core concepts of Webpack, and</li>
+  <li>Define components that optimize the functioning of Webpack.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 189. webpack: a module bundler output (130) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3667,17 +3658,17 @@ the optimized output that is finally loaded in the browser.</p>
 <p>Recap (17), you learned that:</p>
 
 <ul>
-  <li><p>Webpack is a module bundler and depends on the dependency graph,</p></li>
-  <li><p>Entry point for Webpack is the initial point for creating dependency 
-    graphs,</p></li>
-  <li><p>Static and JavaScript files produced by the build process are 
-    collected in the output,</p></li>
-  <li><p>Loaders transform other file extensions to JavaScript and JSON
-    files, and</p></li>
-  <li><p>Plugins allow Webpack to perform a wide range of tasks.</p></li>
+  <li>Webpack is a module bundler and depends on the dependency graph,</li>
+  <li>Entry point for Webpack is the initial point for creating dependency 
+    graphs,</li>
+  <li>Static and JavaScript files produced by the build process are 
+    collected in the output,</li>
+  <li>Loaders transform other file extensions to JavaScript and JSON
+    files, and</li>
+  <li>Plugins allow Webpack to perform a wide range of tasks.</li>
 </ul>
 
-<h1 id="ch3-18">3-18. Working with Webpack</h1>
+<h2 id="ch3-18">3-18. Working with Webpack</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 199. working with webpack (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -3696,11 +3687,11 @@ the optimized output that is finally loaded in the browser.</p>
 <p>After reading this module (18), you will be able to:</p>
 
 <ul>
-  <li><p>Explain the importance of Webpack configuration,</p></li>
-  <li><p>Identify how assets are handled in a configuration file,</p></li>
-  <li><p>Discuss code splitting and the three ways to accomplish it,</p></li>
-  <li><p>Explain Preload and Prefetch for resource navigation, and</p></li>
-  <li><p>Describe the three main Webpack modes.</p></li>
+  <li>Explain the importance of Webpack configuration,</li>
+  <li>Identify how assets are handled in a configuration file,</li>
+  <li>Discuss code splitting and the three ways to accomplish it,</li>
+  <li>Explain Preload and Prefetch for resource navigation, and</li>
+  <li>Describe the three main Webpack modes.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 201. webpack configuration (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3787,10 +3778,10 @@ users to engage with your application more quickly.</p>
 
 <p>Code Splitting in Webpack 5 can be accomplished in three ways:</p>
 <ol type="1">
-  <li><p>Entry points: Manually split code using entry configuration,</p></li>
-  <li><p>Prevent duplication: Remove identical entries and split chunks with 
-    SplitChunksPlugin,</p></li>
-  <li><p>Dynamic imports: Split code using inline function calls within modules.</p></li>
+  <li>Entry points: Manually split code using entry configuration,</li>
+  <li>Prevent duplication: Remove identical entries and split chunks with 
+    SplitChunksPlugin,</li>
+  <li>Dynamic imports: Split code using inline function calls within modules.</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 208. preload and prefetch (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3868,17 +3859,17 @@ options are applied.</p>
 
 <p>Recap (18), you learned about:</p>
 <ul>
-<li><p>Webpack and its role as a module bundler for web
-applications,</p></li>
-<li><p>Webpack configuration and its importance,</p></li>
-<li><p>Asset management and how assets are handled in a configuration
-file,</p></li>
-<li><p>Code splitting and the three ways to accomplish it,</p></li>
-<li><p>The functions of Preload and Prefetch, and</p></li>
-<li><p>The three main configuration modes for Webpack.</p></li>
+<li>Webpack and its role as a module bundler for web
+applications,</li>
+<li>Webpack configuration and its importance,</li>
+<li>Asset management and how assets are handled in a configuration
+file,</li>
+<li>Code splitting and the three ways to accomplish it,</li>
+<li>The functions of Preload and Prefetch, and</li>
+<li>The three main configuration modes for Webpack.</li>
 </ul>
 
-<h1 id="ch3-19">3-19. Setting up Production with Webpack</h1>
+<h2 id="ch3-19">3-19. Setting up Production with Webpack</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 214. setting up production with webpack (144) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -3897,8 +3888,8 @@ file,</p></li>
 <p>After reading this module (19), you will be able to:</p>
 
 <ul>
-  <li><p>Identify the different configuration modes in Webpack, and</p></li>
-  <li><p>Discuss the best practices related to Webpack in production.</p>
+  <li>Identify the different configuration modes in Webpack, and</li>
+  <li>Discuss the best practices related to Webpack in production.</p>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 216.  (144) ~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4022,21 +4013,21 @@ clean-Webpack-plugin. Finally, save dev.</p>
 
 <p>Recap (19), you learned that:</p>
 <ul>
-<li><p>Webpack in production mode allows many practices that are helpful
+<li>Webpack in production mode allows many practices that are helpful
 at the time of building an application. These include:</p>
 <ul>
-<li><p>Minifying CSS to remove unnecessary characters, such as comments,
-whitespaces, and indentation,</p></li>
-<li><p>Generating source maps to trace back the minified code to its
-original location,</p></li>
-<li><p>File hashing to make changes in a file even after a website is
-published,</p></li>
-<li><p>Clean up old assets to avoid the minification of all the files in
-the public folder.</p></li>
+<li>Minifying CSS to remove unnecessary characters, such as comments,
+whitespaces, and indentation,</li>
+<li>Generating source maps to trace back the minified code to its
+original location,</li>
+<li>File hashing to make changes in a file even after a website is
+published,</li>
+<li>Clean up old assets to avoid the minification of all the files in
+the public folder.</li>
 </ul></li>
 </ul>
 
-<h1 id="ch3-20">3-20. Using Webpack Tools</h1>
+<h2 id="ch3-20">3-20. Using Webpack Tools</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 225. using webpack tools (149) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -4055,8 +4046,8 @@ the public folder.</p></li>
 <p>After reading this module (20), you will be able to:</p>
 
 <ul>
-  <li><p>Explain the need for Webpack tools, and</p></li>
-  <li><p>Describe five popular Webpack bundle size tools.</p></li>
+  <li>Explain the need for Webpack tools, and</li>
+  <li>Describe five popular Webpack bundle size tools.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 227. need for webpack tools (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4230,21 +4221,21 @@ file, and Use the analyzer.</p>
 
 <p>Recap (20), you learned that:</p>
 <ul>
-<li><p>Developers use different Webpack tools to reduce the bundle size
-for improving the performance of web applications,</p></li>
-<li><p>BundlePhobia enables you to understand the performance cost of
-installing a package to an application,</p></li>
-<li><p>Webpack visualizer is used for creating a visual representation
-of your final bundle,</p></li>
-<li><p>Webpack Analyzer visualizes your bundle sizes by creating
-dependency graphs,</p></li>
-<li><p>Source Map Explorer identifies the origin of minified code,
-and</p></li>
-<li><p>Webpack Bundle Analyzer helps to acknowledge the contents of the
-bundle and discover large modules.</p></li>
+<li>Developers use different Webpack tools to reduce the bundle size
+for improving the performance of web applications,</li>
+<li>BundlePhobia enables you to understand the performance cost of
+installing a package to an application,</li>
+<li>Webpack visualizer is used for creating a visual representation
+of your final bundle,</li>
+<li>Webpack Analyzer visualizes your bundle sizes by creating
+dependency graphs,</li>
+<li>Source Map Explorer identifies the origin of minified code,
+and</li>
+<li>Webpack Bundle Analyzer helps to acknowledge the contents of the
+bundle and discover large modules.</li>
 </ul>
 
-<h1 id="ch3-21">3-21. Using Webpack with Front-end Frameworks</h1>
+<h2 id="ch3-21">3-21. Using Webpack with Front-end Frameworks</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 241. 3-21. using webpack with front-end frameworks (158) ~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -4263,8 +4254,8 @@ bundle and discover large modules.</p></li>
 <p>After reading this module (21), you will be able to:</p>
 
 <ul>
-  <li><p>Explain the need for using Webpack with front-end frameworks, and</p></li>
-  <li><p>Describe how to configure Webpack with Angular, Vue, and React.</p></li>
+  <li>Explain the need for using Webpack with front-end frameworks, and</li>
+  <li>Describe how to configure Webpack with Angular, Vue, and React.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 243. front-end framework (159) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4333,23 +4324,23 @@ content without requiring a page refresh.</p>
 <p>Configuring Webpack with Angular involves a few steps. Let’s explore these steps.</p>
 
 <ul>
-  <li><p>First, you need to create an application folder and name it. 
-    Click to open the folder,</p></li>
-  <li><p>Then create a file named package.json.  This file contains project 
-    configuration information, including package dependencies.</p></li>
-  <li><p>Install Angular libraries when configuring Webpack with Angular, you 
-    need to use Node Package Manager (npm). Use the command as shown here:</p></li>
+  <li>First, you need to create an application folder and name it. 
+    Click to open the folder,</li>
+  <li>Then create a file named package.json.  This file contains project 
+    configuration information, including package dependencies.</li>
+  <li>Install Angular libraries when configuring Webpack with Angular, you 
+    need to use Node Package Manager (npm). Use the command as shown here:</li>
 </ul>
 
 <pre>Npm install &lt;library name&gt;</pre>
 
 <ul>
-  <li><p>Note that, like Angular libraries, dependencies can be installed when
-    configuring Webpack with Angular using npm.</p></li>
-  <li><p>Webpack is a JavaScript module bundler that can be extended with loaders to 
+  <li>Note that, like Angular libraries, dependencies can be installed when
+    configuring Webpack with Angular using npm.</li>
+  <li>Webpack is a JavaScript module bundler that can be extended with loaders to 
     handle other file types (for example, TypeScript, HTML, and CSS) and plugins to 
 	perform other tasks, such as injecting generated JS bundles into an HTML
-	template (html-webpack-plugin).</p></li>
+	template (html-webpack-plugin).</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 248. configuring webpack with angular, part 3 (162) ~~~~~~~~~~~~~~~~~~~~~-->
@@ -4361,17 +4352,17 @@ content without requiring a page refresh.</p>
 <p>Here are the remaining steps of configuring Webpack with Angular:</p>
 
 <ul>
-  <li><p>Now, create a new component and a root module to define the entry point of 
+  <li>Now, create a new component and a root module to define the entry point of 
     your application while configuring Webpack with Angular. Note that an entry 
-	point is used by Angular to bootstrap/launch the application's root module.</p></li>
-  <li><p>Create the main index.html file, which is the initial page loaded by 
+	point is used by Angular to bootstrap/launch the application's root module.</li>
+  <li>Create the main index.html file, which is the initial page loaded by 
     a browser. To ensure that the scripts are loaded and run by the browser, 
 	Webpack groups all of the JavaScript files together and injects them into 
-	the body of the index.html page.</p></li>
-  <li><p>Next, click to open the project folder, and then create a file named 
+	the body of the index.html page.</li>
+  <li>Next, click to open the project folder, and then create a file named 
     webpack.config.js. This file specifies the configuration options used by 
-	Webpack to compile and bundle an Angular app.</p></li>
-  <li><p>Now, you can run the application. Use the command, as shown here:</p></li>
+	Webpack to compile and bundle an Angular app.</li>
+  <li>Now, you can run the application. Use the command, as shown here:</li>
 </ul>
 
 <pre>ng serve</pre>
@@ -4507,8 +4498,8 @@ application.</p>
 <p>Recap (21), you learned about;</p>
 
 <ul>
-  <li><p>The need for using Webpack with front-end frameworks,</p></li>
-  <li><p>The steps to configure Webpack with Angular, Vue, and React.</p></li>
+  <li>The need for using Webpack with front-end frameworks,</li>
+  <li>The steps to configure Webpack with Angular, Vue, and React.</li>
 </ul>
 
 <h2>Hands on Lab: Build and Deploy a website using Webpack</h2>
@@ -4529,7 +4520,7 @@ target="_blank" rel="noopener noreferrer">lab instructions HERE </a> to open in 
 website using Webpack, to enhance your learning experience. The app will
 reference basic information like your name, email, and Coursera ID.</p>
 
-<h1 id="ch3-22">3-22. Webpack Best Practices</h1>
+<h2 id="ch3-22">3-22. Webpack Best Practices</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 257. webpack best practices (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -4548,9 +4539,9 @@ reference basic information like your name, email, and Coursera ID.</p>
 <p>After reading this module (22), you will be able to:</p>
 
 <ul>
-  <li><p>Identify some important best practices for optimizing Webpack, and</p></li>
-  <li><p>Describe the benefits of implementing some key best practices 
-    in Webpack.</p></li>
+  <li>Identify some important best practices for optimizing Webpack, and</li>
+  <li>Describe the benefits of implementing some key best practices 
+    in Webpack.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 259. webpack module bundler (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4721,22 +4712,22 @@ by default in the production mode.</p>
 <p>Recap (22), you learned that:</p>
 
 <ul>
-  <li><p>Production mode helps in Webpack performance optimization,</p></li>
-  <li><p>Source maps help in tracing minified code back to its original 
-    location,</p></li>
-  <li><p>Lazy loading refers to the practice of loading JavaScript modules
-    only when they are required,</p></li>
-  <li><p>The "exclude" and "include" options control which files are 
-    included in the build output,</p></li>
-  <li><p>Reusing modules reduces build time by sharing common code across
-    multiple parts of your application,</p></li>
-  <li><p>Splitting vendor bundles is a method of dividing your application
-    into smaller, self-contained chunks,</p></li>
-  <li><p>Caching enables the build process to save previous build results, and</p></li>
-  <li><p>Tree shaking removes unnecessary code from the final bundle.</p></li>
+  <li>Production mode helps in Webpack performance optimization,</li>
+  <li>Source maps help in tracing minified code back to its original 
+    location,</li>
+  <li>Lazy loading refers to the practice of loading JavaScript modules
+    only when they are required,</li>
+  <li>The "exclude" and "include" options control which files are 
+    included in the build output,</li>
+  <li>Reusing modules reduces build time by sharing common code across
+    multiple parts of your application,</li>
+  <li>Splitting vendor bundles is a method of dividing your application
+    into smaller, self-contained chunks,</li>
+  <li>Caching enables the build process to save previous build results, and</li>
+  <li>Tree shaking removes unnecessary code from the final bundle.</li>
 </ul>
 
-<h1 id="ch3-23">3-23. Reading: HTTPS &amp; SSL Certificates</h1>
+<h2 id="ch3-23">3-23. Reading: HTTPS &amp; SSL Certificates</h2>
 
 <h2>What is HTTPS?</h2>
 
@@ -4809,16 +4800,16 @@ and decrypt the message.</p>
 work, here’s an overview of the process:</p>
 
 <ul>
-  <li><p>First, a website owner purchases an SSL certificate from a Certificate Authority 
-    (CA) and installs it on their site.</p></li>
-  <li><p>When a visitor navigates through the website, the browser and the web server 
-    establish an SSL connection using a method called <strong>SSL handshake</strong>.</p></li>
-  <li><p>During the SSL handshake, the browser asks the server for its SSL certificate 
-    and public key to prove its validity.</p></li>
-  <li><p>Once the certificate is verified, the browser and web server exchange private 
-    and public keys to create a symmetric session key.</p></li>
-  <li><p>Both parties then use this symmetric key to encrypt all communications. 
-    This key will remain valid for a limited time and only for that particular session.</p></li>
+  <li>First, a website owner purchases an SSL certificate from a Certificate Authority 
+    (CA) and installs it on their site.</li>
+  <li>When a visitor navigates through the website, the browser and the web server 
+    establish an SSL connection using a method called <strong>SSL handshake</strong>.</li>
+  <li>During the SSL handshake, the browser asks the server for its SSL certificate 
+    and public key to prove its validity.</li>
+  <li>Once the certificate is verified, the browser and web server exchange private 
+    and public keys to create a symmetric session key.</li>
+  <li>Both parties then use this symmetric key to encrypt all communications. 
+    This key will remain valid for a limited time and only for that particular session.</li>
 </ul>
 
 <h1>Week 3 Summary: Introduction to Automated Build Tools (Webpack)</h1>
@@ -4826,26 +4817,26 @@ work, here’s an overview of the process:</p>
 <p>Recap (23), you learned that:</p>
 
 <ul>
-  <li><p>Build automation is preparing the source code for production so that users 
-    can interact with it comfortably.</p></li>
-  <li><p>Webpack 5 is a command line tool that assists in handling the bundling of 
-    assets, modules, and dependencies into a single bundle.</p></li>
-  <li><p>Webpack comprises concepts that optimize its functioning.</p></li>
-  <li><p>Configuring Webpack tracks errors efficiently and helps in quicker execution.</p></li>
-  <li><p>Webpack comprises three main configuration modes.</p></li>
-  <li><p>Webpack in production mode allows many practices that are helpful at the time 
-    of building an application.</p></li>
-  <li><p>Developers use different Webpack tools to reduce the bundle size to improve 
-    the performance of web applications.</p></li>
-  <li><p>Many frontend frameworks use Webpack to build and deploy web applications.</p></li>
-  <li><p>Some best practices can be implemented to optimize Webpack.</p></li>
+  <li>Build automation is preparing the source code for production so that users 
+    can interact with it comfortably.</li>
+  <li>Webpack 5 is a command line tool that assists in handling the bundling of 
+    assets, modules, and dependencies into a single bundle.</li>
+  <li>Webpack comprises concepts that optimize its functioning.</li>
+  <li>Configuring Webpack tracks errors efficiently and helps in quicker execution.</li>
+  <li>Webpack comprises three main configuration modes.</li>
+  <li>Webpack in production mode allows many practices that are helpful at the time 
+    of building an application.</li>
+  <li>Developers use different Webpack tools to reduce the bundle size to improve 
+    the performance of web applications.</li>
+  <li>Many frontend frameworks use Webpack to build and deploy web applications.</li>
+  <li>Some best practices can be implemented to optimize Webpack.</li>
 </ul>
 
 <!-- # [Week 4:]{.mark} -->
 
 <h1 id="ch4">WEEK 4</h1>
 
-<h1 id="ch4-24">4-24. JavaScript Optimization</h1>
+<h2 id="ch4-24">4-24. JavaScript Optimization</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 270. 4-24. javascript optimization (180) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -5024,19 +5015,19 @@ faster.</p>
 <p>Recap (24), you learned that:</p>
 
 <ul>
-  <li><p>Web performance assesses site load time and responsiveness of the 
-    displayed content.</p></li>
-  <li><p>JavaScript produces highly interactive websites that actively 
-    engage the user.</p></li>
-  <li><p>Key factors of web optimization are conversion rate, visibility, 
-    and usability.</p></li>
-  <li><p>Web performance optimization provides user information quickly while 
-    ensuring a smooth interactive experience, and</p></li>
-  <li><p>JavaScript tips affect the performance of a web application and how 
-    to improve it.</p></li>
+  <li>Web performance assesses site load time and responsiveness of the 
+    displayed content.</li>
+  <li>JavaScript produces highly interactive websites that actively 
+    engage the user.</li>
+  <li>Key factors of web optimization are conversion rate, visibility, 
+    and usability.</li>
+  <li>Web performance optimization provides user information quickly while 
+    ensuring a smooth interactive experience, and</li>
+  <li>JavaScript tips affect the performance of a web application and how 
+    to improve it.</li>
 </ul>
 
-<h1 id="ch4-25">4-25. Popular Optimization Tools</h1>
+<h2 id="ch4-25">4-25. Popular Optimization Tools</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 280. module 25. popular optimization tools (188) ~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -5054,8 +5045,8 @@ faster.</p>
 
 <p>After reading this module (25), you’ll be able to:</p>
 <ul>
-  <li><p>Identify the various approaches to web optimization, and</p></li>
-  <li><p>List the key optimization tools used in each approach.</p>
+  <li>Identify the various approaches to web optimization, and</li>
+  <li>List the key optimization tools used in each approach.</p>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 282. approach to web optimization; appealing (189) ~~~~~~~~~~~~~~~~~~~~-->
@@ -5104,9 +5095,9 @@ measure the page speed and show you what's slowing it down.</p>
 measures.</p>
 <p>These include:</p>
 <ul>
-  <li><p>Reducing and compressing HTML, CSS, JavaScript, and images,</p></li>
-  <li><p>Caching content, and</p></li>
-  <li><p>Using faster hosting servers.</p></li>
+  <li>Reducing and compressing HTML, CSS, JavaScript, and images,</li>
+  <li>Caching content, and</li>
+  <li>Using faster hosting servers.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 285. popular page speed optimization tools (191) ~~~~~~~~~~~~~~~~~~~~~-->
@@ -5118,10 +5109,10 @@ measures.</p>
 <p>Some of the popular page speed optimization tools include:</p>
 
 <ul>
-  <li><p>PageSpeed Insights,</p></li>
-  <li><p>Gtmetrix,</p></li>
-  <li><p>Pingdom, and</p></li>
-  <li><p>WebPageTest.</p></li>
+  <li>PageSpeed Insights,</li>
+  <li>Gtmetrix,</li>
+  <li>Pingdom, and</li>
+  <li>WebPageTest.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 286. ux (user experience) optimization (191) ~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5133,13 +5124,13 @@ measures.</p>
 <p>Next, we’ll discuss user experience (UX) optimization tools.</p>
 
 <ul>
-  <li><p>Great UX will keep visitors happy and reduce friction on your website, 
-    resulting in higher conversion rates and revenue.</p></li>
-  <li><p>Usability testing will help you understand user behavior and diagnose 
+  <li>Great UX will keep visitors happy and reduce friction on your website, 
+    resulting in higher conversion rates and revenue.</li>
+  <li>Usability testing will help you understand user behavior and diagnose 
     problems so you can optimize pages and give people what they need to continue 
-	browsing and purchasing from your website smoothly.</p></li>
-  <li><p>UX tools aid in every stage of the page optimization process, from identifying 
-    where users are getting stuck to conducting user research.</p></li>
+	browsing and purchasing from your website smoothly.</li>
+  <li>UX tools aid in every stage of the page optimization process, from identifying 
+    where users are getting stuck to conducting user research.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 287. ux (user experience) optimization tools (192) ~~~~~~~~~~~~~~~~~~~~-->
@@ -5150,10 +5141,10 @@ measures.</p>
 
 <p>Some of the popular UX optimization tools include:</p>
 <ul>
-  <li><p>Hotjar,</p></li>
-  <li><p>UserTesting,</p></li>
-  <li><p>TryMyUI, and</p></li>
-  <li><p>UsabilityHub.</p></li>
+  <li>Hotjar,</li>
+  <li>UserTesting,</li>
+  <li>TryMyUI, and</li>
+  <li>UsabilityHub.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 288. mobile optimization tools (193) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5165,14 +5156,14 @@ measures.</p>
 <p>Let's look at mobile optimization tools;</p>
 
 <ul>
-  <li><p>Mobile-first optimization can help you ensure that users see your site 
+  <li>Mobile-first optimization can help you ensure that users see your site 
     properly on smartphones and tablets, as more people use mobile devices than 
-	desktop computers to browse the web.</p></li>
-  <li><p>Pop-ups, image-heavy pages, and small texts can make your website 
-    difficult to navigate on smartphones.</p></li>
-  <li><p>Analyze your analytics data to determine what percentage of your users and 
+	desktop computers to browse the web.</li>
+  <li>Pop-ups, image-heavy pages, and small texts can make your website 
+    difficult to navigate on smartphones.</li>
+  <li>Analyze your analytics data to determine what percentage of your users and 
     customers browse on mobile devices, so you can determine how important mobile
-	optimization is to your business.</p></li>
+	optimization is to your business.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 289. mobile optimization tools, cont'd (193) ~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5183,10 +5174,10 @@ measures.</p>
 
 <p>Some of the popular mobile optimization tools include:</p>
 <ul>
-  <li><p>PageSpeed Insights,</p></li>
-  <li><p>Google Search Console,</p></li>
-  <li><p>Google Analytics, and</p></li>
-  <li><p>WebPageTest.</p></li>
+  <li>PageSpeed Insights,</li>
+  <li>Google Search Console,</li>
+  <li>Google Analytics, and</li>
+  <li>WebPageTest.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 290. web accessibility optimization tools (194) ~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5212,9 +5203,9 @@ to make your website more inclusive.</p>
 
 <p>Some of the popular web accessibility optimization tools include:</p>
 <ul>
-  <li><p>WAVE,</p></li>
-  <li><p>EqualWeb, and</p></li>
-  <li><p>Functional Accessibility Evaluator.</p></li>
+  <li>WAVE,</li>
+  <li>EqualWeb, and</li>
+  <li>Functional Accessibility Evaluator.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 292. javascript optimization (195) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5237,13 +5228,13 @@ and compile the code.</p>
 
 <p>Some of the popular JavaScript optimization tools include:</p>
 <ul>
-  <li><p><b><i>JS Minifier</i></b> is a web-based tool to compress JavaScript code to make it as
-    light as possible,</p></li>
-  <li><p><b><i>JSMIN</i></b> is a popular JavaScript minifier that removes unnecessary characters 
-    (such as spaces and tabs) and comments, reducing the file size of your script,</p></li>
-  <li><p><b><i>Flow</i></b>, which is a static type of JavaScript code checker that works hard to 
+  <li><b><i>JS Minifier</i></b> is a web-based tool to compress JavaScript code to make it as
+    light as possible,</li>
+  <li><b><i>JSMIN</i></b> is a popular JavaScript minifier that removes unnecessary characters 
+    (such as spaces and tabs) and comments, reducing the file size of your script,</li>
+  <li><b><i>Flow</i></b>, which is a static type of JavaScript code checker that works hard to 
     increase your productivity, making your code faster, smarter, more confident, 
-	and more broadly applicable,</p></li>
+	and more broadly applicable,</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 294. javascript optimization tools, cont'd (196) ~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5253,11 +5244,11 @@ and compile the code.</p>
   style="width:400px;"/>
 
 <ul>
-  <li><p><b><i>ESLint</i></b>, which is a linting tool that helps automatically check your 
-    code for potential problems, and</p></li>
-  <li><p><b><i>Optimize-js</i></b>, which optimizes a JavaScript file for faster initial 
+  <li><b><i>ESLint</i></b>, which is a linting tool that helps automatically check your 
+    code for potential problems, and</li>
+  <li><b><i>Optimize-js</i></b>, which optimizes a JavaScript file for faster initial 
     execution and parsing by enclosing all functions that are immediately invoked or are 
-	likely to be invoked in parentheses.</p></li>
+	likely to be invoked in parentheses.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 295. module 25 recap; web optimization tools (197) ~~~~~~~~~~~~~~~~~~~~~-->
@@ -5269,20 +5260,20 @@ and compile the code.</p>
 <p>Recap (25), you learned that:</p>
 
 <ul>
-  <li><p>Web optimization makes a website appealing to search engines and users,</p></li>
-  <li><p>It helps select an appropriate software tool for potential problems,</p></li>
-  <li><p>Page speed optimization tools assess the page speed and determine what is 
-    slowing it down,</p></li>
-  <li><p>UX optimization tools keep visitors engaged and reduce friction on websites,</p></li>
-  <li><p>Mobile optimization tools ensure that users see websites properly on 
-    smartphones and tablets,</p></li>
-  <li><p>Web accessibility optimization tools preview landing screens and provide 
-    optimized recommendations, and</p></li>
-  <li><p>JavaScript optimization tools remove unnecessary codes, which reduces the 
-    time required for browsers to analyze and compile code.</p></li>
+  <li>Web optimization makes a website appealing to search engines and users,</li>
+  <li>It helps select an appropriate software tool for potential problems,</li>
+  <li>Page speed optimization tools assess the page speed and determine what is 
+    slowing it down,</li>
+  <li>UX optimization tools keep visitors engaged and reduce friction on websites,</li>
+  <li>Mobile optimization tools ensure that users see websites properly on 
+    smartphones and tablets,</li>
+  <li>Web accessibility optimization tools preview landing screens and provide 
+    optimized recommendations, and</li>
+  <li>JavaScript optimization tools remove unnecessary codes, which reduces the 
+    time required for browsers to analyze and compile code.</li>
 </ul>
 
-<h1 id="ch4-26">4-26. Testing Frameworks</h1>
+<h2 id="ch4-26">4-26. Testing Frameworks</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 296. week 4, mod 26 - testing frameworks (198) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -5300,9 +5291,9 @@ and compile the code.</p>
 
 <p>After reading this module (26), you will be able to:</p>
 <ul>
-<li><p>Define testing frameworks and their components,</p></li>
-<li><p>List the key benefits of testing a framework, and</p></li>
-<li><p>Identify the popular JavaScript testing frameworks.</p></li>
+<li>Define testing frameworks and their components,</li>
+<li>List the key benefits of testing a framework, and</li>
+<li>Identify the popular JavaScript testing frameworks.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 298. what is a testing framework? (199) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5316,11 +5307,11 @@ to develop and design test cases. While a <b><i>test automation framework</i></b
 collection of components that make it easier to run tests and report on test results.</p>
 <p>Testing framework guidelines include;</p>
 <ul>
-  <li><p>Coding standards,</p></li>
-  <li><p>Test-data handling methods,</p></li>
-  <li><p>Object repositories,</p></li>
-  <li><p>Processes for storing test results, and</p></li>
-  <li><p>Information on how to access external resources.</p></li>
+  <li>Coding standards,</li>
+  <li>Test-data handling methods,</li>
+  <li>Object repositories,</li>
+  <li>Processes for storing test results, and</li>
+  <li>Information on how to access external resources.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 299. what is javascript testing framework? (199) ~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5334,13 +5325,13 @@ well-known for its ease of use in front-end and back-end development.</p>
 <p><b><i>Front-end testing</i></b> is a method of testing;</p>
 
 <ul>
-  <li><p>Graphical User Interface (GUI), functionality, and usability of web applications
+  <li>Graphical User Interface (GUI), functionality, and usability of web applications
     or software,</p>
-  <li><p>Ensure that the presentation layer of web applications or software is defect 
-    free with subsequent updates,</p></li>
-  <li><p>Performs CSS regression testing for minor CSS changes that break the front-end layout,</p></li>
-  <li><p>Executes JS file changes that render the front-end unusable, and</p></li>
-  <li><p>Implements performance evaluations.</p></li>
+  <li>Ensure that the presentation layer of web applications or software is defect 
+    free with subsequent updates,</li>
+  <li>Performs CSS regression testing for minor CSS changes that break the front-end layout,</li>
+  <li>Executes JS file changes that render the front-end unusable, and</li>
+  <li>Implements performance evaluations.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 300. components of a testing framework (200) ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5471,19 +5462,19 @@ can also be configured to run in full (non-headless) Chrome/Chromium mode.</p>
 
 <p>Recap (26), you learned that:</p>
 <ul>
-  <li><p>A testing framework is a set of rules or guidelines that can be used to 
-    develop and design test cases,</p></li>
-  <li><p>JavaScript testing framework is dynamic and well-known for its ease of 
-    use in front-end and back-end development,</p></li>
-  <li><p>Components of a framework are a group of tools and processes that work 
-    together to support automated application testing,</p></li>
-  <li><p>Testing framework helps make the project agile, fixes bugs, and helps 
-    achieve code integrity and optimization, and</p></li>
-  <li><p>Some popular JavaScript testing frameworks are Jest, Playwright, Mocha, 
-    Cypress, Jasmine, and Puppeteer.</p></li>
+  <li>A testing framework is a set of rules or guidelines that can be used to 
+    develop and design test cases,</li>
+  <li>JavaScript testing framework is dynamic and well-known for its ease of 
+    use in front-end and back-end development,</li>
+  <li>Components of a framework are a group of tools and processes that work 
+    together to support automated application testing,</li>
+  <li>Testing framework helps make the project agile, fixes bugs, and helps 
+    achieve code integrity and optimization, and</li>
+  <li>Some popular JavaScript testing frameworks are Jest, Playwright, Mocha, 
+    Cypress, Jasmine, and Puppeteer.</li>
 </ul>
 
-<h1 id="ch4-27">4-27. Testing Tools – Mocha and Jasmine</h1>
+<h2 id="ch4-27">4-27. Testing Tools – Mocha and Jasmine</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 308. testing tools - mocha and jasmine (206) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -5502,9 +5493,9 @@ can also be configured to run in full (non-headless) Chrome/Chromium mode.</p>
 
 <p>After reading this module (27), you’ll be able to:</p>
 <ul>
-<li><p>Define Mocha and Jasmine testing frameworks,</p></li>
-<li><p>List their advantages and disadvantages, and</p></li>
-<li><p>Recognize the differences between the two frameworks.</p></li>
+<li>Define Mocha and Jasmine testing frameworks,</li>
+<li>List their advantages and disadvantages, and</li>
+<li>Recognize the differences between the two frameworks.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. mocha testing framework (207) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5515,12 +5506,12 @@ can also be configured to run in full (non-headless) Chrome/Chromium mode.</p>
 
 <p>Mocha is a NodeJS-based open-source JavaScript testing framework;</p>
 <ul>
-  <li><p>It prioritizes core features and extensibility,</p></li>
-  <li><p>Mocha tests are executed sequentially, allowing for flexible and accurate 
-    reporting,</p></li>
-  <li><p>Mocha will map uncaught exceptions to the appropriate test cases,</p></li>
-  <li><p>Mocha allows you to write structured code to thoroughly test your applications,
-    categorizing them into test suites and test cases,</p></li>
+  <li>It prioritizes core features and extensibility,</li>
+  <li>Mocha tests are executed sequentially, allowing for flexible and accurate 
+    reporting,</li>
+  <li>Mocha will map uncaught exceptions to the appropriate test cases,</li>
+  <li>Mocha allows you to write structured code to thoroughly test your applications,
+    categorizing them into test suites and test cases,</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 311. more mocha testing framework (207) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5530,13 +5521,13 @@ can also be configured to run in full (non-headless) Chrome/Chromium mode.</p>
   style="width:400px;"/>
 
 <ul>
-  <li><p>Mapping errors to corresponding test cases enables us to generate a test 
-    report following the run,</p></li>
-  <li><p>Mocha supports a wide range of test interfaces, such as TSS, Exports, 
-    QUnit, and Require, and</p></li>
-  <li><p>The default interface is a BDD interface, which aims to assist developers in
+  <li>Mapping errors to corresponding test cases enables us to generate a test 
+    report following the run,</li>
+  <li>Mocha supports a wide range of test interfaces, such as TSS, Exports, 
+    QUnit, and Require, and</li>
+  <li>The default interface is a BDD interface, which aims to assist developers in
     creating predictable and resilient to-change software rather than 
-	error-prone software.</p></li>
+	error-prone software.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 312. features of mocha test framework (208) ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5546,15 +5537,15 @@ can also be configured to run in full (non-headless) Chrome/Chromium mode.</p>
   style="width:400px;"/>
 
 <ul>
-  <li><p>Mocha is a simple and adaptable framework that works with any assertion 
+  <li>Mocha is a simple and adaptable framework that works with any assertion 
     library. The most popular assertion libraries with Mocha are Chai, Sinon, 
-	Express.js, and Should.js,</p></li>
-  <li><p>Mocha provides the framework for running your tests, whether they are 
+	Express.js, and Should.js,</li>
+  <li>Mocha provides the framework for running your tests, whether they are 
     low-level Unit tests against back-end services or JavaScript functions or 
-	full-stack tests focused on component integration,</p></li>
-  <li><p>Mocha can be used to run any type of test within describe functions 
-    by including code and assertions to determine a pass or fail status,</p></li>
-  <li><p>Mocha will report the test as failed if an assertion fails,</p></li>
+	full-stack tests focused on component integration,</li>
+  <li>Mocha can be used to run any type of test within describe functions 
+    by including code and assertions to determine a pass or fail status,</li>
+  <li>Mocha will report the test as failed if an assertion fails,</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 313. more features of mocha test framework (209) ~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5564,11 +5555,11 @@ can also be configured to run in full (non-headless) Chrome/Chromium mode.</p>
   style="width:400px;"/>
 
 <ul>
-  <li><p>If a code throws an exception, it is marked as failed as well,</p></li>
-  <li><p>It will report a pass if everything runs smoothly and all assertions are
-    valid, and</p></li>
-  <li><p>Because of Node's asynchronous behavior, Mocha can also notify you if your 
-    tests run too long.</p></li>
+  <li>If a code throws an exception, it is marked as failed as well,</li>
+  <li>It will report a pass if everything runs smoothly and all assertions are
+    valid, and</li>
+  <li>Because of Node's asynchronous behavior, Mocha can also notify you if your 
+    tests run too long.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314. advantages of using mocha (209) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5580,12 +5571,12 @@ can also be configured to run in full (non-headless) Chrome/Chromium mode.</p>
 <p>Let's take a look at some of the advantages of using the Mocha testing framework:</p>
 
 <ul>
-  <li><p>It encourages Test Driven Development (TDD) and Behavior Driven Development 
-    (BDD),</p></li>
-  <li><p>It runs tests serially, and the results are always accurate,</p></li>
-  <li><p>It can be configured to run test cases in the web browser, and</p></li>
-  <li><p>It offers several ways to generate test reports and can even create custom
-    reports.</p></li>
+  <li>It encourages Test Driven Development (TDD) and Behavior Driven Development 
+    (BDD),</li>
+  <li>It runs tests serially, and the results are always accurate,</li>
+  <li>It can be configured to run test cases in the web browser, and</li>
+  <li>It offers several ways to generate test reports and can even create custom
+    reports.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 315. more advantages of using mocha (210) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5595,11 +5586,11 @@ can also be configured to run in full (non-headless) Chrome/Chromium mode.</p>
   style="width:400px;"/>
 
 <ul>
-  <li><p>It can be set up for either synchronous or asynchronous testing,</p></li>
-  <li><p>It includes a wide variety of plugins that can be used to extend your framework,</p></li>
-  <li><p>Following the test run, it highlights the slow-running tests,</p></li>
-  <li><p>It supports the retry failed tests feature, which allows you to configure 
-    re-running failed tests.</p></li>
+  <li>It can be set up for either synchronous or asynchronous testing,</li>
+  <li>It includes a wide variety of plugins that can be used to extend your framework,</li>
+  <li>Following the test run, it highlights the slow-running tests,</li>
+  <li>It supports the retry failed tests feature, which allows you to configure 
+    re-running failed tests.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 316. disadvantages of using mocha (211) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5610,12 +5601,12 @@ can also be configured to run in full (non-headless) Chrome/Chromium mode.</p>
 
 <p>The following are some of Mocha's drawbacks.</p>
 <ul>
-  <li><p>The developer must spend time configuring the Mocha framework,</p></li>
-  <li><p>Snapshot testing is not supported by default; you must rely on external 
-    libraries,</p></li>
-  <li><p>Despite having good documentation, the search feature is not user-friendly,</p></li>
-  <li><p>Since you need to integrate different frameworks for assertions, the test 
-    scripts can be confusing at times.</p></li>
+  <li>The developer must spend time configuring the Mocha framework,</li>
+  <li>Snapshot testing is not supported by default; you must rely on external 
+    libraries,</li>
+  <li>Despite having good documentation, the search feature is not user-friendly,</li>
+  <li>Since you need to integrate different frameworks for assertions, the test 
+    scripts can be confusing at times.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 317. more disadvantages of using mocha (211) ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5625,13 +5616,13 @@ can also be configured to run in full (non-headless) Chrome/Chromium mode.</p>
   style="width:400px;"/>
 
 <ul>
-  <li><p>Mocha is slow to release new features and support developer tools,</p></li>
-  <li><p>Mocha requires more configuration than other frameworks, making it less
-    flexible,</p></li>
-  <li><p>In the case of Mocha, if you cannot afford flexibility, you must explicitly 
-    select an assertion library, and</p></li>
-  <li><p>Mocha snapshot testing can be challenging. To do it correctly, you'll need 
-    to use the chai-jest-snapshot library.</p></li>
+  <li>Mocha is slow to release new features and support developer tools,</li>
+  <li>Mocha requires more configuration than other frameworks, making it less
+    flexible,</li>
+  <li>In the case of Mocha, if you cannot afford flexibility, you must explicitly 
+    select an assertion library, and</li>
+  <li>Mocha snapshot testing can be challenging. To do it correctly, you'll need 
+    to use the chai-jest-snapshot library.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 318. jasmine testing framework (212) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5644,13 +5635,13 @@ can also be configured to run in full (non-headless) Chrome/Chromium mode.</p>
 JavaScript application.</p>
 
 <ul>
-  <li><p>Jasmine uses the BDD procedure to ensure that each line of JavaScript code 
-    is unit tested. Instead of testing the entire application,</p></li>
-  <li><p>It offers a small syntax to test the smallest unit of the application,</p></li>
-  <li><p>It also includes utilities for running automated tests on both synchronous 
-    and asynchronous code,</p></li>
-  <li><p>Jasmine is tested in a variety of browsers, including Safari, Chrome, 
-    Firefox, and Microsoft Edge, as well as Node.</p></li>
+  <li>Jasmine uses the BDD procedure to ensure that each line of JavaScript code 
+    is unit tested. Instead of testing the entire application,</li>
+  <li>It offers a small syntax to test the smallest unit of the application,</li>
+  <li>It also includes utilities for running automated tests on both synchronous 
+    and asynchronous code,</li>
+  <li>Jasmine is tested in a variety of browsers, including Safari, Chrome, 
+    Firefox, and Microsoft Edge, as well as Node.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 319. jasmine features (213) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5661,10 +5652,10 @@ JavaScript application.</p>
 
 <p>Jasmine has many features, including:</p>
 <ul>
-  <li><p>It's fast, has low overhead, and has no external dependencies,</p></li>
-  <li><p>It's a batteries-included library with everything you need to test your code,</p></li>
-  <li><p>It is available for both Node and browser,</p></li>
-  <li><p>It is compatible with other languages, such as Python and Ruby,</p></li>
+  <li>It's fast, has low overhead, and has no external dependencies,</li>
+  <li>It's a batteries-included library with everything you need to test your code,</li>
+  <li>It is available for both Node and browser,</li>
+  <li>It is compatible with other languages, such as Python and Ruby,</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 320. more features of jasmine (213) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5674,9 +5665,9 @@ JavaScript application.</p>
   style="width:400px;"/>
 
 <ul>
-  <li><p>It does not require the DOM,</p></li>
-  <li><p>It has a clean and simple syntax as well as a rich and straightforward API, and</p></li>
-  <li><p>We can describe the tests and the expected results using natural language.</p></li>
+  <li>It does not require the DOM,</li>
+  <li>It has a clean and simple syntax as well as a rich and straightforward API, and</li>
+  <li>We can describe the tests and the expected results using natural language.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 321. advantages of using jasmine (214) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5688,10 +5679,10 @@ JavaScript application.</p>
 <p>The following are some of the advantages of using Jasmine:</p>
 
 <ul>
-  <li><p>It has lower overhead due to no external dependencies,</p></li>
-  <li><p>It proceeds with nearly every required tool by default,</p></li>
-  <li><p>It maintains front-end and back-end tests similarly,</p></li>
-  <li><p>The coding is pretty similar to writing in natural language,</p></li>
+  <li>It has lower overhead due to no external dependencies,</li>
+  <li>It proceeds with nearly every required tool by default,</li>
+  <li>It maintains front-end and back-end tests similarly,</li>
+  <li>The coding is pretty similar to writing in natural language,</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 322. more advantages of using jasmine (214) ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5702,9 +5693,9 @@ JavaScript application.</p>
   style="width:400px;"/>
 
 <ul>
-  <li><p>It provides wide documentation for use with a variety of frameworks,</p></li>
-  <li><p>It supports asynchronous testing, and</p></li>
-  <li><p>It marks the use of spies for applying test doubles.</p></li>
+  <li>It provides wide documentation for use with a variety of frameworks,</li>
+  <li>It supports asynchronous testing, and</li>
+  <li>It marks the use of spies for applying test doubles.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 323. disadvantages of using jasmine (215) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5716,8 +5707,8 @@ JavaScript application.</p>
 <p>Now, let's look at the main disadvantages of using Jasmine they are:</p>
 
 <ul>
-  <li><p>Asynchronous testing is difficult, and</p></li>
-  <li><p>All test files must have a specific suffix.</p></li>
+  <li>Asynchronous testing is difficult, and</li>
+  <li>All test files must have a specific suffix.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~ 324. comparison between jasmine and mocha testing tools, #1 (215) ~~~~~~~~~~~~~-->
@@ -5730,12 +5721,12 @@ JavaScript application.</p>
 let's compare them;</p>
 
 <ul>
-  <li><p>Jasmine includes an assertion library, whereas Mocha must be combined with 
-    other assertion libraries. Jasmine and Mocha both have command-line test runners,</p></li>
-  <li><p>For reporting, Jasmine creates karma-jasmine-html-reporter or 
+  <li>Jasmine includes an assertion library, whereas Mocha must be combined with 
+    other assertion libraries. Jasmine and Mocha both have command-line test runners,</li>
+  <li>For reporting, Jasmine creates karma-jasmine-html-reporter or 
     jasmine-pretty-html-reporter, whereas Mocha creates mocha-simple-html-reporter 
-	and mochawesome,</p></li>
-  <li><p>Jasmine and Mocha both have documentation and forum support,</p></li>
+	and mochawesome,</li>
+  <li>Jasmine and Mocha both have documentation and forum support,</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~ 325. comparison between jasmine and mocha testing tools, #2 (216) ~~~~~~~~~~~~~-->
@@ -5746,13 +5737,13 @@ let's compare them;</p>
 
 
 <ul>
-  <li><p>Jasmine does not include built-in support for rerunning a failed test, whereas 
-    Mocha does,</p></li>
-  <li><p>Slow tests can be highlighted in Jasmine using jasmine-slow-reporter, whereas 
-    Mocha has built-in support,</p></li>
-  <li><p>Asynchronous testing is challenging in Jasmine but simple in Mocha,</p></li>
-  <li><p>Jasmine and Mocha both support parallel execution, and</p></li>
-  <li><p>Jasmine's plug-in support and extensibility are limited, whereas Mocha's are good.</p></li>
+  <li>Jasmine does not include built-in support for rerunning a failed test, whereas 
+    Mocha does,</li>
+  <li>Slow tests can be highlighted in Jasmine using jasmine-slow-reporter, whereas 
+    Mocha has built-in support,</li>
+  <li>Asynchronous testing is challenging in Jasmine but simple in Mocha,</li>
+  <li>Jasmine and Mocha both support parallel execution, and</li>
+  <li>Jasmine's plug-in support and extensibility are limited, whereas Mocha's are good.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 326. ch4-27 recap on mocha vs jasmine (217) ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5764,18 +5755,18 @@ let's compare them;</p>
 <p>Recap (27), you learned that:</p>
 
 <ul>
-  <li><p>Mocha is a NodeJS-based open-source JavaScript testing framework,</p></li>
-  <li><p>It is compatible with assertion libraries like Chai, Sinon, Express.js, 
-    and Should.js,</p></li>
-  <li><p>It uses code and assertions to determine a pass or fail status,</p></li>
-  <li><p>Jasmine is an open-source JavaScript framework that can test any 
-    JavaScript application,</p></li>
-  <li><p>It is fast, has low overhead, has no external dependencies, and</p></li>
-  <li><p>Slow tests can be highlighted in Jasmine using jasmine-slow-reporter, 
-    whereas Mocha has it built-in.</p></li>
+  <li>Mocha is a NodeJS-based open-source JavaScript testing framework,</li>
+  <li>It is compatible with assertion libraries like Chai, Sinon, Express.js, 
+    and Should.js,</li>
+  <li>It uses code and assertions to determine a pass or fail status,</li>
+  <li>Jasmine is an open-source JavaScript framework that can test any 
+    JavaScript application,</li>
+  <li>It is fast, has low overhead, has no external dependencies, and</li>
+  <li>Slow tests can be highlighted in Jasmine using jasmine-slow-reporter, 
+    whereas Mocha has it built-in.</li>
 </ul>
 
-<h1 id="ch4-28">4-28. Using Jasmine</h1>
+<h2 id="ch4-28">4-28. Using Jasmine</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 327. ch4-28 using jasmine (218) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -5794,8 +5785,8 @@ let's compare them;</p>
 <p>After reading this module (28), you will be able to:</p>
 
 <ul>
-  <li><p>Define Jasmine and its fundamental concepts, and</p></li>
-  <li><p>Identify the steps to test code and React with Jasmine.</p></li>
+  <li>Define Jasmine and its fundamental concepts, and</li>
+  <li>Identify the steps to test code and React with Jasmine.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 329. jasmine is open-source javascript unit tester (219) ~~~~~~~~~~~~~~~~~~-->
@@ -5807,13 +5798,13 @@ let's compare them;</p>
 <p>What is Jasmine?</p>
 
 <ul>
-  <li><p>Jasmine is an open-source framework for unit testing JavaScript,</p></li>
-  <li><p>It is readily accessible in a variety of formats, including stand-alone, 
-    ruby gem, Node.js, and so on,</p></li>
-  <li><p>It is simple to set up and easy to write tests, JS Spec, Rspec, and Jspec 
-    have a significant impact on Jasmine,</p></li>
-  <li><p>It makes an attempt to describe tests in a human-readable format so that
-non-technical people understand what is being tested.</p></li>
+  <li>Jasmine is an open-source framework for unit testing JavaScript,</li>
+  <li>It is readily accessible in a variety of formats, including stand-alone, 
+    ruby gem, Node.js, and so on,</li>
+  <li>It is simple to set up and easy to write tests, JS Spec, Rspec, and Jspec 
+    have a significant impact on Jasmine,</li>
+  <li>It makes an attempt to describe tests in a human-readable format so that
+non-technical people understand what is being tested.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 330. jasmine suite is a collection of test cases (219) ~~~~~~~~~~~~~~~~~~~-->
@@ -5879,12 +5870,12 @@ represent.</p>
 
 <p>The steps to begin testing with Jasmine are as follow:</p>
 <ol type="1">
-  <li><p>Download Jasmine (standalone version),</p></li>
-  <li><p>Give Jasmine access to your code by manually downloading it or using a package 
-    manager,</p></li>
-  <li><p>Initialize Jasmine,</p></li>
-  <li><p>Create a spec (test) file, and</p></li>
-  <li><p>Make the source code available to your spec file.</p></li>
+  <li>Download Jasmine (standalone version),</li>
+  <li>Give Jasmine access to your code by manually downloading it or using a package 
+    manager,</li>
+  <li>Initialize Jasmine,</li>
+  <li>Create a spec (test) file, and</li>
+  <li>Make the source code available to your spec file.</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 334. testing react with jasmine (222) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5896,13 +5887,13 @@ represent.</p>
 <p>Let us now try to understand the steps for testing React with
 Jasmine.</p>
 <ol type="1">
-  <li><p>First, install and set up Jasmine,</p></li>
-  <li><p>Next, set up React with add-ons. Depending on your React version and 
+  <li>First, install and set up Jasmine,</li>
+  <li>Next, set up React with add-ons. Depending on your React version and 
     environment, you will either need to use a version of React that includes 
 	add-ons or the react-addons-test-utils npm package. In either case, the 
-	version of React that Jasmine runs must be included in the JS bundle,</p></li>
-  <li><p>The next step is to leverage Test Utils. ReactTestUtils makes it
-    simple to test React components in your preferred testing framework,</p></li>
+	version of React that Jasmine runs must be included in the JS bundle,</li>
+  <li>The next step is to leverage Test Utils. ReactTestUtils makes it
+    simple to test React components in your preferred testing framework,</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 335. more testing react with jasmine (223) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5912,12 +5903,12 @@ Jasmine.</p>
   style="width:400px;"/>
 
 <ol start="4">
-  <li><p>Then, in Jasmine, learn the structure of a React test. There is a specific 
+  <li>Then, in Jasmine, learn the structure of a React test. There is a specific 
     sequence of calls that must be made in order to render and test a full instance 
-	of your component.  Discover how to use new matchers and utilities,</p></li>
-  <li><p>Finally, as needed, add new React test utils methods and Jasmine matchers. 
+	of your component.  Discover how to use new matchers and utilities,</li>
+  <li>Finally, as needed, add new React test utils methods and Jasmine matchers. 
     You don't have to be familiar with every matcher and method in the React test
-	utilities.</p></li>
+	utilities.</li>
 </ol>
 
 <p>After you've mastered the basics of writing unit tests, you can move on to using 
@@ -5932,15 +5923,15 @@ with your components.</p>
 
 <p>Recap (28), you learned that:</p>
 <ul>
-  <li><p>Jasmine is an open-source framework for unit testing JavaScript.</p></li>
-  <li><p>It is accessible in a variety of formats, including stand-alone, ruby gem, 
-    and Node.js.</p></li>
-  <li><p>The fundamental concepts of Jasmine are suite, spec, matchers, expectations, 
-    describe functions, and spies, and</p></li>
-  <li><p>There are five steps to testing codes and React with Jasmine.</p></li>
+  <li>Jasmine is an open-source framework for unit testing JavaScript.</li>
+  <li>It is accessible in a variety of formats, including stand-alone, ruby gem, 
+    and Node.js.</li>
+  <li>The fundamental concepts of Jasmine are suite, spec, matchers, expectations, 
+    describe functions, and spies, and</li>
+  <li>There are five steps to testing codes and React with Jasmine.</li>
 </ul>
 
-<h1 id="ch4-29">4-29. Front-end Testing Best Practices</h1>
+<h2 id="ch4-29">4-29. Front-end Testing Best Practices</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 337. front-end testing best practice (224) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -5959,10 +5950,10 @@ with your components.</p>
 <p>After reading this module (29), you will be able to:</p>
 
 <ul>
-  <li><p>Define front-end testing and its advantages,</p></li>
-  <li><p>Identify what aspect of an application's front end should be tested, 
-    and</p></li>
-  <li><p>List some of the best front-end testing practices.</p></li>
+  <li>Define front-end testing and its advantages,</li>
+  <li>Identify what aspect of an application's front end should be tested, 
+    and</li>
+  <li>List some of the best front-end testing practices.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 339. what is front-end testing? (225) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5976,11 +5967,11 @@ with your components.</p>
 <p>The front end of a program is the client-side section.</p>
 
 <ul>
-  <li><p>Front-end testing is the process of testing the usability and functionality 
-    of an application's graphical user interface (GUI),</p></li>
-  <li><p>This usually includes validating menus, forms, buttons, and other application 
+  <li>Front-end testing is the process of testing the usability and functionality 
+    of an application's graphical user interface (GUI),</li>
+  <li>This usually includes validating menus, forms, buttons, and other application 
     elements visible to end users,</p>
-  <li><p>Every web application is built with a three-tier architecture; Clients, 
+  <li>Every web application is built with a three-tier architecture; Clients, 
     servers, and information systems or resources are all included.</p>
 </ul>
 
@@ -5997,14 +5988,14 @@ with your components.</p>
 testing;</p>
 
 <ul>
-  <li><p>First, an app should provide accurate interaction. It should be
+  <li>First, an app should provide accurate interaction. It should be
 fast and error-free, regardless of the device or browser used. Front-end
 testers perform the test using a variety of devices and browsers. They
-declare an app error-free only if it meets all the testing criteria.</p></li>
-  <li><p>Next, your HTML code must adhere to certain standards, and your website
+declare an app error-free only if it meets all the testing criteria.</li>
+  <li>Next, your HTML code must adhere to certain standards, and your website
 should be accessible to all users, particularly those with disabilities.
 Accessibility testing is a required component of front-end testing and
-must be completed prior to the deployment of a website.</p></li>
+must be completed prior to the deployment of a website.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 341. advantages of front-end testing, cont'd (227) ~~~~~~~~~~~~~~~~~~~~~-->
@@ -6015,14 +6006,14 @@ must be completed prior to the deployment of a website.</p></li>
   style="width:400px;"/>
 
 <ul>
-  <li><p>With the widespread use of interconnected versions of an app on
+  <li>With the widespread use of interconnected versions of an app on
 different devices such as a smartwatch, smartphone, and smart TV,
 front-end testing helps ensure consistent behavior of the app across the
-multitier architecture.</p></li>
-  <li><p>Front-end tests also protect your app from regression. There may be times when 
+multitier architecture.</li>
+  <li>Front-end tests also protect your app from regression. There may be times when 
 you write code to deploy large or complex features, but it crashes another part of 
 the application that you were unaware of. Front-end testing ensures that the code 
-is consistent and that the front-end functionality is intact.</p></li>
+is consistent and that the front-end functionality is intact.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 342. more advantages of front-end testing (227) ~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6032,12 +6023,12 @@ is consistent and that the front-end functionality is intact.</p></li>
   style="width:400px;"/>
 
 <ul>
-  <li><p>Next, if a bug is discovered, whether by your team or by users, you
+  <li>Next, if a bug is discovered, whether by your team or by users, you
 need to fix it and prevent its recurrence unexpectedly by adding an
-additional test suite through front-end testing.</p></li>
-  <li><p>Finally, a thorough explanation of the test's functionality is necessary when 
+additional test suite through front-end testing.</li>
+  <li>Finally, a thorough explanation of the test's functionality is necessary when 
 writing tests.  Front-end testing helps in keeping well-maintained tests which is
-beneficial as they serve as live documentation.</p></li>
+beneficial as they serve as live documentation.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 343. what should be tested in f-e testing? (228) ~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6050,14 +6041,14 @@ beneficial as they serve as live documentation.</p></li>
 <p>Let us now try to understand which aspects of an application's front
 end you need to focus on while performing front-end testing;</p>
 <ul>
-  <li><p>When testing cross-browser and cross-platform functionality, you should look
+  <li>When testing cross-browser and cross-platform functionality, you should look
     at your app's features and its responsiveness across different browsers,
-	platforms, and devices.</p></li>
-  <li><p>Accessibility checks help you determine whether everyone, including those with 
-    visual or auditory impairments, can use the application.</p></li>
-  <li><p>End-to-end checks are required for checking and confirming the application's 
+	platforms, and devices.</li>
+  <li>Accessibility checks help you determine whether everyone, including those with 
+    visual or auditory impairments, can use the application.</li>
+  <li>End-to-end checks are required for checking and confirming the application's 
     back-end to front-end workflow by simulating real-world actions that users are 
-	likely to take.</p></li>
+	likely to take.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 344. additional tests (229) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6067,14 +6058,14 @@ end you need to focus on while performing front-end testing;</p>
   style="width:400px;" >
 
 <ul>
-  <li><p>Image analysis testing is performed to determine where you can
+  <li>Image analysis testing is performed to determine where you can
 optimize the images to help the app run faster. Most websites and apps
 these days have a large number of images, which significantly increases
-the size of the application.</p></li>
-  <li><p>CSS testing ensures the performance of two
+the size of the application.</li>
+  <li>CSS testing ensures the performance of two
 important CSS elements: syntax and display. While syntax is more of a
 developer's day-to-day responsibility, displayed views must be tested
-for regression after changes to specific parts of the app.</p></li>
+for regression after changes to specific parts of the app.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 345. best practices of front-end testing (229) ~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6087,13 +6078,13 @@ for regression after changes to specific parts of the app.</p></li>
 <p>These include:</p>
 
 <ul>
-  <li><p>Focusing on front-end elements,</p></li>
-  <li><p>Using actual browsers and devices,</p></li>
-  <li><p>Performing deterministic tests,</p></li>
-  <li><p>Striving for coverage and not 100% code coverage,</p></li>
-  <li><p>Encouraging shorter and more readable unit tests,</p></li>
-  <li><p>Keeping tests independent, and</p></li>
-  <li><p>Testing a variety of input parameters.</p></li>
+  <li>Focusing on front-end elements,</li>
+  <li>Using actual browsers and devices,</li>
+  <li>Performing deterministic tests,</li>
+  <li>Striving for coverage and not 100% code coverage,</li>
+  <li>Encouraging shorter and more readable unit tests,</li>
+  <li>Keeping tests independent, and</li>
+  <li>Testing a variety of input parameters.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 346. best practices of front-end testing (230) ~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6104,14 +6095,14 @@ for regression after changes to specific parts of the app.</p></li>
 
 <p>Let us now discuss each in detail.</p>
 <ul>
-  <li><p>Focusing on front-end elements Front-end testing involves examining and validating hundreds or
+  <li>Focusing on front-end elements Front-end testing involves examining and validating hundreds or
 thousands of UI and functional elements. Before moving on to graphics
 and pop-ups, it's a good idea to test the page load speed, basic text,
-images, and essential functions.</p></li>
-  <li><p>Using actual browsers and devices Use
+images, and essential functions.</li>
+  <li>Using actual browsers and devices Use
 real browsers and devices instead of emulators and simulators to save
 time and money and enhance the reliability of your software testing
-results.</p></li>
+results.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 347. best practices of front-end testing, cont'd (231) ~~~~~~~~~~~~~~~~~~~-->
@@ -6121,16 +6112,16 @@ results.</p></li>
   style="width:400px;"/>
 
 <ul>
-  <li><p>Performing deterministic tests Deterministic tests are the ones that
+  <li>Performing deterministic tests Deterministic tests are the ones that
 can be repeated. They produce the same results every time a specific
 code is executed. A non-deterministic test passes and fails randomly.
 Non-deterministic tests can be handled in a variety of ways, including
-polling, fake timers, and mocks.</p></li>
-  <li><p>Striving for coverage and not 100% code
+polling, fake timers, and mocks.</li>
+  <li>Striving for coverage and not 100% code
 coverage In theory, complete test coverage sounds like a great idea.
 However, it doesn't work in practice. A high level of test coverage
 provides a false sense of security. Good tests are simple to maintain
-and provide you with the confidence to make changes to your code.</p></li>
+and provide you with the confidence to make changes to your code.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 348. more best practices of front-end testing, cont'd (231) ~~~~~~~~~~~~~~~~-->
@@ -6141,18 +6132,18 @@ and provide you with the confidence to make changes to your code.</p></li>
   style="width:400px;"/>
 
 <ul>
-  <li><p>Encouraging shorter and more readable unit tests. A unit test should
+  <li>Encouraging shorter and more readable unit tests. A unit test should
 only test a single unit of code. If there is only one reason for the
 test to fail, less time is spent determining the root cause of the
-test’s failure.</p></li>
-  <li><p>Keeping tests independent the outcome of one test should
+test’s failure.</li>
+  <li>Keeping tests independent the outcome of one test should
 have no impact on the results of any other tests. Sharing state or mock
 instances between tests may result in brittle or "flaky" tests that pass
-incorrectly.</p></li>
-  <li><p>Testing a variety of input parameters Tests should validate
+incorrectly.</li>
+  <li>Testing a variety of input parameters Tests should validate
 all possible code paths through the code under test. You must be
 confident that the deployed code can handle the full range of inputs
-that a user may enter.</p></li>
+that a user may enter.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 349. common front-end testing tools (232) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6165,12 +6156,12 @@ that a user may enter.</p></li>
 difficult to decide which one to use. For your convenience, here is a
 list of some of the best and most widely used front-end testing tools:</p>
 <ul>
-  <li><p>Jest,</p></li>
-  <li><p>Selenium WebDriver,</p></li>
-  <li><p>Cypress,</p></li>
-  <li><p>WebDriverIO,</p></li>
-  <li><p>WebDriverJS, and</p></li>
-  <li><p>Jasmine.</p></li>
+  <li>Jest,</li>
+  <li>Selenium WebDriver,</li>
+  <li>Cypress,</li>
+  <li>WebDriverIO,</li>
+  <li>WebDriverJS, and</li>
+  <li>Jasmine.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 350. recap (29) front-end testing (233) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6182,15 +6173,15 @@ list of some of the best and most widely used front-end testing tools:</p>
 <p>Recap (29), you learned that:</p>
 
 <ul>
-  <li><p>Front-end testing is the process of testing the usability and functionality 
-    of an application's GUI,</p></li>
-  <li><p>It validates menus, forms, buttons, and other app elements visible to users,</p></li>
-  <li><p>It provides accurate interactions, offers accessibility, ensures consistent 
-    behavior and others,</p></li>
-  <li><p>There are certain aspects of an application's front end that need to be 
-    focused on while performing front-end testing, and</p></li>
-  <li><p>Front-end testing tools ensure proper functionality of critical elements 
-    of a web page.</p></li>
+  <li>Front-end testing is the process of testing the usability and functionality 
+    of an application's GUI,</li>
+  <li>It validates menus, forms, buttons, and other app elements visible to users,</li>
+  <li>It provides accurate interactions, offers accessibility, ensures consistent 
+    behavior and others,</li>
+  <li>There are certain aspects of an application's front end that need to be 
+    focused on while performing front-end testing, and</li>
+  <li>Front-end testing tools ensure proper functionality of critical elements 
+    of a web page.</li>
 </ul>
 
 <h1>Hands-on Lab: Testing a React Application using Jasmine</h1>
@@ -6217,31 +6208,31 @@ ID.</p>
 <p>Recap (29), you learned that:</p>
 
 <ul>
-  <li><p>Web optimization makes a website appealing to search engines and 
-    users.</p></li>
-  <li><p>JavaScript produces highly interactive websites that actively engage 
-    the user.</p></li>
-  <li><p>A testing framework is a set of rules or guidelines to develop and 
-    design test cases.</p></li>
-  <li><p>Testing frameworks helps make the project agile, fixes bugs, and helps 
-    achieve code integrity and optimization.</p></li>
-  <li><p>Mocha is a NodeJS-based open-source JavaScript testing framework that is 
-    compatible with various assertion libraries.</p></li>
-  <li><p>Jasmine is an open-source JavaScript framework that can test any 
-    JavaScript application.</p></li>
-  <li><p>Jasmine is accessible in a variety of formats, including stand-alone, ruby 
-    gem, and Node.js.</p></li>
-  <li><p>Front-end testing is the process of testing the usability and functionality 
-    of an application's GUI.</p></li>
-  <li><p>Front-end testing tools ensure proper functionality of the critical elements 
-    of a web page.</p></li>
+  <li>Web optimization makes a website appealing to search engines and 
+    users.</li>
+  <li>JavaScript produces highly interactive websites that actively engage 
+    the user.</li>
+  <li>A testing framework is a set of rules or guidelines to develop and 
+    design test cases.</li>
+  <li>Testing frameworks helps make the project agile, fixes bugs, and helps 
+    achieve code integrity and optimization.</li>
+  <li>Mocha is a NodeJS-based open-source JavaScript testing framework that is 
+    compatible with various assertion libraries.</li>
+  <li>Jasmine is an open-source JavaScript framework that can test any 
+    JavaScript application.</li>
+  <li>Jasmine is accessible in a variety of formats, including stand-alone, ruby 
+    gem, and Node.js.</li>
+  <li>Front-end testing is the process of testing the usability and functionality 
+    of an application's GUI.</li>
+  <li>Front-end testing tools ensure proper functionality of the critical elements 
+    of a web page.</li>
 </ul>
 
 <!-- # [Week 5:]{.mark} -->
 
 <h1 id="ch5">WEEK 5</h1>
 
-<h1 id="ch5-30">5-30. JavaScript Debugging</h1>
+<h2 id="ch5-30">5-30. JavaScript Debugging</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 351. module 30. javascript debuggins (235) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -6260,10 +6251,10 @@ ID.</p>
 <p>After reading this module (30), you will be able to:</p>
 
 <ul>
-  <li><p>Describe debugging,</p></li>
-  <li><p>Describe the process of debugging JavaScript,</p></li>
-  <li><p>Explain the benefits of debugging, and</p></li>
-  <li><p>Identify some common JavaScript bugs.</p></li>
+  <li>Describe debugging,</li>
+  <li>Describe the process of debugging JavaScript,</li>
+  <li>Explain the benefits of debugging, and</li>
+  <li>Identify some common JavaScript bugs.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 353. intro to bugs and debugging (236) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6318,10 +6309,10 @@ Nevertheless, identifying and fixing bugs can be done by following a few
 steps. These are:</p>
 
 <ul>
-  <li><p>Attempting to replicate the bug,</p></li>
-  <li><p>Hypothesis testing,</p></li>
-  <li><p>Increasing the number of logging-of statements, and</p></li>
-  <li><p>Adjusting test scenarios and trying again.</p></li>
+  <li>Attempting to replicate the bug,</li>
+  <li>Hypothesis testing,</li>
+  <li>Increasing the number of logging-of statements, and</li>
+  <li>Adjusting test scenarios and trying again.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 357. attempt to replicate bug and hypothesis testing (238) ~~~~~~~~~~~~~~~~~-->
@@ -6383,13 +6374,13 @@ by including printouts in your code.</p>
 
 <p>Debugging offers various benefits.</p>
 <ul>
-  <li><p>It immediately reports an error condition. As a result, the error is found 
-    early, ensuring the software development process is less stressful,</p></li>
-  <li><p>It provides critical information about data structures and facilitates 
-    interpretation,</p></li>
-  <li><p>It helps the developer reduce unnecessary and distracting information,</p></li>
-  <li><p>It allows the developer to avoid writing complex one-time testing codes, 
-    saving time and energy required for software development.</p></li>
+  <li>It immediately reports an error condition. As a result, the error is found 
+    early, ensuring the software development process is less stressful,</li>
+  <li>It provides critical information about data structures and facilitates 
+    interpretation,</li>
+  <li>It helps the developer reduce unnecessary and distracting information,</li>
+  <li>It allows the developer to avoid writing complex one-time testing codes, 
+    saving time and energy required for software development.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 361. javascript bugs: causes (242) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6458,13 +6449,13 @@ inside a function. Its usage is by function.</p>
 <p>Recap (30), you learned about:</p>
 
 <ul>
-  <li><p>Debugging is an essential part of the software development process,</p></li>
-  <li><p>A few steps are used to recognize and fix bugs,</p></li>
-  <li><p>Debugging has many benefits, and</p></li>
-  <li><p>You can encounter JavaScript bugs in your code due to some factors.</p></li>
+  <li>Debugging is an essential part of the software development process,</li>
+  <li>A few steps are used to recognize and fix bugs,</li>
+  <li>Debugging has many benefits, and</li>
+  <li>You can encounter JavaScript bugs in your code due to some factors.</li>
 </ul>
 
-<h1 id="ch5-31">5-31. Basic Debugging Concepts</h1>
+<h2 id="ch5-31">5-31. Basic Debugging Concepts</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 366. module 31. basic debugging concepts (245) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -6483,8 +6474,8 @@ inside a function. Its usage is by function.</p>
 <p>After reading this module (31), you will be able to:</p>
 
 <ul>
-  <li><p>Describe debugging strategies,</p></li>
-  <li><p>Identify the types of bugs, and</p></li>
+  <li>Describe debugging strategies,</li>
+  <li>Identify the types of bugs, and</li>
   <li>Explain the terminologies used in debugging.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6602,10 +6593,10 @@ even after meticulous planning and defensive programming. There are
 different types of errors that one may experience.</p>
 <p>These are:</p>
 <ul>
-  <li><p>Type errors,</p></li>
-  <li><p>Minor errors,</p></li>
-  <li><p>Implementation errors, and</p></li>
-  <li><p>Conceptual errors.</p></li>
+  <li>Type errors,</li>
+  <li>Minor errors,</li>
+  <li>Implementation errors, and</li>
+  <li>Conceptual errors.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 376. types of bugs; type errors and minor errors (251) ~~~~~~~~~~~~~~~~~~-->
@@ -6709,12 +6700,12 @@ line, and so on.</p>
 
 <p>Recap (31), you learned about:</p>
 <ul>
-  <li><p>Debugging strategies used to localize an error,</p></li>
-  <li><p>Types of errors that one can experience while programming, and</p></li>
-  <li><p>Important debugging terminologies.</p></li>
+  <li>Debugging strategies used to localize an error,</li>
+  <li>Types of errors that one can experience while programming, and</li>
+  <li>Important debugging terminologies.</li>
 </ul>
 
-<h1 id="ch5-32">5-32. Introduction to Debugging Tools</h1>
+<h2 id="ch5-32">5-32. Introduction to Debugging Tools</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 383. module 32. introduction to debugging tools (256) ~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -6733,9 +6724,9 @@ line, and so on.</p>
 <p>After reading this module (32), you will be able to:</p>
 
 <ul>
-  <li><p>Explain web development tools,</p></li>
-  <li><p>Describe debugging tools, and</p></li>
-  <li><p>Identify a few common debugging tools.</p></li>
+  <li>Explain web development tools,</li>
+  <li>Describe debugging tools, and</li>
+  <li>Identify a few common debugging tools.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 385. introduction to web development tools (257) ~~~~~~~~~~~~~~~~~~~~~-->
@@ -6752,10 +6743,10 @@ potential issues with CSS, HTML, and JavaScript used in the code.</p>
 <p>In this module, we will</p>
 
 <ul>
-  <li><p>Discuss some browser debugging tools which can help you not only 
-    debug and analyze your code but also inspect HTTP headers,</p></li>
-  <li><p>Gain access to other FTP source files, and</p></li>
-  <li><p>Assess a web page's accessibility.</p></li>
+  <li>Discuss some browser debugging tools which can help you not only 
+    debug and analyze your code but also inspect HTTP headers,</li>
+  <li>Gain access to other FTP source files, and</li>
+  <li>Assess a web page's accessibility.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 386. what a debugging tools does (258) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6907,13 +6898,13 @@ features that IDE’s debuggers provide.</p>
 <p>Recap (32), you learned that:</p>
 
 <ul>
-  <li><p>Browsers are equipped with a variety of web development tools referred to as 
-    add-ons or extensions,</p></li>
-  <li><p>Debugging tool is a software program that enables you to debug a program, and</p></li>
-  <li><p>There are some common debugging tools used by developers.</p></li>
+  <li>Browsers are equipped with a variety of web development tools referred to as 
+    add-ons or extensions,</li>
+  <li>Debugging tool is a software program that enables you to debug a program, and</li>
+  <li>There are some common debugging tools used by developers.</li>
 </ul>
 
-<h1 id="ch5-33">5-33. Troubleshooting with Chrome DevTools</h1>
+<h2 id="ch5-33">5-33. Troubleshooting with Chrome DevTools</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 398. mod 33. troubleshooting with chrome devtools (265) ~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -6932,8 +6923,8 @@ features that IDE’s debuggers provide.</p>
 <p>After reading this module (33), you will be able to:</p>
 
 <ul>
-  <li><p>Describe Chrome DevTools and its various panels, and</p></li>
-  <li><p>Determine how to access some of the panels' features.</p></li>
+  <li>Describe Chrome DevTools and its various panels, and</li>
+  <li>Determine how to access some of the panels' features.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 400. chrome devtools; how to use it (266) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6979,11 +6970,11 @@ what each panel oversees.</p>
 <p>Let's first try to understand how to access Chrome DevTools. To
 access Chrome DevTools:</p>
 <ul>
-  <li><p>Right-click on any website and select "inspect."</p></li>
-  <li><p>The DevTools will open the Elements panel and highlight the selected DOM
-    element.</p></li>
-  <li><p>To open the console panel, use the keyboard shortcut CMD + Option + J on Mac 
-    or CTRL + SHIFT + J on Windows.</p></li>
+  <li>Right-click on any website and select "inspect."</li>
+  <li>The DevTools will open the Elements panel and highlight the selected DOM
+    element.</li>
+  <li>To open the console panel, use the keyboard shortcut CMD + Option + J on Mac 
+    or CTRL + SHIFT + J on Windows.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 403. how to access elements panel (268) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6996,9 +6987,9 @@ access Chrome DevTools:</p>
 <p>To access the elements panel:</p>
 
 <ul>
-  <li><p>Right-click any element on the page and select "inspect",</p></li>
-  <li><p>Click on the elements panel inside Chrome DevTools,</p></li>
-  <li><p>That element should now be highlighted in the DOM tree.</p></li>
+  <li>Right-click any element on the page and select "inspect",</li>
+  <li>Click on the elements panel inside Chrome DevTools,</li>
+  <li>That element should now be highlighted in the DOM tree.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 404. how to access elements panel, pg 2 (268) ~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7009,9 +7000,9 @@ access Chrome DevTools:</p>
 
 <p>To select another element on the page:</p>
 <ul>
-  <li><p>Hover over an element on the page, and</p></li>
-  <li><p>Click once on the highlighted area that corresponds to the element you 
-    want to inspect.</p></li>
+  <li>Hover over an element on the page, and</li>
+  <li>Click once on the highlighted area that corresponds to the element you 
+    want to inspect.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 405. editing html (267) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7072,10 +7063,10 @@ the actual code of your live website is not altered.</p>
 <p>Let's now understand the process of setting a breakpoint in your codes.</p>
 <p>To create a breakpoint:</p>
 <ul>
-  <li><p>Click on the side of the file near the line number,</p></li>
-  <li><p>Run the code that will trigger the breakpoint, </p></li>
-  <li><p>The highlighted line of code indicates that the code has paused execution 
-    on that line.</p></li>
+  <li>Click on the side of the file near the line number,</li>
+  <li>Run the code that will trigger the breakpoint, </li>
+  <li>The highlighted line of code indicates that the code has paused execution 
+    on that line.</li>
 </ul>
 
 <p>So, at this point, you can inspect specific data in the code
@@ -7151,7 +7142,7 @@ changing the screen size of a webpage.</p>
 
 <p>To access that option:</p>
 <ul>
-  <li><p>First, toggle on the Inspect mode.</p></li>
+  <li>First, toggle on the Inspect mode.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 416. monitoring resources; assess overall performance (273) ~~~~~~~~~~~~~~~~~-->
@@ -7161,9 +7152,9 @@ changing the screen size of a webpage.</p>
   style="width:400px;"/>
 
 <ul>
-  <li><p>Next, select Responsive from the drop-down menu in the top-left corner of 
-    the DevTools.</p></li>
-  <li><p>Lastly, choose your preferred mobile device.</p></li>
+  <li>Next, select Responsive from the drop-down menu in the top-left corner of 
+    the DevTools.</li>
+  <li>Lastly, choose your preferred mobile device.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 417. monitoring resources; assess overall performance (273) ~~~~~~~~~~~~~~~~~-->
@@ -7178,9 +7169,9 @@ DevTools includes a feature that allows you to assess your website's
 overall performance based on specific parameters.<p>
 <p>To use that feature, follow these steps:</p>
 <ul>
-  <li><p>In the DevTools window, select the Lighthouse option,</p></li>
-  <li><p>Next, choose the parameters you want to test. Select either Mobile or 
-    Desktop to see how your website performs on different platforms.</p></li>
+  <li>In the DevTools window, select the Lighthouse option,</li>
+  <li>Next, choose the parameters you want to test. Select either Mobile or 
+    Desktop to see how your website performs on different platforms.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 418. 5-33. recap; monitoring resources (274) ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7192,21 +7183,21 @@ overall performance based on specific parameters.<p>
 <p>Recap (33), you learned that:</p>
 
 <ul>
-  <li><p>DevTools allows developers to edit code directly in the browser,
+  <li>DevTools allows developers to edit code directly in the browser,
     add breakpoints to detect issues, and debug their code more
-	quickly.,</p></li>
-  <li><p>The elements panel is used to examine and modify DOM nodes and style 
-    attributes,</p></li>
-  <li><p>The elements panel is used to edit HTML and CSS,</p></li>
-  <li><p>Setting breakpoints is essential for debugging as it provides 
-    valuable insights into how the app works,</p></li>
-  <li><p>The console.log function can be used to output something to the
-    console, and</p></li>
-  <li><p>Chrome DevTools helps switch between different mobile screen
-    types and versions in addition to changing the screen size of a webpage.</p></li>
+	quickly.,</li>
+  <li>The elements panel is used to examine and modify DOM nodes and style 
+    attributes,</li>
+  <li>The elements panel is used to edit HTML and CSS,</li>
+  <li>Setting breakpoints is essential for debugging as it provides 
+    valuable insights into how the app works,</li>
+  <li>The console.log function can be used to output something to the
+    console, and</li>
+  <li>Chrome DevTools helps switch between different mobile screen
+    types and versions in addition to changing the screen size of a webpage.</li>
 </ul>
 
-<h1 id="ch5-34">5-34. Monitoring your Website</h1>
+<h2 id="ch5-34">5-34. Monitoring your Website</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 419. 5-34. monitoring your website (275) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7225,10 +7216,10 @@ overall performance based on specific parameters.<p>
 <p>After reading this module (34), you will be able to:</p>
 
 <ul>
-  <li><p>Explain website monitoring and its advantages,</p></li>
-  <li><p>Describe automated website monitoring,</p></li>
-  <li><p>Discuss the types of website monitoring, and</p></li>
-  <li><p>Define popular website monitoring metrics.</p></li>
+  <li>Explain website monitoring and its advantages,</li>
+  <li>Describe automated website monitoring,</li>
+  <li>Discuss the types of website monitoring, and</li>
+  <li>Define popular website monitoring metrics.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 421. introduction to website monitoring (276) ~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7240,13 +7231,13 @@ overall performance based on specific parameters.<p>
 <p>Website monitoring;</p>
 
 <ul>
-  <li><p>Implies evaluating a website or web service for functionality, performance, 
-    or availability,</p></li>
-  <li><p>Website monitoring service ensures that the website is operational and that 
-    users are able to access and interact with it as intended,</p></li>
-  <li><p>Continuous monitoring helps organizations prevent downtime, and</p></li>
-  <li><p>Proactively respond to potential errors that could have a negative 
-    impact.</p></li>
+  <li>Implies evaluating a website or web service for functionality, performance, 
+    or availability,</li>
+  <li>Website monitoring service ensures that the website is operational and that 
+    users are able to access and interact with it as intended,</li>
+  <li>Continuous monitoring helps organizations prevent downtime, and</li>
+  <li>Proactively respond to potential errors that could have a negative 
+    impact.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 422. advantages of website monitoring (276) ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7258,21 +7249,21 @@ overall performance based on specific parameters.<p>
 <p>One of the main advantages of monitoring websites is:</p>
 
 <ul>
-  <li><p>Increased website uptime,</p></li>
-  <li><p>Regular monitoring makes it easier to identify and fix
+  <li>Increased website uptime,</li>
+  <li>Regular monitoring makes it easier to identify and fix
     issues like server issues, network outages, and software bugs that 
-	could bring down the website,</p></li>
-  <li><p>Website monitoring helps minimize downtime by quickly identifying 
-    the problems and taking appropriate action,</p></li>
-  <li><p>Website monitoring can also help optimize website performance by 
-    identifying and addressing performance issues at the earliest,</p></li>
-  <li><p>Quickly and accurately diagnosing problems in real time helps 
-    websites run efficiently and quickly,</p></li>
-  <li><p>Downtime and slow-loading pages can result in lost sales and 
+	could bring down the website,</li>
+  <li>Website monitoring helps minimize downtime by quickly identifying 
+    the problems and taking appropriate action,</li>
+  <li>Website monitoring can also help optimize website performance by 
+    identifying and addressing performance issues at the earliest,</li>
+  <li>Quickly and accurately diagnosing problems in real time helps 
+    websites run efficiently and quickly,</li>
+  <li>Downtime and slow-loading pages can result in lost sales and 
     revenue. Monitoring helps send alerts when your search, forms, or logins
-	go wrong, and</p></li>
-  <li><p>Website monitoring helps prevent these issues and keeps revenue 
-    flowing.</p></li>
+	go wrong, and</li>
+  <li>Website monitoring helps prevent these issues and keeps revenue 
+    flowing.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~ 423. methods of website monitoring; automated and real-user (277) ~~~~~~~~~~~~~-->
@@ -7295,13 +7286,13 @@ real user monitoring.</p>
 of a web application by;</p>
 
 <ul>
-  <li><p>Simulating real user interactions with it,</p></li>
-  <li><p>A network of computers situated close to the site's end users is used for 
-    automated website monitoring,</p></li>
-  <li><p>This checkpoint network communicates with a website or service to 
-    confirm that it performs as intended, and</p></li>
-  <li><p>The checkpoint performs various steps to complete the process 
-    of web monitoring.</p></li>
+  <li>Simulating real user interactions with it,</li>
+  <li>A network of computers situated close to the site's end users is used for 
+    automated website monitoring,</li>
+  <li>This checkpoint network communicates with a website or service to 
+    confirm that it performs as intended, and</li>
+  <li>The checkpoint performs various steps to complete the process 
+    of web monitoring.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ 425. automated monitoring; steps performed by checkpoint (278) ~~~~~~~~~~~~~~~-->
@@ -7333,16 +7324,16 @@ application, mimicking the user's interaction with the site.</p>
 the data on the website's performance and availability and stores it in
 a database for analysis.</p>
 <ul>
-  <li><p>The load time of each element of the page is recorded when the browser 
-    loads the page. This is called performance monitoring.</p></li>
-  <li><p>After performance monitoring is completed, web application monitoring is 
+  <li>The load time of each element of the page is recorded when the browser 
+    loads the page. This is called performance monitoring.</li>
+  <li>After performance monitoring is completed, web application monitoring is 
     performed. It implies tracking various performance metrics and user behaviors 
 	of a web application in real-time. The checkpoint attempts to sign in, carry out 
 	a search, use a shopping cart, or even finish a transaction while performing 
-	web application monitoring.</p></li>
-  <li><p>Finally, the checkpoint reports its findings to the monitoring service
+	web application monitoring.</li>
+  <li>Finally, the checkpoint reports its findings to the monitoring service
     and uses the information to resolve any issues and improve the website's
-	performance and availability.</p></li>
+	performance and availability.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 427. real user monitoring; real user monitoring (rum) (280) ~~~~~~~~~~~~~~~~-->
@@ -7370,9 +7361,9 @@ site.</p>
 picture" of the website’s performance.  These include:</p>
 
 <ul>
-  <li><p>Availability monitoring,</p></li>
-  <li><p>Performance monitoring, and</p></li>
-  <li><p>Functionality monitoring.</p></li>
+  <li>Availability monitoring,</li>
+  <li>Performance monitoring, and</li>
+  <li>Functionality monitoring.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 429. types of monitoring; availability monitoring (283) ~~~~~~~~~~~~~~~~~~-->
@@ -7474,19 +7465,19 @@ second. It is also referred to as “Throughput” or “Average Load.”</p>
 
 <p>Recap (34), you learned about:</p>
 <ul>
-  <li><p>Website monitoring and its advantages,</p></li>
-  <li><p>The two methods of website monitoring,</p></li>
-  <li><p>The steps to complete the process of automated website monitoring,</p></li>
-  <li><p>The three types of website monitoring:</p>
+  <li>Website monitoring and its advantages,</li>
+  <li>The two methods of website monitoring,</li>
+  <li>The steps to complete the process of automated website monitoring,</li>
+  <li>The three types of website monitoring:</p>
     <ul>
-      <li><p>availability monitoring,</p></li>
-      <li><p>performance monitoring,</p></li>
-      <li><p>functionality monitoring,</p></li>
+      <li>availability monitoring,</li>
+      <li>performance monitoring,</li>
+      <li>functionality monitoring,</li>
     </ul></li>
-  <li><p>Some popular website monitoring metrics.</p></li>
+  <li>Some popular website monitoring metrics.</li>
 </ul>
 
-<h1 id="ch5-35">5-35. Popular Monitoring Tools</h1>
+<h2 id="ch5-35">5-35. Popular Monitoring Tools</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 437. 5-35. popular monitoring tools (289) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7506,8 +7497,8 @@ second. It is also referred to as “Throughput” or “Average Load.”</p>
 <p>After reading this module (35), you will be able to:</p>
 
 <ul>
-  <li><p>Describe how to select a website monitoring tool, and</p></li>
-  <li><p>Identify some of the most popular monitoring tools.</p>
+  <li>Describe how to select a website monitoring tool, and</li>
+  <li>Identify some of the most popular monitoring tools.</p>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~ 439. monitoring tools for effectiveness, problem resolution and performance (290) ~~~~~-->
@@ -7533,14 +7524,14 @@ monitoring solutions to complex web performance monitoring solutions.</p>
 monitoring tool. These include:</p>
 
 <ul>
-  <li><p>Live performance monitoring capability,</p></li>
-  <li><p>Monitoring of full stack, including supporting services,</p></li>
-  <li><p>Monitoring of uptime,</p></li>
-  <li><p>Administrating the web server,</p></li>
-  <li><p>Monitoring the page load time,</p></li>
-  <li><p>Providing a free trial or demo that allows for an evaluation prior to the purchase, and</p></li>
-  <li><p>Additional capabilities for monitoring other assets, such as physical servers and network 
-    devices.</p></li>
+  <li>Live performance monitoring capability,</li>
+  <li>Monitoring of full stack, including supporting services,</li>
+  <li>Monitoring of uptime,</li>
+  <li>Administrating the web server,</li>
+  <li>Monitoring the page load time,</li>
+  <li>Providing a free trial or demo that allows for an evaluation prior to the purchase, and</li>
+  <li>Additional capabilities for monitoring other assets, such as physical servers and network 
+    devices.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 441. popular monitoring tools (291) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7553,13 +7544,13 @@ monitoring tool. These include:</p>
 <p>Let’s now explore some of the most popular monitoring tools. They
 include:</p>
 <ul>
-  <li><p>Pingdom,</p></li>
-  <li><p>Uptime Robot,</p></li>
-  <li><p>Datadog Synthetics,</p></li>
-  <li><p>Site24x7,</p></li>
-  <li><p>Uptrends,</p></li>
-  <li><p>Uptimia, and</p></li>
-  <li><p>New Relic.</p></li>
+  <li>Pingdom,</li>
+  <li>Uptime Robot,</li>
+  <li>Datadog Synthetics,</li>
+  <li>Site24x7,</li>
+  <li>Uptrends,</li>
+  <li>Uptimia, and</li>
+  <li>New Relic.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 442. pingdom - paid uptime monitoring service (292) ~~~~~~~~~~~~~~~~~~~~-->
@@ -7712,10 +7703,10 @@ tools for monitoring, analytics, and optimization. Key features
 include:</p>
 
 <ul>
-  <li><p>Telemetry data with AI insights that transcend the traditional website 
-    performance monitor,</p></li>
-  <li><p>Full-stack observability, and</p></li>
-  <li><p>Applied intelligence with quick incident response.</p></li>
+  <li>Telemetry data with AI insights that transcend the traditional website 
+    performance monitor,</li>
+  <li>Full-stack observability, and</li>
+  <li>Applied intelligence with quick incident response.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~ 453. recap module 35 - monitoring tools &amp; tests, api endpoints, more (298) ~~~~~~~-->
@@ -7727,17 +7718,17 @@ include:</p>
 <p>Recap (35), you learned that:</p>
 
 <ul>
-  <li><p>Monitoring tools run regular tests and send notifications when a 
-    website is down, making identifying and resolving problems easier,</p></li>
-  <li><p>Some monitoring tools provide these features:</p></li>
-  <li><p>Monitoring service that sends detailed alerts whenever an application 
-    or website goes down,</p></li>
-  <li><p>Running synthetic checks on websites and APIs every few minutes from 
-    various locations worldwide,</p></li>
-  <li><p>Allows the monitoring of API endpoints proactively and sends alerts 
-    based on predefined parameters, and</p></li>
-  <li><p>Allows developers to create effective software by providing a diverse 
-    set of tools.</p></li>
+  <li>Monitoring tools run regular tests and send notifications when a 
+    website is down, making identifying and resolving problems easier,</li>
+  <li>Some monitoring tools provide these features:</li>
+  <li>Monitoring service that sends detailed alerts whenever an application 
+    or website goes down,</li>
+  <li>Running synthetic checks on websites and APIs every few minutes from 
+    various locations worldwide,</li>
+  <li>Allows the monitoring of API endpoints proactively and sends alerts 
+    based on predefined parameters, and</li>
+  <li>Allows developers to create effective software by providing a diverse 
+    set of tools.</li>
 </ul>
 
 <h2>Hands on Lab: Troubleshooting Common Errors with Chrome Dev Tools</h2>
@@ -7763,35 +7754,35 @@ Common Errors with Chrome Dev Tools, to enhance your learning
 experience. The app will reference basic information like your name,
 email, and Coursera ID.</p>
 
-<h1>Week 5 Summary: Debugging and Troubleshooting</h1>
+<h2>Week 5 Summary: Debugging and Troubleshooting</h1>
 
 <p>Recap (week 5), you learned that:</p>
 
 <ul>
-  <li><p>Debugging is an integral part of the software development process that 
-    involves identifying the cause based on the symptoms,</p></li>
-  <li><p>Debugging begins when the software code is written and has numerous 
-    advantages,</p></li>
-  <li><p>Browsers include various web development tools known as add-ons or 
-    extensions,</p></li>
-  <li><p>A debugging tool is software that allows you to debug a program,</p></li>
-  <li><p>Chrome DevTools enables developers to edit code directly in the browser, 
-    add breakpoints to detect problems, and quickly debug their code,</p></li>
-  <li><p>It also allows you to switch between different mobile screen types 
-    and versions and change the size of a webpage's screen,</p></li>
-  <li><p>Website monitoring assesses a web service's functionality, performance, 
-    and availability,</p></li>
-  <li><p>Monitoring tools perform regular tests and send alerts when a website 
-    is unavailable, making identifying and resolving issues easier, and</p></li>
-  <li><p>By providing various tools, monitoring tools enable developers to create 
-    compelling software.</p></li>
+  <li>Debugging is an integral part of the software development process that 
+    involves identifying the cause based on the symptoms,</li>
+  <li>Debugging begins when the software code is written and has numerous 
+    advantages,</li>
+  <li>Browsers include various web development tools known as add-ons or 
+    extensions,</li>
+  <li>A debugging tool is software that allows you to debug a program,</li>
+  <li>Chrome DevTools enables developers to edit code directly in the browser, 
+    add breakpoints to detect problems, and quickly debug their code,</li>
+  <li>It also allows you to switch between different mobile screen types 
+    and versions and change the size of a webpage's screen,</li>
+  <li>Website monitoring assesses a web service's functionality, performance, 
+    and availability,</li>
+  <li>Monitoring tools perform regular tests and send alerts when a website 
+    is unavailable, making identifying and resolving issues easier, and</li>
+  <li>By providing various tools, monitoring tools enable developers to create 
+    compelling software.</li>
 </ul>
 
 <!-- # [Week 6:]{.mark} -->
 
-<h1 id="ch6">WEEK 6</h1>
+<h2 id="ch6">WEEK 6</h1>
 
-<h1 id="ch6-36">6-36. Interest Rate Calculator</h1>
+<h2 id="ch6-36">6-36. Interest Rate Calculator</h2>
 
 <p>Welcome to the hands-on lab for <strong>Interest Rate Calculator</strong>.</p>
 
@@ -7815,7 +7806,7 @@ target="_blank" rel="noopener noreferrer">link</a>.</p>
 Calculator, to enhance your learning experience. The app will reference
 basic information like your name, email, and Coursera ID.</p>
 
-<h1>Peer-graded Assignment: Final Submission and Evaluation</h1>
+<h2>Peer-graded Assignment: Final Submission and Evaluation</h2>
 
 <p>There are 10 points for nine tasks in this final project. Your peers
 who will grade your final assignment are also completing this assignment
@@ -7848,29 +7839,29 @@ drag and drop the file icon onto the window.</em></p>
 <h2>Review criteria</h2>
 
 <ol type="1">
-  <li><p>Show favicon working, upload a screenshot of your browser tab and
+  <li>Show favicon working, upload a screenshot of your browser tab and
     save it as 01-favicon-visible as a .png file or a .jpg file (see
-	instructions above on how to take a screenshot.) (1 pt)</p></li>
-  <li><p>Show missing CSS referenced correctly, once added to the html, upload a 
+	instructions above on how to take a screenshot.) (1 pt)</li>
+  <li>Show missing CSS referenced correctly, once added to the html, upload a 
     screenshot of the output showing CSS working; by means of correct colors and 
-	layout and save it as 02-css-working. (1 pt)</p></li>
-  <li><p>Show how missing JavaScript reference error displayed in Chrome 
+	layout and save it as 02-css-working. (1 pt)</li>
+  <li>Show how missing JavaScript reference error displayed in Chrome 
     DevTools and upload a screenshot of the same and save it as 
-	03-calculate-missing. (1 pt)</p></li>
-  <li><p>Show how to use Chrome DevTools’ debugging capability, show how you 
-    “pause on exceptions” and save it as 04-pause-on-exception. (1 pt)</p></li>
-  <li><p>Show “Watch” on a variable in your code, upload a screenshot showing `p` 
-    added in Watch and save it as 05-watch-on-p. (1 pt)</p></li>
-  <li><p>Show Jasmine is initialized and will work, show in terminal "no spec found,"
-    upload a screenshot of it and save it as 06-no-spec. (1 pt)</p></li>
-  <li><p>Introduce two unit tests as instructed, show both of them pass in Jasmine; 
+	03-calculate-missing. (1 pt)</li>
+  <li>Show how to use Chrome DevTools’ debugging capability, show how you 
+    “pause on exceptions” and save it as 04-pause-on-exception. (1 pt)</li>
+  <li>Show “Watch” on a variable in your code, upload a screenshot showing `p` 
+    added in Watch and save it as 05-watch-on-p. (1 pt)</li>
+  <li>Show Jasmine is initialized and will work, show in terminal "no spec found,"
+    upload a screenshot of it and save it as 06-no-spec. (1 pt)</li>
+  <li>Introduce two unit tests as instructed, show both of them pass in Jasmine; 
     upload a screenshot of Jasmine output and save it as 07-both-tests-passed. 
-	(1 pt)</p></li>
-  <li><p>Show Webpack is generating the expected output in your “dist” directory, 
+	(1 pt)</li>
+  <li>Show Webpack is generating the expected output in your “dist” directory, 
     upload a screenshot of it from Cloud IDE and save it as 08-dist-directory. 
-	(1 pt)</p></li>
-  <li><p>Show achieving the goal state, upload a screenshot of your final solution 
-    along with source, and save it as 09-final-output. (2 pts)</p></li>
+	(1 pt)</li>
+  <li>Show achieving the goal state, upload a screenshot of your final solution 
+    along with source, and save it as 09-final-output. (2 pts)</li>
 </ol>
 
 </body>
