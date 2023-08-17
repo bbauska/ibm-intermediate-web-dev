@@ -68,10 +68,26 @@ p {
   background-color: #555;
 }
 
-  ul, ol > li {
+ul, ol {
+  display: block;
+  line-height: 1.2em;
+  background-color: yellow;
+  padding-left: 2.4em;
+  margin-bottom: 10px;
+}
+
+  ul > li { 
     display: block;
-    line-height: 1.4em;
-    padding-left: 60px;
+    padding-left: 2.4em;
+    line-height: 1.5em;
+    background-color: #35eb93;
+  }
+  ol > li {
+    display: block;
+    padding-left: 2.4em;
+    background-color: white;
+    line-height: 1.5em;
+    padding-bottom: 5px;
   }
 
   pre {
