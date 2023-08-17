@@ -69,28 +69,23 @@ p {
 }
 
 ul, ol {
-  display: block;
   line-height: 1.2em;
   background-color: yellow;
-  padding-left: 2.4em;
+  padding-left: 4.4em;
   margin-bottom: 10px;
 }
 
   ul > li { 
-    display: block;
-    padding-left: 2.4em;
+    padding-left: 0.5em;
     line-height: 1.5em;
     background-color: #35eb93;
   }
   ol > li {
-    display: block;
-    padding-left: 2.4em;
+    padding-left: 0.5em;
     background-color: white;
     line-height: 1.5em;
     padding-bottom: 5px;
-  }
-
-  pre {
+  }  pre {
     overflow: auto;
     font-family: Consolas, monospace, monospace;
     font-size: 10px;
