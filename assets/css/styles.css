@@ -14,6 +14,10 @@
     border: solid 5px; blue;
     float: right;
   }
+  .twofer {
+    text-align: center;
+    border: 1px; solid 666;
+  }
 
   p {
     font-size: 13.5px;
