@@ -72,23 +72,24 @@ ul, ol {
   display: block;
   line-height: 1.2em;
 /*  background-color: yellow; */
-  padding-left: 4.4em;
-  margin-bottom: 10px;
+  padding-left: 3.0em;
+  margin-bottom: 5px;
 }
   ul > li { 
     padding-left: 0.5em;
-    line-height: 1.5em;
+    line-height: 1.2em;
 /*    background-color: #35eb93; */
   }
   ol > li {
-    padding-left: 0.5em;
+    padding-left: 1.0em;
 /*    background-color: white; */
-    line-height: 1.5em;
+    line-height: 1.2em;
     padding-bottom: 5px;
   }
 ul > li > ol > li {
-    padding-left: 0.5em;
-    line-height: 1.5em;
+    padding-left: 3.0em;
+    line-height: 1.2em;
+    margin-bottom: 5px;
 }
 pre {
     overflow: auto;
