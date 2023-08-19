@@ -1,6 +1,14 @@
-  img.displayed {
+.flex-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+    .displayed {
     display: block;
     margin: 0 auto; }
+
   .border {
     border-width: 1px;
     border-color: #778899;
