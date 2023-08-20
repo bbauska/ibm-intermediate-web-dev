@@ -16,18 +16,11 @@
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 400px) {
   .column {
     width: 100%;
   }
 }
-.flex-container {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  flex-wrap: wrap;
-}
-
     .displayed {
     display: block;
     margin: 0 auto; }
@@ -36,18 +29,6 @@
     border-width: 1px;
     border-color: #778899;
     border-style: solid; 
-  }
-  .left {
-    border: solid 5px green;
-    float: left;
-  }
-  .right {
-    border: solid 5px; blue;
-    float: right;
-  }
-  .twofer {
-    text-align: center;
-    border: 1px; solid 666;
   }
 
   p {
