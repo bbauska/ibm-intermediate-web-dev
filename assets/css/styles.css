@@ -111,7 +111,7 @@ section {
 ul ol {
   display: block;
   line-height: 1.2em;
-  padding-left: 10px;  /* 2rem; */
+  padding-left: 30px;  /* 2rem; */
   padding-bottom: 5px;
   }
 ul ol, li { 
