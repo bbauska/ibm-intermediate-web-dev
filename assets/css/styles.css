@@ -7,7 +7,10 @@
   width: 33.33%;
   padding: 5px;
 }
-
+section {
+  display: flex;
+  justify-content: center;
+}
 /* Clearfix (clear floats) */
 .row::after {
   content: "";
