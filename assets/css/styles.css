@@ -1,5 +1,16 @@
+/* https://github.com/bbauska/ibm-intermediate-web-dev/edit/main/assets/css/styles.css */
 * {
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
   box-sizing: border-box;
+}
+body {
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
+  font-size: 13.5px;  /* 1.2rem; */
+  background-color: #32cd32;  /* eee = very light gray */
+  color: #000000;  /* foreground - black */
+  text-align: left;
+  padding: 10px;
+  margin-left: 10px;
 }
 
 .column {
@@ -24,7 +35,7 @@ section {
     width: 100%;
   }
 }
-    .displayed {
+  .displayed {
     display: block;
     margin: 0 auto; }
 
@@ -102,44 +113,42 @@ ul, ol {
   line-height: 1.2em;
   padding-left: 3.0em;
   margin-bottom: 5px;
-}
+  }
 ul,ol > li { 
-  padding-left: 1.0em;  /* 0.5em */
+  padding-left: 3.0em;  /* 0.5em */
   line-height: 1.2em;
   padding-bottom: 5px;
   }
+
 pre {
   overflow: auto;
   font-family: Consolas, monospace, monospace;
   font-size: 10px;
   margin-left: 10px;
-}
-
+  }
 pre > code {
   display: block;
   margin-left: 10px;
   padding: 1rem;
   word-wrap: normal;
-}
+  }
+
 a {
   text-decoration: none;
-}
+  }
 a.hover {
   color: yellow;
   text-decoration: underline;
-}
-
+  }
 a.hover:hover {
   color: yellow;
   text-decoration: underline;
+
 }
 div {
   float: left; 
 }
 
-* {
-  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
-}
 h1 { 
   font-size: 21px;
   text-align: left;
@@ -164,12 +173,3 @@ h6 {
 }
 background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
 
-body {
-  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
-  font-size: 13.5px;  /* 1.2rem; */
-  background-color: #32cd32;  /* eee = very light gray */
-  color: #000000;  /* foreground - black */
-  text-align: left;
-  padding: 10px;
-  margin-left: 10px;
-}
