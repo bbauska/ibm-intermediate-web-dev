@@ -299,20 +299,16 @@ valuable to the person or organization who owns the website.</p>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~ 08. proprietary and open-source cms software (08) ~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 09. more examples of proprietary and open-source cms (08) ~~~~~~~~~~~~~~~~~~-->
-<section>
-<div class="row">
-  <div class="column">
+<div id="wrapper">
+<figure>
     <img src="./assets/images/image008.webp"
       alt="Examples of proprietary and open-source CMS software."
       style="width:200px">
-  </div>
-  <div class="column">
     <img src="./assets/images/image009.webp"
       alt="More examples of proprietary and open-source CMS software."
       style="width:200px">
-  </div>	
+</figure>
 </div>
-</section>
 
 <p>There is both proprietary and open-source CMS software.</p>
 <p>Some examples are WordPress, Drupal, Joomla, Magento, Squarespace, Wix, and 
@@ -476,20 +472,16 @@ essential characteristics of WCMS.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 18. characteristics of a wcms, pt 1 (14) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 19. characteristics of a wcms, pt 2 (14) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<section>
-<div class="row">
-  <div class="column">
+<div id="wrapper">
+<figure>
     <img src="./assets/images/image018.webp"
       alt="A WCMS enables a user to accomplish the following tasks, pt 1." 
       style="width:200px">
-  </div>
-  <div class="column">
     <img src="./assets/images/image019.webp"
       alt="A WCMS enables a user to accomplish the following tasks, pt 2." 
       style="width:200px">
-  </div>	
+</figure>
 </div>
-</section>
 
 <p>A WCMS enables a user to accomplish specific tasks. Some of these include:</p>
 
@@ -504,20 +496,16 @@ essential characteristics of WCMS.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 20. additional characteristics of a wcms, pt 1 (15) ~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 21. additional characteristics of a wcms, pt 2 (15) ~~~~~~~~~~~~~~~~~~~~-->
-<section>
-<div class="row">
-  <div class="column">
+<div id="wrapper">
+<figure>
     <img src="./assets/images/image020.webp"
       alt="WCMS enables a user to accomplish the following additional tasks, pt 1."
       style="width:150px">
-  </div>
-  <div class="column">
     <img src="./assets/images/image021.webp"
       alt="WCMS enables a user to accomplish the following additional tasks, pt 2." 
       style="width:150px">
-  </div>	
+</figure>
 </div>
-</section>
 
 <p>Here are the additional tasks that a WCMS enables a user to accomplish:</p>
 
@@ -3351,7 +3339,15 @@ spent in delivering quality products and services.</p>
   style="width:400px;"/>
 
 <p>Now, we will explore some popular web build tools and bundlers. These
-include: Grunt, Gulp, Browserify, Webpack, npm, and RequireJS.</p>
+include:</p>
+<ul>
+  <li>Grunt,</li>
+  <li>Gulp,</li>
+  <li>Browserify,</li>
+  <li>Webpack,</li>
+  <li>npm, and</li>
+  <li>RequireJS.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 175. popular web build tools and bundlers, pg 2 (119) ~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -3984,7 +3980,12 @@ in the production mode, tries its best to optimize the build by automatically
 minifying the code.</p>
 <p>Some of the best production practices to improve a website’s performance 
 include:<br>
-Minifying CSS, Webpack source maps, File hashing, and Cleanup of old assets.</p>
+<ul>
+  <li>Minifying CSS,</li>
+  <li>Webpack source maps,</li>
+  <li>File hashing, and</li>
+  <li>Cleanup of old assets.</li>
+</ul>
 <p>Let’s discuss each of these practices in detail.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 220. minifying css (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3993,11 +3994,15 @@ Minifying CSS, Webpack source maps, File hashing, and Cleanup of old assets.</p>
   alt="Minifying CSS in production to improve load time."
   style="width:400px;"/>
 
-<p>Minifying CSS means to remove unnecessary characters, such as comments, 
+<p><b><i>Minifying CSS</i></b> means to remove unnecessary characters, such as comments, 
 whitespaces, and indentation. Minifying your assets in production is a good practice 
 as it can drastically improve the website’s load time. Here are the steps to minify 
-CSS: Add another plugin to help Webpack minify your CSS files. Open your command line.
-Run npm install optimize-css-assets-Webpack-plugin. Finally, save dev.</p>
+CSS:<br>
+<ul>
+  <li>Add another plugin to help Webpack minify your CSS files,</li>
+  <li>Open your command line, run $ npm install optimize-css-assets-Webpack-plugin, finally,</li>
+  <li>Save dev.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 221. source maps (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -4005,10 +4010,10 @@ Run npm install optimize-css-assets-Webpack-plugin. Finally, save dev.</p>
   alt="Source maps."
   style="width:400px;"/>
 
-<p>Source maps are generated alongside built files, which are minified already. These 
-maps let you trace back the minified code to its original location and help in 
-debugging the code live. Webpack has built-in support for source map generation 
-via the devtool property.</p>
+<p><b><i>Webpack source maps</i></b> are generated alongside built files, which are 
+minified already. These maps let you trace back the minified code to its original 
+location and help in debugging the code live. Webpack has built-in support for source 
+map generation via the devtool property.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 222. file hashing (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -4017,7 +4022,7 @@ via the devtool property.</p>
   style="width:400px;"/>
 
 <p>Files essentially consist of data chunks. This data is changed via hashing into a 
-key or value that is much shorter and fixed in length. It is called file hashing. It 
+key or value that is much shorter and fixed in length. It is called <b><i>file hashing</i></b>. It 
 is important as it allows making changes in a file even after the website is published. 
 Adding hashing or content hashing is known as long-term caching, as the files could be 
 cached forever.</p>
@@ -4028,11 +4033,15 @@ cached forever.</p>
   alt="Cleanup of old assets."
   style="width:400px;"/>
 
-<p>One of the best practices related to production is to install a plugin to create a 
-build folder and to clean that folder every time it runs. This is done to avoid the 
-minification of all the files in the public folder. To install a cleanup plugin, 
-follow these steps: Install a plugin. Open your command line and run npm install
-clean-Webpack-plugin. Finally, save dev.</p>
+<p><b><i>File cleaning</i></b> is one of the best practices related to production.  It involves 
+installing a plugin to create a build folder and to clean that folder every time 
+it runs. This is done to avoid the minification of all the files in the public folder.<br>
+To install a cleanup plugin, follow these steps:<br>
+<ul>
+  <li>Install a plugin,</li>
+  <li>Open your command line and run $ npm install clean-Webpack-plugin, and finally,</li>
+  <li>Save dev.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 224. recap (19): using webpack tools (148) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
