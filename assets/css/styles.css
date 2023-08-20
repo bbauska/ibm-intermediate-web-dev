@@ -178,3 +178,21 @@ h6 {
 }
 background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
 
+.image-row {
+    text-align: center;
+}
+.image-box {
+    width: 20%;
+    padding: 1%;
+    margin: .5%;
+    background: pink;
+    display: inline-block;
+    font-size: 0; /* fixes bottom padding */
+}
+.image-box img {
+    max-width: 100%;
+}
+
+#wrapper {
+  text-align: center;
+}
