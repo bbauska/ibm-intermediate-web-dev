@@ -119,7 +119,7 @@ ul ol, li {
   line-height: 1.2em;
   padding-bottom: 5px;
   }
-ul ol, li, li { 
+ul ol, li li { 
   padding-left: 10px;  /* 0.5em */
   line-height: 1.2em;
   padding-bottom: 5px;
