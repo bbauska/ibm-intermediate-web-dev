@@ -196,3 +196,8 @@ background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93
 #wrapper {
   text-align: center;
 }
+.center-image {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
