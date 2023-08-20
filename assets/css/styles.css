@@ -46,7 +46,7 @@ section {
   }
 
   p {
-    font-size: 13.5px;
+    font-size: 15px;
     font-family: Bahnschrift;
     margin-left: 30px;
   }
@@ -111,11 +111,16 @@ section {
 ul ol {
   display: block;
   line-height: 1.2em;
-  padding-left: 2rem;
-  margin-bottom: 5px;
+  padding-left: 10px;  /* 2rem; */
+  padding-bottom: 5px;
   }
-ul ol > li { 
-  padding-left: 2rem;  /* 0.5em */
+ul ol, li { 
+  padding-left: 10px;  /* 0.5em */
+  line-height: 1.2em;
+  padding-bottom: 5px;
+  }
+ul ol, li, li { 
+  padding-left: 10px;  /* 0.5em */
   line-height: 1.2em;
   padding-bottom: 5px;
   }
