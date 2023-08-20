@@ -111,11 +111,11 @@ section {
 ul, ol {
   display: block;
   line-height: 1.2em;
-  padding-left: 3.0em;
+  padding-left: 2rem;
   margin-bottom: 5px;
   }
 ul,ol > li { 
-  padding-left: 3.0em;  /* 0.5em */
+  padding-left: 2rem;  /* 0.5em */
   line-height: 1.2em;
   padding-bottom: 5px;
   }
