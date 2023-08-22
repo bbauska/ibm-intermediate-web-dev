@@ -91,25 +91,8 @@ body {
 #myBtn:hover {
   background-color: #555;
 }
-
-ul ol {
-  display: block;
-  line-height: 1.2em;
-/*  padding-left: 30px;  /* 2rem; */
-  padding-bottom: 5px;
-  }
-ul ol, li { 
-/*  padding-left: 10px;  /* 0.5em */
-  margin-left: 15px;
-  line-height: 1.2em;
-  padding-bottom: 5px;
-  }
-ul ol, li li { 
-/*  padding-left: 10px;  /* 0.5em */
-  margin-left: 15px;
-  line-height: 1.2em;
-  padding-bottom: 5px;
-  }
+ul, ol li {margin-left: 0; padding-left:0; }
+ul, ol {margin-left: 1.3em;}
 
 pre {
   overflow: auto;
