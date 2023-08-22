@@ -91,7 +91,7 @@ body {
 #myBtn:hover {
   background-color: #555;
 }
-ul, ol li {margin-left: 0; padding-left:0; }
+ul, ol li {margin-left: 1.3em; padding-left:0; }
 ul, ol {margin-left: 1.3em;}
 
 pre {
