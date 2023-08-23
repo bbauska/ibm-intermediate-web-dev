@@ -91,8 +91,8 @@ body {
 #myBtn:hover {
   background-color: #555;
 }
-ul, ol li {margin-left: 1.3em; padding-left:0; }
-ul, ol {margin-left: 1.3em;}
+ul, ol li {margin-left: 30px; padding-left:0; }
+ul, ol {margin-left: 15px;}
 
 pre {
   overflow: auto;
