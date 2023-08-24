@@ -92,7 +92,7 @@ body {
   background-color: #555;
 }
 ul, ol li {margin-left: 30px; padding-left:0; }
-ul, ol {margin-left: 15px;}
+ul, ol {margin-left: 30px; padding-left:0; }
 
 pre {
   overflow: auto;
