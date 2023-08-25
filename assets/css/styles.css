@@ -25,7 +25,7 @@ body {
     margin: 0 auto; }
 
   .border {
-    border-width: 1px;
+    border-width: 10px;
     border-color: #778899;
     border-style: solid; 
   }
