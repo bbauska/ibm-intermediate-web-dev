@@ -17,6 +17,7 @@ body {
 @media screen and (max-width: 400px) {
   .column {
     width: 100%;
+    background-color: #32cd32;
   }
 }
   .displayed {
