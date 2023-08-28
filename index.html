@@ -37,17 +37,6 @@ body {
   }
 }
 
-.column {
-  float: left;
-  width: 25%;
-<!--  width: 33.33%; -->
-  padding: 5px;
-}
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 figure {
   margin-top: 0;
 }
@@ -320,16 +309,6 @@ valuable to the person or organization who owns the website.</p>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~ 08. proprietary and open-source cms software (06) ~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 09. more examples of proprietary and open-source cms (06) ~~~~~~~~~~~~~~~~~~-->
-<figure>
-  <img src="./assets/images/image008.webp" alt="Examples of proprietary and open-source cms software." />
-  <figcaption></figcaption>
-</figure>
-<figure>
-  <img src="./assets/images/image009.webp"
-  alt="More examples of proprietary and open-source CMS software." />
-  <figcaption></figcaption>
-</figure>
-<br><br><br><br>
 <div class="row">
   <div class="column">
     <img src="./assets/images/image008.webp"
@@ -544,7 +523,7 @@ essential characteristics of WCMS.</p>
     alt="WCMS enables a user to accomplish the following additional tasks, pt 2." />
   </div>  <!-- class="column" -->
 </div>  <!-- class="row" -->
-
+<br><br>
 <!-- style="width:35%"/> -->
 
 <p>Here are the additional tasks that a WCMS enables a user to accomplish:</p>
@@ -3788,14 +3767,18 @@ throughout the application. See example (above).</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 191. output (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 192. output, cont'd (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-    <img class="displayed"
-	src="./assets/images/image191.webp"
-      alt="Next concept: Output."
-      style="width:45%">
-    <img class="displayed"
-	  src="./assets/images/image192.webp"
-      alt="2nd Concept: Output: Example."
-      style="width:45%">
+<div class="row">
+  <div class="column">
+    <img src="./assets/images/image191.webp"
+	  style="width:100%"
+      alt="Next concept: Output." />
+  </div>
+  <div class="column">
+    <img src="./assets/images/image192.webp"
+	  style="width:100%"
+      alt="2nd Concept: Output: Example." />
+  </div>  <!-- class="column" -->
+</div>  <!-- class="row" -->
 
 <p>The second concept is Output. The static and JavaScript files produced by the build 
 process are gathered in Output. The default output folder for Webpack is webpack dist/. 
