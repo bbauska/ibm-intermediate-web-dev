@@ -152,3 +152,21 @@ background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93
   margin: 0 auto;
   text-align: center;
 }
+.row {
+  display: flex;
+}
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+figure {
+  margin-top: 0;
+}
+figcaption {
+  text-align: center;
+}
+.picme {
+  column-count: 2;
+}
