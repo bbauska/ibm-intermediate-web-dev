@@ -36,6 +36,18 @@ body {
     background-color: #e3fae5;  /* light grayish lime green - phones */
   }
 }
+
+.column {
+  float: left;
+  width: 25%;
+<!--  width: 33.33%; -->
+  padding: 5px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 </style>
 </head>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
