@@ -13,10 +13,6 @@ body {
   margin-left: 10px;
 }
 
-.imgContainer{
-    float:left;
-}
-
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 400px) {
   .column {
@@ -152,28 +148,7 @@ h6 {
 }
 background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
 
-.image-row {
-    text-align: center;
-}
-.image-box {
-    width: 20%;
-    padding: 1%;
-    margin: .5%;
-    background: pink;
-    display: inline-block;
-    font-size: 0; /* fixes bottom padding */
-}
-.image-box img {
-    max-width: 100%;
-}
-
-#wrapper {
+.wrapper {
+  margin: 0 auto;
   text-align: center;
 }
-.center-image {
-  display: grid;
-  justify-items: center;
-  align-items: center;
-}
-
-
