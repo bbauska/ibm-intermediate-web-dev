@@ -167,6 +167,13 @@ figure {
 figcaption {
   text-align: center;
 }
-.picme {
-  column-count: 2;
+
+img.logo
+{
+display:inline-block;
+margin-left:auto;
+margin-right:auto;
+width:400px;
+height:312px;
 }
+#twoimages{text-align:center;}
