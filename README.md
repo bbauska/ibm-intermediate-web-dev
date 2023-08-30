@@ -252,7 +252,7 @@ There are three common types of content management systems:
     web documents and materials.
   - A Digital Asset Management System (DAMS) focuses on the customer experience
     (CX). It enables the correct delivery of content to the users and centralizes
-    assets, content, workflows, and operations. And an
+    assets, content, workflows, and operations. And,
   - Enterprise Content Management System (ECMS) collects, stores, delivers, and
     manages unstructured data, enables delivery of the correct content to targeted
     audiences, and archives files after a set time.
