@@ -244,17 +244,18 @@ and makes it visible to website visitors.
 </p>
 <!-- {width="5.0in" height="2.7841885389326335in"} -->
 
-There are three common types of content management systems. A Web
-Content Management System (WCMS) controls the content on many digital
-channels. It also manages and handles HTML documents and associated
-images. A WCMS enables developers to maintain an extensive collection of
-web documents and materials. A Digital Asset Management System (DAMS)
-focuses on the customer experience (CX). It enables the correct delivery
-of content to the users and centralizes assets, content, workflows, and
-operations. And an Enterprise Content Management System (ECMS) collects,
-stores, delivers, and manages unstructured data, enables delivery of the
-correct content to targeted audiences, and archives files after a set
-time.
+There are three common types of content management systems:
+
+  - A Web Content Management System (WCMS) controls the content on many digital
+    channels. It also manages and handles HTML documents and associated
+    images. A WCMS enables developers to maintain an extensive collection of
+    web documents and materials.
+  - A Digital Asset Management System (DAMS) focuses on the customer experience
+    (CX). It enables the correct delivery of content to the users and centralizes
+    assets, content, workflows, and operations. And an
+  - Enterprise Content Management System (ECMS) collects, stores, delivers, and
+    manages unstructured data, enables delivery of the correct content to targeted
+    audiences, and archives files after a set time.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
