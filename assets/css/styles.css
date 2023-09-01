@@ -4,9 +4,9 @@
   box-sizing: border-box;
 }
 body {
+  background-color: #e8f4f8;  /* light grayish cyan - wide pc */
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   font-size: 15px;  /* 1.2rem; */
-  background-color: #32cd32;  /* eee = very light gray */
   color: #000000;  /* foreground - black */
   text-align: left;
   padding: 10px;
@@ -19,21 +19,16 @@ body {
 
   .border {
     border-width: 10px;
-    border-color: #778899;
+    border-color: #778899;  /* dark grayish blue */
     border-style: solid; 
   }
 
-  p {
-    font-size: 15px;
-    font-family: Bahnschrift;
-    margin-left: 30px;
-  }
   /* margin: 1em 0 1em 1.7em; */
   blockquote {
     margin: .5em 0 .5em .85em;
     padding-left: 1em;
-    border-left: 2px solid #e6e6e6;
-    color: #606060;
+    border-left: 2px solid #e6e6e6;  /* very light gray */
+    color: #606060;  /* very dark gray */
   }
   hr {
     background-color: #1a1a1a;
@@ -55,11 +50,11 @@ body {
   }
   tbody {
     margin-top: 0.5em;
-    border-top: 1px solid #1a1a1a;
-    border-bottom: 1px solid #1a1a1a;
+    border-top: 1px solid #1a1a1a;  /* very dark gray (mostly black) */
+    border-bottom: 1px solid #1a1a1a;  /* very dark gray (mostly black) */
   }
   th {
-    border-top: 1px solid #1a1a1a;
+    border-top: 1px solid #1a1a1a;  /* very dark gray (mostly black) */
     padding: 0.25em 0.5em 0.25em 0.5em;
   }
   td {
@@ -75,8 +70,8 @@ body {
   font-size: 11px;
   border: none;
   outline: none;
-  background-color: #8b0000;
-  color: #fdfeff;
+  background-color: #8b0000;  /* dark red */
+  color: #fdfeff;  /* Very pale (mostly white) blue */
   cursor: pointer;
   padding: 10px;
   border-radius: 1px;
@@ -103,11 +98,11 @@ a {
   text-decoration: none;
   }
 a.hover {
-  color: #ffff00;  /* yellow */
+  color: #ffff00;  /* pure (or mostly pure) yellow */
   text-decoration: underline;
   }
 a.hover:hover {
-  color: #ffff00;
+  color: #ffff00;  /* pure (or mostly pure) yellow */
   text-decoration: underline;
 
 }
@@ -115,11 +110,12 @@ div {
   float: left; 
 }
 
-h1 { 
-  font-size: 21px;
-  text-align: left;
-  margin-left: 10px;
-}
+/* h1 { */
+/*  font-size: 21px; */
+/*  text-align: left; */
+/*  margin-left: 10px; */
+/* } */
+
 h2 { 
   font-size: 20px;
   padding: 10px;
@@ -156,35 +152,38 @@ body {
     font-size:100&#37;;
     margin:0;
     padding:0;
-    background:#333;
+    background:#333;  /* very dark gray */
 }
 h1 {
-    font-size:2em;
-    margin:.5em;
-    background:#fff;
+    font-size: 2em;
+    margin: .5em;
+    background: #fff;  /* white */
 }
 p {
-    margin:1em;
-    background:#fff;
+    font-family: Bahnschrift;
+    margin: 1em;
+    background: #fff;  /* white */
 }
+/*  p { */
+/*    font-size: 15px; */
+/*    font-family: Bahnschrift; */
+/*    margin-left: 30px; */
+/*  } */
+
 ul {
     display: table;
     margin: 0 auto;
     text-align: left;
     width: 40em;  /* was 20em */
-    margin: 1em;
+/*    margin: 1em; */
     padding: 0 0 0 1em;
-    background: yellow;
+    background: #d2f8d2;  /*  light grayish lime green */
     overflow: hidden;  /* establish margin clearance for li */
 }
 li {
     margin:1em;
     padding:.25em;
     background:#FFF;
-}
-
-body {
-  background-color: #e8f4f8;  /* light grayish cyan - wide pc */
 }
 
 @media screen and (max-width: 480px) {
