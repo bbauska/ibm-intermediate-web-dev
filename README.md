@@ -11,6 +11,8 @@ output:
 <!-- https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction -->
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of ibm-web-dev.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image001.webp" 
   alt="Intermediate Web &amp; Front-end Development" 
@@ -235,8 +237,8 @@ software tool that enables developers to add and manage content on a
 website. And the Content Delivery Application (CDA) is the back-end
 process that takes the content you put into the CMA, stores it properly,
 and makes it visible to website visitors.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 07. 3 common types of cms; web, digital and enterprise (xx) ~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image007.webp"
     alt="There are 3 common typoe of CMS;  Web CMS, Digital CMS, and Enterprise CMS."
@@ -258,6 +260,7 @@ There are three common types of content management systems:
     audiences, and archives files after a set time.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 08/09. examples of proprietary and open-source cms sfwr (xx) ~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./assets/images/image008.webp"
   style="width:400px;"
@@ -276,6 +279,7 @@ hosted services like WordPress.com, HubSpot, and Wix. Many kinds of CMS
 software are available, depending on how developers want to use them.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10. benefits of cms software (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image010.webp"
   alt="Benefits of CMS Software." 
@@ -301,6 +305,7 @@ software. Instead of using a large web development team, websites can be
 managed by a smaller group or by a person, reducing the website\'s cost.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 11. add'l benefits of cms software (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image011.webp"
   alt="Additional Benefits of CMS Software." 
@@ -316,6 +321,7 @@ CMSs have templates and third-party extensions that make it easy to
 customize the website and extend its capabilities.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12. choosing a cms (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image012.webp"
   alt="Choosing a CMS." 
@@ -341,6 +347,7 @@ Once you\'ve answered these questions, you're ready to choose the best
 CMS for you and your website!
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 13. module 02 summary (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image013.webp"
   alt="Module Summary (02)." 
@@ -8293,4 +8300,4 @@ and drop the file icon onto the window.*
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-<!-- Aug 11, 2023 7:06pm -->
+<!-- Aug 31, 2023 10:37pm -->
