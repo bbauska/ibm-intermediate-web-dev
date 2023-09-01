@@ -13,14 +13,6 @@ body {
   margin-left: 10px;
 }
 
-/* responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 400px) {
-  .column {
-    width: 100%;
-    background-color: #32cd32;  /* strong lime green */
-  }
-}
-
   .displayed {
     display: block;
     margin: 0 auto; }
@@ -89,6 +81,7 @@ body {
   padding: 10px;
   border-radius: 1px;
 }
+
 #myBtn:hover {
   background-color: #555;
 }
@@ -153,7 +146,7 @@ background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93
 .row {
   display: flex;
 }
-/* Create two equal columns that sit next to each other */
+/* Create two equal columns that sit next to each other side-by-side */
 .column {
   flex: 45%;
   padding: 5px;
@@ -168,23 +161,52 @@ body {
 h1 {
     font-size:2em;
     margin:.5em;
-    background:#FFF;
+    background:#fff;
 }
 p {
     margin:1em;
-    background:#FFF;
+    background:#fff;
 }
 ul {
     width:20em;
     margin:1em;
     padding:0 0 0 1em;
     background:lime;
-    overflow:hidden;/*establish margin clearance for li*/
+    overflow:hidden;  /* establish margin clearance for li */
 }
 li {
     margin:1em;
     padding:.25em;
     background:#FFF;
 }
-<!-- ul, ol li {margin-left: 30px; padding-left:0; } -->
-<!-- ul, ol {margin-left: 30px; padding-left:0; } -->
+
+body {
+  background-color: #e8f4f8;  /* light grayish cyan - wide pc */
+}
+/* responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+  .column {
+    width: 100%;
+    background-color: #32cd32;  /* strong lime green */
+  }
+}
+@media screen and (max-width: 480px) {
+  body {
+    background-color: #e3fae5;  /* light grayish lime green - phones */
+  }
+}
+@media screen and (max-width: 850px) {
+  body {
+    background-color: #f9f6ed;  /* very grayish yellow - lt brown - tablet */
+  }
+}
+
+figure {
+  margin-top: 0;
+}
+figcaption {
+  text-align: center;
+}
+.picme {
+  column-count: 2;
+}
