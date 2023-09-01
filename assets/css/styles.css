@@ -168,11 +168,14 @@ p {
     background:#fff;
 }
 ul {
-    width:20em;
-    margin:1em;
-    padding:0 0 0 1em;
-    background:lime;
-    overflow:hidden;  /* establish margin clearance for li */
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+    width: 40em;  /* was 20em */
+    margin: 1em;
+    padding: 0 0 0 1em;
+    background: yellow;
+    overflow: hidden;  /* establish margin clearance for li */
 }
 li {
     margin:1em;
