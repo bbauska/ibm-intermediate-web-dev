@@ -78,7 +78,7 @@ body {
 }
 
 #myBtn:hover {
-  background-color: #555;
+  background-color: #555;  /* very dark gray */
 }
 
 pre {
@@ -181,9 +181,9 @@ ul {
     overflow: hidden;  /* establish margin clearance for li */
 }
 li {
-    margin:1em;
-    padding:.25em;
-    background:#FFF;
+    margin: 1em;
+    padding: .25em;
+    background: #fff;  /* white */
 }
 
 @media screen and (max-width: 480px) {
