@@ -183,13 +183,7 @@ li {
 body {
   background-color: #e8f4f8;  /* light grayish cyan - wide pc */
 }
-/* responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 400px) {
-  .column {
-    width: 100%;
-    background-color: #32cd32;  /* strong lime green */
-  }
-}
+
 @media screen and (max-width: 480px) {
   body {
     background-color: #e3fae5;  /* light grayish lime green - phones */
