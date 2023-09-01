@@ -7,7 +7,7 @@ body {
   background-color: #e8f4f8;  /* light grayish cyan - wide pc */
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   font-size: 15px;  /* 1.2rem; */
-  color: #000000;  /* foreground - black */
+/*  color: #000000;  foreground - black */
   text-align: left;
   padding: 10px;
   margin-left: 10px;
@@ -149,10 +149,10 @@ background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93
 }
 
 body {
-    font-size:100&#37;;
-    margin:0;
-    padding:0;
-    background:#333;  /* very dark gray */
+    font-size: 100&#37;;
+    margin: 0;
+    padding: 0;
+    background: #fff;  /* white */
 }
 h1 {
     font-size: 2em;
