@@ -146,7 +146,7 @@ technical aspect of web and front-end application development.
 <p align="center">
   <img src="./assets/images/image003.webp"
   alt="When you complete this course, you will be able to:"
-  width="500" />
+  width="500px;" />
 </p>
 <!-- {width="5.0in" height="2.8327996500437447in"} -->
 
