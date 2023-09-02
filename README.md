@@ -16,7 +16,7 @@ output:
 <p align="center">
   <img src="./assets/images/image001.webp" 
   alt="Intermediate Web &amp; Front-end Development" 
-  style="border: 2px solid  gray;" 
+  style="border: 2px solid  red;" 
   width="500" />
 <!--  style="box-shadow: 3px 3px 3px gray;"> -->
 <!--  style="drop-shadow: 0 3px 5px rgba(0, 0, 0, 0.4);" -->
@@ -84,8 +84,6 @@ output:
 ## 01. Course Introduction
 
 https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction
-
-<!-- # [Week 1:]{.mark} -->
 
 <h1 id="ch1-01" style="margin:10px">01. Introduction to Intermediate Web & Front-End Development</h1>
 
