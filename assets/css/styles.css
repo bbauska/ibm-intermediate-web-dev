@@ -184,12 +184,12 @@ p {
 
 ul {
     display: table;
-    margin: 0 auto;
+    margin: 0 auto;  /* centered */
     text-align: left;
-    width: 40em;  /* was 20em */
+    width: 30em;  /* was 40em, 20em */
 /*    margin: 1em; */
     padding: 0 0 0 1em;
-    background: #d2f8d2;  /*  light grayish lime green */
+    background: #ffffff;  /* now white - was light grayish lime green #d2f8d2 */
     overflow: hidden;  /* establish margin clearance for li */
 }
 li {
