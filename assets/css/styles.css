@@ -198,14 +198,14 @@ li {
     background: #fff;  /* white */
 }
 
-@media screen and (max-width: 480px) {
-  body {
-    background-color: #e3fae5;  /* light grayish lime green - phones */
-  }
-}
 @media screen and (max-width: 850px) {
   body {
     background-color: #f9f6ed;  /* very grayish yellow - lt brown - tablet */
+  }
+}
+@media screen and (max-width: 480px) {
+  body {
+    background-color: #e3fae5;  /* light grayish lime green - phones */
   }
 }
 
