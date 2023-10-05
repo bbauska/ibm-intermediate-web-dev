@@ -83,7 +83,7 @@ body {
   border: none;
   outline: none;
   background-color: #8b0000;  /* dark red */
-  color: #fdfeff;  /* Very pale (mostly white) blue */
+  color: #fdfeff;  /* very pale (mostly white) blue */
   cursor: pointer;
   padding: 10px;
   border-radius: 1px;
@@ -154,7 +154,7 @@ background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93
 .row {
   display: flex;
 }
-/* Create two equal columns that sit next to each other side-by-side */
+/* create two equal columns that sit next to each other side-by-side */
 .column {
   flex: 45%;
   padding: 5px;
@@ -198,14 +198,14 @@ li {
     background: #fff;  /* white */
 }
 
-@media screen and (max-width: 850px) {
-  body {
-    background-color: #f9f6ed;  /* very grayish yellow - lt brown - tablet */
-  }
-}
 @media screen and (max-width: 480px) {
   body {
     background-color: #e3fae5;  /* light grayish lime green - phones */
+  }
+}
+@media screen and (max-width: 850px) {
+  body {
+    background-color: #f9f6ed;  /* very grayish yellow - lt brown - tablet */
   }
 }
 
