@@ -81,11 +81,11 @@ output:
 
 <h1 name="ch1" style="margin:10px;">WEEK 1 - Content Management Systems (CMS's)</h1>
 
-## 01. Course Introduction
+<h2>01. Course Introduction</h2>
 
 https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction
 
-<h1 name="ch1-01" style="margin:10px">01. Introduction to Intermediate Web & Front-End Development</h1>
+<h2 name="ch1-01" style="margin:10px">01. Introduction to Intermediate Web &amp; Front-End Development</h2>
 
 Hello and welcome to this course on Intermediate Web and Front-end
 Development. Are you interested in learning how to optimize your website
@@ -181,7 +181,7 @@ learned, leading to a shareable badge and certificate that you can show
 prospective employers. We're here to support your success and are
 excited you're here. Let's get started!
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1 name="ch1-02">02. Introduction to Content Management System (CMS)</h1>
+<h2 name="ch1-02">02. Introduction to Content Management System (CMS)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image004.webp"
@@ -378,7 +378,7 @@ In this module (02), you learned that:
     Squarespace, and Wix.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1 name="ch1-03">03. Features of Web CMS</h1>
+<h2 name="ch1-03">03. Features of Web CMS</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- <https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/BWeid/features-of-web-cms> -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -542,7 +542,7 @@ In this module (03), you learned that:
 -   A WCMS has several features that an end user can use to create and
     manage the content on their website.
 
-<h1 name="ch1-04">04. Popular CMS Platforms/Tools</h1>
+<h2 name="ch1-04">04. Popular CMS Platforms/Tools</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -710,7 +710,7 @@ In this module (04), you learned that:
 -   Joomla, Squarespace, Wix, Shopify, Drupal, and Adobe Commerce are
     all popular CMS platforms.
 
-<h1 name="ch1-05a">05a. Web Development with CMS - Part 1</h1>
+<h2 name="ch1-05a">05a. Web Development with CMS - Part 1</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -900,7 +900,7 @@ In this module (05a), you learned about:
 
 -   Best practices to create a successful website.
 
-<h1 name="ch1-05b">05b. Web Development with CMS - Part 2</h1>
+<h2 name="ch1-05b">05b. Web Development with CMS - Part 2</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1095,7 +1095,7 @@ In this module (05b), you learned that:
 -   Some of the features of a CMS include page design, blog content, and
     content storage.
 
-<h1 name="ch1-06a">06a. Getting Started with WordPress - Part 1</h1>
+<h2 name="ch1-06a">06a. Getting Started with WordPress - Part 1</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1288,7 +1288,7 @@ In this module (06a), you learned:
     type of customization and functionality you want to add to your
     website.
 
-<h1 name="ch1-06b">06b. Getting Started with WordPress - Part 2</h1>
+<h2 name="ch1-06b">06b. Getting Started with WordPress - Part 2</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1553,7 +1553,7 @@ In this module (06), you learned that:
 
     -   Integrating your social media with the website.
 
-<h1 name="ch1-07">07. Adding E-commerce to Your Website</h1>
+<h2 name="ch1-07">07. Adding E-commerce to Your Website</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1809,7 +1809,7 @@ In this week (01), you learned that:
 
 <h1 name="ch2">WEEK 2</h1>
 
-<h1 name="ch2-08">08. Introduction to Search Engine Optimization (SEO)</h1>
+<h2 name="ch2-08">08. Introduction to Search Engine Optimization (SEO)</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1982,7 +1982,7 @@ In this module (08), you learned that:
 -   Good SEO practices also improve a website\'s user experience and
     usability.
 
-<h1 name="ch2-09">09. Popular SEO Tools</h1>
+<h2 name="ch2-09">09. Popular SEO Tools</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2209,7 +2209,7 @@ In this module (09), you learned that:
 -   SEMrush SEO Toolkit, Ahrefs, Moz Pro, Serpstat, and SpyFu are some
     of the best-paid SEO tools available.
 
-<h1 name="ch2-10">10. SEO Strategies</h1>
+<h2 name="ch2-10">10. SEO Strategies</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2436,7 +2436,7 @@ In this module (10), you learned that:
 
     -   Monitor and be on the lookout for new trends and best practices.
 
-<h1 name="ch2-11">11. Mobile Friendly SEO</h1>
+<h2 name="ch2-11">11. Mobile Friendly SEO</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2654,7 +2654,7 @@ In this module (11), you learned that:
 -   Creating a mobile-specific website allows you to create content that
     is completely unique for mobile viewers.
 
-<h1 name="ch2-12">12. Page Optimization for SEO</h1>
+<h2 name="ch2-12">12. Page Optimization for SEO</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2882,7 +2882,7 @@ In this module (12), you learned that:
 
 -   Site structure elements are components of the website.
 
-<h1 name="ch2-13">13. Running Campaigns and Tracking Results</h1>
+<h2 name="ch2-13">13. Running Campaigns and Tracking Results</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3094,7 +3094,7 @@ In this section (13), you learned that:
 -   Google Search Console monitors website\'s search traffic and
     performance, troubleshoots problems, and optimizes search results.
 
-<h1 name="ch2-14">14. Do's and Don'ts of Search Engine Optimization</h1>
+<h2 name="ch2-14">14. Do's and Don'ts of Search Engine Optimization</h2>
 
 ## Introduction
 
@@ -3320,7 +3320,7 @@ In this module, you learned that:
 
 <h1 name="ch3">WEEK 3</h1>
 
-<h1 name="ch3-15">15. Introduction to Web Build and Automated Tools</h1>
+<h2 name="ch3-15">15. Introduction to Web Build and Automated Tools</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3596,7 +3596,7 @@ In this module (15), you learned about:
 
 -   Some popular web build tools and bundlers used in web development.
 
-<h1 name="ch3-16">16. Introduction to Webpack 5</h1>
+<h2 name="ch3-16">16. Introduction to Webpack 5</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3740,7 +3740,7 @@ In this module (16), you learned that:
 -   Webpack 5 is powerful and has a unique plugin system as well as
     numerous other benefits.
 
-<h1 name="ch3-17">17. Essential Concepts of Webpack</h1>
+<h2 name="ch3-17">17. Essential Concepts of Webpack</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3911,7 +3911,7 @@ In this module (17), you learned that:
 
 -   Plugins allow Webpack to perform a wide range of tasks.
 
-<h1 name="ch3-18">18. Working with Webpack</h1>
+<h2 name="ch3-18">18. Working with Webpack</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4135,7 +4135,7 @@ In this module (18), you learned about:
 
 -   The three main configuration modes for Webpack.
 
-<h1 name="ch3-19">19. Setting up Production with Webpack</h1>
+<h2 name="ch3-19">19. Setting up Production with Webpack</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4304,7 +4304,7 @@ In this module (19), you learned that:
     -   Clean up old assets to avoid the minification of all the files
         in the public folder.
 
-<h1 name="ch3-20">20. Using Webpack Tools</h1>
+<h2 name="ch3-20">20. Using Webpack Tools</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4534,7 +4534,7 @@ In this module (20), you learned that:
 -   Webpack Bundle Analyzer helps to acknowledge the contents of the
     bundle and discover large modules.
 
-<h1 name="ch3-21">21. Using Webpack with Front-end Frameworks</h1>
+<h2 name="ch3-21">21. Using Webpack with Front-end Frameworks</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4840,7 +4840,7 @@ This course uses a third-party app, Hands on Lab: Build and Deploy a
 website using Webpack, to enhance your learning experience. The app will
 reference basic information like your name, email, and Coursera ID.
 
-<h1 name="ch3-22">22. Webpack Best Practices</h1>
+<h2 name="ch3-22">22. Webpack Best Practices</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image257.webp"
@@ -5088,7 +5088,7 @@ In this module (22), you learned that:
 
 -   Tree shaking removes unnecessary code from the final bundle.
 
-<h1 name="ch3-23">23. Reading: HTTPS & SSL Certificates</h1>
+<h2 name="ch3-23">23. Reading: HTTPS & SSL Certificates</h2>
 
 ## What is HTTPS?
 
@@ -5219,7 +5219,7 @@ In this separate section, you learned that:
 
 <h1 name="ch4">WEEK 4</h1>
 
-<h1 name="ch4-24">24. JavaScript Optimization</h1>
+<h2 name="ch4-24">24. JavaScript Optimization</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5445,7 +5445,7 @@ In this module (24), you learned that:
 -   JavaScript tips affect the performance of a web application and how
     to improve it.
 
-<h1 name="ch4-25">25. Popular Optimization Tools</h1>
+<h2 name="ch4-25">25. Popular Optimization Tools</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image280.webp"
@@ -5673,7 +5673,7 @@ In this module (25), you learned that:
 -   JavaScript optimization tools remove unnecessary codes, which
     reduces the time required for browsers to analyze and compile code.
 
-<h1 name="ch4-26">26. Testing Frameworks</h1>
+<h2 name="ch4-26">26. Testing Frameworks</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image296.webp"
@@ -5890,7 +5890,7 @@ In this module (26), you learned that:
 -   Some popular JavaScript testing frameworks are Jest, Playwright,
     Mocha, Cypress, Jasmine, and Puppeteer.
 
-<h1 name="ch4-27">27. Testing Tools -- Mocha and Jasmine</h1>
+<h2 name="ch4-27">27. Testing Tools -- Mocha and Jasmine</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6160,7 +6160,7 @@ In this module (27), you learned that:
 -   Slow tests can be highlighted in Jasmine using
     jasmine-slow-reporter, whereas Mocha has it built-in.
 
-<h1 name="ch4-28">28. Using Jasmine</h1>
+<h2 name="ch4-28">28. Using Jasmine</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6319,7 +6319,7 @@ In this module (28), you learned that:
 
 -   There are five steps to testing codes and React with Jasmine.
 
-<h1 name="ch4-29">29. Front-end Testing Best Practices</h1>
+<h2 name="ch4-29">29. Front-end Testing Best Practices</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image337.webp"
@@ -6603,7 +6603,7 @@ In this module, you learned that:
 
 <h1 name="ch5">WEEK 5</h1>
 
-<h1 name="ch5-30">30. JavaScript Debugging</h1>
+<h2 name="ch5-30">30. JavaScript Debugging</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6839,7 +6839,7 @@ In this module (30), you learned about:
 
 -   You can encounter JavaScript bugs in your code due to some factors.
 
-<h1 name="ch5-31">31. Basic Debugging Concepts</h1>
+<h2 name="ch5-31">31. Basic Debugging Concepts</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image366.webp"
@@ -7096,7 +7096,7 @@ In this module (31), you learned about:
 
 -   Important debugging terminologies.
 
-<h1 name="ch5-32">32. Introduction to Debugging Tools</h1>
+<h2 name="ch5-32">32. Introduction to Debugging Tools</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image383.webp"
@@ -7311,7 +7311,7 @@ In this module (32), you learned that:
 
 -   There are some common debugging tools used by developers.
 
-<h1 name="ch5-33">33. Troubleshooting with Chrome DevTools</h1>
+<h2 name="ch5-33">33. Troubleshooting with Chrome DevTools</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image398.webp"
@@ -7603,7 +7603,7 @@ In this module (33), you learned that:
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-<h1 name="ch5-34">34. Monitoring your Website</h1>
+<h2 name="ch5-34">34. Monitoring your Website</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image419.webp"
@@ -7889,7 +7889,7 @@ In this module (34), you learned about:
 
 -   Some popular website monitoring metrics.
 
-<h1 name="ch5-35">35. Popular Monitoring Tools</h1>
+<h2 name="ch5-35">35. Popular Monitoring Tools</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image437.webp"
@@ -8206,7 +8206,7 @@ In week 5, you learned that:
 
 <h1 name="ch6">WEEK 6</h1>
 
-<h1 name="ch6-36">36. Interest Rate Calculator</h1>
+<h2 name="ch6-36">36. Interest Rate Calculator</h2>
 
 Welcome to the hands- on lab for **Interest Rate Calculator**.
 
@@ -8299,4 +8299,4 @@ and drop the file icon onto the window.*
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-<!-- Aug 31, 2023 10:37pm -->
+<!-- Oct 8, 2023 8:29pm -->
