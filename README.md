@@ -15,8 +15,8 @@ output:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image001.webp" 
-  alt="Intermediate Web &amp; Front-end Development" 
-  style="border: 2px solid  red;" 
+  alt="Intermediate Web &amp; Front-end Development." 
+  style="border: 2px solid #000000;" 
   width="500" />
 </p>
 
@@ -140,6 +140,7 @@ improve your skills as a front-end developer and understand the
 technical aspect of web and front-end application development.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 03. when you complete this course, you will be able to (xx) ~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image003.webp"
   alt="When you complete this course, you will be able to:"
@@ -151,13 +152,13 @@ When you complete this course, you will be able to:
 
 -   Identify how to work with content management systems (CMSs)
 
--   Identify how to improve a website\'s search engine ranking,
+-   Identify how to improve a website&apos;s search engine ranking,
 
 -   Discuss the importance of bundling code with a module bundler to
     deploy code faster,
 
 -   Describe how automated testing frameworks assist in developing test
-    cases that enhance a website\'s effectiveness and performance
+    cases that enhance a website&apos;s effectiveness and performance
     (efficacy), and
 
 -   Demonstrate best practices for using debugging tools to find bugs in
@@ -167,13 +168,13 @@ This course is designed specifically for beginners, with guided
 instructional videos that walk you through key concepts and essential
 need-to-know facts.
 
-It includes interactive activities to reinforce what you\'ve learned in
-videos and virtual hands-on labs to help you apply what you\'ve learned
+It includes interactive activities to reinforce what you&apos;ve learned in
+videos and virtual hands-on labs to help you apply what you&apos;ve learned
 as you go.
 
 The forums connect you with others so you can introduce yourself,
 provide feedback, and get support. And the practice assessments help you
-assess your knowledge, while the graded assessments prove what you\'ve
+assess your knowledge, while the graded assessments prove what you&apos;ve
 learned, leading to a shareable badge and certificate that you can show
 prospective employers. We're here to support your success and are
 excited you're here. Let's get started!
@@ -192,6 +193,7 @@ excited you're here. Let's get started!
 Welcome to "Introduction to Content Management System (CMS)"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~ 05. define cms, list cms platforms and recognize benefits of cms (xx) ~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image005.webp"
     alt="After reading, you will be able to: Define CMS, List several CMS platforms and Recognize the benefits of using CMS."
@@ -212,6 +214,7 @@ After reading this module (02), you will be able to:
 -   Recognize the benefits of using a CMS.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 06. what is content management system? (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image006.webp"
     alt="What is Content Management System?"
@@ -297,7 +300,7 @@ background. Another benefit is scheduled updates. Updates to content and
 the website are easy to make. Some CMS software also prepares for
 publishing and updates. Affordability is a huge benefit of using CMS
 software. Instead of using a large web development team, websites can be
-managed by a smaller group or by a person, reducing the website\'s cost.
+managed by a smaller group or by a person, reducing the website&apos;s cost.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 11. add'l benefits of cms software (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -324,10 +327,10 @@ customize the website and extend its capabilities.
 </p>
 
 So how do you choose a CMS? In the planning stage of the software
-development cycle, you\'ll consider what you need to help you create and
-manage a website. You\'ll ask:
+development cycle, you&apos;ll consider what you need to help you create and
+manage a website. You&apos;ll ask:
 
--   How big does your website need to be to meet your organization\'s
+-   How big does your website need to be to meet your organization&apos;s
     needs?
 
 -   Who will be using your website?
@@ -338,7 +341,7 @@ manage a website. You\'ll ask:
 
 -   Does your CMS need other technologies or software to work with it?
 
-Once you\'ve answered these questions, you're ready to choose the best
+Once you&apos;ve answered these questions, you're ready to choose the best
 CMS for you and your website!
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -876,7 +879,7 @@ roles and build new ones to suit their user base.
 Now, we will explore some best practices for creating a successful
 business website. Ensure that your website makes the best use of search
 engine crawlers. Ensure Google and other popular search engines can
-easily find your website. Use a CMS to manage your website\'s content.
+easily find your website. Use a CMS to manage your website&apos;s content.
 Use an optimizer tool or an image optimization service to optimize
 images for SEO. Use an insights tool or an online speed testing service
 to optimize text for SEO. Use fonts optimized for website readability
@@ -979,7 +982,7 @@ Now, we will talk about the list or category page. Well-organized
 website content improves user experience. A developer, therefore, needs
 to use lists and categories effectively. A category helps classify your
 content, create a logical structure for your website, and enhance the
-users\' reading experience. Users can browse through posts on a list or
+users&apos; reading experience. Users can browse through posts on a list or
 category page and filter them according to categories, attributes, or
 other criteria. A "sort" option is often available on this page when
 there is a significant volume of content to scroll through. A category
@@ -1129,13 +1132,13 @@ After reading this module (06a), you will be able to:
 
 WordPress is a CMS that helps you build and manage your website. It
 serves as a foundation for your content and allows you to install
-plugins that enhance your website\'s functionality and design. WordPress
+plugins that enhance your website&apos;s functionality and design. WordPress
 CMS gives you greater flexibility and control over your website and
 content than What-You-See-Is-What-You-Get (WYSIWYG) website builders.
 You may want to use WYSIWYG website builders for their ease of use.
 However, they are frequently feature-limited and require you to host
 with a specific company. WordPress allows you to constantly update your
-website\'s design, content, and functionality.
+website&apos;s design, content, and functionality.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1172,11 +1175,11 @@ WordPress developer Matt Mullenweg.
 
 Wordpress.com differs from Wordpress.org as it offers free and paid
 hosting options. It, however, does have a few limitations. For example,
-none of WordPress. com\'s offerings allow you to access your server via
+none of WordPress. com&apos;s offerings allow you to access your server via
 Secure Shell (SSH) or edit code via File Transfer Protocol (FTP).
 However, you can do so with Wordpress.org, as you must use it with a
 third-party host. You can install third-party plugins with
-WordPress.com\'s top-tier business plan.
+WordPress.com&apos;s top-tier business plan.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image059.webp"
@@ -1198,7 +1201,7 @@ and Rest API.
 
 Let's discuss each of these in detail now.
 
-A database contains all your website\'s content, settings, and dynamic
+A database contains all your website&apos;s content, settings, and dynamic
 information. WordPress officially supports the database engines MySQL
 and MariaDB.
 
@@ -1354,7 +1357,7 @@ Let's discuss each of these steps in detail.
 The first step of creating a website using WordPress is selecting a
 domain name. Your domain name is the permanent Internet address for your
 WordPress website and plays a crucial role in branding, so give it some
-thought. After you\'ve found the perfect domain name, get that
+thought. After you&apos;ve found the perfect domain name, get that
 registered with a domain name registrar. Some popular registrars include
 GoDaddy and Google Domains.
 
@@ -1384,7 +1387,7 @@ companies provide simple tools to install free WordPress software. The
 hosting package you select will typically include instructions on
 installing the software, which will require downloading and uploading
 the software or using a quick installation method. Using a managed
-WordPress hosting account, you\'ll be able to install and use the
+WordPress hosting account, you&apos;ll be able to install and use the
 software immediately.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1594,7 +1597,7 @@ transition to an e-commerce business to keep things afloat in the coming
 months. 
 And, for most businesses, adding an e-commerce store to its
 existing website is surprisingly easy. How you achieve this depends on
-how you build your website. However, like most businesses, if you\'re
+how you build your website. However, like most businesses, if you&apos;re
 either using WordPress website or a website builder to create your
 website, adding e-commerce functionality is simple.
 
@@ -1782,7 +1785,7 @@ In this week (01), you learned that:
 -   A content management system (CMS) aids developers in the creation of
     websites.
 
--   A CMS\'s features include page design, blog content, and content
+-   A CMS&apos;s features include page design, blog content, and content
     storage.
 
 -   Web content management systems (WCMS), digital asset management
@@ -1904,7 +1907,7 @@ provide enough signals to search engine crawlers so that they can understand the
 meaning and context of the content. This is done using website structure, SEO 
 keywords, title optimizations, headings, internal links, image SEO, structured 
 data markup, and other techniques.  When done correctly, on-page SEO will improve 
-a website\'s or blog\'s usability and credibility.
+a website&apos;s or blog&apos;s usability and credibility.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1931,7 +1934,7 @@ fewer backlinks.
 Now, we will talk about the benefits of using SEO. Most users click one
 of the top five SERP suggestions. The website must rank among the top
 results to capitalize on this and attract visitors. SEO is about search
-engines and good SEO practices, which help improve a website\'s user
+engines and good SEO practices, which help improve a website&apos;s user
 experience and usability. Users trust search engines. Having a presence
 in the top positions for the keywords the user searches for enables the
 website to earn the users' trust.
@@ -1976,7 +1979,7 @@ In this module (08), you learned that:
 -   Off-page SEO are actions taken away from the website to influence
     its rankings in SERPs, and
 
--   Good SEO practices also improve a website\'s user experience and
+-   Good SEO practices also improve a website&apos;s user experience and
     usability.
 
 <h2 name="ch2-09">09. Popular SEO Tools</h2>
@@ -2018,14 +2021,14 @@ After reading this module (09), you will be able to:
   style="width:500px;"/>
 </p>
 
-SEO tools enable business owners to know their websites\' overall health
+SEO tools enable business owners to know their websites&apos; overall health
 and success. They: Help develop and implement an organic online search
 strategy Assist in boosting a website's search ranking. Offer customers
 a comprehensive set of features and functionalities. Provide users with
 powerful keyword research tools, backlink assistance, rank tracking
 tools, and reports, among other things. Enable you to research what your
 competitors are doing, and Provide insights into industry niches,
-allowing you to identify what works and what doesn\'t.
+allowing you to identify what works and what doesn&apos;t.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2117,13 +2120,13 @@ leads, which results in higher-quality website traffic.
   style="width:500px;"/>
 </p>
 
-Now, we\'ll discuss some of the best free SEO tools available.
+Now, we&apos;ll discuss some of the best free SEO tools available.
 
 Google Analytics is a free dashboard that allows seamless control over
 Google Search settings and other services such as Search Console and
 Data Studio.
 
-Google Search Console is a tool to track a website\'s performance on
+Google Search Console is a tool to track a website&apos;s performance on
 Google and find additional resources to achieve success with Google SEO.
 
 Bing Webmaster Tools provides an easy-to-use dashboard, simple report
@@ -2163,7 +2166,7 @@ to the competition.
 
 Ahrefs is a popular tool for keyword research, competitor analysis,
 backlink audits, and other purposes. Using the site audit feature, you
-can analyze your competitors\' website traffic and search engine
+can analyze your competitors&apos; website traffic and search engine
 rankings and use this information to improve your SEO strategies.
 
 Moz Pro monitors a website's ranking, analyses backlinks, performs site
@@ -2180,7 +2183,7 @@ Serpstat is a comprehensive tool that can help you analyze competitors
 perform SEO tasks, and manage your in-house SEO team.
 
 SpyFu helps conduct the best competitor analysis. It allows you to
-legally spy on your competitors\' SEO practices. Regardless of what kind
+legally spy on your competitors&apos; SEO practices. Regardless of what kind
 of services you sign up for, you will have access to all the data they
 uncover.
 
@@ -2242,7 +2245,7 @@ After reading this module (10), you will be able to:
 </p>
 
 An SEO strategy is a plan of action for a company to optimize its
-website and rank high in Google search results. It\'s a combination of
+website and rank high in Google search results. It&apos;s a combination of
 layered on-page, off-page, and technical SEO tactics designed to boost
 rankings for primary and secondary keywords, pages, and websites.
 Knowing what works best for you and your business, as well as connecting
@@ -2271,7 +2274,7 @@ Executing the improved strategy, and Monitoring the execution.
 </p>
 
 The first step is to evaluate your current SEO strategy and its
-performance. You should assess your website\'s organic visibility,
+performance. You should assess your website&apos;s organic visibility,
 keyword rankings, and branded vs. non-branded traffic split.
 
 There are several tools available online to show you this information.
@@ -2284,7 +2287,7 @@ will allow you to create detailed purchasing behavior profiles.
 Understanding the difference between branded and non-branded traffic on
 your website will help you identify opportunities. Increasing
 non-branded traffic allows you to acquire new users who may not have
-previously heard of you. You\'ll also be able to identify areas that
+previously heard of you. You&apos;ll also be able to identify areas that
 need improvement for your next SEO strategy.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2294,9 +2297,9 @@ need improvement for your next SEO strategy.
   style="width:500px;"/>
 </p>
 
-After you\'ve assessed your current SEO strategy, you should analyze the
-competitors\' SEO strategies. This will give you a sense of what is and
-isn\'t working for them, as well as areas where you can capitalize to
+After you&apos;ve assessed your current SEO strategy, you should analyze the
+competitors&apos; SEO strategies. This will give you a sense of what is and
+isn&apos;t working for them, as well as areas where you can capitalize to
 gain an advantage. Begin by compiling a list of your main competitors,
 which should include those in your service area and the ones who
 consistently rank high in the SERPs for your main keywords. Next, you
@@ -2317,7 +2320,7 @@ boost your keyword rankings.
   style="width:500px;"/>
 </p>
 
-Finally, you need to analyze the link profiles of your competitors\'
+Finally, you need to analyze the link profiles of your competitors&apos;
 websites. This will help you understand where their backlinks are coming
 from and identify the link gap between their website and yours. This
 will enable you to develop your link-building strategy to build a strong
@@ -2474,7 +2477,7 @@ After reading this module (11), you will be able to:
 
 Mobile SEO is the process of optimizing websites for mobile devices such
 as smartphones and tablets. This includes optimizing the
-website\'s design and content, as well as making the website resources
+website&apos;s design and content, as well as making the website resources
 available to search engine spiders.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2531,7 +2534,7 @@ mobile SEO is typically focused on local searches.
 
 Operating system - Depending on the device you are using; different
 results may appear for the same search query. This is because Google
-considers the mobile device\'s operating system when displaying the most
+considers the mobile device&apos;s operating system when displaying the most
 relevant search results. When the keyword has a strong app-oriented
 intent, search engines display app packs that are compatible with the
 device.
@@ -2559,7 +2562,7 @@ index them. URL Inspection is a useful tool in Search Console for this.
 By using this tool, you can see how Googlebot interprets and displays
 your content. The Mobile Usability tool is another Google Search Console
 feature that scans your site and displays a list of posts and pages that
-do not adhere to Google\'s mobile-friendly guidelines.
+do not adhere to Google&apos;s mobile-friendly guidelines.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2568,7 +2571,7 @@ do not adhere to Google\'s mobile-friendly guidelines.
   style="width:500px;"/>
 </p>
 
-Other excellent mobile SEO tools include Google\'s Mobile-Friendly Test
+Other excellent mobile SEO tools include Google&apos;s Mobile-Friendly Test
 & Analytics, SEMrush, Ahrefs, ScreamingFrog, and SimilarWeb.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2588,11 +2591,11 @@ images, you should also minify code, use browser caching, and reduce
 redirects.
 
 CSS, JavaScript, or image blocking - The Smartphone Googlebot wishes to
-be able to see and categorize the same content as humans. So don\'t try
+be able to see and categorize the same content as humans. So don&apos;t try
 to hide these elements. They are also important in determining whether
 you have a responsive site or a different mobile solution.
 
-Avoid Popups and Flash - The plugin may not be available on your user\'s
+Avoid Popups and Flash - The plugin may not be available on your user&apos;s
 phone, causing them to miss out on all the fun. Use HTML5 instead if you
 want to create special effects.
 
@@ -2686,12 +2689,12 @@ After finishing this module (12), you will be able to:
 </p>
 
 Page Optimization for SEO, also known as on-page SEO or on-site SEO, is
-the process of improving a website\'s ranking and visibility in search
+the process of improving a website&apos;s ranking and visibility in search
 engines by optimizing various front-end and back-end components such as
 page speed, keyword density, and external backlinks. Search engines like
 Google use keywords and other on-page SEO cues to determine whether a
-page matches a user\'s search intent. The better a search engine
-understands a website\'s content, the higher it will rank in the search
+page matches a user&apos;s search intent. The better a search engine
+understands a website&apos;s content, the higher it will rank in the search
 results, resulting in a more organic traffic, conversions, and revenue.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2731,7 +2734,7 @@ Speed.
 
 Let's explore each in detail. The first type of on-page SEO component
 that we are going to discuss is Content elements. Content elements are
-the elements of your website\'s copy and content. It provides
+the elements of your website&apos;s copy and content. It provides
 information about your website and business to both search engines and
 readers.
 
@@ -2742,7 +2745,7 @@ readers.
   style="width:500px;"/>
 </p>
 
-Let\'s consider some guidelines for creating high-quality page content.
+Let&apos;s consider some guidelines for creating high-quality page content.
 Use short and long-tail keywords naturally Include visually appealing
 and relevant content. Create content for your specific buyer persona(s).
 Make content that people will want to share and link to. Create brief,
@@ -2863,7 +2866,7 @@ Moreover, site speed has an impact on conversions and ROI.
 
 In this module (12), you learned that:
 
--   On-page SEO is the process of improving a website\'s ranking and
+-   On-page SEO is the process of improving a website&apos;s ranking and
     visibility in search engines,
 
 -   It helps Google understand website content for higher ranking in
@@ -2872,7 +2875,7 @@ In this module (12), you learned that:
 -   The key components of on-site SEO are: Content Elements, HTML
     Elements, and Site Structural Optimization,
 
--   Content elements are the elements of your website\'s copy and
+-   Content elements are the elements of your website&apos;s copy and
     content,
 
 -   HTML elements are the elements of your source code, and
@@ -2916,7 +2919,7 @@ After reading this module (13), you will be able to:
   style="width:500px;"/>
 </p>
 
-An SEO campaign is a planned effort to raise a website\'s ranking in
+An SEO campaign is a planned effort to raise a website&apos;s ranking in
 search results. This includes optimizing webpages for specific keywords,
 creating quality content, building backlinks, and promoting the site via
 social media. Keywords help in the discovery of relevant content on your
@@ -2940,7 +2943,7 @@ SEO tracking is the process of assessing the effectiveness and
 development of a campaign. This step is used to establish specific and
 measurable campaign goals. Here are some of the key metrics.
 
-Organic Traffic: One of the best indicators of an SEO campaign\'s
+Organic Traffic: One of the best indicators of an SEO campaign&apos;s
 effectiveness is the amount of organic traffic it generates for a
 website.
 
@@ -2964,7 +2967,7 @@ Competitor Analysis: You can identify new opportunities to rank your own
 website by tracking the keywords your competitors are ranking for, their
 domain authority, and other SEO metrics.
 
-SEO Site Health: One important ranking factor is the site\'s SEO
+SEO Site Health: One important ranking factor is the site&apos;s SEO
 friendliness, which includes having a way to identify and address common
 technical problems.
 
@@ -2993,10 +2996,10 @@ Monitoring website traffic can help you make quick decisions and gain
 immediate insights. Unusual spikes or drops, for example, can be caused
 by website bugs or changes to the code in a recent update. Keeping an
 eye on these numbers daily allows you to quickly identify and address
-such issues. SEO\'s primary function is to increase visibility in search
+such issues. SEO&apos;s primary function is to increase visibility in search
 results and direct visitors to the website. Analyzing search engines as
 a traffic source can provide the data required to build an image of a
-customer\'s behavior and intent. Knowing your overall traffic and which
+customer&apos;s behavior and intent. Knowing your overall traffic and which
 pages are being visited will assist you in developing new content and
 optimizing what you already have.
 
@@ -3007,7 +3010,7 @@ optimizing what you already have.
   style="width:500px;"/>
 </p>
 
-It\'s handy to have all of the data about individual page performance in
+It&apos;s handy to have all of the data about individual page performance in
 one place. Entries and time on a page indicate how engaging your content
 is, while bounce rate indicates whether users continue browsing your
 site or leave. When it comes to paid campaigns, ensuring that your
@@ -3055,7 +3058,7 @@ specific user interaction with your website or app as a conversion.
 </p>
 
 Google Search Console (GSC) is another free tool that lets you monitor
-your site\'s search traffic and performance, troubleshoot problems, and
+your site&apos;s search traffic and performance, troubleshoot problems, and
 optimize it for search results. The platform monitors SEO metrics such
 as:
 
@@ -3076,7 +3079,7 @@ description, resulting in a significant increase in traffic.
 
 In this section (13), you learned that:
 
--   SEO campaign is a strategic effort to improve a website\'s ranking
+-   SEO campaign is a strategic effort to improve a website&apos;s ranking
     in search results.
 
 -   SEO tracking is the process of assessing the effectiveness and
@@ -3088,7 +3091,7 @@ In this section (13), you learned that:
 -   Google Analytics keeps track of everything that happens after a user
     visits a website, and
 
--   Google Search Console monitors website\'s search traffic and
+-   Google Search Console monitors website&apos;s search traffic and
     performance, troubleshoots problems, and optimizes search results.
 
 <h2 name="ch2-14">14. Do's and Don'ts of Search Engine Optimization</h2>
@@ -3100,8 +3103,8 @@ aspect of a website and has an impact on user experience (UX). There are
 many details to keep in mind, and the internet provides a wealth of
 information on the subject. Unfortunately, because SEO is ever-changing,
 some practices become obsolete or even unacceptable over time. The
-following are some of the most important and current SEO \"do\'s and
-don\'ts\" to keep in mind when developing your online strategy.
+following are some of the most important and current SEO \"do&apos;s and
+don&apos;ts\" to keep in mind when developing your online strategy.
 
 | <b>Do's<b>                      | <b>Don'ts</b>                      |
 | :------------------------------ | :--------------------------------- |
@@ -3110,13 +3113,13 @@ don\'ts\" to keep in mind when developing your online strategy.
 |                                 |                                    |
 | Meta descriptions and title     | Instead, make sure that each page  |
 | tags are critical components of | contains specific, relevant        |
-| your website\'s content. Title  | keywords. This keeps your own      |
+| your website&apos;s content. Title  | keywords. This keeps your own      |
 | tags are important because they | pages from competing for rankings  |
 | are the primary factor in       | and communicates to search engines |
 | determining whether a user      | and visitors what each page is     |
 | clicks on your content in the   | about.                             |
 | search results. Use titles that |                                    |
-| pique users\' interest.         |                                    |
+| pique users&apos; interest.         |                                    |
 |                                 |                                    |
 | <b>Do include keywords that are</b> | <b>Don't overuse keywords.</b> |
 | <b>pertinent to the page.</b>   |                                    |
@@ -3139,12 +3142,12 @@ don\'ts\" to keep in mind when developing your online strategy.
 |                                 | experience, it may result in your  |
 |                                 | website being ranked lower.        |
 |                                 |                                    |
-| <b>Do allow other websites to</b> | <b>Don\'t copy large amounts of</b>|
+| <b>Do allow other websites to</b> | <b>Don&apos;t copy large amounts of</b>|
 | <b>link to your website, but do</b> | <b>outside content.</b>        |
 | <b>not link back to them.</b>   |                                    |
 |                                 | Duplicating your own content does  |
 | Google dislikes link exchanges. | not harm your SEO but copying      |
-| Search engines want to see      | someone else\'s content almost     |
+| Search engines want to see      | someone else&apos;s content almost     |
 | websites get links because      | always leads to your website being |
 | their content is useful to      | pushed down the rankings by search |
 | searchers, not because the      | engines. Try to come up with a new |
@@ -3171,10 +3174,10 @@ don\'ts\" to keep in mind when developing your online strategy.
 | correctly, social media can be  | happy and unhappy customers.       |
 | an extremely effective business |                                    |
 | tool.                           |                                    |
-| <b>Do monitor site metrics.</b> | <b>Don\'t be alarmed if your</b>   |
+| <b>Do monitor site metrics.</b> | <b>Don&apos;t be alarmed if your</b>   |
 |                                 | <b>rankings appear to drop</b>     |
-| None of the other SEO do\'s and | <b>suddenly.</b>                   |
-| don\'ts will be much use unless |                                    |
+| None of the other SEO do&apos;s and | <b>suddenly.</b>                   |
+| don&apos;ts will be much use unless |                                    |
 | you verify that they are        | Any change in rankings can always  |
 | working for you. Once           | be explained, and it might be as   |
 | everything else is in place,    | easy as Google experimenting with  |
@@ -3198,11 +3201,11 @@ don\'ts\" to keep in mind when developing your online strategy.
 | track your metrics is to use a  |                                    |
 | tool like Google Analytics.     |                                    |
 |                                 |                                    |
-|                                 | <b>Don\'t skip user search</b>     |
+|                                 | <b>Don&apos;t skip user search</b>     |
 |                                 | <b>intention.</b>                  |
-|                                 | Google\'s ultimate goal with       |
+|                                 | Google&apos;s ultimate goal with       |
 |                                 | search results is to serve a       |
-|                                 | user\'s search intent.             |
+|                                 | user&apos;s search intent.             |
 |                                 |   - If the user wants information, |
 |                                 |     create content that provides   |
 |                                 |     it.                            |
@@ -3241,7 +3244,7 @@ don\'ts\" to keep in mind when developing your online strategy.
 | <b>Do's<b>                      | <b>Don'ts</b>                      |
 | :------------------------------ | :--------------------------------- |
 | ______________________________  |                                    |
-|                                 | <b>Don\'t link to external websites</b>|
+|                                 | <b>Don&apos;t link to external websites</b>|
 |                                 | <b>too frequently.</b>             |
 |                                 | The only drawback of having too    |
 |                                 | many outbound links today is that  |
@@ -3252,8 +3255,8 @@ don\'ts\" to keep in mind when developing your online strategy.
 
 ## Conclusion 
 
-These \"do\'s and don\'ts\" are a good starting point for SEO reviews.
-Google\'s ranking algorithm considers over 200 factors, but these
+These \"do&apos;s and don&apos;ts\" are a good starting point for SEO reviews.
+Google&apos;s ranking algorithm considers over 200 factors, but these
 guidelines will help you stay on top of the basics.
 
 ## Hands-on Lab: Optimizing a Website for Search Ranking
@@ -3304,13 +3307,13 @@ In this module, you learned that:
 -   The process of optimizing websites for mobile devices such as
     smartphones and tablets is known as mobile SEO.
 
--   On-page SEO is the process of increasing a website\'s visibility and
+-   On-page SEO is the process of increasing a website&apos;s visibility and
     ranking in search engines.
 
--   An SEO campaign is a planned effort to boost a website\'s ranking in
+-   An SEO campaign is a planned effort to boost a website&apos;s ranking in
     search results.
 
--   SEO tracking is the process of evaluating a campaign\'s
+-   SEO tracking is the process of evaluating a campaign&apos;s
     effectiveness and development.
 
 <!-- # [Week 3:]{.mark} -->
@@ -3409,7 +3412,7 @@ functionality of an automated build tool and bundler comes into prominence.
   style="width:500px;"/>
 </p>
 
-Let\'s quickly go through the functions of JavaScript tools. Using these
+Let&apos;s quickly go through the functions of JavaScript tools. Using these
 build tools, your JavaScript and dependencies are prepared for use in a
 browser. Some of the functions include transformation, bundling,
 minification, and serving.
@@ -3542,12 +3545,12 @@ go beyond the fundamental uses. The Browserify ecosystem is composed of
 a lot of small modules.
 
 <b><i>Webpack</i></b> offers a core that provides more functionalities straight out of
-the box compared to Browserify\'s collection of several little tools.
+the box compared to Browserify&apos;s collection of several little tools.
 Therefore, it is claimed that Webpack offers a clearer strategy compared
 to Browserify. Webpack core can also be extended using specific loaders
 and plugins. It provides flexibility in resolving modules and enables
 you to modify your build to suit certain circumstances and get around
-packages that don\'t function properly in difficult situations.
+packages that don&apos;t function properly in difficult situations.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3712,7 +3715,7 @@ Webpack 5 regulates different application entry points or parts and
 offers shared bundles between them. Additional distinct bundle for each
 portion can be loaded. Webpack 5 converts static assets into build
 bundles and generates them for development and consistency. It is simple
-to cache assets as Webpack 5 allows each file\'s assets to have their
+to cache assets as Webpack 5 allows each file&apos;s assets to have their
 own version.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3790,7 +3793,7 @@ addition, we will touch upon some components related to Webpack.
 </p>
 
 The first concept is Entry. The initial point from which the frontend
-project\'s dependencies are gathered is known as an entry point. This is
+project&apos;s dependencies are gathered is known as an entry point. This is
 a basic JavaScript file. These dependencies then create a dependency
 graph. The default entry point for Webpack is src/index.js, and it is
 configurable. Webpack can have multiple entry points that produce
@@ -4176,7 +4179,7 @@ and production modes.
 The development mode simplifies debugging by activating
 NamedChunksPlugin and preventing minification, among other things. In
 development mode, the bundle will be descriptive and will include more
-comments. As a result of Webpack\'s adoption of the software engineering
+comments. As a result of Webpack&apos;s adoption of the software engineering
 paradigm convention over configuration, you can basically acquire a
 useful configuration by simply setting the mode to production.
 
@@ -4353,7 +4356,7 @@ overhead in execution time during initialization.
 Let's now discuss the benefits of reducing the build size. Reduced build
 size leads to the website loading quickly. JavaScript execution and
 processing   will be quicker, which is essential in the case of mobile
-applications. Ultimately, the user\'s mobile data plan cost is reduced.
+applications. Ultimately, the user&apos;s mobile data plan cost is reduced.
 Developers use different Webpack tools to reduce the bundle size. Let's
 explore five such tools.
 
@@ -4656,7 +4659,7 @@ template (html-webpack-plugin).
 Here are the remaining steps of configuring Webpack with Angular: Now,
 create a new component and a root module to define the entry point of
 your application while configuring Webpack with Angular. Note that an
-entry point is used by Angular to bootstrap/launch the application\'s
+entry point is used by Angular to bootstrap/launch the application&apos;s
 root module. Create the main index.html file, which is the initial page
 loaded by a browser. To ensure that the scripts are loaded and run by
 the browser, Webpack groups all of the JavaScript files together and
@@ -4741,7 +4744,7 @@ programming, making it easier to understand and debug code.
   style="width:500px;"/>
 </p>
 
-Now let\'s explore the steps of configuring Webpack with React. The
+Now let&apos;s explore the steps of configuring Webpack with React. The
 first step in this process is setting up React. To set react, perform
 the following steps:
 
@@ -4938,7 +4941,7 @@ to debug as the code is minified, making it hard to read and understand.
 Source maps are a way to map the code back to its original source. 
 
 This makes debugging simpler and effective as it enables developers to test their 
-code in the same manner they would if it weren\'t bundled. 
+code in the same manner they would if it weren&apos;t bundled. 
 
 Hence, source maps provide an easier way to debug and understand the code, 
 especially in complex web development projects.
@@ -5134,7 +5137,7 @@ individually registered to particular web properties.
 
 ## What is an SSL Certificate?
 
-SSL stands for Secure Sockets Layer, and, in short, it\'s the standard
+SSL stands for Secure Sockets Layer, and, in short, it&apos;s the standard
 technology for keeping an internet connection secure and safeguarding
 any sensitive data that is being sent between two systems, preventing
 criminals from reading and modifying any information transferred,
@@ -5276,7 +5279,7 @@ Web optimization impacts the crucial factors that determine website
 success. 
 
 The first factor is conversion rate. This metric is crucial for
-a business\'s success as it indicates that the target audience completes
+a business&apos;s success as it indicates that the target audience completes
 the actions you want them to perform, such as purchasing a product,
 subscribing to a newsletter, registering for a webinar, or downloading a
 step-by-step guide. The higher the conversion rate, the faster the
@@ -5502,10 +5505,10 @@ website.
   style="width:500px;"/>
 </p>
 
-Let\'s start with page speed optimization tools. A slow website can
+Let&apos;s start with page speed optimization tools. A slow website can
 drive users away and affect search rankings. Web page speed tools do not
 automatically fix your slow site. Instead, they measure the page speed
-and show you what\'s slowing it down. You\'ll be able to determine how
+and show you what&apos;s slowing it down. You&apos;ll be able to determine how
 to improve page load times by implementing certain measures. These
 include: Reducing and compressing HTML, CSS, JavaScript, and images,
 Caching content, and Using faster hosting servers.
@@ -5553,7 +5556,7 @@ TryMyUI, and UsabilityHub.
   style="width:500px;"/>
 </p>
 
-Let\'s look at mobile optimization tools now. Mobile-first optimization
+Let&apos;s look at mobile optimization tools now. Mobile-first optimization
 can help you ensure that users see your site properly on smartphones and
 tablets, as more people use mobile devices than desktop computers to
 browse the web. Pop-ups, image-heavy pages, and small texts can make
@@ -5736,7 +5739,7 @@ render the front-end unusable. and performance evaluations.
   style="width:500px;"/>
 </p>
 
-Let\'s now explore the various components of a testing framework. Let's
+Let&apos;s now explore the various components of a testing framework. Let's
 first learn about testing data management. The most
 challenging aspect of software testing automation is gathering data and
 extracting useful information. The availability of data to conduct tests
@@ -5764,7 +5767,7 @@ intended.
 Finally, let's learn about behavior-driven development (BBD).
 BDD is not related to development. It's a collection of best practices.
 BDD enables you to write great test cases when those practices are
-applied to automation testing. It\'s written in an English-like language
+applied to automation testing. It&apos;s written in an English-like language
 that everyone can understand. It helps turn scenarios and expected
 behavior features into code. BDD allows code to be aligned with the
 intent and scope of automated tests.
@@ -5776,7 +5779,7 @@ intent and scope of automated tests.
   style="width:500px;"/>
 </p>
 
-Let\'s look at some of the benefits of the testing framework.
+Let&apos;s look at some of the benefits of the testing framework.
 
 The first benefit is that testing frameworks help to make the project more agile.
 When you add a new feature, you may need to change the old code.
@@ -5971,7 +5974,7 @@ fails.
 
 If a code throws an exception, it is marked as failed as well. It will
 report a pass if everything runs smoothly and all assertions are valid.
-Because of Node\'s asynchronous behavior, Mocha can also notify you if
+Because of Node&apos;s asynchronous behavior, Mocha can also notify you if
 your tests run too long.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5981,7 +5984,7 @@ your tests run too long.
   style="width:500px;"/>
 </p>
 
-Let\'s take a look at some of the advantages of using the Mocha testing
+Let&apos;s take a look at some of the advantages of using the Mocha testing
 framework. It encourages Test Driven Development (TDD) and Behavior
 Driven Development (BDD). It runs tests serially, and the results are
 always accurate. It can be configured to run test cases in the web
@@ -6008,7 +6011,7 @@ configure re-running failed tests.
   style="width:500px;"/>
 </p>
 
-The following are some of Mocha\'s drawbacks. The developer must spend
+The following are some of Mocha&apos;s drawbacks. The developer must spend
 time configuring the Mocha framework. Snapshot testing is not supported
 by default; you must rely on external libraries. Despite having good
 documentation, the search feature is not user-friendly. Since you need
@@ -6026,7 +6029,7 @@ Mocha is slow to release new features and support developer tools. Mocha
 requires more configuration than other frameworks, making it less
 flexible. In the case of Mocha, if you cannot afford flexibility, you
 must explicitly select an assertion library. Mocha snapshot testing can
-be challenging. To do it correctly, you\'ll need to use the
+be challenging. To do it correctly, you&apos;ll need to use the
 chai-jest-snapshot library.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6052,8 +6055,8 @@ Edge, as well as Node.
   style="width:500px;"/>
 </p>
 
-Jasmine has many features, including: It\'s fast, has low overhead, and
-has no external dependencies. It\'s a batteries-included library with
+Jasmine has many features, including: It&apos;s fast, has low overhead, and
+has no external dependencies. It&apos;s a batteries-included library with
 everything you need to test your code. It is available for both Node and
 browser. It is compatible with other languages, such as Python and Ruby.
 
@@ -6100,7 +6103,7 @@ test doubles.
   style="width:500px;"/>
 </p>
 
-Now, let\'s look at the main disadvantages of using Jasmine they are:
+Now, let&apos;s look at the main disadvantages of using Jasmine they are:
 Asynchronous testing is difficult. All test files must have a specific
 suffix.
 
@@ -6111,7 +6114,7 @@ suffix.
   style="width:500px;"/>
 </p>
 
-Now that we\'ve learned about the Mocha and Jasmine frameworks, let\'s
+Now that we&apos;ve learned about the Mocha and Jasmine frameworks, let&apos;s
 compare them. Jasmine includes an assertion library, whereas Mocha must
 be combined with other assertion libraries. Jasmine and Mocha both have
 command-line test runners. For reporting, Jasmine creates
@@ -6130,8 +6133,8 @@ Jasmine does not include built-in support for rerunning a failed test,
 whereas Mocha does. Slow tests can be highlighted in Jasmine using
 jasmine-slow-reporter, whereas Mocha has built-in support. Asynchronous
 testing is challenging in Jasmine but simple in Mocha. Jasmine and Mocha
-both support parallel execution. Jasmine\'s plug-in support and
-extensibility are limited, whereas Mocha\'s are good.
+both support parallel execution. Jasmine&apos;s plug-in support and
+extensibility are limited, whereas Mocha&apos;s are good.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6290,10 +6293,10 @@ specific sequence of calls that must be made in order to render and test
 a full instance of your component.
 
 Discover how to use new matchers and utilities. Finally, as needed, add
-new React test utils methods and Jasmine matchers. You don\'t have to be
+new React test utils methods and Jasmine matchers. You don&apos;t have to be
 familiar with every matcher and method in the React test utilities.
 
-After you\'ve mastered the basics of writing unit tests, you can move on
+After you&apos;ve mastered the basics of writing unit tests, you can move on
 to using React event simulation and Jasmine spies to see what happens
 when users interact with your components.
 
@@ -6341,7 +6344,7 @@ After reading this module (29), you will be able to:
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
--   Identify what aspect of an application\'s front end should be
+-   Identify what aspect of an application&apos;s front end should be
     tested, and
 
 -   List some of the best front-end testing practices.
@@ -6357,7 +6360,7 @@ After reading this module (29), you will be able to:
 
 The front end of a program is the client-side section. Front-end testing
 is the process of testing the usability and functionality of an
-application\'s graphical user interface (GUI). This usually includes
+application&apos;s graphical user interface (GUI). This usually includes
 validating menus, forms, buttons, and other application elements visible
 to end users. Every web application is built with a three-tier
 architecture. Clients, servers, and information systems or resources are
@@ -6406,7 +6409,7 @@ consistent and that the front-end functionality is intact.
 Next, if a bug is discovered, whether by your team or by users, you need
 to fix it and prevent its recurrence unexpectedly by adding an
 additional test suite through front-end testing. Finally, a thorough
-explanation of the test\'s functionality is necessary when writing
+explanation of the test&apos;s functionality is necessary when writing
 tests. Front-end testing helps in keeping well-maintained tests which is
 beneficial as they serve as live documentation.
 
@@ -6418,14 +6421,14 @@ beneficial as they serve as live documentation.
   style="width:500px;"/>
 </p>
 
-Let us now try to understand which aspects of an application\'s front
+Let us now try to understand which aspects of an application&apos;s front
 end you need to focus on while performing front-end testing. When
 testing cross-browser and cross-platform functionality, you should look
-at your app\'s features and its responsiveness across different
+at your app&apos;s features and its responsiveness across different
 browsers, platforms, and devices. Accessibility checks help you
 determine whether everyone, including those with visual or auditory
 impairments, can use the application. End-to-end checks are required for
-checking and confirming the application\'s back-end to front-end
+checking and confirming the application&apos;s back-end to front-end
 workflow by simulating real-world actions that users are likely to take.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6440,7 +6443,7 @@ optimize the images to help the app run faster. Most websites and apps
 these days have a large number of images, which significantly increases
 the size of the application. CSS testing ensures the performance of two
 important CSS elements: syntax and display. While syntax is more of a
-developer\'s day-to-day responsibility, displayed views must be tested
+developer&apos;s day-to-day responsibility, displayed views must be tested
 for regression after changes to specific parts of the app.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6450,7 +6453,7 @@ for regression after changes to specific parts of the app.
   style="width:500px;"/>
 </p>
 
-Now we\'ll explore some of the best front-end testing practices. These
+Now we&apos;ll explore some of the best front-end testing practices. These
 include: Focusing on front-end elements, using actual browsers and
 devices, Performing deterministic tests, striving for coverage and not
 100% code coverage, Encouraging shorter and more readable unit tests,
@@ -6466,7 +6469,7 @@ Keeping tests independent, and Testing a variety of input parameters.
 Let us now discuss each in detail. Focusing on front-end elements
 Front-end testing involves examining and validating hundreds or
 thousands of UI and functional elements. Before moving on to graphics
-and pop-ups, it\'s a good idea to test the page load speed, basic text,
+and pop-ups, it&apos;s a good idea to test the page load speed, basic text,
 images, and essential functions. Using actual browsers and devices Use
 real browsers and devices instead of emulators and simulators to save
 time and money and enhance the reliability of your software testing
@@ -6485,7 +6488,7 @@ executed. A non-deterministic test passes and fails randomly.
 Non-deterministic tests can be handled in a variety of ways, including
 polling, fake timers, and mocks. Striving for coverage and not 100% code
 coverage In theory, complete test coverage sounds like a great idea.
-However, it doesn\'t work in practice. A high level of test coverage
+However, it doesn&apos;t work in practice. A high level of test coverage
 provides a false sense of security. Good tests are simple to maintain
 and provide you with the confidence to make changes to your code.
 
@@ -6530,7 +6533,7 @@ Jasmine.
 In this module (29), you learned that:
 
 -   Front-end testing is the process of testing the usability and
-    functionality of an application\'s GUI,
+    functionality of an application&apos;s GUI,
 
 -   It validates menus, forms, buttons, and other app elements visible
     to users,
@@ -6538,7 +6541,7 @@ In this module (29), you learned that:
 -   It provides accurate interactions, offers accessibility, ensures
     consistent behavior and others,
 
--   There are certain aspects of an application\'s front end that need
+-   There are certain aspects of an application&apos;s front end that need
     to be focused on while performing front-end testing, and
 
 -   Front-end testing tools ensure proper functionality of critical
@@ -6591,7 +6594,7 @@ In this module, you learned that:
     stand-alone, ruby gem, and Node.js.
 
 -   Front-end testing is the process of testing the usability and
-    functionality of an application\'s GUI.
+    functionality of an application&apos;s GUI.
 
 -   Front-end testing tools ensure proper functionality of the critical
     elements of a web page.
@@ -6666,8 +6669,8 @@ program.
   style="width:500px;"/>
 </p>
 
-Let\'s try to understand why bugs occur in JavaScript. If your script
-isn\'t working, first check the punctuation. Ensure there is a closing
+Let&apos;s try to understand why bugs occur in JavaScript. If your script
+isn&apos;t working, first check the punctuation. Ensure there is a closing
 bracket for every opening bracket. Second, check the character string.
 Always enclose the text in quotation marks when working on JavaScript.
 You can either use single or double quotation marks to enclose the text.
@@ -6708,7 +6711,7 @@ production logs, you must establish some testing guidelines before
 replicating any circumstances of an issue. The operating system,
 production database, and user accounts are all replicated in this
 process. After identifying the conditions, you believe will result in
-the exception or error you\'re looking for, you must put them to the
+the exception or error you&apos;re looking for, you must put them to the
 test. Development and staging environments are breakable without
 affecting end users, therefore, you should always try to break your code
 in a safe environment.
@@ -6722,7 +6725,7 @@ in a safe environment.
 
 Next, you need to log more data to diagnose the problem. You can observe
 everything before and after the issue arises. The issues you are facing
-likely have possible warnings attached to them, which don\'t always
+likely have possible warnings attached to them, which don&apos;t always
 appear in the logs by default. Every error is difficult to reproduce,
 and replicating them in a non-production environment can be difficult
 due to time constraints or other factors. Return to the first step and
@@ -6941,7 +6944,7 @@ good indicator of what the issue is, as the program terminates as soon
 as an assertion fails.
 
 The next strategy is backtracking. This involves starting at the
-problem\'s origin and working your way back through the code to
+problem&apos;s origin and working your way back through the code to
 determine how it occurred.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7008,7 +7011,7 @@ checks. These are simple to fix after they are identified.
   style="width:500px;"/>
 </p>
 
-While a program\'s high-level algorithm may follow the correct logic,
+While a program&apos;s high-level algorithm may follow the correct logic,
 some low-level, tangible data structures may be mishandled, violating
 certain internal representation invariants. This can lead to
 implementation errors. The programmer must reconsider the algorithm if
@@ -7069,8 +7072,8 @@ serves as a \"trail\" of function calls. This allows you to see how
   style="width:500px;"/>
 </p>
 
-Breakpoints instruct the debugger where to \"stop\" your program\'s
-execution so that you can see what\'s happening. This enables you to
+Breakpoints instruct the debugger where to \"stop\" your program&apos;s
+execution so that you can see what&apos;s happening. This enables you to
 access the proper location in your application quickly rather than going
 through the entire program. Computers can only perform one task at a
 time. As a result, computers follow the concept of the \"current line\"
@@ -7142,7 +7145,7 @@ In this module, we will
 
 -   Gain access to other FTP source files, and
 
--   Assess a web page\'s accessibility.
+-   Assess a web page&apos;s accessibility.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7235,7 +7238,7 @@ a network, a debugger, a page element inspector, and a network traffic
 monitor. The JavaScript debugging tools provided by Chrome are
 comparable to the developer tools in Safari. All browser developer tools
 are progressively getting better as they become better equipped to
-fulfill developers\' demands.
+fulfill developers&apos; demands.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7274,7 +7277,7 @@ click.
 This is the most commonly used JavaScript console method. Error handling
 or throwing are not done using this method. Instead, it is employed to
 print statements in the console. There is console.log() which is the
-most common one you\'ll see.
+most common one you&apos;ll see.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image396.webp"
@@ -7283,7 +7286,7 @@ most common one you\'ll see.
 </p>
 
 When debugging Java applications, you do not always need to use an IDE.
-Visual Studio Code, Microsoft\'s cross-platform source code editor, also
+Visual Studio Code, Microsoft&apos;s cross-platform source code editor, also
 supports Java debugging via a simple debugger for Java extensions.
 Visual studio code is an excellent option if you already use it for
 development and require a compact and user-friendly Java debugging tool.
@@ -7329,7 +7332,7 @@ After reading this module (33), you will be able to:
 
 -   Describe Chrome DevTools and its various panels, and
 
--   Determine how to access some of the panels\' features.
+-   Determine how to access some of the panels&apos; features.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -7353,7 +7356,7 @@ add breakpoints to detect issues, and debug their code quickly.
   style="width:500px;"/>
 </p>
 
-There are eleven panels in the DevTools UI. Here\'s a quick listing of
+There are eleven panels in the DevTools UI. Here&apos;s a quick listing of
 what each panel oversees.
 
 Elements: Examine and modify DOM nodes and style attributes.
@@ -7367,7 +7370,7 @@ Performance: Evaluate speed and optimization Memory: Monitor memory
 usage and resolve any issues that arise. Application: Examine local
 Storage, session Storage, cookies, Index DB, and so on. Security: Debug
 certificate issues and other security concerns Lighthouse: Examine the
-app\'s quality, performance, accessibility, SEO, and so on. Recorder
+app&apos;s quality, performance, accessibility, SEO, and so on. Recorder
 panel: Helps you can record the checkout flow once and measure it
 regularly Performance Insights panel: Highlights the key insights in the
 Insights pane, with actionable feedback on how to fix issues.
@@ -7379,7 +7382,7 @@ Insights pane, with actionable feedback on how to fix issues.
   style="width:500px;"/>
 </p>
 
-Let\'s first try to understand how to access Chrome DevTools. To access
+Let&apos;s first try to understand how to access Chrome DevTools. To access
 Chrome DevTools: Right-click on any website and select \"inspect." The
 DevTools will open the Elements panel and highlight the selected DOM
 element. To open the console panel, use the keyboard shortcut CMD +
@@ -7392,7 +7395,7 @@ Option + J on Mac or CTRL + SHIFT + J on Windows.
   style="width:500px;"/>
 </p>
 
-Let\'s now learn how to access the elements panel. To access the
+Let&apos;s now learn how to access the elements panel. To access the
 elements panel: Right-click any element on the page and select
 \"inspect\" or Click on the elements panel inside Chrome DevTools. That
 element should now be highlighted in the DOM tree.
@@ -7415,7 +7418,7 @@ you want to inspect.
   style="width:500px;"/>
 </p>
 
-Now that we know how to access the Elements panel let\'s look at how to
+Now that we know how to access the Elements panel let&apos;s look at how to
 use it to edit HTML and CSS. We will first look at how to edit HTML.
 When you right-click on an element and choose \"Edit as HTML,\" you are
 presented with a text field in which you can fully edit the HTML content
@@ -7429,8 +7432,8 @@ around any element on the page.
   style="width:500px;"/>
 </p>
 
-Since these changes aren\'t saved in your application\'s source code,
-they\'re ideal for quickly testing a new HTML structure without adding
+Since these changes aren&apos;t saved in your application&apos;s source code,
+they&apos;re ideal for quickly testing a new HTML structure without adding
 and deleting these elements in your code. Simply refreshing the page
 allows you to edit the same component multiple times. You can easily
 delete and reorder elements in addition to editing them.
@@ -7467,7 +7470,7 @@ actual code of your live website is not altered.
   style="width:500px;"/>
 </p>
 
-Let\'s now understand the process of setting a breakpoint in your codes.
+Let&apos;s now understand the process of setting a breakpoint in your codes.
 To create a breakpoint: Click on the side of the file near the line
 number and Run the code that will trigger the breakpoint. The
 highlighted line of code indicates that the code has paused execution on
@@ -7522,7 +7525,7 @@ a set of criteria.
 </p>
 
 For example, this instruction will look for all properties in the
-document object that match get: grep(document, \'get\');
+document object that match get: grep(document, &apos;get&apos;);
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7564,7 +7567,7 @@ of the DevTools. Lastly, choose your preferred mobile device.
 
 The webpage is then rendered and adjusted to fit the size of the mobile
 device you chose. Aside from debugging JavaScript, Chrome DevTools
-includes a feature that allows you to assess your website\'s overall
+includes a feature that allows you to assess your website&apos;s overall
 performance based on specific parameters. To use that feature, follow
 these steps: In the DevTools window, select the Lighthouse option. Next,
 choose the parameters you want to test. Select either Mobile or Desktop
@@ -7684,7 +7687,7 @@ real user monitoring.
 Let's discuss each of them in detail. Automated monitoring means
 monitoring the performance and availability of a web application by
 simulating real user interactions with it. A network of computers
-situated close to the site\'s end users is used for automated website
+situated close to the site&apos;s end users is used for automated website
 monitoring. This checkpoint network communicates with a website or
 service to confirm that it performs as intended. The checkpoint performs
 various steps to complete the process of web monitoring.
@@ -7700,13 +7703,13 @@ Let's discuss each step in detail. The first step that the checkpoint
 performs is configuration. The checkpoint initiates a connection with
 the website or service and checks the website at specific intervals. The
 second step is testing. The checkpoint tests the website by sending
-requests to the server and evaluating the server\'s response time. Other
+requests to the server and evaluating the server&apos;s response time. Other
 website features are also examined by the program, including error
 rates, page load times, and server resource utilization. Next, the
 checkpoint checks the return for specified content. The fourth step is
 Real Browser Monitoring (RBM). The checkpoint loads the content into a
 real browser. RBM launches a browser and monitors a web application,
-mimicking the user\'s interaction with the site.
+mimicking the user&apos;s interaction with the site.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7716,7 +7719,7 @@ mimicking the user\'s interaction with the site.
 </p>
 
 After real browser monitoring is completed, the checkpoint collects the
-data on the website\'s performance and availability and stores it in a
+data on the website&apos;s performance and availability and stores it in a
 database for analysis. The load time of each element of the page is
 recorded when the browser loads the page. This is called performance
 monitoring. After performance monitoring is completed, web application
@@ -7726,7 +7729,7 @@ attempts to sign in, carry out a search, use a shopping cart, or even
 finish a transaction while performing web application monitoring.
 Finally, the checkpoint reports its findings to the monitoring service
 and uses the information to resolve any issues and improve the
-website\'s performance and availability.
+website&apos;s performance and availability.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7820,7 +7823,7 @@ Lookup Speed, Bounce Rate, and Requests Per Second.
   style="width:500px;"/>
 </p>
 
-Let's discuss each of them. A page\'s speed is determined by its loading
+Let's discuss each of them. A page&apos;s speed is determined by its loading
 time and consists of three different metrics: Server response time,
 which is the time the server takes to respond and is also called time to
 first byte (TTFB); Transfer time, which is the time taken to download an
@@ -7836,7 +7839,7 @@ HTML web page; and Time taken to render a web page in a browser.
 Time to Title is the time that a website's title takes to appear in a
 browser. 
 Time to Start Render is the time the content takes to begin
-loading, even if it doesn\'t fully load after an individual makes a
+loading, even if it doesn&apos;t fully load after an individual makes a
 request. 
 Time to Interact measures the time taken before users are able
 to click links, type in text fields, scroll, or interact with a website
@@ -7919,7 +7922,7 @@ After reading this module (35), you will be able to:
   style="width:500px;"/>
 </p>
 
-Your website\'s effectiveness directly impacts your business, so
+Your website&apos;s effectiveness directly impacts your business, so
 choosing the best website monitoring service is essential. Monitoring
 tools run regular tests and notify you when your site is down, making
 identifying and resolving problems easier. There are numerous options
@@ -7962,7 +7965,7 @@ and New Relic.
   style="width:500px;"/>
 </p>
 
-Let\'s discuss each in detail. Pingdom is a paid uptime monitoring
+Let&apos;s discuss each in detail. Pingdom is a paid uptime monitoring
 service that sends detailed alerts whenever an application or website
 goes down. It provides a wide range of capabilities, including SSL
 certificate monitoring and website performance monitoring, and has an
@@ -8006,7 +8009,7 @@ OpsGenie, Telegram, and VictorOps.
 </p>
 
 Datadog Synthetics tests allow you to proactively monitor your API
-endpoints and send alerts based on predefined parameters. You\'ll be
+endpoints and send alerts based on predefined parameters. You&apos;ll be
 able to break down network timings, allowing you to find the underlying
 cause of your problems faster. These tests can be integrated directly
 into your CI pipeline to ensure early problem detection, allowing you to
@@ -8039,7 +8042,7 @@ Site 24x7 provides website performance monitoring via periodic checks
 from 90 locations worldwide. A subscription is required to use this
 platform for cloud-based website monitoring. A Domain Expiry Monitor, an
 SSL/TLS Certificate Monitor, and a Website Defacement Monitor detect
-errors in your website\'s code. DNS fetches, connection establishment
+errors in your website&apos;s code. DNS fetches, connection establishment
 times, first-byte time, download time, and SSL handshake time are all
 included in performance timings.
 
@@ -8064,7 +8067,7 @@ launch locations, DNS checks, and SSL certificate verification.
 Uptrends is a website monitoring service that also monitors network and
 internet performance. As a remote server, it can access your web
 servers while masquerading as a user and report on its findings. It can
-even test your competitors\' websites and tell you how theirs performs
+even test your competitors&apos; websites and tell you how theirs performs
 compared to yours. DNS records and DNS fetch times are some other checks
 performed by Uptime. It also monitors SSL certificates to ensure that
 they do not become outdated.
@@ -8077,10 +8080,10 @@ they do not become outdated.
 
 It also monitors the performance of FTP servers for download delivery.
 The monitor also tracks user journeys through a site and records load
-times for each page visited. It will also evaluate your site\'s mobile
+times for each page visited. It will also evaluate your site&apos;s mobile
 friendliness.
 
-Performance tests are performed once every minute. The monitor\'s
+Performance tests are performed once every minute. The monitor&apos;s
 console displays real-time test results, which can also be exported to a
 PDF or Excel format. Uptrends stores test results for two years to allow
 for historical analysis.
@@ -8187,9 +8190,9 @@ In week 5, you learned that:
     code.
 
 -   It also allows you to switch between different mobile screen types
-    and versions and change the size of a webpage\'s screen.
+    and versions and change the size of a webpage&apos;s screen.
 
--   Website monitoring assesses a web service\'s functionality,
+-   Website monitoring assesses a web service&apos;s functionality,
     performance, and availability.
 
 -   Monitoring tools perform regular tests and send alerts when a
