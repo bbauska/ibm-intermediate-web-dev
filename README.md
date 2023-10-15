@@ -1,7 +1,7 @@
 ---
 title: "IBM's Intermediate Web & Front-end Development"
 author: "bbauska"
-date last editted: "8/11/2023 7+pm"
+date last editted: "10/15/2023 1+pm"
 output: 
   markdown:
     with_style
@@ -18,9 +18,6 @@ output:
   alt="Intermediate Web &amp; Front-end Development" 
   style="border: 2px solid  red;" 
   width="500" />
-<!--  style="box-shadow: 3px 3px 3px gray;"> -->
-<!--  style="drop-shadow: 0 3px 5px rgba(0, 0, 0, 0.4);" -->
-<!-- {width="5.0in" height="2.8327996500437447in"}  -->
 </p>
 
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
@@ -79,13 +76,13 @@ output:
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-<h1 name="ch1" style="margin:10px;">WEEK 1 - Content Management Systems (CMS's)</h1>
+<h1 name="ch1" style="margin:15px;">WEEK 1 - Content Management Systems (CMS's)</h1>
 
 <h2>01. Course Introduction</h2>
 
 https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction
 
-<h2 name="ch1-01" style="margin:10px">01. Introduction to Intermediate Web &amp; Front-End Development</h2>
+<h2 name="ch1-01" style="margin:15px">01. Introduction to Intermediate Web &amp; Front-End Development</h2>
 
 Hello and welcome to this course on Intermediate Web and Front-end
 Development. Are you interested in learning how to optimize your website
