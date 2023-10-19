@@ -19,11 +19,15 @@ body {
   display: table;
 }
 img {
-  margin-left: 5px;
-  margin-right: 5px;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  display: block;
+  margin: 0 auto;
 }
+/*  margin-left: 5px; */
+/*  margin-right: 5px; */
+/*  margin-top: 5px; */
+/*  margin-bottom: 5px; */
+/* } */
+
   .displayed {
     display: block;
     margin: 0 auto; }
@@ -47,7 +51,7 @@ img {
   }
 
   table {
-    border: 1px solid black;
+<!--    border: 1px solid black;  -->
     margin: 1em 0;
     border-collapse: collapse;
     width: 100%;
@@ -59,7 +63,7 @@ img {
     margin-bottom: 0.75em;
   }
   tbody {
-    border: 1px solid black;
+<!--    border: 1px solid black;  -->
     margin-top: 0.5em;
     border-top: 1px solid #1a1a1a;  /* very dark gray (mostly black) */
     border-bottom: 1px solid #1a1a1a;  /* very dark gray (mostly black) */
