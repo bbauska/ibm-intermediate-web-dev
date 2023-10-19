@@ -11,11 +11,6 @@ body {
   padding: 10px;
   margin-left: 10px;
 }
-.column {
-  float: left;
-  width: 45%;
-  padding: 5px;
-}
 
 /* clearfix (clear floats) */
 .row::after {
@@ -34,9 +29,7 @@ img {
     margin: 0 auto; }
 
   .border {
-    border-width: 1px;
-    border-color: #778899;  /* dark grayish blue */
-    border-style: solid; 
+    border: 2px solid #778899;  /* dark grayish blue */
   }
 
   /* margin: 1em 0 1em 1.7em; */
@@ -54,6 +47,7 @@ img {
   }
 
   table {
+    border: 1px solid black;
     margin: 1em 0;
     border-collapse: collapse;
     width: 100%;
@@ -65,15 +59,18 @@ img {
     margin-bottom: 0.75em;
   }
   tbody {
+    border: 1px solid black;
     margin-top: 0.5em;
     border-top: 1px solid #1a1a1a;  /* very dark gray (mostly black) */
     border-bottom: 1px solid #1a1a1a;  /* very dark gray (mostly black) */
   }
   th {
-    border-top: 1px solid #1a1a1a;  /* very dark gray (mostly black) */
+    border: 1px solid black;
+<!--    border-top: 1px solid #1a1a1a;  /* very dark gray (mostly black) */ -->
     padding: 0.25em 0.5em 0.25em 0.5em;
   }
   td {
+    border: 1px solid black;
     padding: 0.125em 0.5em 0.25em 0.5em;
   }
 
@@ -120,17 +117,6 @@ a.hover {
 a.hover:hover {
   color: #ffff00;  /* pure (or mostly pure) yellow */
   text-decoration: underline;
-
-}
-div {
-  float: left; 
-}
-
-/* h1 { */
-/*  font-size: 21px; */
-/*  text-align: left; */
-/*  margin-left: 10px; */
-/* } */
 
 h2 { 
   font-size: 20px;
@@ -180,18 +166,12 @@ p {
     margin: 1em;
     background: #fff;  /* white */
 }
-/*  p { */
-/*    font-size: 15px; */
-/*    font-family: Bahnschrift; */
-/*    margin-left: 30px; */
-/*  } */
 
 ul {
     display: table;
     margin: 0 auto;  /* centered */
     text-align: left;
     width: 30em;  /* was 40em, 20em */
-/*    margin: 1em; */
     padding: 0 0 0 1em;
     background: #ffffff;  /* now white - was light grayish lime green #d2f8d2 */
     overflow: hidden;  /* establish margin clearance for li */
