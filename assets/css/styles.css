@@ -1,4 +1,4 @@
-/* ibm-intermediate-web-dev / assets / css / styles.css */
+/* style.css of ibm-intermediate-web-dev/assets/css */
 * {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
   box-sizing: border-box;
@@ -23,7 +23,12 @@ body {
   clear: both;
   display: table;
 }
-
+img {
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
   .displayed {
     display: block;
     margin: 0 auto; }
