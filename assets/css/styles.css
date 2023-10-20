@@ -198,13 +198,3 @@ li {
     background-color: #f9f6ed;  /* very grayish yellow - lt brown - tablet */
   }
 }
-
-figure {
-  margin-top: 0;
-}
-figcaption {
-  text-align: center;
-}
-.picme {
-  column-count: 2;
-}
