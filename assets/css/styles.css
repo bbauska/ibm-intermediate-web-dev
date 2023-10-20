@@ -20,8 +20,7 @@ body {
 }
 
 img {
-  display: block;
-  margin: 0 auto;
+  width: 400px;
 }
 .displayed {
   display: block;
