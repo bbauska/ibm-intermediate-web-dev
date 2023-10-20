@@ -159,9 +159,6 @@ p {
   margin: 1em;
   background: #fff;  /* white */
 }
-ol {
-  line-height:140%;
-}
 ol, ul {
   display: table;
   margin: 0 auto;  /* centered */
@@ -173,9 +170,9 @@ ol, ul {
   line-height:140%;
 }
 li {
-    margin: 1em;
-    padding: .25em;
-    background: #fff;  /* white */
+  margin: 1em;
+  padding: .25em;
+  background: #fff;  /* white */
 }
 
 @media screen and (max-width: 480px) {
