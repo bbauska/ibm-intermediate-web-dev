@@ -18,16 +18,15 @@ body {
   clear: both;
   display: table;
 }
+
 img {
   display: block;
   margin: 0 auto;
 }
-
 .displayed {
   display: block;
   margin: 0 auto; 
 }
-
 .border {
   border: 2px solid #778899;  /* dark grayish blue */
 }
@@ -138,14 +137,6 @@ background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93
 .wrapper {
   margin: 0 auto;
   text-align: center;
-}
-.row {
-  display: flex;
-}
-/* create two equal columns that sit next to each other side-by-side */
-.column {
-  flex: 45%;
-  padding: 5px;
 }
 
 h1 {
