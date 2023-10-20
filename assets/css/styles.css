@@ -5,7 +5,6 @@
 }
 
 body {
-  background-color: #e8f4f8;  /* light grayish cyan - wide pc */
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   font-size: 15px;  /* 1.2rem; */
   text-align: left;
@@ -152,27 +151,23 @@ background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93
 h1 {
   font-size: 2em;
   margin: .5em;
-  background: #fff;  /* white */
 }
 p {
   font-family: Bahnschrift;
   margin: 1em;
   line-height: 120%;
-  background: #fff;  /* white */
 }
 ol, ul {
-  display: table;
-  margin: 0 auto;  /* centered */
+/*  display: table;  */
+/*  margin: 0 auto;  */
   text-align: left;
   width: 30em;  /* was 40em, 20em */
   padding: 0 0 0 1em;
-  background: #ffffff;  /* now white - was light grayish lime green #d2f8d2 */
   overflow: hidden;  /* establish margin clearance for li */
 }
 li {
   margin: 1em;
   padding: .25em;
-  background: #fff;  /* white */
 }
 
 @media screen and (max-width: 480px) {
