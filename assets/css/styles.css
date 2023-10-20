@@ -3,6 +3,7 @@
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
   box-sizing: border-box;
 }
+
 body {
   background-color: #e8f4f8;  /* light grayish cyan - wide pc */
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
@@ -22,62 +23,54 @@ img {
   display: block;
   margin: 0 auto;
 }
-/*  margin-left: 5px; */
-/*  margin-right: 5px; */
-/*  margin-top: 5px; */
-/*  margin-bottom: 5px; */
-/* } */
 
-  .displayed {
-    display: block;
-    margin: 0 auto; }
+.displayed {
+  display: block;
+  margin: 0 auto; 
+}
 
-  .border {
-    border: 2px solid #778899;  /* dark grayish blue */
-  }
+.border {
+  border: 2px solid #778899;  /* dark grayish blue */
+}
 
-  /* margin: 1em 0 1em 1.7em; */
-  blockquote {
-    margin: .5em 0 .5em .85em;
-    padding-left: 1em;
-    border-left: 2px solid #e6e6e6;  /* very light gray */
-    color: #606060;  /* very dark gray */
-  }
-  hr {
-    background-color: #1a1a1a;  /* very dark gray */
-    border: none;
-    height: 1px;
-    margin: 1em 0;
-  }
+blockquote {
+  margin: .5em 0 .5em .85em;
+  padding-left: 1em;
+  border-left: 2px solid #e6e6e6;  /* very light gray */
+  color: #606060;  /* very dark gray */
+}
+hr {
+  background-color: #1a1a1a;  /* very dark gray */
+  border: none;
+  height: 1px;
+  margin: 1em 0;
+}
 
-  table {
-<!--    border: 1px solid black;  -->
-    margin: 1em 0;
-    border-collapse: collapse;
-    width: 100%;
-    overflow-x: auto;
-    display: block;
-    font-variant-numeric: lining-nums tabular-nums;
-  }
-  table caption {
-    margin-bottom: 0.75em;
-  }
-  tbody {
-<!--    border: 1px solid black;  -->
-    margin-top: 0.5em;
-    border-top: 1px solid #1a1a1a;  /* very dark gray (mostly black) */
-    border-bottom: 1px solid #1a1a1a;  /* very dark gray (mostly black) */
-  }
-  th {
-    border: 1px solid black;
-    margin: 1em 0;
-<!--    border-top: 1px solid #1a1a1a;  /* very dark gray (mostly black) */ -->
-    padding: 0.25em 0.5em 0.25em 0.5em;
-  }
-  td {
-    border: 1px solid black;
-    padding: 0.125em 0.5em 0.25em 0.5em;
-  }
+table {
+  margin: 1em 0;
+  border-collapse: collapse;
+  width: 100%;
+  overflow-x: auto;
+  display: block;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+table caption {
+  margin-bottom: 0.75em;
+}
+tbody {
+  margin-top: 0.5em;
+  border-top: 1px solid #1a1a1a;  /* very dark gray (mostly black) */
+  border-bottom: 1px solid #1a1a1a;  /* very dark gray (mostly black) */
+}
+th {
+  border: 1px solid black;
+  margin: 1em 0;
+  padding: 0.25em 0.5em 0.25em 0.5em;
+}
+td {
+  border: 1px solid black;
+  padding: 0.125em 0.5em 0.25em 0.5em;
+}
 
 #myBtn {
   display: none;
@@ -104,25 +97,25 @@ pre {
   font-family: Consolas, monospace, monospace;
   font-size: 10px;
   margin-left: 10px;
-  }
+}
 pre > code {
   display: block;
   margin-left: 10px;
   padding: 1rem;
   word-wrap: normal;
-  }
+}
 
 a {
   text-decoration: none;
-  }
+}
 a.hover {
   color: #ffff00;  /* pure (or mostly pure) yellow */
   text-decoration: underline;
-  }
+}
 a.hover:hover {
   color: #ffff00;  /* pure (or mostly pure) yellow */
   text-decoration: underline;
-
+}
 h2 { 
   font-size: 20px;
   padding: 10px;
@@ -140,6 +133,7 @@ h5 {
 h6 { 
   font-size: 10px;
 }
+
 background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
 
 .wrapper {
@@ -155,37 +149,33 @@ background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93
   padding: 5px;
 }
 
-body {
-    font-size: 100&#37;;
-    margin: 0;
-    padding: 0;
-    background: #fff;  /* white */
-}
 h1 {
-    font-size: 2em;
-    margin: .5em;
-    background: #fff;  /* white */
+  font-size: 2em;
+  margin: .5em;
+  background: #fff;  /* white */
 }
 p {
-    font-family: Bahnschrift;
-    margin: 1em;
-    background: #fff;  /* white */
+  font-family: Bahnschrift;
+  margin: 1em;
+  background: #fff;  /* white */
 }
-
-ul {
-    display: table;
-    margin: 0 auto;  /* centered */
-    text-align: left;
-    width: 30em;  /* was 40em, 20em */
-    padding: 0 0 0 1em;
-    background: #ffffff;  /* now white - was light grayish lime green #d2f8d2 */
-    overflow: hidden;  /* establish margin clearance for li */
+ol {
+  line-height:140%;
+}
+ol, ul {
+  display: table;
+  margin: 0 auto;  /* centered */
+  text-align: left;
+  width: 30em;  /* was 40em, 20em */
+  padding: 0 0 0 1em;
+  background: #ffffff;  /* now white - was light grayish lime green #d2f8d2 */
+  overflow: hidden;  /* establish margin clearance for li */
+  line-height:140%;
 }
 li {
     margin: 1em;
     padding: .25em;
     background: #fff;  /* white */
-    line-height: 1.6;
 }
 
 @media screen and (max-width: 480px) {
