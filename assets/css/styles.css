@@ -157,6 +157,7 @@ h1 {
 p {
   font-family: Bahnschrift;
   margin: 1em;
+  line-height: 120%;
   background: #fff;  /* white */
 }
 ol, ul {
@@ -167,7 +168,7 @@ ol, ul {
   padding: 0 0 0 1em;
   background: #ffffff;  /* now white - was light grayish lime green #d2f8d2 */
   overflow: hidden;  /* establish margin clearance for li */
-  line-height:140%;
+  line-height: 140%;
 }
 li {
   margin: 1em;
