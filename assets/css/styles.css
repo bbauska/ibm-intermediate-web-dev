@@ -185,6 +185,7 @@ li {
     margin: 1em;
     padding: .25em;
     background: #fff;  /* white */
+    line-height: 1.35rem;
 }
 
 @media screen and (max-width: 480px) {
