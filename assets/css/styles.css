@@ -156,7 +156,7 @@ ol, ul {
   overflow: hidden;  /* establish margin clearance for li */
 }
 li {
-  margin: 1em;
+  margin: 2.5em;  /*was 1.0 */
   padding: .25em;
 }
 
