@@ -152,15 +152,15 @@ p {
 }
 ol, ul {
   text-align: left;
-  margin-left: 1rem;
+  margin-left: 15px;
   width: auto;  /* was 30em, 20em */
   padding: 0 0 0 1em;
   overflow: hidden;  /* establish margin clearance for li */
 }
 li {
-  margin-left: 1.5rem;
+  margin-left: 15px;
 /*  margin: 1.5rem;  last 2.5, first 1.0 */
-  padding: .25em;
+/*  padding: .25em; */
 }
 
 @media screen and (max-width: 480px) {
