@@ -151,7 +151,7 @@ p {
   line-height: 110%;
 }
 
-ol, ul {
+ol, ul li {
   padding: 15px;
   margin: 15px;
   line-height: 150%;
