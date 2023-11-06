@@ -152,8 +152,8 @@ p {
 }
 
 ol, ul {
-  padding: 10px;
-  margin: 10px;
+  padding: 15px;
+  margin: 15px;
   line-height: 150%;
   overflow: hidden;  /* establish margin clearance for li */
 }
