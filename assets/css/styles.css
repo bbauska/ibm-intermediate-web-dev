@@ -21,13 +21,13 @@ body {
 img {
   width: 400px;
 }
-.displayed {
-  display: block;
-  margin: 0 auto; 
-}
-.border {
-  border: 2px solid #778899;  /* dark grayish blue */
-}
+  .displayed {
+    display: block;
+    margin: 0 auto; 
+  }
+  .border {
+    border: 2px solid #778899;  /* dark grayish blue */
+  }
 
 blockquote {
   margin: .5em 0 .5em .85em;
@@ -83,7 +83,6 @@ td {
   padding: 10px;
   border-radius: 1px;
 }
-
 #myBtn:hover {
   background-color: #555;  /* very dark gray */
 }
@@ -112,6 +111,7 @@ a.hover:hover {
   color: #ffff00;  /* pure (or mostly pure) yellow */
   text-decoration: underline;
 }
+
 h2 { 
   font-size: 20px;
   margin-left: 1rem;
@@ -132,6 +132,10 @@ h6 {
   font-size: 10px;
   margin-left: 1rem;
 }
+h1 {
+  font-size: 2em;
+  margin-left: 1rem;
+}
 
 background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
 
@@ -140,10 +144,6 @@ background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93
   text-align: center;
 }
 
-h1 {
-  font-size: 2em;
-  margin-left: 1rem;
-}
 p {
   font-family: Bahnschrift;
   margin-left: 1rem;
@@ -159,8 +159,7 @@ ol, ul {
 }
 li {
   margin-left: 15px;
-/*  margin: 1.5rem;  last 2.5, first 1.0 */
-/*  padding: .25em; */
+  line-height: 130%;
 }
 
 @media screen and (max-width: 480px) {
