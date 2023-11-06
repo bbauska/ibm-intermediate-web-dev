@@ -149,7 +149,25 @@ p {
   margin-left: 10px;
   line-height: 110%;
 }
-
+/**/
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-top: 1em;
+  margin-bottom: 1 em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 10px;
+  line-height: 130%;
+}
+ol {
+  display: block;
+  margin-bottom: 1 em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 10px;
+}
+/*
 ol li {
   padding: 10px;
   margin: 10px;
@@ -160,6 +178,7 @@ ul li {
   margin: 10px;
   line-height: 130%;
 }
+*/
 <!--  overflow: hidden;  /* establish margin clearance for li */ -->
 
 @media screen and (max-width: 480px) {
