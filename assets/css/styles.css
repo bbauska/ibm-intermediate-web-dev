@@ -151,12 +151,17 @@ p {
   line-height: 110%;
 }
 
-ol, ul li {
+ol li {
   padding: 15px;
   margin: 15px;
   line-height: 150%;
-  overflow: hidden;  /* establish margin clearance for li */
 }
+ul li {
+  padding: 15px;
+  margin: 15px;
+  line-height: 150%;
+}
+<!--  overflow: hidden;  /* establish margin clearance for li */ -->
 
 @media screen and (max-width: 480px) {
   body {
