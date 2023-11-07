@@ -145,11 +145,11 @@ background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93
 }
 
 p {
-  font-family: Bahnschrift;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   margin-left: 10px;
   line-height: 110%;
 }
-/**/
+
 ul {
   list-style-type: disc;
   margin-top: 1em;
@@ -163,19 +163,6 @@ ol {
   margin-left: 10px;
   margin-right: 20px;
 }
-/*
-ol li {
-  padding: 10px;
-  margin: 10px;
-  line-height: 130%;
-}
-ul li {
-  padding: 10px;
-  margin: 10px;
-  line-height: 130%;
-}
-*/
-<!--  overflow: hidden;  /* establish margin clearance for li */ -->
 
 @media screen and (max-width: 480px) {
   body {
