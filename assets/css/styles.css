@@ -1,4 +1,4 @@
-/* style.css of ibm-intermediate-web-dev/assets/css */
+/* styles.css of ibm-intermediate-web-dev/assets/css */
 * {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
   box-sizing: border-box;
@@ -151,19 +151,17 @@ p {
 }
 /**/
 ul {
-  display: block;
   list-style-type: disc;
   margin-top: 1em;
   margin-bottom: 1 em;
   margin-left: 10px;
-  margin-right: 0;
+  margin-right: 20px;
   line-height: 130%;
 }
 ol {
-  display: block;
   margin-bottom: 1 em;
   margin-left: 10px;
-  margin-right: 0;
+  margin-right: 20px;
 }
 /*
 ol li {
