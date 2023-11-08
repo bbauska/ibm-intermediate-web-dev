@@ -1,7 +1,7 @@
 https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction
 
-![](./assets/images/image1.png){width="5.0in"
-height="2.8327996500437447in"}
+<h2>High-level View of Web Development</h2>
+![](./assets/images/image001.png)
 
 # **Table of Contents** {#table-of-contents .TOC-Heading}
 
