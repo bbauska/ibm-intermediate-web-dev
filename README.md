@@ -20,8 +20,7 @@ output:
   width="500" />
 </p>
 
-[![readme](./images/image001.webp](github.com/bbauska/ibm-intermediate-webi-dev/edit/main/README.md)
-
+[![readme](./images/image001.webp](github.com/bbauska/ibm-intermediate-web-dev)
 
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
 
