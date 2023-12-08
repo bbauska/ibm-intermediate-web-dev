@@ -20,7 +20,7 @@ output:
   width="500" />
 </p>
 
-[![Intermediate Web &amp; Front-end Development](/assets/images/image001.webp width="50%" height="auto" 'Intermediate Web &amp; Front-end Development.')](https://ibm-web-dev.bauska.org)
+[![Intermediate Web &amp; Front-end Development](/assets/images/image001.webp 'Intermediate Web &amp; Front-end Development.') width="50%"](https://ibm-web-dev.bauska.org)
 
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
 
