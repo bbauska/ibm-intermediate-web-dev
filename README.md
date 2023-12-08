@@ -14,6 +14,13 @@ output:
 
 <!-- https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction -->
 
+<style>
+.custom-image {
+  width: 300px;
+  height: auto;
+}
+</style>
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of ibm-web-dev.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -21,7 +28,7 @@ output:
   <img src="./assets/images/image001.webp" 
   alt="Intermediate Web &amp; Front-end Development." 
   style="border: 2px solid #000000;" 
-  width="500" />
+  class="custom-image" />
 </p>
 
 [![Intermediate Web &amp; Front-end Development](/assets/images/image001.webp 'Intermediate Web &amp; Front-end Development.') width="50%"](https://ibm-web-dev.bauska.org)
