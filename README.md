@@ -20,6 +20,8 @@ output:
   width="500" />
 </p>
 
+[![A mushroom-head robot](/assets/images/image001.webp 'Codey the Codecademy mascot')](https://codecademy.com)
+
 [![readme](https://github.com/bbauska/ibm-intermediate-web-dev/tree/main/assets/images/image001.webp)](github.com/bbauska/ibm-intermediate-web-dev)
 
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
