@@ -20,7 +20,7 @@ output:
   width="500" />
 </p>
 
-[![A mushroom-head robot](/assets/images/image001.webp 'Codey the Codecademy mascot')](https://codecademy.com)
+[![A mushroom-head robot](/assets/images/image001.webp 'Intermediate Web &amp; Front-end Development.')](https://ibm-web-dev.bauska.org)
 
 [![readme](https://github.com/bbauska/ibm-intermediate-web-dev/tree/main/assets/images/image001.webp 'image 001')](https://github.com/bbauska/ibm-intermediate-web-dev)
 
