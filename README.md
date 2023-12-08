@@ -20,6 +20,9 @@ output:
   width="500" />
 </p>
 
+[![readme](./images/image001.webp](github.com/bbauska/ibm-intermediate-webi-dev/edit/main/README.md)
+
+
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
 
 ## [**Week 1: Content Management Systems (CMS)**](#ch1)
