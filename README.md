@@ -8,6 +8,10 @@ output:
 ---
 <!-- [IBM's Intermediate Web and Front-End Development by Coursera](https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction) -->
 
+{:refdef: style="width: 10px; height: 10px"}
+[![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)](./somelink)
+{: refdef}
+
 <!-- https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction -->
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
