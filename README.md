@@ -23,7 +23,7 @@ output:
   <img src="./assets/images/image001.webp" 
   alt="Intermediate Web &amp; Front-end Development." 
   style="border: 2px solid #000000;" 
-  class="custom-image" />
+  width="30%" />
 </p>
 
 <!-- [![Intermediate Web &amp; Front-end Development](/assets/images/image001.webp 'Intermediate Web &amp; Front-end Development.')](https://ibm-web-dev.bauska.org) -->
