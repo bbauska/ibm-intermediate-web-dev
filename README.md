@@ -113,10 +113,10 @@ test maintenance costs and risks. Learning the fundamentals presented
 here is the first step towards a long and rewarding career as a web
 developer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02.  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. course requirements (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image002.webp"
-  alt="To complete this course, you should be familiar with the following knowledge."
+  alt="To complete this course, you should know basic web development technology."
   style="border: 2px solid #000000;" 
   width="500" />
 </p>
@@ -142,7 +142,7 @@ improve your skills as a front-end developer and understand the
 technical aspect of web and front-end application development.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~ 03. when you complete this course, you will be able to (xx) ~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 03. when you complete this course, you will be able to (02) ~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image003.webp"
   alt="When you complete this course, you will be able to:"
@@ -198,10 +198,9 @@ Welcome to "Introduction to Content Management System (CMS)"
 <!--~~~~~~~~~~ 05. define cms, list cms platforms and recognize benefits of cms (xx) ~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image005.webp"
-    alt="After reading, you will be able to: Define CMS, List several CMS platforms and Recognize the benefits of using CMS."
-    width="500" />
+  alt="After reading, you will be able to: Define CMS, List several CMS platforms and Recognize the benefits of using CMS."
+  width="500" />
 </p>
-<!-- {width="5.0in" height="2.5576924759405073in"} -->
 
 After reading this module (02), you will be able to:
 
@@ -219,10 +218,9 @@ After reading this module (02), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~ 06. what is content management system? (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image006.webp"
-    alt="What is Content Management System?"
-    style="width:500px;"/>
+  alt="What is Content Management System?"
+  style="width:500px;"/>
 </p>
-<!-- {width="5.0in" height="2.7841885389326335in"} -->
 
 What is a Content Management System (or CMS)? A CMS is a tool that helps
 developers build websites. It is software that allows developers to
@@ -241,10 +239,9 @@ and makes it visible to website visitors.
 <!--~~~~~~~~~~~~~~~ 07. 3 common types of cms; web, digital and enterprise (xx) ~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image007.webp"
-    alt="There are 3 common typoe of CMS;  Web CMS, Digital CMS, and Enterprise CMS."
-    style="width:500px;"/>
+  alt="There are 3 common typoe of CMS;  Web CMS, Digital CMS, and Enterprise CMS."
+  style="width:500px;"/>
 </p>
-<!-- {width="5.0in" height="2.7841885389326335in"} -->
 
 There are three common types of content management systems:
 
@@ -269,8 +266,6 @@ There are three common types of content management systems:
   style="width:400px;"
   alt="More examples of proprietary and open-source CMS software." />
 
-<!-- {width="3.0in" height="1.6705129046369205in"}! -->
-
 There is both proprietary and open-source CMS software. Some examples
 are WordPress, Drupal, Joomla, Magento, Squarespace, Wix, and HubSpot.
 Some of these are software you can install on your website host, for
@@ -285,7 +280,6 @@ software are available, depending on how developers want to use them.
   alt="Benefits of CMS Software." 
   style="width:500px;"/>
 </p>
-<!-- {width="5.0in" height="2.7927351268591427in"} -->
 
 So why use a CMS? Instead of creating a new web page or designing a new
 website, many solutions exist that can function how designers want.
@@ -458,11 +452,11 @@ essential characteristics of WCMS.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image018.webp"
-    alt="A WCMS enables a user to accomplish the following tasks." 
-	style="width:400px;"/>
+  alt="A WCMS enables a user to accomplish the following tasks." 
+  style="width:400px;"/>
   <img src="./assets/images/image019.webp"
-    alt="More tasks accomplised with WCMS software."
-	style="width:400px;"/>
+  alt="More tasks accomplised with WCMS software."
+  style="width:400px;"/>
 </p>
 
 A WCMS enables a user to accomplish specific tasks. Some of these
@@ -3825,7 +3819,7 @@ as Webpack.config.js.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image193.webp"
-  alt=""
+  alt="Loaders: Transforms Non-JavaScript source code."
   style="width:500px;"/>
 </p>
 
@@ -3839,7 +3833,7 @@ deal with various file extensions.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image194.webp"
-  alt=""
+  alt="Loaders: example."
   style="width:500px;"/>
 </p>
 
@@ -3848,7 +3842,8 @@ Let us look at an example (above).
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image195.webp"
-  alt=""
+  alt="Plugins: For Bundle Optimization, Asset Management, Injection of Environment
+    Variables, and Minifying files."
   style="width:500px;"/>
 </p>
 
@@ -3860,7 +3855,7 @@ extensions that can alter how Webpack functions.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image196.webp"
-  alt=""
+  alt="Plugins: example."
   style="width:500px;"/>
 </p>
 
@@ -3870,7 +3865,7 @@ environment variables.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image197.webp"
-  alt=""
+  alt="Additional Concepts: Chunk, Assets, Webpack Configuration files, and Bundles."
   style="width:500px;"/>
 </p>
 
@@ -3894,7 +3889,7 @@ optimized output that is finally loaded in the browser.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image198.webp"
-  alt=""
+  alt="Recap of Module 17 (Webpack module bundler)."
   style="width:500px;"/>
 </p>
 
@@ -3927,7 +3922,7 @@ Welcome to "Working with Webpack."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image200.webp"
-  alt=""
+  alt="What you will learn in Module 18."
   style="width:500px;"/>
 </p>
 
@@ -4142,7 +4137,7 @@ In this module (18), you learned about:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image214.webp"
-  alt="3-19. Setting up Production with Webpack"
+  alt="3-19. Setting up Production with Webpack."
   style="width:500px;"/>
 </p>
 
@@ -4245,7 +4240,7 @@ optimize-css-assets-Webpack-plugin. Finally, save dev.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image221.webp"
-  alt=""
+  alt="Source maps."
   style="width:500px;"/>
 </p>
 
@@ -4257,7 +4252,7 @@ support for source map generation via the devtool property.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image222.webp"
-  alt=""
+  alt="File hashing."
   style="width:500px;"/>
 </p>
 
@@ -4271,7 +4266,7 @@ forever.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image223.webp"
-  alt=""
+  alt="Cleanup of old assets."
   style="width:500px;"/>
 </p>
 
@@ -4285,7 +4280,7 @@ Finally, save dev.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image224.webp"
-  alt=""
+  alt="Recap module 19."
   style="width:500px;"/>
 </p>
 
@@ -4320,7 +4315,8 @@ Welcome to "Using Webpack Tools."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image226.webp"
-  alt=""
+  alt="What you will learn in Module 20: Explain the need for Webpack Tools, and
+    describe five popular webpack bundle size tools."
   style="width:500px;"/>
 </p>
 
@@ -4337,7 +4333,7 @@ After reading this module (20), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image227.webp"
-  alt=""
+  alt="Need for Webpack Tools."
   style="width:500px;"/>
 </p>
 
@@ -4351,7 +4347,7 @@ overhead in execution time during initialization.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image228.webp"
-  alt=""
+  alt="Build size."
   style="width:500px;"/>
 </p>
 
@@ -4365,7 +4361,7 @@ explore five such tools.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image229.webp"
-  alt=""
+  alt="Popular Webpack tools."
   style="width:500px;"/>
 </p>
 
@@ -4378,7 +4374,7 @@ and Webpack Bundle Analyzer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image230.webp"
-  alt=""
+  alt="Bundlephobia."
   style="width:500px;"/>
 </p>
 
@@ -4396,7 +4392,7 @@ in your application.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image231.webp"
-  alt=""
+  alt="How to use Bundlephobia."
   style="width:500px;"/>
 </p>
 
@@ -4412,7 +4408,7 @@ following command:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image232.webp"
-  alt=""
+  alt="Webpack Visualizer."
   style="width:500px;"/>
 </p>
 
@@ -4426,7 +4422,7 @@ percentage allocation to the overall amount of the chunk.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image233.webp"
-  alt=""
+  alt="How to use Webpack Visualizer."
   style="width:500px;"/>
 </p>
 
@@ -4441,7 +4437,7 @@ and then import it to the webpack config file.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image234.webp"
-  alt=""
+  alt="Webpack Analyzer."
   style="width:500px;"/>
 </p>
 
@@ -4454,7 +4450,7 @@ errors from the Webpack build with suggestions on how to enhance it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image235.webp"
-  alt=""
+  alt="How to use Webpack Analyzer."
   style="width:500px;"/>
 </p>
 
@@ -4464,7 +4460,7 @@ profile --- json \> stats.json command and upload it to the website.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image236.webp"
-  alt=""
+  alt="Source Map Explorer."
   style="width:500px;"/>
 </p>
 
@@ -4479,7 +4475,7 @@ is coming from.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image237.webp"
-  alt=""
+  alt="How to use Source Map Explorer."
   style="width:500px;"/>
 </p>
 
@@ -4490,7 +4486,7 @@ the bundle.js and bundle.js.map files.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image238.webp"
-  alt=""
+  alt="Webpack Bundle Analyzer."
   style="width:500px;"/>
 </p>
 
@@ -4503,7 +4499,7 @@ removed.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image239.webp"
-  alt=""
+  alt="How to use Webpack Bundle Analyzer."
   style="width:500px;"/>
 </p>
 
@@ -4513,7 +4509,7 @@ file, and Use the analyzer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image240.webp"
-  alt=""
+  alt="Recap module 20."
   style="width:500px;"/>
 </p>
 
@@ -4550,7 +4546,8 @@ Welcome to "Using Webpack with Front-end Frameworks.\"
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image242.webp"
-  alt=""
+  alt="What you will learn: Explain need for Webpack and how to 
+    configure Webpack with Angular, Vue, and React."
   style="width:500px;"/>
 </p>
 
@@ -4567,7 +4564,7 @@ After reading this module (21), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image243.webp"
-  alt=""
+  alt="Front-end framework."
   style="width:500px;"/>
 </p>
 
@@ -4579,7 +4576,7 @@ designed to make building web applications faster and more consistent.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image244.webp"
-  alt=""
+  alt="Webpack."
   style="width:500px;"/>
 </p>
 
@@ -4591,7 +4588,7 @@ optimization, and Easy integration.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image245.webp"
-  alt=""
+  alt="Features of Webpack."
   style="width:500px;"/>
 </p>
 
@@ -4617,7 +4614,7 @@ product robust.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image246.webp"
-  alt=""
+  alt="Configuring Webpack with Angular, #1."
   style="width:500px;"/>
 </p>
 
@@ -4630,7 +4627,7 @@ content without requiring a page refresh.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image247.webp"
-  alt=""
+  alt="Configuring Webpack with Angular, #2."
   style="width:500px;"/>
 </p>
 
@@ -4654,7 +4651,7 @@ template (html-webpack-plugin).
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image248.webp"
-  alt=""
+  alt="Configuring Webpack with Angular, #3."
   style="width:500px;"/>
 </p>
 
@@ -4678,7 +4675,7 @@ command, as shown here:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image249.webp"
-  alt=""
+  alt="Configuring Webpack with Vue, #1."
   style="width:500px;"/>
 </p>
 
@@ -4690,7 +4687,7 @@ designed to be approachable and easy to learn.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image250.webp"
-  alt=""
+  alt="Configuring Webpack with Vue, #2."
   style="width:500px;"/>
 </p>
 
@@ -4706,7 +4703,7 @@ the Vue loader.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image251.webp"
-  alt=""
+  alt="Configuring Webpack with Vue, #3."
   style="width:500px;"/>
 </p>
 
@@ -4729,7 +4726,7 @@ errors or potential issues.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image252.webp"
-  alt=""
+  alt="Configuring Webpack with React, #1."
   style="width:500px;"/>
 </p>
 
@@ -4742,7 +4739,7 @@ programming, making it easier to understand and debug code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image253.webp"
-  alt=""
+  alt="Configuring Webpack with React, #2."
   style="width:500px;"/>
 </p>
 
@@ -4770,7 +4767,7 @@ Create a new source folder and add HTML and JavaScript files.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image254.webp"
-  alt=""
+  alt="Configuring Webpack with React, #3."
   style="width:500px;"/>
 </p>
 
@@ -4796,7 +4793,7 @@ output path for the bundled file after the entry point is defined.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image255.webp"
-  alt=""
+  alt="Configuring Webpack with React, #4."
   style="width:500px;"/>
 </p>
 
@@ -4811,7 +4808,7 @@ application.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image256.webp"
-  alt=""
+  alt="Recap module 21."
   style="width:500px;"/>
 </p>
 
@@ -4932,7 +4929,7 @@ to \"production.\"
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image262.webp"
-  alt=""
+  alt="Source Maps: Benefits of using source maps."
   style="width:500px;"/>
 </p>
 
@@ -4951,7 +4948,7 @@ especially in complex web development projects.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image263.webp"
-  alt=""
+  alt="Lazy Loading Modules: Benefits of using Lazy loading modules."
   style="width:500px;"/>
 </p>
 
@@ -4967,7 +4964,7 @@ some blocks may never even be loaded.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image264.webp"
-  alt=""
+  alt="Exclusion and Inclusion: Benefits of exclusion and inclusion of files."
   style="width:500px;"/>
 </p>
 
@@ -4987,7 +4984,7 @@ enhance compilation efficiency.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image265.webp"
-  alt=""
+  alt="Reuse modules: Benefits of reusing modules."
   style="width:500px;"/>
 </p>
 
@@ -5003,7 +5000,7 @@ practices related to improving the performance of your application.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image266.webp"
-  alt=""
+  alt="Splitting vendor bundles: Benefits of bundle splitting."
   style="width:500px;"/>
 </p>
 
@@ -5022,7 +5019,7 @@ your application.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image267.webp"
-  alt=""
+  alt="Caching approach: Benefits of caching."
   style="width:500px;"/>
 </p>
 
@@ -5045,7 +5042,7 @@ caching strategy for them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image268.webp"
-  alt=""
+  alt="Tree shaking: Benefits of tree shaking."
   style="width:500px;"/>
 </p>
 
@@ -5063,7 +5060,7 @@ In Webpack5, tree shaking is enabled by default in the production mode.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image269.webp"
-  alt=""
+  alt="Recap module 22."
   style="width:500px;"/>
 </p>
 
@@ -5298,7 +5295,7 @@ loyalty. The better the website behaves, the happier the end users are.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image274.webp"
-  alt="Web performance optimization tips."
+  alt="Web performance optimization methods, #1."
   style="width:500px;"/>
 </p>
 
@@ -5323,7 +5320,7 @@ programs for data compression and decompression.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image275.webp"
-  alt="Web performance optimization tips."
+  alt="Web performance optimization methods, #2."
   style="width:500px;"/>
 </p>
 
@@ -5348,7 +5345,7 @@ videos or replaced with an HTML5 video tag.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image276.webp"
-  alt="Web performance optimization tips."
+  alt="Web performance optimization methods, #3."
   style="width:500px;"/>
 </p>
 
@@ -5373,7 +5370,7 @@ a single package. Only use third-party frameworks when necessary.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image277.webp"
-  alt="Javascript optimization tips."
+  alt="Javascript optimization tips, #1."
   style="width:500px;"/>
 </p>
 
@@ -5401,7 +5398,7 @@ latency and time lag and improving overall application performance.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image278.webp"
-  alt="Javascipt optimization tips."
+  alt="Javascipt optimization tips, #2."
   style="width:500px;"/>
 </p>
 
@@ -5554,7 +5551,7 @@ TryMyUI, and UsabilityHub.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image288.webp"
-  alt=""
+  alt="Mobile optimization."
   style="width:500px;"/>
 </p>
 
@@ -5570,7 +5567,7 @@ optimization is to your business.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image289.webp"
-  alt=""
+  alt="Mobile optimization tools."
   style="width:500px;"/>
 </p>
 
@@ -5581,7 +5578,7 @@ WebPageTest.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image290.webp"
-  alt=""
+  alt="Web accessibility optimization."
   style="width:500px;"/>
 </p>
 
@@ -5597,7 +5594,7 @@ inclusive.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image291.webp"
-  alt=""
+  alt="Web accessibility optimization tools."
   style="width:500px;"/>
 </p>
 
@@ -5607,7 +5604,7 @@ EqualWeb, and Functional Accessibility Evaluator.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image292.webp"
-  alt=""
+  alt="JavaScript optimization."
   style="width:500px;"/>
 </p>
 
@@ -5620,7 +5617,7 @@ browser takes to analyze and compile the code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image293.webp"
-  alt=""
+  alt="JavaScript optimization tools, #1."
   style="width:500px;"/>
 </p>
 
@@ -5637,7 +5634,7 @@ code faster, smarter, more confident, and more broadly applicable.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image294.webp"
-  alt=""
+  alt="JavaScript optimization tools, #2."
   style="width:500px;"/>
 </p>
 
@@ -5649,7 +5646,7 @@ that are immediately invoked or are likely to be invoked in parentheses.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image295.webp"
-  alt=""
+  alt="Recap module 25."
   style="width:500px;"/>
 </p>
 
@@ -5688,7 +5685,7 @@ Welcome to Testing Frameworks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image297.webp"
-  alt=""
+  alt="What you will learn in module 26."
   style="width:500px;"/>
 </p>
 
@@ -5705,7 +5702,7 @@ After reading this module (26), you will be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image298.webp"
-  alt=""
+  alt="What is testing framework?"
   style="width:500px;"/>
 </p>
 
@@ -5720,7 +5717,7 @@ guidelines.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image299.webp"
-  alt=""
+  alt="What is JavaScript testing framework."
   style="width:500px;"/>
 </p>
 
@@ -5737,7 +5734,7 @@ render the front-end unusable. and performance evaluations.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image300.webp"
-  alt=""
+  alt="Components of a testing framework, #1."
   style="width:500px;"/>
 </p>
 
@@ -5756,7 +5753,7 @@ testing libraries.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image301.webp"
-  alt=""
+  alt="Components of a testing framework, #2."
   style="width:500px;"/>
 </p>
 
@@ -5777,7 +5774,7 @@ intent and scope of automated tests.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image302.webp"
-  alt=""
+  alt="Benefits of testing a framework."
   style="width:500px;"/>
 </p>
 
@@ -5796,7 +5793,7 @@ improve code quality and make testing easier.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image303.webp"
-  alt=""
+  alt="Additional benefits of testing a framework."
   style="width:500px;"/>
 </p>
 
@@ -5814,7 +5811,7 @@ fewer resources while still providing the necessary functionality.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image304.webp"
-  alt=""
+  alt="Jest vs. Playwright."
   style="width:500px;"/>
 </p>
 
@@ -5833,7 +5830,7 @@ up-to-date, reliable, and fast.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image305.webp"
-  alt=""
+  alt="Mocha vs. Cypress."
   style="width:500px;"/>
 </p>
 
@@ -5852,7 +5849,7 @@ assertion library and a browser.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image306.webp"
-  alt=""
+  alt="Jasmine vs. Puppeteer."
   style="width:500px;"/>
 </p>
 
@@ -5871,7 +5868,7 @@ full (non-headless) Chrome/Chromium mode.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image307.webp"
-  alt=""
+  alt="Recap module 26."
   style="width:500px;"/>
 </p>
 
@@ -5897,7 +5894,7 @@ In this module (26), you learned that:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image308.webp"
-  alt="4-27. Testing Tools -- Mocha and Jasmine"
+  alt="4-27. Testing Tools -- Mocha and Jasmine."
   style="width:500px;"/>
 </p>
 
@@ -5906,7 +5903,7 @@ Welcome to \"Testing Tools -- Mocha and Jasmine.\"
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image309.webp"
-  alt=""
+  alt="What you will learn in module 27."
   style="width:500px;"/>
 </p>
 
@@ -5925,7 +5922,7 @@ After reading this module (27), you'll be able to:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image310.webp"
-  alt=""
+  alt="Mocha testing framework, #1."
   style="width:500px;"/>
 </p>
 
@@ -5939,7 +5936,7 @@ categorizing them into test suites and test cases.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image311.webp"
-  alt=""
+  alt="Mocha testing framework, #2."
   style="width:500px;"/>
 </p>
 
@@ -5953,7 +5950,7 @@ error-prone software.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image312.webp"
-  alt=""
+  alt="Features of Mocha testing framework, #1."
   style="width:500px;"/>
 </p>
 
@@ -5970,7 +5967,7 @@ fails.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image313.webp"
-  alt=""
+  alt="Features of Mocha testing framework, #2."
   style="width:500px;"/>
 </p>
 
@@ -5982,7 +5979,7 @@ your tests run too long.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image314.webp"
-  alt=""
+  alt="Advantages of using Mocha, #1."
   style="width:500px;"/>
 </p>
 
@@ -5996,7 +5993,7 @@ create custom reports.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image315.webp"
-  alt=""
+  alt="Advantages of using Mocha, #2."
   style="width:500px;"/>
 </p>
 
@@ -6009,7 +6006,7 @@ configure re-running failed tests.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image316.webp"
-  alt=""
+  alt="Disadvantages of using Mocha, #1."
   style="width:500px;"/>
 </p>
 
@@ -6023,7 +6020,7 @@ be confusing at times.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image317.webp"
-  alt=""
+  alt="Disadvantages of using Mocha, #2."
   style="width:500px;"/>
 </p>
 
@@ -6037,7 +6034,7 @@ chai-jest-snapshot library.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image318.webp"
-  alt=""
+  alt="Jasmine testing framework."
   style="width:500px;"/>
 </p>
 
@@ -6053,7 +6050,7 @@ Edge, as well as Node.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image319.webp"
-  alt=""
+  alt="Features of Jasmine testing framework, #1."
   style="width:500px;"/>
 </p>
 
@@ -6065,7 +6062,7 @@ browser. It is compatible with other languages, such as Python and Ruby.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image320.webp"
-  alt=""
+  alt="Features of Jasmine testing framework, #2."
   style="width:500px;"/>
 </p>
 
@@ -6076,7 +6073,7 @@ expected results using natural language.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image321.webp"
-  alt=""
+  alt="Advantages of using Jasmine, #1."
   style="width:500px;"/>
 </p>
 
@@ -6090,7 +6087,7 @@ The coding is pretty similar to writing in natural language.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image322.webp"
-  alt=""
+  alt="Advantages of using Jasmine, #2."
   style="width:500px;"/>
 </p>
 
@@ -6101,7 +6098,7 @@ test doubles.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image323.webp"
-  alt=""
+  alt="Disadvantages of using Jasmine."
   style="width:500px;"/>
 </p>
 
@@ -6112,7 +6109,7 @@ suffix.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image324.webp"
-  alt=""
+  alt="Comparison between Mocha and Jasmine, #1."
   style="width:500px;"/>
 </p>
 
@@ -6127,7 +6124,7 @@ Mocha both have documentation and forum support.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image325.webp"
-  alt=""
+  alt="Comparison between Mocha and Jasmine, #2."
   style="width:500px;"/>
 </p>
 
