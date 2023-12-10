@@ -11,12 +11,11 @@ output:
 <!-- https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of ibm-web-dev.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image001.webp" 
   alt="Intermediate Web &amp; Front-end Development." 
   style="border: 2px solid #000000;" 
-  width="60%" />
+  width="50%" />
 </p>
 
 <!-- [![Intermediate Web &amp; Front-end Development](/assets/images/image001.webp 'Intermediate Web &amp; Front-end Development.')](https://ibm-web-dev.bauska.org) -->
@@ -114,6 +113,7 @@ test maintenance costs and risks. Learning the fundamentals presented
 here is the first step towards a long and rewarding career as a web
 developer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02.  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image002.webp"
   alt="To complete this course, you should be familiar with the following knowledge."
