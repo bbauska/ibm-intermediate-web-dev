@@ -4,7 +4,7 @@ author: "bbauska"
 date last editted: "10/15/2023 1+pm"
 output: 
   markdown:
-    with_style
+    with_some_style
 ---
 
 <!-- [IBM's Intermediate Web and Front-End Development by Coursera](https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction) -->
@@ -117,6 +117,7 @@ developer.
 <p align="center">
   <img src="./assets/images/image002.webp"
   alt="To complete this course, you should be familiar with the following knowledge."
+  style="border: 2px solid #000000;" 
   width="500" />
 </p>
 <!-- height="2.8327996500437447in"} -->
