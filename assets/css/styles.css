@@ -163,7 +163,12 @@ ol {
   margin-left: 10px;
   margin-right: 20px;
 }
-
+ul > li {
+  line-height: 2 em;
+}
+ol > li {
+  line-height: 2 em;
+}
 @media screen and (max-width: 480px) {
   body {
     background-color: #e3fae5;  /* light grayish lime green - phones */
