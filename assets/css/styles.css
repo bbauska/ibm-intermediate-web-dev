@@ -150,6 +150,12 @@ p {
   line-height: 110%;
 }
 
+.hi {
+  background-image: linear-gradient(to right, #f9989f, #fccb8f, #faf096);
+  border-radius: 6px;
+  padding: 3px 6px;
+  }
+
 ul {
   list-style-type: disc;
   margin-top: 1em;
