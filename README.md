@@ -1695,7 +1695,8 @@ existing website.
   style="width:500px;"/>
 </p>
 
-Here are the steps to add the Shopify Buy button to your website. 
+Here are the steps to add the Shopify Buy button to your website:
+
   - Add the Buy Button sales channel. Select the plus button next to the Sales
   channels heading in your Shopify admin. 
   - In the Add sales channel dialog box, select the Buy Button to learn more about 
@@ -7882,10 +7883,11 @@ In this module (34), you learned about:
 -   Some popular website monitoring metrics.
 
 <h2 name="ch5-35">35. Popular Monitoring Tools</h2>
+<h2 name="ch5-06">5.06 Popular Monitoring Tools</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./assets/images/image437.webp"
-  alt="5-35. Popular Monitory Tools"
+  alt="5.06 Popular Monitory Tools"
   style="width:500px;"/>
 </p>
 
@@ -8198,7 +8200,9 @@ In week 5, you learned that:
 
 <h1 name="ch6">WEEK 6</h1>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch6-36">36. Interest Rate Calculator</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Welcome to the hands- on lab for **Interest Rate Calculator**.
 
@@ -8208,8 +8212,9 @@ Network Privacy policy, your Username and Email will be passed to Skills
 Network Labs and will only be used for communicating important
 information to enhance your learning experience.
 
-In case you are having issues with the Lab environment, <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-WD0231EN-SkillsNetwork/labs/FinalProject/02-Instructions.md.html">you can view the
-lab by clicking this Lab Link</a>.
+In case you are having issues with the Lab environment, 
+<a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-WD0231EN-SkillsNetwork/labs/FinalProject/02-Instructions.md.html">
+you can view the lab by clicking this Lab Link</a>.
 
 This course uses a third-party app, Final Project: Interest Rate
 Calculator, to enhance your learning experience. The app will reference
@@ -8285,3 +8290,4 @@ and drop the file icon onto the window.*
 </div>
 
 <!-- Oct 8, 2023 8:29pm -->
+<!-- May 14, 2024 11:46am -->
