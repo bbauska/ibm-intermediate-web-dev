@@ -1,4 +1,4 @@
 User-Agent: *
-Disallow: readit.md
+Disallow: /readit.md
 
 Sitemap: https://github.com/bbauska/ibm-intermediate-web-dev, https://ibm-web-dev.bauska.org
