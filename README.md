@@ -80,7 +80,7 @@ output:
 
 <h2>01. Course Introduction</h2>
 
-https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction
+<a href="https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction">Live Course Introduction</a>
 
 <h2 name="ch1-01" style="margin:15px">01. Introduction to Intermediate Web &amp; Front-End Development</h2>
 
