@@ -1,8 +1,8 @@
 ---
 title: "IBM's Intermediate Web & Front-end Development"
 author: "bbauska"
-date ceated: "10/08/2023 8+pm"
-date last editted: "5/14/2024 11+am"
+date ceated: "10/08/2023 Sun 8+pm"
+date last editted: "5/14/2024 Fri 11+am"
 output: 
   markdown:
     with_some_style
