@@ -38,11 +38,9 @@
       mybutton.style.display = "none";
     }
   }
-  <!-- when the user clicks on the button, scroll to the top of the document. 0,0 or -->
-  <!-- to table of contents (approx ###), if applicable was; 315 -->
+  // when the user clicks on the button, scroll to the table of contents near top of document.
   function topFunction() {
-    document.body.scrollTop = 0;
-    document.documentElement.scrollTop = 0;
+    document.getElementById('table-of-contents').scrollIntoView();
   }
 </script>
 <h1 style="text-align:center;">IBM’s Intermediate Web &amp; Front-end Development</h1>
