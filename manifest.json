@@ -1,6 +1,9 @@
 {
- "name": "App",
- "icons": [
+  "name": "IBM's Intermediate Web Development",
+  "short_name": "Web Dev", 
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [
   {
    "src": "\/assets/images/android-icon-36x36.png",
    "sizes": "36x36",
